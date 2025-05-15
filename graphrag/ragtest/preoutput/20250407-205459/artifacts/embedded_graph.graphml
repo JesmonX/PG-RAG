@@ -1,0 +1,100 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;&#21693;&#21897;&#28814;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b463690eafea1ac3ae6eecb1cfaa2b4f</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#29579;&#20116;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b463690eafea1ac3ae6eecb1cfaa2b4f</data>
+    </node>
+    <node id="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2253c615ea0675cc0c5865f1eab3af21</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#24352;&#38634;&#20255;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2253c615ea0675cc0c5865f1eab3af21</data>
+    </node>
+    <node id="&quot;&#38686;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+    </node>
+    <node id="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#26472;&#20029;&#32724;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+    </node>
+    <node id="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#24352;&#22269;&#35946;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+    </node>
+    <node id="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#26519;&#22823;&#38686;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+    </node>
+    <node id="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+    </node>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#24739;&#32773;&#29579;&#20116;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The diagnosis of pharyngitis is given to patient Wang Wu."</data>
+      <data key="d5">b463690eafea1ac3ae6eecb1cfaa2b4f</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#24739;&#32773;&#24352;&#38634;&#20255;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The diagnosis of tuberculosis is given to patient Zhang Xuewei."</data>
+      <data key="d5">2253c615ea0675cc0c5865f1eab3af21</data>
+    </edge>
+    <edge source="&quot;&#38686;&quot;" target="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The diagnosis of influenza is given to patient Xia."</data>
+      <data key="d5">45aec631f6cface43747f548280e1559</data>
+    </edge>
+    <edge source="&quot;&#24739;&#32773;&#26472;&#20029;&#32724;&quot;" target="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Yang Lixiang experiences symptoms of sore throat and fever."</data>
+      <data key="d5">45aec631f6cface43747f548280e1559</data>
+    </edge>
+    <edge source="&quot;&#24739;&#32773;&#24352;&#22269;&#35946;&quot;" target="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Zhang Guohaohao experiences symptoms of persistent cough for more than one week."</data>
+      <data key="d5">45aec631f6cface43747f548280e1559</data>
+    </edge>
+    <edge source="&quot;&#24739;&#32773;&#26519;&#22823;&#38686;&quot;" target="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Lin Daxia experiences symptoms of difficulty breathing."</data>
+      <data key="d5">45aec631f6cface43747f548280e1559</data>
+    </edge>
+  </graph>
+</graphml>

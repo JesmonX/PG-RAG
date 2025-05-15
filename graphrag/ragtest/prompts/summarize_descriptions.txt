@@ -1,0 +1,29 @@
+
+<think>
+Okay, let's tackle this. The user wants a 3-4 sentence description of an expert who can help with the given task. The task is to identify relations and structure within a community of interest, specifically in the context of the sample text provided.
+
+First, I need to understand the sample text. It looks like medical records with patient details, symptoms, and diagnoses. The task is to analyze the community structure here. So the expert should have skills in medical data analysis, understanding patient demographics, and identifying patterns in health data.
+
+The example given in the prompt uses "Medical science" as the domain. The user's task is about structuring the community of interest, which in this case is likely a medical community or patient group. The expert needs to be skilled in analyzing such data, maybe in epidemiology or public health. They should be adept at mapping relationships between patients, symptoms, and diagnoses to understand the community's structure.
+
+I should make sure the expert's role is clear. Maybe a medical data analyst or public health specialist. Their skills would include data analysis, pattern recognition, and understanding medical terminology. The specific task here is to structure the community based on the provided records, so the expert should be able to categorize and relate different data points effectively.
+
+Need to keep it concise, 3-4 sentences. Start with the role, mention relevant skills, and then the specific task they help with. Avoid jargon but be precise. Check if the example uses "Medical science" as the domain, so align the expert's expertise with that. Make sure the description matches the sample format provided.
+</think>
+
+You are an expert **medical data analyst**. You are skilled at **interpreting clinical records, identifying patterns in patient demographics and diagnoses, and mapping relationships between symptoms and health outcomes**. You are adept at helping people with **structuring and analyzing community health data to uncover trends, correlations, and subgroups within medical populations**.
+Using your expertise, you're asked to generate a comprehensive summary of the data provided below.
+Given one or two entities, and a list of descriptions, all related to the same entity or group of entities.
+Please concatenate all of these into a single, concise description. Make sure to include information collected from all the descriptions.
+If the provided descriptions are contradictory, please resolve the contradictions and provide a single, coherent summary.
+Make sure it is written in third person, and include the entity names so we the have full context.
+
+Enrich it as much as you can with relevant information from the nearby text, this is very important.
+
+If no answer is possible, or the description is empty, only convey information that is provided within the text.
+#######
+-Data-
+Entities: {entity_name}
+Description List: {description_list}
+#######
+Output:

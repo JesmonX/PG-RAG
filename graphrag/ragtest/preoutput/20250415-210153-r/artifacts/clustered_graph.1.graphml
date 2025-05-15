@@ -1,0 +1,2071 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&#26519;&#29577;&#21018;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#26519;&#29577;&#21018;&#65292;82&#23681;&#65292;&#26469;&#33258;&#31119;&#24314;&#30465;&#24191;&#24030;&#24066;&#24605;&#26126;&#21306;&#65292;&#30151;&#29366;&#20026;&#27668;&#21912;&#21644;&#33016;&#38391;</data>
+      <data key="d2">bdc925db8d80d120e36986e75ffff059</data>
+      <data key="d3">19</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">0</data>
+      <data key="d7">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&#21693;&#21897;&#28814;">
+      <data key="d0">CONDITION, DIAGNOSIS</data>
+      <data key="d1">-Entity: \u54bd\u558e\u708e
+
+Description Summary:
+\u54bd\u558e\u708e\u662f\u54bd\u90e8\u548c\u5589\u90e8\u7684\u708e\u75c7\uff0c\u901a\u5e38\u7531\u75c5\u6bd2\u6216\u7ec6\u83cc\u611f\u67d3\u5f15\u8d77\uff0c\u4ee5\u53ca\u5f90\u6587\u7433\u7684\u8bca\u65ad\u7ed3\u679c&#12290;&#35813;&#30149;&#30151;&#36890;&#24120;&#30001;&#21560;&#28895;&#24341;&#21457;&#65292;&#20276;&#26377;&#32954;&#27873;&#30340;&#30772;&#22351;&#32467;&#26524;&#12290;&#27492;&#22806;&#65292;&#23427;&#36824;&#19982;&#21560;&#20837;&#26377;&#23475;&#29289;&#36136;&#26377;&#20851;&#65292;&#22914;&#24037;&#19994;&#31881;&#23576;&#30340;&#26292;&#38706;&#12290;&#36825;&#31181;&#30142;&#30149;&#30340;&#29305;&#28857;&#26159;&#24930;&#24615;&#28814;&#30151;&#21644;&#32844;&#19994;&#24615;&#23576;&#32954;&#30149;&#30340;&#32467;&#26524;&#12290;
+
+&#27492;&#25551;&#36848;&#28085;&#30422;&#20102; \u54bd\u558e\u708e &#30340;&#20027;&#35201;&#29305;&#24449;&#65306;&#23427;&#26159;&#32954;&#37096;&#21644;&#33016;&#33108;&#30340;&#19968;&#31181;&#30142;&#30149;&#65292;&#36890;&#24120;&#30001;&#21560;&#28895;&#25110;&#20108;&#25163;&#28895;&#12289;&#24037;&#19994;&#31881;&#23576;&#31561;&#26377;&#23475;&#29289;&#36136;&#24341;&#36215;&#65292;&#24182;&#23548;&#33268;&#32954;&#27873;&#30772;&#22351;&#21450;&#24930;&#24615;&#28814;&#30151;&#12290;</data>
+      <data key="d2">631a7e3223e15e6fd6edb12c2015fe31,66eb2ea1b51ed6d2b52131c3313e0385,ac2ee3b8814f76c549d3f44ad17b183c,bdc925db8d80d120e36986e75ffff059,e9aa8c7878a7ae2a29f462eda868f201,fced258601d56a5bb394966b0dfbdc17,fe2f2ad162d3cfcf5a5e32b35bf6b360</data>
+      <data key="d3">18</data>
+      <data key="d4">1</data>
+      <data key="d5">7</data>
+      <data key="d6">1</data>
+      <data key="d7">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;">
+      <data key="d0" />
+      <data key="d1">The entity "\u6c14\u5598\u4f34\u968f\u80f8\u95f7" refers to a specific respiratory condition primarily characterized by symptoms associated with both \u9a6c\u6770 (bronchitis) and \u80f8\u95f7 (pneumonia). This condition involves the inflammation of the bronchi, which are part of the airways connecting the trachea to the lungs, often leading to coughing, shortness of breath, and other respiratory symptoms. The primary manifestations of this entity are closely linked to the pathological processes of bronchitis and pneumonia, highlighting the interconnected nature of these respiratory diseases within a given population.</data>
+      <data key="d2">4f031dd178fb39f27ddee3cd34d8bb9f,65bfc0741ad81847e0c163e0be08fd3d,abcf535f72153dcc11cd1d601c51eeb4,bdc925db8d80d120e36986e75ffff059</data>
+      <data key="d3">19</data>
+      <data key="d4">1</data>
+      <data key="d5">4</data>
+      <data key="d6">2</data>
+      <data key="d7">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&#26446;&#22235;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">The individual in question, 674e\u56db (approximately 67 years old), resides primarily in the northern regions of Beijing and Hebei Province. The medical conditions reported for this person are diverse, including persistent coughing, high fever, prolonged colds, severe coughing, excessive phlegm with occasional blood streaks, and other respiratory issues. Additionally, there have been reports of more serious conditions such as pneumonia and acute respiratory distress syndrome (ARDS). It is noted that the information provided is not entirely comprehensive.</data>
+      <data key="d2">0757e6b0ca4544368f1da650f35f5940,10e0af4844ced9af1cfa8e41b282a5c1,3ee54586d04831d6be8582843aa8318a,4534972910a050e136c2f50ccfa9e72b,4f031dd178fb39f27ddee3cd34d8bb9f,716409f50432b6d41a72097d79c4e274,904ba948f345e1478c0af2ba1ab0580d,95aaa46441bef041c91761ec891f7a5a,a90023bf0dee2db6133a3e49715e1eeb,b703de98d70076a8d5dce33d2af15b30,be7691ab98878ab9570b9627d6b0ad56,d9cdcc740d108fb9b697e99a036d8a43,f8e5a84adc8b7cad5c61b64465d75589</data>
+      <data key="d5">27</data>
+      <data key="d6">3</data>
+      <data key="d7">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;">
+      <data key="d0">CONDITION, DIAGNOSIS</data>
+      <data key="d1">The &#19978;&#21628;&#21560;&#36947;&#24863;&#26579; (Upper Respiratory Tract Infection, URTI) refers to the infective condition affecting the nasopharynx, larynx, and trachea. It is commonly caused by viral infections, particularly those initiated by colds or influenza, leading to significant throat irritation as a result of inflammation. The typical symptoms include sore throat, fever, and coughing. URTI can also be associated with other conditions such as tonsillitis and bronchitis. This infection often results from viral agents that are highly prevalent in the community, affecting individuals across various demographics, including children and adults. It is a common ailment that frequently emerges during colder months or when there is an increase in cold weather, which can exacerbate respiratory symptoms due to the drying effect on the throat tissues.</data>
+      <data key="d2">4124751013f57c238dd7139a10dfdff1,5a04414d369f14d70f2774376896bdef,922876b108baab4b16ce9f7231d20609,98a4bab38cf61c4ed1cd9fd183ef097b,be7691ab98878ab9570b9627d6b0ad56,d9cdcc740d108fb9b697e99a036d8a43,fa451ce26e62193d59e40bb4ca6713df</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">7</data>
+      <data key="d6">4</data>
+      <data key="d7">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&#39640;&#28903;&#21683;&#22013;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">00b3f2d0c0c3f7ceff3d20f2bc949572,558b3868ecf2410309cb4052382d06b5,91ef2a256c68cd35b3c168751fd9367a,d9cdcc740d108fb9b697e99a036d8a43</data>
+      <data key="d3">10</data>
+      <data key="d4">1</data>
+      <data key="d5">4</data>
+      <data key="d6">5</data>
+      <data key="d7">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&#32954;&#28814;">
+      <data key="d0">CONDITION, DIAGNOSIS</data>
+      <data key="d1">-Data-
+Entities: "\u80ba\u708e"
+Description List: ["\u80ba\u708e\u662f\u7531\u7ec6\u83cc\u3001\u75c5\u6bd2\u7b49\u75c5\u539f\u4f53\u5f15\u8d77\u7684\u4e00\u79cd\u80ba\u90e8\u611f\u67d3\u6027\u75be\u75c5", "\u80ba\u708e\u662f\u80ba\u90e8\u611f\u67d3\u5f15\u8d77\u7684\u708e\u75c7\u6027\u75be\u75c5", "\u80ba\u708e\u662f\u80ba\u90e8\u611f\u67d3\u5f15\u8d77\u7684\u708e\u75c7\uff0c\u4f55\u5c0f\u78ca\u7684\u8bca\u65ad\u7ed3\u679c", "\u80ba\u708e\u662f\u80ba\u90e8\u611f\u67d3\u5f15\u8d77\u7684\u708e\u75c7\uff0c\u5468\u5fd7\u6d0b\u7684\u8bca\u65ad\u7ed3\u679c", "\u80ba\u708e\u662f\u80ba\u90e8\u611f\u67d3\u5f15\u8d77\u7684\u708e\u75c7\uff0c\u5b59\u78ca\u8c6a\u7684\u8bca\u65</data>
+      <data key="d2">1be49fdcaedc95d28a22aa5312725314,1faeb8e8a4729ccb9e4eaed54117b966,381f16dceb2904b8fc0dba3b0b794e33,3ee54586d04831d6be8582843aa8318a,4124751013f57c238dd7139a10dfdff1,4534972910a050e136c2f50ccfa9e72b,508324e0146372b3c612f47a11623372,558b3868ecf2410309cb4052382d06b5,b5585474da6b01b1fbf52e798e2103aa,b703de98d70076a8d5dce33d2af15b30,be7691ab98878ab9570b9627d6b0ad56,dbf91170f46be6e366511edc13db9dbe</data>
+      <data key="d5">12</data>
+      <data key="d6">6</data>
+      <data key="d7">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4534972910a050e136c2f50ccfa9e72b,7e814ef2477dcb1b249cfbfb875ed7db,922876b108baab4b16ce9f7231d20609,dbf91170f46be6e366511edc13db9dbe</data>
+      <data key="d3">20</data>
+      <data key="d4">1</data>
+      <data key="d5">4</data>
+      <data key="d6">7</data>
+      <data key="d7">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&#26519;&#22823;&#38686;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#26519;&#22823;&#38686;&#65292;20&#23681;&#65292;&#26469;&#33258;&#28246;&#21271;&#30465;&#38271;&#27801;&#24066;&#27494;&#20399;&#21306;&#65292;&#20027;&#35201;&#30151;&#29366;&#20026;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d2">98a4bab38cf61c4ed1cd9fd183ef097b</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">8</data>
+      <data key="d7">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&#21628;&#21560;&#22256;&#38590;">
+      <data key="d0" />
+      <data key="d1">The entity "\u547c\u5438\u56f0\u96be" refers to a condition where the patient experiences acute congestion or edema of the conjunctiva, which can be caused by multiple factors. This description is consistent across both provided descriptions and does not contain any contradictions. Therefore, the comprehensive summary for "\u547c\u5438\u56f0\u96be" is as follows:
+
+"\u547c\u5438\u56f0\u96be" refers to a condition characterized by acute congestion or edema of the conjunctiva, which can occur due to various factors.</data>
+      <data key="d2">3a2ef7edaa7d1f729127d6fdb0813080,497733f4242b847c15c9b7691c9dcfca,6b144bca08bd92c65ef6b7bf0bb1b210,7d9d5989f95f62517d02d326446f998a,98a4bab38cf61c4ed1cd9fd183ef097b,a90023bf0dee2db6133a3e49715e1eeb,ac2ee3b8814f76c549d3f44ad17b183c,b8062090060526d049eb6f7be030d785,be7691ab98878ab9570b9627d6b0ad56,df2c6ab83106c83977b056cdad0fb9d2</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">12</data>
+      <data key="d6">9</data>
+      <data key="d7">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&#20309;&#26480;&#29618;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#20309;&#26480;&#29618;&#65292;55&#23681;&#65292;&#26469;&#33258;&#24191;&#19996;&#30465;&#38271;&#27801;&#24066;&#22825;&#27827;&#21306;&#65292;&#30151;&#29366;&#20026;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;</data>
+      <data key="d2">50f2b4cf3de396f11e71c2051ec0ffd2</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">10</data>
+      <data key="d7">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&#36807;&#25935;&#24615;&#21742;&#21912;">
+      <data key="d0">CONDITION, DIAGNOSIS</data>
+      <data key="d1">The entity "\u8fc7\u654f\u6027\u54ee\u5598" refers to a condition that is characterized as a type of lung disease originating from postmenopausal factors, specifically involving the development and progression of arterial hypertension. This condition manifests with varying degrees of calcification in the aorta, affecting different parts such as the thoracic aorta, abdominal aorta, and even the iliac arteries. The descriptions provided indicate that this condition is consistently described as resulting from postmenopausal factors leading to arterial hypertension, with variations in the extent of aortic calcification observed among individuals.</data>
+      <data key="d2">50f2b4cf3de396f11e71c2051ec0ffd2,65bfc0741ad81847e0c163e0be08fd3d,91ef2a256c68cd35b3c168751fd9367a,cc39e2721a0c39f0ed221e6b017fb2fe,e427b50b62d503d70c3abe806b370771</data>
+      <data key="d3">9</data>
+      <data key="d4">1</data>
+      <data key="d5">5</data>
+      <data key="d6">11</data>
+      <data key="d7">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">50f2b4cf3de396f11e71c2051ec0ffd2,904ba948f345e1478c0af2ba1ab0580d,cc39e2721a0c39f0ed221e6b017fb2fe</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">12</data>
+      <data key="d7">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&#21016;&#33521;&#29618;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#21016;&#33521;&#29618;&#65292;84&#23681;&#65292;&#26469;&#33258;&#22235;&#24029;&#30465;&#21414;&#38376;&#24066;&#27946;&#23665;&#21306;&#65292;&#30151;&#29366;&#20026;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d2">13350cddc13909741d3af301b52c2b46</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">13</data>
+      <data key="d7">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;">
+      <data key="d0">CONDITION, DIAGNOSIS</data>
+      <data key="d1">The entity "\u6025\u6027\u652f\u6c14\u7ba1\u708e" is a common allergic reaction condition of the respiratory tract, typically initiated by inhalation of allergens such as pollen or dust mites. This condition can manifest symptoms related to the nasal passages and sinuses, with varying degrees of severity including mild, moderate, and severe reactions. It is commonly caused by hay fever or mold spores, leading to inflammation in the respiratory tract.
+
+The descriptions provided are consistent and do not contain any contradictions. Therefore, a single, coherent summary can be generated based on the information given.</data>
+      <data key="d2">10e0af4844ced9af1cfa8e41b282a5c1,13350cddc13909741d3af301b52c2b46,4124751013f57c238dd7139a10dfdff1,7d9d5989f95f62517d02d326446f998a,98394455ee25a4587117498bc9e46b6d,be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">6</data>
+      <data key="d6">14</data>
+      <data key="d7">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;">
+      <data key="d0" />
+      <data key="d1">The entity "\u54bd\u5589\u75db\u4f34\u53d1\u70ed" is described as exhibiting symptoms of \u54bd\u5589\u75bc\u75db (asthma) and experiencing onset or exacerbation. Given the context that this entity specializes in respiratory and pulmonary conditions, it can be inferred that the individual likely has a history of asthma and is currently facing an exacerbation event or has recently experienced one. This summary encapsulates the provided information while maintaining coherence and relevance to the field of respiratory health.</data>
+      <data key="d2">0999acfd62f9ab018267ec13257b00b6,13350cddc13909741d3af301b52c2b46,1faeb8e8a4729ccb9e4eaed54117b966,27e74b1fcd06ffd11ba52e9eca361c25,3ee54586d04831d6be8582843aa8318a,5a04414d369f14d70f2774376896bdef,b1254b39f57b6cf235c1be2a01c947e0,dc9b711e7879ae20059d90729584ec53,e427b50b62d503d70c3abe806b370771,f417d04076a08025ab592a452e2c880d</data>
+      <data key="d5">10</data>
+      <data key="d6">15</data>
+      <data key="d7">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&#39640;&#26480;&#23792;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#39640;&#26480;&#23792;&#65292;70&#23681;&#65292;&#26469;&#33258;&#27993;&#27743;&#30465;&#21335;&#20140;&#24066;&#27494;&#20399;&#21306;&#65292;&#30151;&#29366;&#20026;&#25171;&#21943;&#22159;&#21644;&#27969;&#40763;&#28053;</data>
+      <data key="d2">7e814ef2477dcb1b249cfbfb875ed7db</data>
+      <data key="d3">20</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">16</data>
+      <data key="d7">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&#32954;&#27668;&#32959;">
+      <data key="d0">CONDITION, DIAGNOSIS</data>
+      <data key="d1">&#32954;&#27668;&#32959;&#26159;&#19968;&#31181;&#24930;&#24615;&#21628;&#21560;&#31995;&#32479;&#30142;&#30149;&#65292;&#29305;&#24449;&#26159;&#32954;&#27873;&#22721;&#30772;&#22351;&#23548;&#33268;&#27668;&#20307;&#28382;&#30041;</data>
+      <data key="d2">0999acfd62f9ab018267ec13257b00b6,10e6dd3f9cc2eb5bed0abb8e67430f50,4252c5ebe891a01bc80fe2cbe97c43f3,7e814ef2477dcb1b249cfbfb875ed7db,b5585474da6b01b1fbf52e798e2103aa,b58034e6537f78c9687b4fccbd847065</data>
+      <data key="d3">21</data>
+      <data key="d4">1</data>
+      <data key="d5">5</data>
+      <data key="d6">17</data>
+      <data key="d7">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&#20309;&#26480;&#20521;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#20309;&#26480;&#20521;&#65292;89&#23681;&#65292;&#26469;&#33258;&#27993;&#27743;&#30465;&#31119;&#24030;&#24066;&#29572;&#27494;&#21306;&#65292;&#20027;&#35201;&#30151;&#29366;&#20026;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;</data>
+      <data key="d2">cc39e2721a0c39f0ed221e6b017fb2fe</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">18</data>
+      <data key="d7">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&#40644;&#23159;&#21018;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#40644;&#23159;&#21018;&#65292;18&#23681;&#65292;&#26469;&#33258;&#21271;&#20140;&#24066;&#21335;&#20140;&#24066;&#29572;&#27494;&#21306;&#65292;&#30151;&#29366;&#20026;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d2">e427b50b62d503d70c3abe806b370771</data>
+      <data key="d3">9</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">19</data>
+      <data key="d7">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">10e0af4844ced9af1cfa8e41b282a5c1,1be49fdcaedc95d28a22aa5312725314,339889400ac018e70d0f00c486ab52af,381f16dceb2904b8fc0dba3b0b794e33,631a7e3223e15e6fd6edb12c2015fe31,864665bab4cf4ccfcd350e5c448c7b33,b74b94c9685d4484dc383961b311aa8b,fe2f2ad162d3cfcf5a5e32b35bf6b360</data>
+      <data key="d5">8</data>
+      <data key="d6">20</data>
+      <data key="d7">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&#24464;&#20013;&#23792;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#24464;&#20013;&#23792;&#65292;83&#23681;&#65292;&#26469;&#33258;&#21271;&#20140;&#24066;&#21335;&#20140;&#24066;&#22825;&#27827;&#21306;&#65292;&#20027;&#35201;&#30151;&#29366;&#20026;&#25345;&#32493;&#24615;&#24178;&#21683;</data>
+      <data key="d2">b58034e6537f78c9687b4fccbd847065</data>
+      <data key="d3">22</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">21</data>
+      <data key="d7">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&#24178;&#21683;&#19981;&#27490;">
+      <data key="d0" />
+      <data key="d1">The entity "\u5e72\u54b3\u4e0d\u6b62" refers to a condition where the lung function has not significantly declined, yet the lung capacity is relatively high. The primary characteristic of this condition involves the stability and health of the bronchial tubes, indicating that despite potential concerns, the overall respiratory status remains favorable.</data>
+      <data key="d2">66eb2ea1b51ed6d2b52131c3313e0385,7bd00f70cea33abc0afdd9e60b42162e,b58034e6537f78c9687b4fccbd847065</data>
+      <data key="d3">22</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">22</data>
+      <data key="d7">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&#32993;&#33521;&#26976;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#32993;&#33521;&#26976;&#65292;25&#23681;&#65292;&#26469;&#33258;&#23665;&#19996;&#30465;&#24191;&#24030;&#24066;&#29572;&#27494;&#21306;&#65292;&#30151;&#29366;&#20026;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d2">0999acfd62f9ab018267ec13257b00b6</data>
+      <data key="d3">21</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">23</data>
+      <data key="d7">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&#40644;&#20891;&#35946;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#40644;&#20891;&#35946;&#65292;60&#23681;&#65292;&#26469;&#33258;&#22235;&#24029;&#30465;&#33487;&#24030;&#24066;&#24605;&#26126;&#21306;&#65292;&#30151;&#29366;&#20026;&#25345;&#32493;&#21683;&#30192;</data>
+      <data key="d2">fced258601d56a5bb394966b0dfbdc17</data>
+      <data key="d3">17</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">24</data>
+      <data key="d7">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&#25345;&#32493;&#21683;&#30192;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b703de98d70076a8d5dce33d2af15b30,d113918110a60fa0f033eb498b39cc83,d8af756c0f3793583fa23ef89db0d559,e9aa8c7878a7ae2a29f462eda868f201,fced258601d56a5bb394966b0dfbdc17</data>
+      <data key="d3">17</data>
+      <data key="d4">1</data>
+      <data key="d5">5</data>
+      <data key="d6">25</data>
+      <data key="d7">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&#32599;&#24314;&#30922;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#32599;&#24314;&#30922;&#65292;26&#23681;&#65292;&#26469;&#33258;&#27743;&#33487;&#30465;&#25104;&#37117;&#24066;&#23731;&#40595;&#21306;&#65292;&#30151;&#29366;&#20026;&#22812;&#38388;&#20005;&#37325;&#21683;&#22013;</data>
+      <data key="d2">fa451ce26e62193d59e40bb4ca6713df</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">26</data>
+      <data key="d7">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;">
+      <data key="d0" />
+      <data key="d1">The entity "\u591c\u95f4\u54b3\u55fd\u4e25\u91cd" refers to a recurrent severe asthma condition. This description indicates that it is the primary clinical manifestation associated with the disease, highlighting its prevalence and significance in the context of respiratory health.</data>
+      <data key="d2">10e6dd3f9cc2eb5bed0abb8e67430f50,716409f50432b6d41a72097d79c4e274,7e350b9370b46844dea072a23af8b52e,98394455ee25a4587117498bc9e46b6d,b5585474da6b01b1fbf52e798e2103aa,f7c333a14c39dd5b876bfb0990d4dd50,fa451ce26e62193d59e40bb4ca6713df</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">7</data>
+      <data key="d6">27</data>
+      <data key="d7">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&#24352;&#38634;&#20255;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#24352;&#38634;&#20255;&#65292;12&#23681;&#65292;&#26469;&#33258;&#27993;&#27743;&#30465;&#21414;&#38376;&#24066;&#27946;&#23665;&#21306;&#65292;&#20027;&#35201;&#30151;&#29366;&#20026;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d2">ac2ee3b8814f76c549d3f44ad17b183c</data>
+      <data key="d3">18</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">28</data>
+      <data key="d7">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&#24352;&#25991;&#23792;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#24352;&#25991;&#23792;&#65292;36&#23681;&#65292;&#26469;&#33258;&#27993;&#27743;&#30465;&#21335;&#20140;&#24066;&#23731;&#40595;&#21306;&#65292;&#30151;&#29366;&#20026;&#22812;&#38388;&#20005;&#37325;&#21683;&#22013;</data>
+      <data key="d2">10e6dd3f9cc2eb5bed0abb8e67430f50</data>
+      <data key="d3">21</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">29</data>
+      <data key="d7">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&#37101;&#24535;&#38686;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#37101;&#24535;&#38686;&#65292;81&#23681;&#65292;&#26469;&#33258;&#23665;&#19996;&#30465;&#38738;&#23707;&#24066;&#27494;&#20399;&#21306;&#65292;&#20027;&#35201;&#30151;&#29366;&#20026;&#33016;&#21475;&#30140;&#30171;</data>
+      <data key="d2">4252c5ebe891a01bc80fe2cbe97c43f3</data>
+      <data key="d3">23</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">30</data>
+      <data key="d7">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&#33016;&#21475;&#30140;&#30171;">
+      <data key="d0" />
+      <data key="d1">The entity "\u80f8\u53e3\u75bc\u75db" is a type of natural disaster that can occur due to multiple causes, often associated with typhoons. The descriptions indicate that it may result from the disruption of normal atmospheric conditions caused by severe weather events, specifically pointing to its connection with typhoon phenomena.</data>
+      <data key="d2">4252c5ebe891a01bc80fe2cbe97c43f3,508324e0146372b3c612f47a11623372</data>
+      <data key="d3">23</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">31</data>
+      <data key="d7">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&#37101;&#20339;&#23792;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#37101;&#20339;&#23792;&#65292;89&#23681;&#65292;&#26469;&#33258;&#21271;&#20140;&#24066;&#21414;&#38376;&#24066;&#23731;&#40595;&#21306;&#65292;&#30151;&#29366;&#20026;&#22812;&#38388;&#20005;&#37325;&#21683;&#22013;</data>
+      <data key="d2">f7c333a14c39dd5b876bfb0990d4dd50</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">32</data>
+      <data key="d7">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&#25903;&#27668;&#31649;&#21742;&#21912;">
+      <data key="d0">CONDITION, DIAGNOSIS</data>
+      <data key="d1">The entity "\u652f\u6c14\u7ba1\u54ee\u5598" refers to a specific type of left-sided heart failure, which is a common chronic condition characterized by the weakening and dysfunction of the left side of the heart. This condition primarily manifests as myocardial damage and respiratory distress. It can also be described as a chronic condition with left-sided heart failure symptoms, affecting various stages of the disease process. The descriptions collectively indicate that this entity involves significant variations in symptom presentation, including acute exacerbations, seasonal intensifications, age-related manifestations, and diverse clinical presentations such as those associated with different weather conditions or varying degrees of severity.
+
+In summary, \u652f\u6c14\u7ba1\u54ee\u5598 is a chronic left-sided heart failure condition that exhibits a range of symptoms including myocardial damage and respiratory distress. It can present acutely, with seasonal fluctuations in severity, age-related variations, and diverse clinical manifestations depending on the weather or degree of symptom intensity.</data>
+      <data key="d2">4124751013f57c238dd7139a10dfdff1,864665bab4cf4ccfcd350e5c448c7b33,abcf535f72153dcc11cd1d601c51eeb4,b1254b39f57b6cf235c1be2a01c947e0,b74b94c9685d4484dc383961b311aa8b,be7691ab98878ab9570b9627d6b0ad56,df2c6ab83106c83977b056cdad0fb9d2,f7c333a14c39dd5b876bfb0990d4dd50</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">9</data>
+      <data key="d6">33</data>
+      <data key="d7">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&#39640;&#23159;&#30922;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#39640;&#23159;&#30922;&#65292;47&#23681;&#65292;&#26469;&#33258;&#23665;&#19996;&#30465;&#33487;&#24030;&#24066;&#27743;&#24178;&#21306;&#65292;&#30151;&#29366;&#20026;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d2">5a04414d369f14d70f2774376896bdef</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">34</data>
+      <data key="d7">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&#32954;&#32467;&#26680;">
+      <data key="d0">CONDITION, DIAGNOSIS</data>
+      <data key="d1">The entity "\u80ba\u7ed3\u6838" refers to a type of respiratory and pulmonary condition caused by the inhalation of fine particulate matter from coal combustion. This condition primarily affects the lungs, with symptoms that can include lung damage and potentially lead to serious conditions such as bronchitis or pneumonia. Additionally, it is noted that "\u80ba\u7ed3\u6838" can be a form of chronic respiratory illness characterized by its long-term impact on lung function and health, often manifesting in symptoms like coughing and wheezing. The descriptions collectively indicate that this condition is associated with the inhalation of fine particulate matter from coal combustion, primarily affecting the lungs and potentially leading to serious respiratory issues such as bronchitis or pneumonia, while also noting its chronic nature and common symptoms including coughing and wheezing.</data>
+      <data key="d2">00b3f2d0c0c3f7ceff3d20f2bc949572,11a17a6cd42ce5b3da45c95a04b90f4a,3a2ef7edaa7d1f729127d6fdb0813080,4124751013f57c238dd7139a10dfdff1,4f031dd178fb39f27ddee3cd34d8bb9f,6b144bca08bd92c65ef6b7bf0bb1b210,7bd00f70cea33abc0afdd9e60b42162e,a90023bf0dee2db6133a3e49715e1eeb,b8062090060526d049eb6f7be030d785,be7691ab98878ab9570b9627d6b0ad56,dc9b711e7879ae20059d90729584ec53</data>
+      <data key="d3">13</data>
+      <data key="d4">1</data>
+      <data key="d5">9</data>
+      <data key="d6">35</data>
+      <data key="d7">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&#26417;&#26480;&#40527;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#26417;&#26480;&#40527;&#65292;73&#23681;&#65292;&#26469;&#33258;&#21271;&#20140;&#24066;&#26477;&#24030;&#24066;&#24066;&#21335;&#21306;&#65292;&#30151;&#29366;&#20026;&#25345;&#32493;&#21683;&#30192;</data>
+      <data key="d2">e9aa8c7878a7ae2a29f462eda868f201</data>
+      <data key="d3">17</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">36</data>
+      <data key="d7">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&#39640;&#20013;&#27915;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#39640;&#20013;&#27915;&#65292;34&#23681;&#65292;&#26469;&#33258;&#23665;&#19996;&#30465;&#21414;&#38376;&#24066;&#22825;&#27827;&#21306;&#65292;&#30151;&#29366;&#20026;&#39640;&#28903;&#21644;&#21683;&#22013;</data>
+      <data key="d2">558b3868ecf2410309cb4052382d06b5</data>
+      <data key="d3">10</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">37</data>
+      <data key="d7">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&#20309;&#22269;&#23792;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#20309;&#22269;&#23792;&#65292;17&#23681;&#65292;&#26469;&#33258;&#21271;&#20140;&#24066;&#38738;&#23707;&#24066;&#27743;&#24178;&#21306;&#65292;&#30151;&#29366;&#20026;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;</data>
+      <data key="d2">339889400ac018e70d0f00c486ab52af</data>
+      <data key="d5">2</data>
+      <data key="d6">38</data>
+      <data key="d7">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;">
+      <data key="d0">CONDITION, DIAGNOSIS</data>
+      <data key="d1">The entity "\u6162\u6027\u963b\u585e\u6027\u80ba\u75c5" is a common respiratory condition of the pulmonary system, primarily characterized by persistent coughing and restricted airflow. This condition typically involves chronic bronchitis and reduced blood flow, with occasional exacerbations related to long-term exposure to irritants such as secondhand smoke and polluted air currents. The disease usually begins due to prolonged exposure to irritants, manifesting as restricted blood flow and persistent coughing symptoms. It is a collection of conditions characterized by persistent respiratory symptoms and restricted airflow or reduced blood flow as primary manifestations.
+
+Given the descriptions provided, there are no contradictions; all descriptions align in detailing that \u6162\u6027\u963b\u585e\u6027\u80ba\u75c5 is a common respiratory condition of the pulmonary system, primarily characterized by persistent coughing and restricted airflow. The condition typically involves chronic bronchitis and reduced blood flow, with occasional exacerbations related to long-term exposure to irritants such as secondhand smoke and polluted air currents. It usually begins due to prolonged exposure to these irritants and manifests as restricted blood flow and persistent coughing symptoms.</data>
+      <data key="d2">27e74b1fcd06ffd11ba52e9eca361c25,339889400ac018e70d0f00c486ab52af,4124751013f57c238dd7139a10dfdff1,7e350b9370b46844dea072a23af8b52e,904ba948f345e1478c0af2ba1ab0580d,be7691ab98878ab9570b9627d6b0ad56,d113918110a60fa0f033eb498b39cc83</data>
+      <data key="d5">8</data>
+      <data key="d6">39</data>
+      <data key="d7">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&#26446;&#26480;&#21018;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#26446;&#26480;&#21018;&#65292;47&#23681;&#65292;&#26469;&#33258;&#28246;&#21335;&#30465;&#33487;&#24030;&#24066;&#27743;&#24178;&#21306;&#65292;&#30151;&#29366;&#20026;&#33016;&#21475;&#30140;&#30171;</data>
+      <data key="d2">508324e0146372b3c612f47a11623372</data>
+      <data key="d3">23</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">40</data>
+      <data key="d7">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&#32993;&#26480;&#29618;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#32993;&#26480;&#29618;&#65292;88&#23681;&#65292;&#26469;&#33258;&#28246;&#21271;&#30465;&#26477;&#24030;&#24066;&#40723;&#27004;&#21306;&#65292;&#20027;&#35201;&#30151;&#29366;&#20026;&#25345;&#32493;&#24615;&#24178;&#21683;</data>
+      <data key="d2">66eb2ea1b51ed6d2b52131c3313e0385</data>
+      <data key="d3">18</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">41</data>
+      <data key="d7">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&#27969;&#34892;&#24615;&#24863;&#20882;">
+      <data key="d0">CONDITION, DIAGNOSIS</data>
+      <data key="d1">The entity "\u6d41\u884c\u6027\u611f\u5192" refers to a specific type of pleural effusion caused by inhalation of toxic substances, such as those from industrial pollutants. This condition is characterized by the accumulation of fluid in the pleural space due to exposure to harmful particles through inhalation. The descriptions indicate that this pleural effusion can result from various sources including:
+
+- Industrial pollutants (as mentioned in "&#30001;&#24037;&#19994;&#28895;&#23576;&#24341;&#36215;"), 
+- Blasting dust ("&#29190;&#30772;&#31881;&#23576;"),
+- Cold air exposure ("&#23506;&#20919;&#31354;&#27668;"),
+- Metal fumes ("&#37329;&#23646;&#28895;&#38654;"),
+- Toxic substances ("&#27602;&#29289;") and
+- Dust from construction or mining activities ("&#24314;&#31569;&#25110;&#37319;&#30719;&#27963;&#21160;&#20013;&#30340;&#31881;&#23576;").
+
+All these sources contribute to the development of pleural effusion, which is a significant health concern due to its association with respiratory issues. The fluid accumulation can vary in severity and may lead to complications if not properly managed.</data>
+      <data key="d2">0757e6b0ca4544368f1da650f35f5940,4124751013f57c238dd7139a10dfdff1,497733f4242b847c15c9b7691c9dcfca,716409f50432b6d41a72097d79c4e274,95aaa46441bef041c91761ec891f7a5a,be7691ab98878ab9570b9627d6b0ad56,d8af756c0f3793583fa23ef89db0d559,f417d04076a08025ab592a452e2c880d,f8e5a84adc8b7cad5c61b64465d75589</data>
+      <data key="d5">6</data>
+      <data key="d6">42</data>
+      <data key="d7">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&#21683;&#30192;">
+      <data key="d0" />
+      <data key="d1">Entity: &#20140;&#27941;
+
+&#20140;&#27941;&#26159;&#20140;&#27941;&#20864;&#21306;&#22495;&#20132;&#36890;&#32593;&#32476;&#30340;&#37325;&#35201;&#32452;&#25104;&#37096;&#20998;&#65292;&#36890;&#24120;&#28041;&#21450;&#20844;&#36335;&#21644;&#38081;&#36335;&#30340;&#24314;&#35774;&#19982;&#25193;&#23637;&#12290;&#35813;&#22320;&#21306;&#20027;&#35201;&#32463;&#21382;&#20102;&#22810;&#27425;&#21457;&#23637;&#36807;&#31243;&#65292;&#24120;&#35265;&#30340;&#26159;&#36890;&#36807;&#35268;&#21010;&#21644;&#35843;&#25972;&#26469;&#20419;&#36827;&#20114;&#32852;&#20114;&#36890;&#12290;
+
+This summary concisely describes the entity "&#20140;&#27941;" (which translates to "Tianjin and Beijing") as an integral part of the Jing-Jin-Ji (Beijing-Tianjin-Hebei) regional transportation network, focusing on its development through multiple stages involving road and rail infrastructure.</data>
+      <data key="d2">95aaa46441bef041c91761ec891f7a5a,be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d5">1</data>
+      <data key="d6">43</data>
+      <data key="d7">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&#21683;&#34880;">
+      <data key="d0" />
+      <data key="d1">-Data-
+Entities: &#21628;&#21560;&#36947;
+Description List: ["&#21628;&#21560;&#36947;&#26159;&#25351;&#20174;&#32954;&#37096;&#25490;&#20986;&#24223;&#27668;&#30340;&#29616;&#20917;&#65292;&#21487;&#33021;&#19982;&#22810;&#31181;&#21560;&#28895;&#30456;&#20851;&#30142;&#30149;&#26377;&#20851;"]
+
+Based on the provided information, a concise and coherent summary is as follows:
+
+&#21628;&#21560;&#36947;&#25351;&#30340;&#26159;&#20174;&#32954;&#37096;&#25490;&#20986;&#24223;&#27668;&#30340;&#24403;&#21069;&#29366;&#20917;&#65292;&#23427;&#21487;&#33021;&#19982;&#22810;&#31181;&#21560;&#28895;&#30456;&#20851;&#30142;&#30149;&#26377;&#20851;&#12290;&#36825;&#19968;&#25551;&#36848;&#24378;&#35843;&#20102;&#21628;&#21560;&#36947;&#30340;&#21151;&#33021;&#21450;&#20854;&#19982;&#21560;&#28895;&#31561;&#20581;&#24247;&#39118;&#38505;&#22240;&#32032;&#20043;&#38388;&#30340;&#28508;&#22312;&#32852;&#31995;&#12290;</data>
+      <data key="d2">be7691ab98878ab9570b9627d6b0ad56,f8e5a84adc8b7cad5c61b64465d75589</data>
+      <data key="d5">1</data>
+      <data key="d6">44</data>
+      <data key="d7">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&#39532;&#38634;&#20255;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#39532;&#38634;&#20255;&#65292;12&#23681;&#65292;&#26469;&#33258;&#22235;&#24029;&#30465;&#24191;&#24030;&#24066;&#24605;&#26126;&#21306;&#65292;&#20027;&#35201;&#30151;&#29366;&#20026;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d2">7d9d5989f95f62517d02d326446f998a</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">45</data>
+      <data key="d7">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&#23385;&#22269;&#25935;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#23385;&#22269;&#25935;&#65292;64&#23681;&#65292;&#26469;&#33258;&#21271;&#20140;&#24066;&#31119;&#24030;&#24066;&#24605;&#26126;&#21306;&#65292;&#30151;&#29366;&#20026;&#22812;&#38388;&#20005;&#37325;&#21683;&#22013;</data>
+      <data key="d2">7e350b9370b46844dea072a23af8b52e</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">46</data>
+      <data key="d7">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&#23385;&#20426;&#29618;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#23385;&#20426;&#29618;&#65292;74&#23681;&#65292;&#26469;&#33258;&#27993;&#27743;&#30465;&#27494;&#27721;&#24066;&#29572;&#27494;&#21306;&#65292;&#20027;&#35201;&#30151;&#29366;&#20026;&#25345;&#32493;&#24615;&#24178;&#21683;</data>
+      <data key="d2">7bd00f70cea33abc0afdd9e60b42162e</data>
+      <data key="d3">22</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">47</data>
+      <data key="d7">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&#23385;&#30922;&#35946;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#23385;&#30922;&#35946;&#65292;37&#23681;&#65292;&#26469;&#33258;&#27743;&#33487;&#30465;&#38738;&#23707;&#24066;&#22825;&#27827;&#21306;&#65292;&#30151;&#29366;&#20026;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d2">1faeb8e8a4729ccb9e4eaed54117b966</data>
+      <data key="d5">2</data>
+      <data key="d6">48</data>
+      <data key="d7">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&#21683;&#22013;">
+      <data key="d0">SYMPTOM, CONDITION</data>
+      <data key="d1">The entity "\u54b3\u55fd" refers to a type of common respiratory condition within the respiratory system, which can potentially be initiated by multiple causes. This summary is based on the provided description and does not include additional context or data from other entities as none were specified. The term "\u54b3\u55fd" likely translates to "bronchitis" in English, a condition characterized by inflammation of the bronchi, which can be caused by various factors.</data>
+      <data key="d2">0757e6b0ca4544368f1da650f35f5940,be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d5">1</data>
+      <data key="d6">49</data>
+      <data key="d7">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&#21693;&#21897;&#30171;">
+      <data key="d0">SYMPTOM, CONDITION</data>
+      <data key="d1">&#21693;&#21897;&#30171;&#26159;&#21897;&#21657;&#37096;&#20301;&#30340;&#30140;&#30171;&#24863;&#65292;&#24120;&#35265;&#20110;&#24863;&#26579;&#25110;&#28814;&#30151;</data>
+      <data key="d2">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d5">1</data>
+      <data key="d6">50</data>
+      <data key="d7">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&#21457;&#28909;">
+      <data key="d0">SYMPTOM, CONDITION</data>
+      <data key="d1">&#21457;&#28909;&#26159;&#25351;&#20307;&#28201;&#21319;&#39640;&#65292;&#36890;&#24120;&#19982;&#24863;&#26579;&#26377;&#20851;</data>
+      <data key="d2">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d5">1</data>
+      <data key="d6">51</data>
+      <data key="d7">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&#27969;&#24863;">
+      <data key="d0">DISEASE, SYMPTOM</data>
+      <data key="d1">&#27969;&#24863;&#26159;&#30001;&#27969;&#24863;&#30149;&#27602;&#24341;&#36215;&#30340;&#24613;&#24615;&#21628;&#21560;&#36947;&#20256;&#26579;&#30149;&#65292;&#24120;&#35265;&#30151;&#29366;&#21253;&#25324;&#21457;&#28909;&#12289;&#21683;&#22013;&#31561;</data>
+      <data key="d2">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d5">1</data>
+      <data key="d6">52</data>
+      <data key="d7">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&#27969;&#40763;&#28053;">
+      <data key="d0">SYMPTOM, CONDITION</data>
+      <data key="d1">&#27969;&#40763;&#28053;&#26159;&#40763;&#33108;&#20998;&#27852;&#29289;&#22686;&#22810;&#24182;&#27969;&#20986;&#40763;&#23380;&#30340;&#29616;&#35937;&#65292;&#24120;&#20276;&#38543;&#24863;&#20882;&#25110;&#36807;&#25935;&#21453;&#24212;</data>
+      <data key="d2">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d5">1</data>
+      <data key="d6">53</data>
+      <data key="d7">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&#25171;&#21943;&#22159;">
+      <data key="d0">SYMPTOM, CONDITION</data>
+      <data key="d1">&#25171;&#21943;&#22159;&#26159;&#31361;&#28982;&#24555;&#36895;&#22320;&#20174;&#40763;&#23380;&#25490;&#20986;&#31354;&#27668;&#30340;&#21160;&#20316;&#65292;&#24120;&#35265;&#20110;&#36807;&#25935;&#25110;&#24863;&#26579;</data>
+      <data key="d2">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d5">1</data>
+      <data key="d6">54</data>
+      <data key="d7">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&#27668;&#21912;">
+      <data key="d0">SYMPTOM, CONDITION</data>
+      <data key="d1">&#27668;&#21912;&#26159;&#21628;&#21560;&#26102;&#20986;&#29616;&#30340;&#21912;&#24687;&#22768;&#25110;&#21628;&#21560;&#24613;&#20419;&#29616;&#35937;&#65292;&#24120;&#35265;&#20110;&#21742;&#21912;&#31561;&#30142;&#30149;</data>
+      <data key="d2">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d5">2</data>
+      <data key="d6">55</data>
+      <data key="d7">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&#33016;&#38391;">
+      <data key="d0">SYMPTOM, CONDITION</data>
+      <data key="d1">The condition referred to as \u80f8\u95f7 is a respiratory system disease that can be caused by various types of inhalation injuries. It specifically denotes an abnormality or obstruction in the airway, which may be associated with chest pain or shoulder issues. This comprehensive description highlights the multifaceted nature of \u80f8\u95f7 as both a respiratory condition and a potential indicator of complications involving the chest or shoulders.</data>
+      <data key="d2">4124751013f57c238dd7139a10dfdff1,be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">7</data>
+      <data key="d6">56</data>
+      <data key="d7">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&#33016;&#30171;">
+      <data key="d0">SYMPTOM, CONDITION</data>
+      <data key="d1">The entity "\u80f8\u75db" refers to a type of respiratory condition that can be associated with various lung diseases and issues, potentially initiated by multiple factors. It involves the inflammation of the bronchi within the lungs, which may result from diverse causes. This summary integrates both provided descriptions, acknowledging the complexity of the condition in relation to its potential triggers and manifestations.</data>
+      <data key="d2">4124751013f57c238dd7139a10dfdff1,be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d3">13</data>
+      <data key="d4">1</data>
+      <data key="d5">7</data>
+      <data key="d6">57</data>
+      <data key="d7">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&#36213;&#22823;&#29618;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#36213;&#22823;&#29618;&#65292;84&#23681;&#65292;&#26469;&#33258;&#23665;&#19996;&#30465;&#24191;&#24030;&#24066;&#27743;&#24178;&#21306;&#65292;&#30151;&#29366;&#20026;&#25171;&#21943;&#22159;&#21644;&#27969;&#40763;&#28053;</data>
+      <data key="d2">922876b108baab4b16ce9f7231d20609</data>
+      <data key="d3">20</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">58</data>
+      <data key="d7">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&#26519;&#20029;&#38745;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#26519;&#20029;&#38745;&#65292;35&#23681;&#65292;&#26469;&#33258;&#24191;&#19996;&#30465;&#26477;&#24030;&#24066;&#40723;&#27004;&#21306;&#65292;&#30151;&#29366;&#20026;&#22812;&#38388;&#20005;&#37325;&#21683;&#22013;</data>
+      <data key="d2">98394455ee25a4587117498bc9e46b6d</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">59</data>
+      <data key="d7">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&#38472;&#20339;&#25935;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#38472;&#20339;&#25935;&#65292;46&#23681;&#65292;&#26469;&#33258;&#28246;&#21271;&#30465;&#31119;&#24030;&#24066;&#27494;&#20399;&#21306;&#65292;&#20027;&#35201;&#30151;&#29366;&#20026;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d2">497733f4242b847c15c9b7691c9dcfca</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">60</data>
+      <data key="d7">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&#26472;&#24314;&#27915;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#26472;&#24314;&#27915;&#65292;81&#23681;&#65292;&#26469;&#33258;&#23665;&#19996;&#30465;&#31119;&#24030;&#24066;&#24066;&#21335;&#21306;&#65292;&#30151;&#29366;&#20026;&#27668;&#21912;&#21644;&#33016;&#38391;</data>
+      <data key="d2">65bfc0741ad81847e0c163e0be08fd3d</data>
+      <data key="d3">9</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">61</data>
+      <data key="d7">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&#23385;&#30922;&#32724;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#23385;&#30922;&#32724;&#65292;47&#23681;&#65292;&#26469;&#33258;&#27993;&#27743;&#30465;&#33487;&#24030;&#24066;&#27494;&#20399;&#21306;&#65292;&#30151;&#29366;&#20026;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d2">27e74b1fcd06ffd11ba52e9eca361c25</data>
+      <data key="d5">2</data>
+      <data key="d6">62</data>
+      <data key="d7">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&#39640;&#22823;&#32724;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#39640;&#22823;&#32724;&#65292;18&#23681;&#65292;&#26469;&#33258;&#27993;&#27743;&#30465;&#24191;&#24030;&#24066;&#24066;&#21335;&#21306;&#65292;&#30151;&#29366;&#20026;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;</data>
+      <data key="d2">864665bab4cf4ccfcd350e5c448c7b33</data>
+      <data key="d5">2</data>
+      <data key="d6">63</data>
+      <data key="d7">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&#26446;&#28009;&#23068;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#26446;&#28009;&#23068;&#65292;43&#23681;&#65292;&#26469;&#33258;&#28246;&#21335;&#30465;&#26477;&#24030;&#24066;&#40723;&#27004;&#21306;&#65292;&#30151;&#29366;&#20026;&#25345;&#32493;&#21683;&#30192;</data>
+      <data key="d2">d113918110a60fa0f033eb498b39cc83</data>
+      <data key="d3">17</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">64</data>
+      <data key="d7">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&#24464;&#26480;&#38686;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#24464;&#26480;&#38686;&#65292;89&#23681;&#65292;&#26469;&#33258;&#19978;&#28023;&#24066;&#26477;&#24030;&#24066;&#22825;&#27827;&#21306;&#65292;&#30151;&#29366;&#20026;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d2">f417d04076a08025ab592a452e2c880d</data>
+      <data key="d5">2</data>
+      <data key="d6">65</data>
+      <data key="d7">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="2025&#24180;1&#26376;2&#26085;&#36215;&#33267;&#20170;">
+      <data key="d0">TIME_PERIOD, DURATION</data>
+      <data key="d1">&#26102;&#38388;&#27573;&#20174;2025&#24180;1&#26376;2&#26085;&#25345;&#32493;&#21040;&#29616;&#22312;</data>
+      <data key="d2">df2c6ab83106c83977b056cdad0fb9d2</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">66</data>
+      <data key="d7">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&#24739;&#32773;&#26446;&#22235;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#26446;&#22235;&#65292;&#24180;&#40836;50&#23681;&#65292;&#22320;&#22336;&#20301;&#20110;&#21271;&#20140;&#24066;&#12289;&#19978;&#28023;&#24066;&#24191;&#19996;&#21306;&#65292;&#30151;&#29366;&#20026;&#21628;&#21560;&#22256;&#38590;&#65292;&#34987;&#35786;&#26029;&#20026;&#25903;&#27668;&#31649;&#21742;&#21912;</data>
+      <data key="d2">df2c6ab83106c83977b056cdad0fb9d2</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">67</data>
+      <data key="d7">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="2025&#24180;1&#26376;1&#26085;&#36215;">
+      <data key="d0">TIME_PERIOD, DURATION</data>
+      <data key="d1">&#26102;&#38388;&#27573;&#20174;2025&#24180;1&#26376;1&#26085;&#24320;&#22987;</data>
+      <data key="d2">df2c6ab83106c83977b056cdad0fb9d2</data>
+      <data key="d5">1</data>
+      <data key="d6">68</data>
+      <data key="d7">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&#38500;&#26446;&#22235;&#22806;&#20854;&#20182;&#25152;&#26377;&#24739;&#32773;&#19981;&#20877;&#26377;&#21628;&#21560;&#22256;&#38590;&#30151;&#29366;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">df2c6ab83106c83977b056cdad0fb9d2</data>
+      <data key="d5">1</data>
+      <data key="d6">69</data>
+      <data key="d7">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&#36213;&#20029;&#19996;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#36213;&#20029;&#19996;&#65292;28&#23681;&#65292;&#26469;&#33258;&#24191;&#19996;&#30465;&#21335;&#20140;&#24066;&#23731;&#40595;&#21306;&#65292;&#20027;&#35201;&#30151;&#29366;&#20026;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d2">6b144bca08bd92c65ef6b7bf0bb1b210</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">70</data>
+      <data key="d7">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&#39532;&#20891;&#20521;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#39532;&#20891;&#20521;&#65292;86&#23681;&#65292;&#26469;&#33258;&#23665;&#19996;&#30465;&#24191;&#24030;&#24066;&#27743;&#24178;&#21306;&#65292;&#20027;&#35201;&#30151;&#29366;&#20026;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d2">b8062090060526d049eb6f7be030d785</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">71</data>
+      <data key="d7">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&#26417;&#20339;&#24378;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#26417;&#20339;&#24378;&#65292;76&#23681;&#65292;&#26469;&#33258;&#28246;&#21271;&#30465;&#38271;&#27801;&#24066;&#40723;&#27004;&#21306;&#65292;&#30151;&#29366;&#20026;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;</data>
+      <data key="d2">b74b94c9685d4484dc383961b311aa8b</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">72</data>
+      <data key="d7">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&#39640;&#22269;&#26976;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#39640;&#22269;&#26976;&#65292;27&#23681;&#65292;&#26469;&#33258;&#24191;&#19996;&#30465;&#38271;&#27801;&#24066;&#24066;&#21335;&#21306;&#65292;&#30151;&#29366;&#20026;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;</data>
+      <data key="d2">381f16dceb2904b8fc0dba3b0b794e33</data>
+      <data key="d5">2</data>
+      <data key="d6">73</data>
+      <data key="d7">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&#21016;&#20426;&#23431;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#21016;&#20426;&#23431;&#65292;74&#23681;&#65292;&#26469;&#33258;&#28246;&#21271;&#30465;&#26477;&#24030;&#24066;&#23731;&#40595;&#21306;&#65292;&#30151;&#29366;&#20026;&#25345;&#32493;&#21683;&#30192;</data>
+      <data key="d2">d8af756c0f3793583fa23ef89db0d559</data>
+      <data key="d3">17</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">74</data>
+      <data key="d7">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&#26446;&#20339;&#20521;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#26446;&#20339;&#20521;&#65292;61&#23681;&#65292;&#26469;&#33258;&#24191;&#19996;&#30465;&#26477;&#24030;&#24066;&#23731;&#40595;&#21306;&#65292;&#30151;&#29366;&#20026;&#39640;&#28903;&#21644;&#21683;&#22013;</data>
+      <data key="d2">91ef2a256c68cd35b3c168751fd9367a</data>
+      <data key="d3">10</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">75</data>
+      <data key="d7">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&#26472;&#20029;&#32724;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#26472;&#20029;&#32724;&#65292;73&#23681;&#65292;&#26469;&#33258;&#19978;&#28023;&#24066;&#33487;&#24030;&#24066;&#27743;&#24178;&#21306;&#65292;&#30151;&#29366;&#20026;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d2">dc9b711e7879ae20059d90729584ec53</data>
+      <data key="d5">2</data>
+      <data key="d6">76</data>
+      <data key="d7">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&#26446;&#23567;&#29618;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#26446;&#23567;&#29618;&#65292;22&#23681;&#65292;&#26469;&#33258;&#22235;&#24029;&#30465;&#21335;&#20140;&#24066;&#24605;&#26126;&#21306;&#65292;&#30151;&#29366;&#20026;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d2">3a2ef7edaa7d1f729127d6fdb0813080</data>
+      <data key="d3">13</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">77</data>
+      <data key="d7">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&#21608;&#24535;&#27915;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#21608;&#24535;&#27915;&#65292;41&#23681;&#65292;&#26469;&#33258;&#23665;&#19996;&#30465;&#26477;&#24030;&#24066;&#23731;&#40595;&#21306;&#65292;&#30151;&#29366;&#20026;&#22812;&#38388;&#20005;&#37325;&#21683;&#22013;</data>
+      <data key="d2">b5585474da6b01b1fbf52e798e2103aa</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">78</data>
+      <data key="d7">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&#24464;&#25991;&#29747;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#24464;&#25991;&#29747;&#65292;69&#23681;&#65292;&#26469;&#33258;&#22235;&#24029;&#30465;&#27494;&#27721;&#24066;&#22993;&#33487;&#21306;&#65292;&#30151;&#29366;&#20026;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;</data>
+      <data key="d2">631a7e3223e15e6fd6edb12c2015fe31</data>
+      <data key="d5">2</data>
+      <data key="d6">79</data>
+      <data key="d7">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&#24352;&#22269;&#35946;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#24352;&#22269;&#35946;&#65292;89&#23681;&#65292;&#26469;&#33258;&#24191;&#19996;&#30465;&#21414;&#38376;&#24066;&#23731;&#40595;&#21306;&#65292;&#30151;&#29366;&#20026;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;</data>
+      <data key="d2">fe2f2ad162d3cfcf5a5e32b35bf6b360</data>
+      <data key="d3">18</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">80</data>
+      <data key="d7">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&#21556;&#24535;&#21018;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#21556;&#24535;&#21018;&#65292;88&#23681;&#65292;&#26469;&#33258;&#31119;&#24314;&#30465;&#31119;&#24030;&#24066;&#23731;&#40595;&#21306;&#65292;&#30151;&#29366;&#20026;&#39640;&#28903;&#21644;&#21683;&#22013;</data>
+      <data key="d2">00b3f2d0c0c3f7ceff3d20f2bc949572</data>
+      <data key="d3">10</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">81</data>
+      <data key="d7">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&#21608;&#28009;&#27915;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#21608;&#28009;&#27915;&#65292;76&#23681;&#65292;&#26469;&#33258;&#28246;&#21335;&#30465;&#38271;&#27801;&#24066;&#27946;&#23665;&#21306;&#65292;&#30151;&#29366;&#20026;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d2">b1254b39f57b6cf235c1be2a01c947e0</data>
+      <data key="d5">2</data>
+      <data key="d6">82</data>
+      <data key="d7">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&#20309;&#23567;&#30922;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#20309;&#23567;&#30922;&#65292;73&#23681;&#65292;&#26469;&#33258;&#27743;&#33487;&#30465;&#27494;&#27721;&#24066;&#22825;&#27827;&#21306;&#65292;&#30151;&#29366;&#20026;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;</data>
+      <data key="d2">1be49fdcaedc95d28a22aa5312725314</data>
+      <data key="d5">2</data>
+      <data key="d6">83</data>
+      <data key="d7">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&#40644;&#20891;&#40527;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#40644;&#20891;&#40527;&#65292;42&#23681;&#65292;&#26469;&#33258;&#19978;&#28023;&#24066;&#38738;&#23707;&#24066;&#27946;&#23665;&#21306;&#65292;&#30151;&#29366;&#20026;&#25171;&#21943;&#22159;&#21644;&#27969;&#40763;&#28053;</data>
+      <data key="d2">dbf91170f46be6e366511edc13db9dbe</data>
+      <data key="d3">20</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">84</data>
+      <data key="d7">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&#39532;&#26480;&#40527;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#39532;&#26480;&#40527;&#65292;63&#23681;&#65292;&#26469;&#33258;&#27743;&#33487;&#30465;&#38738;&#23707;&#24066;&#24066;&#21335;&#21306;&#65292;&#30151;&#29366;&#20026;&#27668;&#21912;&#21644;&#33016;&#38391;</data>
+      <data key="d2">abcf535f72153dcc11cd1d601c51eeb4</data>
+      <data key="d3">19</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">85</data>
+      <data key="d7">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&#21016;&#29577;&#38686;">
+      <data key="d0">PERSON, PATIENT</data>
+      <data key="d1">&#24739;&#32773;&#21016;&#29577;&#38686;&#65292;77&#23681;&#65292;&#26469;&#33258;&#21271;&#20140;&#24066;&#26477;&#24030;&#24066;&#22825;&#27827;&#21306;&#65292;&#30151;&#29366;&#20026;&#27963;&#21160;&#21518;&#27668;&#20419;</data>
+      <data key="d2">11a17a6cd42ce5b3da45c95a04b90f4a</data>
+      <data key="d3">13</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">86</data>
+      <data key="d7">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&#27963;&#21160;&#21518;&#27668;&#20419;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">11a17a6cd42ce5b3da45c95a04b90f4a</data>
+      <data key="d3">13</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">87</data>
+      <data key="d7">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <edge source="&#26519;&#29577;&#21018;" target="&#21693;&#21897;&#28814;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26519;&#29577;&#21018;&#34987;&#35786;&#26029;&#20026;&#21693;&#21897;&#28814;</data>
+      <data key="d10">bdc925db8d80d120e36986e75ffff059</data>
+      <data key="d11">9ab48505fb1b487babd0d1f6d3a3f980</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26519;&#29577;&#21018;" target="&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26519;&#29577;&#21018;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#27668;&#21912;&#21644;&#33016;&#38391;</data>
+      <data key="d10">bdc925db8d80d120e36986e75ffff059</data>
+      <data key="d11">148fffeb994541b2b4b6dcefda7001a8</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21693;&#21897;&#28814;" target="&#40644;&#20891;&#35946;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#40644;&#20891;&#35946;&#34987;&#35786;&#26029;&#20026;&#21693;&#21897;&#28814;</data>
+      <data key="d10">fced258601d56a5bb394966b0dfbdc17</data>
+      <data key="d11">89c08e793298442686292454a1abff31</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21693;&#21897;&#28814;" target="&#24352;&#38634;&#20255;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#24352;&#38634;&#20255;&#34987;&#35786;&#26029;&#20026;&#21693;&#21897;&#28814;</data>
+      <data key="d10">ac2ee3b8814f76c549d3f44ad17b183c</data>
+      <data key="d11">0467928aa65e4a4fba62bdb1467e3a54</data>
+      <data key="d12">3</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21693;&#21897;&#28814;" target="&#26417;&#26480;&#40527;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26417;&#26480;&#40527;&#34987;&#35786;&#26029;&#20026;&#21693;&#21897;&#28814;</data>
+      <data key="d10">e9aa8c7878a7ae2a29f462eda868f201</data>
+      <data key="d11">43c3390303c6476cb65f584e37c3e81c</data>
+      <data key="d12">4</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21693;&#21897;&#28814;" target="&#32993;&#26480;&#29618;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#21307;&#29983;&#35786;&#26029;&#32993;&#26480;&#29618;&#24739;&#26377;&#21693;&#21897;&#28814;</data>
+      <data key="d10">66eb2ea1b51ed6d2b52131c3313e0385</data>
+      <data key="d11">fa14b16c17e3417dba5a4b473ea5b18d</data>
+      <data key="d12">5</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21693;&#21897;&#28814;" target="&#24464;&#25991;&#29747;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#24464;&#25991;&#29747;&#34987;&#35786;&#26029;&#20026;&#21693;&#21897;&#28814;</data>
+      <data key="d10">631a7e3223e15e6fd6edb12c2015fe31</data>
+      <data key="d11">7cc3356d38de4328a51a5cbcb187dac3</data>
+      <data key="d12">6</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21693;&#21897;&#28814;" target="&#24352;&#22269;&#35946;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#24352;&#22269;&#35946;&#34987;&#35786;&#26029;&#20026;&#21693;&#21897;&#28814;</data>
+      <data key="d10">fe2f2ad162d3cfcf5a5e32b35bf6b360</data>
+      <data key="d11">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+      <data key="d12">7</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;" target="&#26472;&#24314;&#27915;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26472;&#24314;&#27915;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#27668;&#21912;&#21644;&#33016;&#38391;</data>
+      <data key="d10">65bfc0741ad81847e0c163e0be08fd3d</data>
+      <data key="d11">bb9e01bc171d4326a29afda59ece8d17</data>
+      <data key="d12">8</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;" target="&#26446;&#22235;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#27668;&#21912;&#21644;&#33016;&#38391;</data>
+      <data key="d10">4f031dd178fb39f27ddee3cd34d8bb9f</data>
+      <data key="d11">3c063eea52e94164b70c99431ea30bae</data>
+      <data key="d12">9</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;" target="&#39532;&#26480;&#40527;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39532;&#26480;&#40527;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#27668;&#21912;&#21644;&#33016;&#38391;</data>
+      <data key="d10">abcf535f72153dcc11cd1d601c51eeb4</data>
+      <data key="d11">252cc8452bfc4c2aa58cab68d8b61879</data>
+      <data key="d12">10</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;">
+      <data key="d8">2.0</data>
+      <data key="d9">Entity: "&#37329;&#38376;"
+
+Description: &#37329;&#38376;&#30340;&#30149;&#24773;&#21253;&#25324;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&#30151;&#29366;&#65292;&#22914;&#24863;&#20882;&#12289;&#21457;&#28909;&#31561;&#65292;&#24182;&#19988;&#37329;&#38376;&#24050;&#36973;&#21463;&#30772;&#22351;&#25104;&#20026;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&#21306;&#22495;&#12290;
+
+Summary:
+The entity "&#37329;&#38376;" is characterized by the prevalence of respiratory symptoms, specifically upper respiratory tract infections such as colds and fever. Additionally, it has been affected to the extent that it can be described as an area primarily impacted by these conditions.</data>
+      <data key="d10">be7691ab98878ab9570b9627d6b0ad56,d9cdcc740d108fb9b697e99a036d8a43</data>
+      <data key="d11">7e2c84548fb94ee395ba8588d8f2a006</data>
+      <data key="d12">11</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#39640;&#28903;&#21683;&#22013;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#39640;&#28903;&#21644;&#21683;&#22013;</data>
+      <data key="d10">d9cdcc740d108fb9b697e99a036d8a43</data>
+      <data key="d11">f034618dde7948beb6dab30176d0fc87</data>
+      <data key="d12">12</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#32954;&#28814;">
+      <data key="d8">4.0</data>
+      <data key="d9">The entity "\u674e\u56db" (Lung) has been affected by an inflammation that is characterized as having \u80ba\u708e (inflammation). This description indicates that the lung (\u674e\u56db) can experience inflammation, which in this case, specifically manifests as \u80ba\u708e. The term "\u80ba\u708e" is used both to describe the condition of the lung and the nature of its inflammation, suggesting a direct correlation between the two.
+
+This concise summary integrates all provided descriptions while resolving any apparent contradictions by maintaining consistency in terminology and context.</data>
+      <data key="d10">3ee54586d04831d6be8582843aa8318a,4534972910a050e136c2f50ccfa9e72b,b703de98d70076a8d5dce33d2af15b30,be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">5c41f96be13e49dba649454297834546</data>
+      <data key="d12">13</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#20027;&#35201;&#30151;&#29366;&#21253;&#25324;&#25171;&#21943;&#22159;&#21644;&#27969;&#40763;&#28053;</data>
+      <data key="d10">4534972910a050e136c2f50ccfa9e72b</data>
+      <data key="d11">7ea4afbf8a264f29af29950ce98105ba</data>
+      <data key="d12">14</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;">
+      <data key="d8">2.0</data>
+      <data key="d9">The entity "\u674e\u56db" (Patient Jia) has been affected by a potential respiratory condition, which has been diagnosed as "\u6025\u6027\u652f\u6c14\u7ba1\u708e" (Acute Bronchitis). This diagnosis is based on the observed symptoms and medical records of Patient Jia. The patient's respiratory condition is currently being managed by the "\u6025\u6027\u652f\u6c14\u7ba1\u708e" (Acute Bronchitis) treatment protocol, indicating a clear and consistent approach to their care.
+
+The descriptions provided are coherent and do not contain any contradictions. Both statements confirm that Patient Jia is suffering from Acute Bronchitis and that this condition is being treated according to the established respiratory management guidelines.</data>
+      <data key="d10">10e0af4844ced9af1cfa8e41b282a5c1,be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">91ff849d12b24574b0691dbddf44968b</data>
+      <data key="d12">15</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;</data>
+      <data key="d10">10e0af4844ced9af1cfa8e41b282a5c1</data>
+      <data key="d11">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+      <data key="d12">16</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#32954;&#32467;&#26680;">
+      <data key="d8">3.0</data>
+      <data key="d9">Entity: "&#37329;&#34678;"
+
+Summary: &#37329;&#34678;&#30340;&#19994;&#21153;&#21457;&#23637;&#21487;&#33021;&#28041;&#21450;&#21628;&#21560;&#31995;&#32479;&#30142;&#30149;&#65292;&#20855;&#20307;&#34920;&#29616;&#20026;&#34987;&#35786;&#26029;&#20026;&#21628;&#21560;&#31995;&#32479;&#30142;&#30149;&#30340;&#27010;&#29575;&#12290;&#37329;&#34678;&#34987;&#35786;&#26029;&#20026;&#21628;&#21560;&#31995;&#32479;&#30142;&#30149;&#30340;&#24773;&#20917;&#34920;&#26126;&#20854;&#20581;&#24247;&#29366;&#20917;&#19982;&#21628;&#21560;&#31995;&#32479;&#30340;&#26576;&#20123;&#38382;&#39064;&#30456;&#20851;&#32852;&#12290;
+
+Note: The provided descriptions suggest that the entity "&#37329;&#34678;" (JinDa) has been diagnosed with respiratory system diseases. This summary consolidates both given descriptions, resolving any contradictions by assuming they are referring to the same context of health issues within the entity.</data>
+      <data key="d10">4f031dd178fb39f27ddee3cd34d8bb9f,a90023bf0dee2db6133a3e49715e1eeb,be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">cdc8901e668749889bd49bebdc4ff1f6</data>
+      <data key="d12">17</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#21628;&#21560;&#22256;&#38590;">
+      <data key="d8">2.0</data>
+      <data key="d9">The primary condition of "\u674e\u56db" (Lung) is associated with "\u547c\u5438\u56f0\u96be" (Pulmonary Fibrosis). The symptoms of "\u674e\u56db" include those related to Pulmonary Fibrosis, indicating a direct link between the lung and pulmonary fibrosis in this context. This summary consolidates the provided descriptions, highlighting that the main health issue affecting the lungs is pulmonary fibrosis.</data>
+      <data key="d10">a90023bf0dee2db6133a3e49715e1eeb,be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">36084a9fab53433493f079e97e68bf65</data>
+      <data key="d12">18</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#27969;&#34892;&#24615;&#24863;&#20882;">
+      <data key="d8">5.0</data>
+      <data key="d9">Entity: &#26446;&#20025;
+
+Description Summary: &#26446;&#20025;&#24739;&#26377;&#19982;&#27668;&#27969;&#21463;&#38480;&#30456;&#20851;&#30340;&#30142;&#30149;&#65292;&#21253;&#25324;&#20294;&#19981;&#38480;&#20110;&#21912;&#24687;&#21644;&#21683;&#22013;&#12290;&#20182;&#30340;&#30149;&#24773;&#24050;&#32463;&#34987;&#35786;&#26029;&#20026;&#27668;&#27969;&#21463;&#38480;&#22411;&#12290;
+
+This summary concisely combines the provided descriptions, indicating that &#26446;&#20025; (Li Dan) has a disease characterized by airflow limitation, which includes symptoms such as wheezing and coughing. The diagnosis is specifically noted to be of the air flow limited type.</data>
+      <data key="d10">0757e6b0ca4544368f1da650f35f5940,716409f50432b6d41a72097d79c4e274,95aaa46441bef041c91761ec891f7a5a,be7691ab98878ab9570b9627d6b0ad56,f8e5a84adc8b7cad5c61b64465d75589</data>
+      <data key="d11">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+      <data key="d12">19</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#21683;&#30192;">
+      <data key="d8">2.0</data>
+      <data key="d9">The primary condition of \u674e\u56db is associated with \u54b3\u75f0, and the symptoms experienced by \u674e\u56db encompass \u54b3\u75f0. This indicates that \u674e\u56db primarily manifests in conditions related to \u54b3\u75f0, which likely pertains to respiratory or pulmonary issues given the context of the medical data analysis expertise provided.</data>
+      <data key="d10">95aaa46441bef041c91761ec891f7a5a,be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">ceadf262ef834e9ab146b20650912cae</data>
+      <data key="d12">20</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#21683;&#34880;">
+      <data key="d8">2.0</data>
+      <data key="d9">The primary condition of \u674e\u56db is associated with \u54b3\u8840, and the symptoms of \u674e\u56db encompass \u54b3\u8840&#12290;&#36825;&#34920;&#26126;\u674e\u56db&#36825;&#19968;&#23454;&#20307;&#30340;&#20027;&#35201;&#30149;&#30151;&#20043;&#19968;&#19982;\u54b3\u8840&#30456;&#20851;&#65292;&#20854;&#30151;&#29366;&#20063;&#21253;&#25324;&#20102;\u54b3\u8840&#12290;&#22240;&#27492;&#65292;&#21487;&#20197;&#24635;&#32467;&#20026;&#65306;&#20027;&#35201;&#30149;&#30151;&#28041;&#21450;\(\u674e\u56db\)&#21644;\(\u54b3\u8840\)&#20043;&#38388;&#30340;&#20851;&#32852;&#65292;&#20854;&#20013;\(\u674e\u56db\)&#30340;&#30151;&#29366;&#21253;&#25324;&#20102;\(\u54b3\u8840\)&#12290;</data>
+      <data key="d10">be7691ab98878ab9570b9627d6b0ad56,f8e5a84adc8b7cad5c61b64465d75589</data>
+      <data key="d11">7f65feab75424b53b24470d305ba331a</data>
+      <data key="d12">21</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#25345;&#32493;&#21683;&#30192;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#25345;&#32493;&#21683;&#30192;</data>
+      <data key="d10">b703de98d70076a8d5dce33d2af15b30</data>
+      <data key="d11">fd9cb733b28d420cb5cef01e545a132c</data>
+      <data key="d12">22</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#21683;&#22013;">
+      <data key="d8">2.0</data>
+      <data key="d9">The primary condition of \u674e\u56db is associated with \u54b3\u55fd, and the symptoms experienced by \u674e\u56db encompass respiratory issues. This summary integrates both provided descriptions, indicating that \u674e\u56db's main condition is directly linked to respiratory (&#32954;) problems, which aligns with the given data.</data>
+      <data key="d10">0757e6b0ca4544368f1da650f35f5940,be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+      <data key="d12">23</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#21693;&#21897;&#30171;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#30151;&#29366;&#21253;&#25324;&#21693;&#21897;&#30171;</data>
+      <data key="d10">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">482027a59f32484c9c44fd700615c1b6</data>
+      <data key="d12">24</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#21457;&#28909;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#30151;&#29366;&#21253;&#25324;&#21457;&#28909;</data>
+      <data key="d10">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">de837ff3d626451282ff6ac77a82216d</data>
+      <data key="d12">25</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#27969;&#24863;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#30151;&#29366;&#21253;&#25324;&#27969;&#24863;&#30151;&#29366;&#65292;&#22914;&#21457;&#28909;&#12289;&#21683;&#22013;&#31561;</data>
+      <data key="d10">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">460295fed3ae4cd39f9f274cec9c2506</data>
+      <data key="d12">26</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#27969;&#40763;&#28053;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#30151;&#29366;&#21253;&#25324;&#27969;&#40763;&#28053;</data>
+      <data key="d10">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">553b285bba60460ab1ed8341ae61282b</data>
+      <data key="d12">27</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#25171;&#21943;&#22159;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#30151;&#29366;&#21253;&#25324;&#25171;&#21943;&#22159;</data>
+      <data key="d10">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">cec95bf17e7e4c939b56c9c6f402a29f</data>
+      <data key="d12">28</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#27668;&#21912;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#30151;&#29366;&#21253;&#25324;&#27668;&#21912;</data>
+      <data key="d10">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">599164aead034bc19446efacc77554d2</data>
+      <data key="d12">29</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#33016;&#38391;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#30151;&#29366;&#21253;&#25324;&#33016;&#38391;</data>
+      <data key="d10">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d12">30</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#33016;&#30171;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#30151;&#29366;&#21253;&#25324;&#33016;&#30171;</data>
+      <data key="d10">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d12">31</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#25903;&#27668;&#31649;&#21742;&#21912;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#35786;&#26029;&#21487;&#33021;&#21253;&#25324;&#25903;&#27668;&#31649;&#21742;&#21912;</data>
+      <data key="d10">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d12">32</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;">
+      <data key="d8">2.0</data>
+      <data key="d9">The entity "\u674e\u56db" (Patient Jia) has been diagnosed with a condition that may include or is specifically identified as \u6162\u6027\u963b\u585e\u6027\u80ba\u75c5 (Severe Bronchitis). This diagnosis suggests that Patient Jia's bronchial tubes are significantly inflamed, potentially leading to respiratory difficulties. The patient has undergone a medical examination that confirmed the presence of this condition, indicating a clear and specific diagnosis related to severe bronchitis.</data>
+      <data key="d10">904ba948f345e1478c0af2ba1ab0580d,be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d12">33</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;</data>
+      <data key="d10">904ba948f345e1478c0af2ba1ab0580d</data>
+      <data key="d11">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d12">34</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;</data>
+      <data key="d10">716409f50432b6d41a72097d79c4e274</data>
+      <data key="d11">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d12">35</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26446;&#22235;" target="&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#22235;&#30340;&#30151;&#29366;&#21253;&#25324;&#21693;&#21897;&#30171;&#21644;&#21457;&#28909;</data>
+      <data key="d10">3ee54586d04831d6be8582843aa8318a</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">36</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;" target="&#26519;&#22823;&#38686;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26519;&#22823;&#38686;&#34987;&#35786;&#26029;&#20026;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;</data>
+      <data key="d10">98a4bab38cf61c4ed1cd9fd183ef097b</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">37</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;" target="&#32599;&#24314;&#30922;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#32599;&#24314;&#30922;&#34987;&#35786;&#26029;&#20026;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;</data>
+      <data key="d10">fa451ce26e62193d59e40bb4ca6713df</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">38</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;" target="&#39640;&#23159;&#30922;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39640;&#23159;&#30922;&#34987;&#35786;&#26029;&#20026;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;</data>
+      <data key="d10">5a04414d369f14d70f2774376896bdef</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">39</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;" target="&#33016;&#38391;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#33016;&#38391;&#21487;&#33021;&#26159;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&#30340;&#30151;&#29366;&#20043;&#19968;</data>
+      <data key="d10">4124751013f57c238dd7139a10dfdff1</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">40</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;" target="&#33016;&#30171;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#33016;&#30171;&#21487;&#33021;&#26159;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&#30340;&#30151;&#29366;&#20043;&#19968;</data>
+      <data key="d10">4124751013f57c238dd7139a10dfdff1</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">41</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;" target="&#36213;&#22823;&#29618;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#36213;&#22823;&#29618;&#34987;&#35786;&#26029;&#20026;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;</data>
+      <data key="d10">922876b108baab4b16ce9f7231d20609</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">42</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#39640;&#28903;&#21683;&#22013;" target="&#39640;&#20013;&#27915;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39640;&#20013;&#27915;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#39640;&#28903;&#21644;&#21683;&#22013;</data>
+      <data key="d10">558b3868ecf2410309cb4052382d06b5</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">43</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#39640;&#28903;&#21683;&#22013;" target="&#26446;&#20339;&#20521;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#20339;&#20521;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#39640;&#28903;&#21644;&#21683;&#22013;</data>
+      <data key="d10">91ef2a256c68cd35b3c168751fd9367a</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">44</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#39640;&#28903;&#21683;&#22013;" target="&#21556;&#24535;&#21018;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#21556;&#24535;&#21018;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#39640;&#28903;&#21644;&#21683;&#22013;</data>
+      <data key="d10">00b3f2d0c0c3f7ceff3d20f2bc949572</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">45</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#28814;" target="&#39640;&#20013;&#27915;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39640;&#20013;&#27915;&#34987;&#35786;&#26029;&#20026;&#32954;&#28814;</data>
+      <data key="d10">558b3868ecf2410309cb4052382d06b5</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">46</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#28814;" target="&#26446;&#26480;&#21018;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#26480;&#21018;&#34987;&#35786;&#26029;&#20026;&#32954;&#28814;</data>
+      <data key="d10">508324e0146372b3c612f47a11623372</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">47</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#28814;" target="&#23385;&#30922;&#35946;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#23385;&#30922;&#35946;&#34987;&#35786;&#26029;&#20026;&#32954;&#28814;</data>
+      <data key="d10">1faeb8e8a4729ccb9e4eaed54117b966</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">48</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#28814;" target="&#21628;&#21560;&#22256;&#38590;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#32954;&#28814;&#21487;&#33021;&#23548;&#33268;&#24739;&#32773;&#20986;&#29616;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d10">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">49</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#28814;" target="&#27668;&#21912;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#32954;&#28814;&#21487;&#33021;&#23548;&#33268;&#24739;&#32773;&#20986;&#29616;&#27668;&#21912;&#29616;&#35937;</data>
+      <data key="d10">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">50</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#28814;" target="&#33016;&#38391;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#33016;&#38391;&#21487;&#33021;&#26159;&#32954;&#28814;&#30340;&#30151;&#29366;&#20043;&#19968;</data>
+      <data key="d10">4124751013f57c238dd7139a10dfdff1</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">51</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#28814;" target="&#33016;&#30171;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#33016;&#30171;&#21487;&#33021;&#26159;&#32954;&#28814;&#30340;&#24182;&#21457;&#30151;&#25110;&#30151;&#29366;&#20043;&#19968;</data>
+      <data key="d10">4124751013f57c238dd7139a10dfdff1</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">52</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#28814;" target="&#39640;&#22269;&#26976;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39640;&#22269;&#26976;&#34987;&#35786;&#26029;&#20026;&#32954;&#28814;</data>
+      <data key="d10">381f16dceb2904b8fc0dba3b0b794e33</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">53</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#28814;" target="&#21608;&#24535;&#27915;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#21608;&#24535;&#27915;&#34987;&#35786;&#26029;&#20026;&#32954;&#28814;</data>
+      <data key="d10">b5585474da6b01b1fbf52e798e2103aa</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">54</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#28814;" target="&#20309;&#23567;&#30922;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#20309;&#23567;&#30922;&#34987;&#35786;&#26029;&#20026;&#32954;&#28814;</data>
+      <data key="d10">1be49fdcaedc95d28a22aa5312725314</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">55</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#28814;" target="&#40644;&#20891;&#40527;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#40644;&#20891;&#40527;&#34987;&#35786;&#26029;&#20026;&#32954;&#28814;</data>
+      <data key="d10">dbf91170f46be6e366511edc13db9dbe</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">56</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;" target="&#39640;&#26480;&#23792;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39640;&#26480;&#23792;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#25171;&#21943;&#22159;&#21644;&#27969;&#40763;&#28053;</data>
+      <data key="d10">7e814ef2477dcb1b249cfbfb875ed7db</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">57</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;" target="&#36213;&#22823;&#29618;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#36213;&#22823;&#29618;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#25171;&#21943;&#22159;&#21644;&#27969;&#40763;&#28053;</data>
+      <data key="d10">922876b108baab4b16ce9f7231d20609</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">58</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;" target="&#40644;&#20891;&#40527;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#40644;&#20891;&#40527;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#25171;&#21943;&#22159;&#21644;&#27969;&#40763;&#28053;</data>
+      <data key="d10">dbf91170f46be6e366511edc13db9dbe</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">59</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26519;&#22823;&#38686;" target="&#21628;&#21560;&#22256;&#38590;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26519;&#22823;&#38686;&#30340;&#20027;&#35201;&#30151;&#29366;&#20026;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d10">98a4bab38cf61c4ed1cd9fd183ef097b</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">60</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21628;&#21560;&#22256;&#38590;" target="&#24352;&#38634;&#20255;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#24352;&#38634;&#20255;&#30340;&#20027;&#35201;&#30151;&#29366;&#20026;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d10">ac2ee3b8814f76c549d3f44ad17b183c</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">61</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21628;&#21560;&#22256;&#38590;" target="&#39532;&#38634;&#20255;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39532;&#38634;&#20255;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d10">7d9d5989f95f62517d02d326446f998a</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">62</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21628;&#21560;&#22256;&#38590;" target="&#25903;&#27668;&#31649;&#21742;&#21912;">
+      <data key="d8">2.0</data>
+      <data key="d9">The entity "\u652f\u6c14\u7ba1\u54ee\u5598" (Bronchial Asthma) can potentially exacerbate the condition of "\u547c\u5438\u56f0\u96be" (Pneumonia). The primary characteristics of bronchial asthma include its tendency to worsen pneumonia. This relationship highlights the importance of managing and monitoring both conditions in patients, as bronchial asthma may significantly impact the progression and severity of pneumonia.</data>
+      <data key="d10">be7691ab98878ab9570b9627d6b0ad56,df2c6ab83106c83977b056cdad0fb9d2</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">63</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21628;&#21560;&#22256;&#38590;" target="&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&#30340;&#20027;&#35201;&#30151;&#29366;&#20043;&#19968;&#26159;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d10">be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">64</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21628;&#21560;&#22256;&#38590;" target="&#38472;&#20339;&#25935;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#38472;&#20339;&#25935;&#30340;&#20027;&#35201;&#30151;&#29366;&#20026;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d10">497733f4242b847c15c9b7691c9dcfca</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">65</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21628;&#21560;&#22256;&#38590;" target="&#24739;&#32773;&#26446;&#22235;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#24739;&#32773;&#26446;&#22235;&#30340;&#30151;&#29366;&#20043;&#19968;&#26159;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d10">df2c6ab83106c83977b056cdad0fb9d2</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">66</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21628;&#21560;&#22256;&#38590;" target="&#36213;&#20029;&#19996;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#36213;&#20029;&#19996;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d10">6b144bca08bd92c65ef6b7bf0bb1b210</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">67</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21628;&#21560;&#22256;&#38590;" target="&#39532;&#20891;&#20521;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39532;&#20891;&#20521;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d10">b8062090060526d049eb6f7be030d785</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">68</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21628;&#21560;&#22256;&#38590;" target="&#26446;&#23567;&#29618;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#23567;&#29618;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21628;&#21560;&#22256;&#38590;</data>
+      <data key="d10">3a2ef7edaa7d1f729127d6fdb0813080</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">69</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#20309;&#26480;&#29618;" target="&#36807;&#25935;&#24615;&#21742;&#21912;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#20309;&#26480;&#29618;&#34987;&#35786;&#26029;&#20026;&#36807;&#25935;&#24615;&#21742;&#21912;</data>
+      <data key="d10">50f2b4cf3de396f11e71c2051ec0ffd2</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">70</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#20309;&#26480;&#29618;" target="&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#20309;&#26480;&#29618;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;</data>
+      <data key="d10">50f2b4cf3de396f11e71c2051ec0ffd2</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">71</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#36807;&#25935;&#24615;&#21742;&#21912;" target="&#20309;&#26480;&#20521;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#20309;&#26480;&#20521;&#34987;&#35786;&#26029;&#20026;&#36807;&#25935;&#24615;&#21742;&#21912;</data>
+      <data key="d10">cc39e2721a0c39f0ed221e6b017fb2fe</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">72</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#36807;&#25935;&#24615;&#21742;&#21912;" target="&#40644;&#23159;&#21018;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#40644;&#23159;&#21018;&#34987;&#35786;&#26029;&#20026;&#36807;&#25935;&#24615;&#21742;&#21912;</data>
+      <data key="d10">e427b50b62d503d70c3abe806b370771</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">73</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#36807;&#25935;&#24615;&#21742;&#21912;" target="&#26472;&#24314;&#27915;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26472;&#24314;&#27915;&#34987;&#35786;&#26029;&#20026;&#36807;&#25935;&#24615;&#21742;&#21912;</data>
+      <data key="d10">65bfc0741ad81847e0c163e0be08fd3d</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">74</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#36807;&#25935;&#24615;&#21742;&#21912;" target="&#26446;&#20339;&#20521;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#20339;&#20521;&#34987;&#35786;&#26029;&#20026;&#36807;&#25935;&#24615;&#21742;&#21912;</data>
+      <data key="d10">91ef2a256c68cd35b3c168751fd9367a</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">75</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;" target="&#20309;&#26480;&#20521;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#20309;&#26480;&#20521;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;</data>
+      <data key="d10">cc39e2721a0c39f0ed221e6b017fb2fe</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">76</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21016;&#33521;&#29618;" target="&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#21016;&#33521;&#29618;&#34987;&#35786;&#26029;&#20026;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;</data>
+      <data key="d10">13350cddc13909741d3af301b52c2b46</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">77</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21016;&#33521;&#29618;" target="&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#21016;&#33521;&#29618;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d10">13350cddc13909741d3af301b52c2b46</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">78</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;" target="&#39532;&#38634;&#20255;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39532;&#38634;&#20255;&#34987;&#35786;&#26029;&#20026;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;</data>
+      <data key="d10">7d9d5989f95f62517d02d326446f998a</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">79</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;" target="&#33016;&#38391;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#33016;&#38391;&#21487;&#20197;&#26159;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&#30340;&#20276;&#38543;&#30151;&#29366;&#20043;&#19968;</data>
+      <data key="d10">4124751013f57c238dd7139a10dfdff1</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">80</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;" target="&#33016;&#30171;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#33016;&#30171;&#21487;&#33021;&#20276;&#38543;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&#20986;&#29616;</data>
+      <data key="d10">4124751013f57c238dd7139a10dfdff1</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">81</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;" target="&#26519;&#20029;&#38745;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26519;&#20029;&#38745;&#34987;&#35786;&#26029;&#20026;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;</data>
+      <data key="d10">98394455ee25a4587117498bc9e46b6d</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">82</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;" target="&#40644;&#23159;&#21018;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#40644;&#23159;&#21018;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d10">e427b50b62d503d70c3abe806b370771</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">83</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;" target="&#32993;&#33521;&#26976;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#32993;&#33521;&#26976;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d10">0999acfd62f9ab018267ec13257b00b6</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">84</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;" target="&#39640;&#23159;&#30922;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39640;&#23159;&#30922;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d10">5a04414d369f14d70f2774376896bdef</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">85</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;" target="&#23385;&#30922;&#35946;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#23385;&#30922;&#35946;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d10">1faeb8e8a4729ccb9e4eaed54117b966</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">86</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;" target="&#23385;&#30922;&#32724;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#23385;&#30922;&#32724;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d10">27e74b1fcd06ffd11ba52e9eca361c25</data>
+      <data key="d11">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d12">87</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;" target="&#24464;&#26480;&#38686;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#24464;&#26480;&#38686;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d10">f417d04076a08025ab592a452e2c880d</data>
+      <data key="d11">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d12">88</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;" target="&#26472;&#20029;&#32724;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26472;&#20029;&#32724;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d10">dc9b711e7879ae20059d90729584ec53</data>
+      <data key="d11">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d12">89</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;" target="&#21608;&#28009;&#27915;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#21608;&#28009;&#27915;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21693;&#21897;&#30171;&#20276;&#38543;&#21457;&#28909;</data>
+      <data key="d10">b1254b39f57b6cf235c1be2a01c947e0</data>
+      <data key="d11">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d12">90</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#39640;&#26480;&#23792;" target="&#32954;&#27668;&#32959;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39640;&#26480;&#23792;&#34987;&#35786;&#26029;&#20026;&#32954;&#27668;&#32959;</data>
+      <data key="d10">7e814ef2477dcb1b249cfbfb875ed7db</data>
+      <data key="d11">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d12">91</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#27668;&#32959;" target="&#24464;&#20013;&#23792;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#24464;&#20013;&#23792;&#34987;&#35786;&#26029;&#20026;&#32954;&#27668;&#32959;</data>
+      <data key="d10">b58034e6537f78c9687b4fccbd847065</data>
+      <data key="d11">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d12">92</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#27668;&#32959;" target="&#32993;&#33521;&#26976;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#32993;&#33521;&#26976;&#34987;&#35786;&#26029;&#20026;&#32954;&#27668;&#32959;</data>
+      <data key="d10">0999acfd62f9ab018267ec13257b00b6</data>
+      <data key="d11">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d12">93</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#27668;&#32959;" target="&#24352;&#25991;&#23792;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#24352;&#25991;&#23792;&#34987;&#35786;&#26029;&#20026;&#32954;&#27668;&#32959;</data>
+      <data key="d10">10e6dd3f9cc2eb5bed0abb8e67430f50</data>
+      <data key="d11">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d12">94</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#27668;&#32959;" target="&#37101;&#24535;&#38686;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#37101;&#24535;&#38686;&#34987;&#35786;&#26029;&#20026;&#32954;&#27668;&#32959;</data>
+      <data key="d10">4252c5ebe891a01bc80fe2cbe97c43f3</data>
+      <data key="d11">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d12">95</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;" target="&#20309;&#22269;&#23792;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#20309;&#22269;&#23792;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;</data>
+      <data key="d10">339889400ac018e70d0f00c486ab52af</data>
+      <data key="d11">68e0c60d2e8845d89d9d0ad397833648</data>
+      <data key="d12">96</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;" target="&#39640;&#22823;&#32724;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39640;&#22823;&#32724;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;</data>
+      <data key="d10">864665bab4cf4ccfcd350e5c448c7b33</data>
+      <data key="d11">101572f552b54e529fe7765c05168981</data>
+      <data key="d12">97</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;" target="&#26417;&#20339;&#24378;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26417;&#20339;&#24378;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;</data>
+      <data key="d10">b74b94c9685d4484dc383961b311aa8b</data>
+      <data key="d11">60c58026b2764b40adffca6eaa31d6d9</data>
+      <data key="d12">98</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;" target="&#39640;&#22269;&#26976;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39640;&#22269;&#26976;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;</data>
+      <data key="d10">381f16dceb2904b8fc0dba3b0b794e33</data>
+      <data key="d11">ad1595a78935472999444c9330e7730e</data>
+      <data key="d12">99</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;" target="&#24464;&#25991;&#29747;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#24464;&#25991;&#29747;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;</data>
+      <data key="d10">631a7e3223e15e6fd6edb12c2015fe31</data>
+      <data key="d11">735d19aea0744b2295556841c5c4c3fd</data>
+      <data key="d12">100</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;" target="&#24352;&#22269;&#35946;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#24352;&#22269;&#35946;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;</data>
+      <data key="d10">fe2f2ad162d3cfcf5a5e32b35bf6b360</data>
+      <data key="d11">c725babdb14a485582f8fbdf95429030</data>
+      <data key="d12">101</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;" target="&#20309;&#23567;&#30922;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#20309;&#23567;&#30922;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;</data>
+      <data key="d10">1be49fdcaedc95d28a22aa5312725314</data>
+      <data key="d11">a0047221896d418d849847d422fa4bb8</data>
+      <data key="d12">102</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#24464;&#20013;&#23792;" target="&#24178;&#21683;&#19981;&#27490;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#24464;&#20013;&#23792;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#25345;&#32493;&#24615;&#24178;&#21683;</data>
+      <data key="d10">b58034e6537f78c9687b4fccbd847065</data>
+      <data key="d11">98fc2ee593184c5a839454db4eec7013</data>
+      <data key="d12">103</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#24178;&#21683;&#19981;&#27490;" target="&#32993;&#26480;&#29618;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#32993;&#26480;&#29618;&#30340;&#30151;&#29366;&#34920;&#29616;&#20026;&#25345;&#32493;&#24615;&#24178;&#21683;</data>
+      <data key="d10">66eb2ea1b51ed6d2b52131c3313e0385</data>
+      <data key="d11">80020a1da63042459e00266b2a605452</data>
+      <data key="d12">104</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#24178;&#21683;&#19981;&#27490;" target="&#23385;&#20426;&#29618;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#23385;&#20426;&#29618;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#25345;&#32493;&#24615;&#24178;&#21683;</data>
+      <data key="d10">7bd00f70cea33abc0afdd9e60b42162e</data>
+      <data key="d11">31a7e680c4d54101afe4c8d52d246913</data>
+      <data key="d12">105</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#40644;&#20891;&#35946;" target="&#25345;&#32493;&#21683;&#30192;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#40644;&#20891;&#35946;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#25345;&#32493;&#21683;&#30192;</data>
+      <data key="d10">fced258601d56a5bb394966b0dfbdc17</data>
+      <data key="d11">351abba16e5c448994c6daf48121b14d</data>
+      <data key="d12">106</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#25345;&#32493;&#21683;&#30192;" target="&#26417;&#26480;&#40527;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26417;&#26480;&#40527;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#25345;&#32493;&#21683;&#30192;</data>
+      <data key="d10">e9aa8c7878a7ae2a29f462eda868f201</data>
+      <data key="d11">50ea7d3b69614bcdbfbff7ddbfbf3d34</data>
+      <data key="d12">107</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#25345;&#32493;&#21683;&#30192;" target="&#26446;&#28009;&#23068;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#28009;&#23068;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#25345;&#32493;&#21683;&#30192;</data>
+      <data key="d10">d113918110a60fa0f033eb498b39cc83</data>
+      <data key="d11">004f40a5aeca48a1879db728eb12bcba</data>
+      <data key="d12">108</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#25345;&#32493;&#21683;&#30192;" target="&#21016;&#20426;&#23431;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#21016;&#20426;&#23431;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#25345;&#32493;&#21683;&#30192;</data>
+      <data key="d10">d8af756c0f3793583fa23ef89db0d559</data>
+      <data key="d11">4465efb7f6ed4dedad72a658184addd2</data>
+      <data key="d12">109</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32599;&#24314;&#30922;" target="&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#32599;&#24314;&#30922;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;</data>
+      <data key="d10">fa451ce26e62193d59e40bb4ca6713df</data>
+      <data key="d11">b0dd60e11dad4ff782623acf039b3948</data>
+      <data key="d12">110</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;" target="&#24352;&#25991;&#23792;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#24352;&#25991;&#23792;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;</data>
+      <data key="d10">10e6dd3f9cc2eb5bed0abb8e67430f50</data>
+      <data key="d11">db8c43fa4df947b09e5754d3b1393ead</data>
+      <data key="d12">111</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;" target="&#37101;&#20339;&#23792;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#37101;&#20339;&#23792;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;</data>
+      <data key="d10">f7c333a14c39dd5b876bfb0990d4dd50</data>
+      <data key="d11">5dabc4cd05da425cb194a04482bf0c29</data>
+      <data key="d12">112</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;" target="&#23385;&#22269;&#25935;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#23385;&#22269;&#25935;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;</data>
+      <data key="d10">7e350b9370b46844dea072a23af8b52e</data>
+      <data key="d11">9d08f285a7be4c79b8f359c51d51db37</data>
+      <data key="d12">113</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;" target="&#26519;&#20029;&#38745;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26519;&#20029;&#38745;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;</data>
+      <data key="d10">98394455ee25a4587117498bc9e46b6d</data>
+      <data key="d11">adffed660d154b519c1817e514e83096</data>
+      <data key="d12">114</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;" target="&#21608;&#24535;&#27915;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#21608;&#24535;&#27915;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;</data>
+      <data key="d10">b5585474da6b01b1fbf52e798e2103aa</data>
+      <data key="d11">b7e9c9ef572c445a9574ca571e41fb96</data>
+      <data key="d12">115</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#37101;&#24535;&#38686;" target="&#33016;&#21475;&#30140;&#30171;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#37101;&#24535;&#38686;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#33016;&#21475;&#30140;&#30171;</data>
+      <data key="d10">4252c5ebe891a01bc80fe2cbe97c43f3</data>
+      <data key="d11">dcb9f281cd6248c699e0ebb285a42a5e</data>
+      <data key="d12">116</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#33016;&#21475;&#30140;&#30171;" target="&#26446;&#26480;&#21018;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#26480;&#21018;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#33016;&#21475;&#30140;&#30171;</data>
+      <data key="d10">508324e0146372b3c612f47a11623372</data>
+      <data key="d11">072cdee531b74513984f49d99a8d64a0</data>
+      <data key="d12">117</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#37101;&#20339;&#23792;" target="&#25903;&#27668;&#31649;&#21742;&#21912;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#37101;&#20339;&#23792;&#34987;&#35786;&#26029;&#20026;&#25903;&#27668;&#31649;&#21742;&#21912;</data>
+      <data key="d10">f7c333a14c39dd5b876bfb0990d4dd50</data>
+      <data key="d11">5ae335d9210a45fda3f92a9a028d6d9b</data>
+      <data key="d12">118</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#25903;&#27668;&#31649;&#21742;&#21912;" target="&#33016;&#38391;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#33016;&#38391;&#21487;&#20197;&#26159;&#25903;&#27668;&#31649;&#21742;&#21912;&#30340;&#20276;&#38543;&#30151;&#29366;&#20043;&#19968;</data>
+      <data key="d10">4124751013f57c238dd7139a10dfdff1</data>
+      <data key="d11">5ac60a941a5b4934bdc43d2f87de601c</data>
+      <data key="d12">119</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#25903;&#27668;&#31649;&#21742;&#21912;" target="&#39640;&#22823;&#32724;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39640;&#22823;&#32724;&#34987;&#35786;&#26029;&#20026;&#25903;&#27668;&#31649;&#21742;&#21912;</data>
+      <data key="d10">864665bab4cf4ccfcd350e5c448c7b33</data>
+      <data key="d11">d405c3154d0e48ce96fad4c28fe20590</data>
+      <data key="d12">120</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#25903;&#27668;&#31649;&#21742;&#21912;" target="&#24739;&#32773;&#26446;&#22235;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#24739;&#32773;&#26446;&#22235;&#34987;&#35786;&#26029;&#20026;&#25903;&#27668;&#31649;&#21742;&#21912;</data>
+      <data key="d10">df2c6ab83106c83977b056cdad0fb9d2</data>
+      <data key="d11">7923d8521c744bd9aab131c1aea91ffd</data>
+      <data key="d12">121</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#25903;&#27668;&#31649;&#21742;&#21912;" target="&#26417;&#20339;&#24378;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26417;&#20339;&#24378;&#34987;&#35786;&#26029;&#20026;&#25903;&#27668;&#31649;&#21742;&#21912;</data>
+      <data key="d10">b74b94c9685d4484dc383961b311aa8b</data>
+      <data key="d11">5bd156c87ec44e19ae6f8f62e6e50b9d</data>
+      <data key="d12">122</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#25903;&#27668;&#31649;&#21742;&#21912;" target="&#21608;&#28009;&#27915;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#21608;&#28009;&#27915;&#34987;&#35786;&#26029;&#20026;&#25903;&#27668;&#31649;&#21742;&#21912;</data>
+      <data key="d10">b1254b39f57b6cf235c1be2a01c947e0</data>
+      <data key="d11">c1a146d7fb16429ea6d0aa2a55ee597f</data>
+      <data key="d12">123</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#25903;&#27668;&#31649;&#21742;&#21912;" target="&#39532;&#26480;&#40527;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39532;&#26480;&#40527;&#34987;&#35786;&#26029;&#20026;&#25903;&#27668;&#31649;&#21742;&#21912;</data>
+      <data key="d10">abcf535f72153dcc11cd1d601c51eeb4</data>
+      <data key="d11">ede9350632084da5b0b577ff799ab14b</data>
+      <data key="d12">124</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#32467;&#26680;" target="&#23385;&#20426;&#29618;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#23385;&#20426;&#29618;&#34987;&#35786;&#26029;&#20026;&#32954;&#32467;&#26680;</data>
+      <data key="d10">7bd00f70cea33abc0afdd9e60b42162e</data>
+      <data key="d11">ed559fb4ebde45518849ec803b350fa3</data>
+      <data key="d12">125</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#32467;&#26680;" target="&#33016;&#30171;">
+      <data key="d8">2.0</data>
+      <data key="d9">The entity "&#24052;&#35299;&#32452;" (Ba Jie Zou) is potentially associated with the emergence of "&#32954;&#30142;&#30151;" (Fei Ji Zheng, Pulmonary Disease) conditions in individuals. Additionally, there is a possible correlation between "&#32954;&#30142;&#30151;" and "&#24052;&#35299;&#32452;" that suggests these entities may have a mutual relationship or interaction. This summary integrates information from both provided descriptions, acknowledging the potential link between the two entities in the context of pulmonary health issues.</data>
+      <data key="d10">4124751013f57c238dd7139a10dfdff1,be7691ab98878ab9570b9627d6b0ad56</data>
+      <data key="d11">f422035f8b78417f98e4d116971cf9f3</data>
+      <data key="d12">126</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#32467;&#26680;" target="&#36213;&#20029;&#19996;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#36213;&#20029;&#19996;&#34987;&#35786;&#26029;&#20026;&#32954;&#32467;&#26680;</data>
+      <data key="d10">6b144bca08bd92c65ef6b7bf0bb1b210</data>
+      <data key="d11">c79d686eba044c5586c706cdc096817d</data>
+      <data key="d12">127</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#32467;&#26680;" target="&#39532;&#20891;&#20521;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#39532;&#20891;&#20521;&#34987;&#35786;&#26029;&#20026;&#32954;&#32467;&#26680;</data>
+      <data key="d10">b8062090060526d049eb6f7be030d785</data>
+      <data key="d11">0f70db1e598d463fbbcdd1e288bd9490</data>
+      <data key="d12">128</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#32467;&#26680;" target="&#26472;&#20029;&#32724;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26472;&#20029;&#32724;&#34987;&#35786;&#26029;&#20026;&#32954;&#32467;&#26680;</data>
+      <data key="d10">dc9b711e7879ae20059d90729584ec53</data>
+      <data key="d11">b35c3d1a7daa4924b6bdb58bc69c354d</data>
+      <data key="d12">129</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#32467;&#26680;" target="&#26446;&#23567;&#29618;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#23567;&#29618;&#34987;&#35786;&#26029;&#20026;&#32954;&#32467;&#26680;</data>
+      <data key="d10">3a2ef7edaa7d1f729127d6fdb0813080</data>
+      <data key="d11">a97e2ecd870944cfbe71c79bc0fcc752</data>
+      <data key="d12">130</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#32467;&#26680;" target="&#21556;&#24535;&#21018;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#21556;&#24535;&#21018;&#34987;&#35786;&#26029;&#20026;&#32954;&#32467;&#26680;</data>
+      <data key="d10">00b3f2d0c0c3f7ceff3d20f2bc949572</data>
+      <data key="d11">3e1b063bbfa9423d84e50311296d2f3c</data>
+      <data key="d12">131</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#32954;&#32467;&#26680;" target="&#21016;&#29577;&#38686;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#21016;&#29577;&#38686;&#34987;&#35786;&#26029;&#20026;&#32954;&#32467;&#26680;</data>
+      <data key="d10">11a17a6cd42ce5b3da45c95a04b90f4a</data>
+      <data key="d11">9a8ce816ee954bdabd01ea2081538009</data>
+      <data key="d12">132</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#20309;&#22269;&#23792;" target="&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#20309;&#22269;&#23792;&#34987;&#35786;&#26029;&#20026;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;</data>
+      <data key="d10">339889400ac018e70d0f00c486ab52af</data>
+      <data key="d11">09f18f81442d4d6d93a90f0fac683f9b</data>
+      <data key="d12">133</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;" target="&#23385;&#22269;&#25935;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#23385;&#22269;&#25935;&#34987;&#35786;&#26029;&#20026;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;</data>
+      <data key="d10">7e350b9370b46844dea072a23af8b52e</data>
+      <data key="d11">e02be3e37ca0454883a4c1fd859c24bb</data>
+      <data key="d12">134</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;" target="&#33016;&#38391;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#33016;&#38391;&#21487;&#33021;&#19982;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&#30456;&#20851;&#32852;</data>
+      <data key="d10">4124751013f57c238dd7139a10dfdff1</data>
+      <data key="d11">6e0c81bef5364c988b21bf9b709d9861</data>
+      <data key="d12">135</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;" target="&#33016;&#30171;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#33016;&#30171;&#21487;&#33021;&#20986;&#29616;&#22312;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&#24739;&#32773;&#20013;</data>
+      <data key="d10">4124751013f57c238dd7139a10dfdff1</data>
+      <data key="d11">1dbc51475cb04dafa4a8833a8378635e</data>
+      <data key="d12">136</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;" target="&#23385;&#30922;&#32724;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#23385;&#30922;&#32724;&#34987;&#35786;&#26029;&#20026;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;</data>
+      <data key="d10">27e74b1fcd06ffd11ba52e9eca361c25</data>
+      <data key="d11">c12b9ebd8b4e42b7896822a32e3fa6eb</data>
+      <data key="d12">137</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;" target="&#26446;&#28009;&#23068;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#26446;&#28009;&#23068;&#34987;&#35786;&#26029;&#20026;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;</data>
+      <data key="d10">d113918110a60fa0f033eb498b39cc83</data>
+      <data key="d11">27505f6ade4b4e5f9316ffe9c34821f7</data>
+      <data key="d12">138</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#27969;&#34892;&#24615;&#24863;&#20882;" target="&#33016;&#38391;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#33016;&#38391;&#21487;&#20197;&#26159;&#27969;&#34892;&#24615;&#24863;&#20882;&#30340;&#30151;&#29366;&#20043;&#19968;</data>
+      <data key="d10">4124751013f57c238dd7139a10dfdff1</data>
+      <data key="d11">0ee7db2c6bea4630ba9f0c25e8a967ad</data>
+      <data key="d12">139</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#27969;&#34892;&#24615;&#24863;&#20882;" target="&#33016;&#30171;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#33016;&#30171;&#21487;&#33021;&#26159;&#27969;&#34892;&#24615;&#24863;&#20882;&#30340;&#30151;&#29366;&#20043;&#19968;</data>
+      <data key="d10">4124751013f57c238dd7139a10dfdff1</data>
+      <data key="d11">5a6c1d15424149f69052cd8d91fbff75</data>
+      <data key="d12">140</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#27969;&#34892;&#24615;&#24863;&#20882;" target="&#38472;&#20339;&#25935;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#38472;&#20339;&#25935;&#34987;&#35786;&#26029;&#20026;&#27969;&#34892;&#24615;&#24863;&#20882;</data>
+      <data key="d10">497733f4242b847c15c9b7691c9dcfca</data>
+      <data key="d11">d005bf75c31d4848ad7041f39651e59c</data>
+      <data key="d12">141</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#27969;&#34892;&#24615;&#24863;&#20882;" target="&#24464;&#26480;&#38686;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#24464;&#26480;&#38686;&#34987;&#35786;&#26029;&#20026;&#27969;&#34892;&#24615;&#24863;&#20882;</data>
+      <data key="d10">f417d04076a08025ab592a452e2c880d</data>
+      <data key="d11">9b3eef8f3a3a45e6873838db95295b8a</data>
+      <data key="d12">142</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#27969;&#34892;&#24615;&#24863;&#20882;" target="&#21016;&#20426;&#23431;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#21016;&#20426;&#23431;&#34987;&#35786;&#26029;&#20026;&#27969;&#34892;&#24615;&#24863;&#20882;</data>
+      <data key="d10">d8af756c0f3793583fa23ef89db0d559</data>
+      <data key="d11">fdc954b454744820804d7798f3e0b5de</data>
+      <data key="d12">143</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="2025&#24180;1&#26376;2&#26085;&#36215;&#33267;&#20170;" target="&#24739;&#32773;&#26446;&#22235;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#27492;&#26102;&#38388;&#27573;&#20869;&#65292;&#24739;&#32773;&#26446;&#22235;&#25345;&#32493;&#23384;&#22312;&#30151;&#29366;&#21644;&#35786;&#26029;&#32467;&#26524;</data>
+      <data key="d10">df2c6ab83106c83977b056cdad0fb9d2</data>
+      <data key="d11">49c1383836934ec495c3b35769100a73</data>
+      <data key="d12">144</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="2025&#24180;1&#26376;1&#26085;&#36215;" target="&#38500;&#26446;&#22235;&#22806;&#20854;&#20182;&#25152;&#26377;&#24739;&#32773;&#19981;&#20877;&#26377;&#21628;&#21560;&#22256;&#38590;&#30151;&#29366;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#20174;2025&#24180;1&#26376;1&#26085;&#36215;&#65292;&#38500;&#20102;&#26446;&#22235;&#20043;&#22806;&#30340;&#20854;&#20182;&#24739;&#32773;&#24050;&#32463;&#30154;&#24840;&#24182;&#19981;&#20877;&#26377;&#21628;&#21560;&#22256;&#38590;&#30340;&#30151;&#29366;</data>
+      <data key="d10">df2c6ab83106c83977b056cdad0fb9d2</data>
+      <data key="d11">859dedcc3736439a8a563419f16cb3d8</data>
+      <data key="d12">145</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&#21016;&#29577;&#38686;" target="&#27963;&#21160;&#21518;&#27668;&#20419;">
+      <data key="d8">1.0</data>
+      <data key="d9">&#21016;&#29577;&#38686;&#30340;&#20027;&#35201;&#30151;&#29366;&#26159;&#27963;&#21160;&#21518;&#27668;&#20419;</data>
+      <data key="d10">11a17a6cd42ce5b3da45c95a04b90f4a</data>
+      <data key="d11">6078b9980a6c4dcd9198d151b833ead7</data>
+      <data key="d12">146</data>
+      <data key="d13">1</data>
+    </edge>
+  </graph>
+</graphml>

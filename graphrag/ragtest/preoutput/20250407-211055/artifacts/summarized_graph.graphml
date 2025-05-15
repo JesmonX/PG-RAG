@@ -1,0 +1,12 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;&#21556;&#24535;&#21018;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"Wu Zhigang, no age or address provided, has symptoms of persistent cough for over a week and was diagnosed with bronchial asthma.")("entity"</data>
+      <data key="d2">4e1937ab13a11fa46637c8240a54a420</data>
+    </node>
+  </graph>
+</graphml>

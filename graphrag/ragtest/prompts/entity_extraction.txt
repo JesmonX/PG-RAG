@@ -1,0 +1,63 @@
+
+-Goal-
+Given a text document that is potentially relevant to this activity and a list of entity types, identify all entities of those types from the text and all relationships among the identified entities.
+
+-Steps-
+1. Identify all entities. For each identified entity, extract the following information:
+- entity_name: Name of the entity, capitalized
+- entity_type: One of the following types: [时间戳, 年龄, 地址, 症状, 诊断结果]
+- The patients' names MUST NOT be extracted as entities. Instead, use "患者" (meaning "patient") to refer to them.
+- entity_description: Comprehensive description of the entity's attributes and activities
+Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>
+
+2. From the entities identified in step 1, identify all pairs of (source_entity, target_entity) that are *clearly related* to each other.
+For each pair of related entities, extract the following information:
+- source_entity: name of the source entity, as identified in step 1
+- source_entity: name of the target entity, as identified in step 1
+- source_entity and source_entity MUST belongs to the entities identified in step 1.
+- The patients' names MUST NOT be extracted into relationships. 
+- relationship_description: explanation as to why you think the source entity and the target entity are related to each other
+- relationship_strength: an integer score between 1 to 10, indicating strength of the relationship between the source entity and target entity
+
+Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+3.The patients' names should NOT be included in the output. Instead, use "患者" (meaning "patient") to refer to them.
+4. Return output in English as a single list of all the entities and relationships identified in steps 1 and 2. Use **{record_delimiter}** as the list delimiter.
+
+5. When finished, output {completion_delimiter}
+
+-Examples-
+######################
+
+Example 1:
+
+entity_types: [时间戳, 年龄, 地址, 症状, 诊断结果]
+text:
+时间戳[2025-05-01] 患者李四，年龄50，地址北京市上海市广东区，症状是咳血，医生的诊断结果是流行性感冒。
+------------------------
+output:
+
+("entity"{tuple_delimiter}"2025-05-01"{tuple_delimiter}"时间戳"{tuple_delimiter}"The timestamp indicating the date of the medical record"){record_delimiter}
+("entity"{tuple_delimiter}"50"{tuple_delimiter}"年龄"{tuple_delimiter}"Age of the patient"){record_delimiter}
+("entity"{tuple_delimiter}"北京市上海市广东区"{tuple_delimiter}"地址"{tuple_delimiter}"Residence address of the patient"){record_delimiter}
+("entity"{tuple_delimiter}"咳血"{tuple_delimiter}"症状"{tuple_delimiter}"Symptom of hemoptysis (coughing up blood)"){record_delimiter}
+("entity"{tuple_delimiter}"流行性感冒"{tuple_delimiter}"诊断结果"{tuple_delimiter}"Diagnosis of influenza"){record_delimiter}
+
+("relationship"{tuple_delimiter}"50"{tuple_delimiter}"咳血"{tuple_delimiter}"The patient aged 50 exhibits the symptom of hemoptysis"{tuple_delimiter}9){record_delimiter}
+("relationship"{tuple_delimiter}"50"{tuple_delimiter}"流行性感冒"{tuple_delimiter}"The patient aged 50 was diagnosed with influenza"{tuple_delimiter}9){record_delimiter}
+("relationship"{tuple_delimiter}"50"{tuple_delimiter}"北京市上海市广东区"{tuple_delimiter}"The 50-year-old patient resides at the specified address"{tuple_delimiter}9){record_delimiter}
+("relationship"{tuple_delimiter}"2025-05-01"{tuple_delimiter}"50"{tuple_delimiter}"The medical record for the 50-year-old patient was created on this date"{tuple_delimiter}7){record_delimiter}
+("relationship"{tuple_delimiter}"咳血"{tuple_delimiter}"流行性感冒"{tuple_delimiter}"Hemoptysis led to the diagnosis of influenza"{tuple_delimiter}10){record_delimiter}
+
+
+
+{completion_delimiter}
+#############################
+
+
+
+-Real Data-
+######################
+entity_types: [时间戳, 年龄, 地址, 症状, 诊断结果]
+text: {input_text}
+######################
+output:

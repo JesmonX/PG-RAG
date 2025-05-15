@@ -1,0 +1,124 @@
+
+<think>
+Okay, let's tackle this. The user wants a 3-4 sentence description of an expert who can help with the given task. The task is to identify relations and structure within a community of interest, specifically in the context of the sample text provided.
+
+First, I need to understand the sample text. It looks like medical records with patient details, symptoms, and diagnoses. The task is to analyze the community structure here. So the expert should have skills in medical data analysis, understanding patient demographics, and identifying patterns in health data.
+
+The example given in the prompt uses "Medical science" as the domain. The user's task is about structuring the community of interest, which in this case is likely a medical community or patient group. The expert needs to be skilled in analyzing such data, maybe in epidemiology or public health. They should be adept at mapping relationships between patients, symptoms, and diagnoses to understand the community's structure.
+
+I should make sure the expert's role is clear. Maybe a medical data analyst or public health specialist. Their skills would include data analysis, pattern recognition, and understanding medical terminology. The specific task here is to structure the community based on the provided records, so the expert should be able to categorize and relate different data points effectively.
+
+Need to keep it concise, 3-4 sentences. Start with the role, mention relevant skills, and then the specific task they help with. Avoid jargon but be precise. Check if the example uses "Medical science" as the domain, so align the expert's expertise with that. Make sure the description matches the sample format provided.
+</think>
+
+You are an expert **medical data analyst**. You are skilled at **interpreting clinical records, identifying patterns in patient demographics and diagnoses, and mapping relationships between symptoms and health outcomes**. You are adept at helping people with **structuring and analyzing community health data to uncover trends, correlations, and subgroups within medical populations**.
+
+# Goal
+Write a comprehensive assessment report of a community taking on the role of a <think>
+Okay, let's see. The user wants me to create a role definition based on the provided text and domain. The domain is "Medical science," and the text consists of various patient records with symptoms and diagnoses.
+
+First, I need to understand the structure of the example given. The example role is a "technologist reporter" analyzing a podcast, focusing on entities, relationships, and claims to inform decision-makers. The key elements are the role's focus area, the type of analysis, and the purpose of the report.
+
+Looking at the provided text, it's a series of medical records. Each entry has a timestamp, patient name, age, address, symptoms, and diagnosis. The task is to analyze the community structure here. So the role should be someone who can process medical data, identify patterns, and map relationships between patients, symptoms, and diagnoses.
+
+The example uses "Medical science" as the domain, so the role should be within that field. The user's task is to structure the community of interest, which in this case is likely a group of patients with respiratory issues. The expert needs to categorize these patients, find commonalities in their symptoms and diagnoses, and perhaps identify any geographical or demographic trends.
+
+The role should be something like a "Medical data analyst" or "Public health specialist." They need skills in data analysis, pattern recognition, and understanding medical terminology. The purpose would be to help in understanding the community's health trends, which could inform public health decisions or medical research.
+
+I need to make sure the role definition follows the example's structure: starting with the role title, followed by their area of analysis, the specific tasks they perform, and the outcome or purpose of their work. Also, mention the entities involved (patients, symptoms, diagnoses) and how they relate to each other.
+
+Let me check the example again. The example starts with the role, then describes what they analyze (entities, relationships, claims), and the purpose (informing decision-makers). So for the medical context, the role would analyze patient data, symptoms, diagnoses, and their relationships to identify health trends or patterns.
+
+Putting it all together, the role might be a "Respiratory health analyst" focusing on patient records to map symptom-diagnosis relationships and geographic clusters. The purpose would be to support clinical decisions or public health strategies.
+
+I need to ensure the language is concise and matches the example's structure. Avoid technical jargon but be specific about the tasks. Also, mention the use of data to inform stakeholders, similar to the example's "inform decision-makers."
+</think>
+
+**Role:**  
+A **Respiratory Health Analyst** specializing in mapping patient symptom-diagnosis relationships and geographic clusters within a medical dataset. This role focuses on analyzing structured patient records (symptoms, diagnoses, demographics) to identify patterns, correlations, and trends in respiratory conditions (e.g., COPD, asthma, tuberculosis). The analyst synthesizes data to highlight geographic hotspots, symptom clusters, and diagnostic overlaps, providing actionable insights for public health interventions, clinical research, or resource allocation. Key tasks include categorizing patient cohorts, visualizing spatial/demographic trends, and evaluating diagnostic consistency across regions. The output informs healthcare providers, policymakers, and researchers to address community health needs.. The content of this report includes an overview of the community's key entities, their legal compliance, technical capabilities,
+reputation, and noteworthy claims.
+
+# Report Structure
+The report should include the following sections:
+- TITLE: community's name that represents its key entities - title should be short but specific. When possible, include representative named entities in the title.
+- SUMMARY: An executive summary of the community's overall structure, how its entities are related to each other, and significant threats associated with its entities.
+- THREAT SEVERITY RATING: a float score between 0-10 that represents the potential global impact to humanity as posed by entities within the community.
+- RATING EXPLANATION: Give a single sentence explanation of the threat severity rating.
+- DETAILED FINDINGS: A list of 5-10 key insights about the community. Each insight should have a short summary followed by multiple paragraphs of explanatory text grounded according to the grounding rules below. Be comprehensive.
+
+Return output as a well-formed JSON-formatted string with the following format. Don't use any unnecessary escape sequences. The output should be a single JSON object that can be parsed by json.loads.
+    {
+        "title": "<report_title>",
+        "summary": "<executive_summary>",
+        "rating": <threat_severity_rating>,
+        "rating_explanation": "<rating_explanation>"
+        "findings": "[{"summary":"<insight_1_summary>", "explanation": "<insight_1_explanation"}, {"summary":"<insight_2_summary>", "explanation": "<insight_2_explanation"}]"
+    }
+
+# Grounding Rules
+After each paragraph, add data record reference if the content of the paragraph was derived from one or more data records. Reference is in the format of [records: <record_source> (<record_id_list>, ...<record_source> (<record_id_list>)]. If there are more than 10 data records, show the top 10 most relevant records.
+Each paragraph should contain multiple sentences of explanation and concrete examples with specific named entities. All paragraphs must have these references at the start and end. Use "NONE" if there are no related roles or records.
+
+Example paragraph with references added:
+This is a paragraph of the output text [records: Entities (1, 2, 3), Claims (2, 5), Relationships (10, 12)]
+
+# Example Input
+-----------
+Text:
+
+Entities
+
+id,entity,description
+5,ABILA CITY PARK,Abila City Park is the location of the POK rally
+
+Relationships
+
+id,source,target,description
+37,ABILA CITY PARK,POK RALLY,Abila City Park is the location of the POK rally
+38,ABILA CITY PARK,POK,POK is holding a rally in Abila City Park
+39,ABILA CITY PARK,POKRALLY,The POKRally is taking place at Abila City Park
+40,ABILA CITY PARK,CENTRAL BULLETIN,Central Bulletin is reporting on the POK rally taking place in Abila City Park
+
+Output:
+{
+    "title": "Abila City Park and POK Rally",
+    "summary": "The community revolves around the Abila City Park, which is the location of the POK rally. The park has relationships with POK, POKRALLY, and Central Bulletin, all
+of which are associated with the rally event.",
+    "rating": 5.0,
+    "rating_explanation": "The impact rating is moderate due to the potential for unrest or conflict during the POK rally.",
+    "findings": [
+        {
+            "summary": "Abila City Park as the central location",
+            "explanation": "Abila City Park is the central entity in this community, serving as the location for the POK rally. This park is the common link between all other
+entities, suggesting its significance in the community. The park's association with the rally could potentially lead to issues such as public disorder or conflict, depending on the
+nature of the rally and the reactions it provokes. [records: Entities (5), Relationships (37, 38, 39, 40)]"
+        },
+        {
+            "summary": "POK's role in the community",
+            "explanation": "POK is another key entity in this community, being the organizer of the rally at Abila City Park. The nature of POK and its rally could be a potential
+source of threat, depending on their objectives and the reactions they provoke. The relationship between POK and the park is crucial in understanding the dynamics of this community.
+[records: Relationships (38)]"
+        },
+        {
+            "summary": "POKRALLY as a significant event",
+            "explanation": "The POKRALLY is a significant event taking place at Abila City Park. This event is a key factor in the community's dynamics and could be a potential
+source of threat, depending on the nature of the rally and the reactions it provokes. The relationship between the rally and the park is crucial in understanding the dynamics of this
+community. [records: Relationships (39)]"
+        },
+        {
+            "summary": "Role of Central Bulletin",
+            "explanation": "Central Bulletin is reporting on the POK rally taking place in Abila City Park. This suggests that the event has attracted media attention, which could
+amplify its impact on the community. The role of Central Bulletin could be significant in shaping public perception of the event and the entities involved. [records: Relationships
+(40)]"
+        }
+    ]
+
+}
+
+# Real Data
+
+Use the following text for your answer. Do not make anything up in your answer.
+
+Text:
+{input_text}
+Output:

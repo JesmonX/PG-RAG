@@ -1,0 +1,19 @@
+
+
+INFO: Reading settings from ragtest/settings.yaml
+creating llm client with {'api_key': 'REDACTED,len=6', 'type': "openai_chat", 'model': 'qwen2.5:32b', 'max_tokens': 4000, 'temperature': 0.0, 'top_p': 1.0, 'request_timeout': 180.0, 'api_base': 'http://localhost:11434/v1', 'api_version': None, 'organization': None, 'proxy': None, 'cognitive_services_endpoint': None, 'deployment_name': None, 'model_supports_json': True, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+creating embedding llm client with {'api_key': 'REDACTED,len=6', 'type': "openai_embedding", 'model': 'nomic-embed-text', 'max_tokens': 4000, 'temperature': 0, 'top_p': 1, 'request_timeout': 180.0, 'api_base': 'http://localhost:11434/api', 'api_version': None, 'organization': None, 'proxy': None, 'cognitive_services_endpoint': None, 'deployment_name': None, 'model_supports_json': None, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+
+SUCCESS: Local Search Response: 以下是一些患有呼吸困难（气促）症状的患者的姓名：
+
+- 刘玉霞 [Data: Sources (63)]
+- 李四 [Data: Sources (42, 47, 50)]
+
+这些患者被记录为有呼吸困难的症状，其中刘玉霞的具体诊断结果是肺结核。李四有多次不同的症状和诊断结果的记录，包括流行性感冒、夜间咳嗽严重等。
+
+此外，还有一些患者的症状描述中包含气喘或胸闷的情况：
+
+- 杨建洋 [Data: Sources (36)]
+- 孙国敏 [Data: Sources (28)]
+
+这些患者被诊断为过敏性哮喘和慢性阻塞性肺病。

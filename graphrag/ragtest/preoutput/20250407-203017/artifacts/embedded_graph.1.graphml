@@ -1,0 +1,1252 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;&#40644;&#20891;&#40527;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Huang Junpeng, 42 years old, with an address in Shanghai City, Qingdao City, Hongshan District. He is experiencing sneezing and runny nose, and has been diagnosed with pneumonia."</data>
+      <data key="d2">b0f5027281290be9889cbd113489f04b</data>
+    </node>
+    <node id="&quot;&#39532;&#20891;&#20521;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Ma Juncang, 86 years old, with an address in Shandong Province, Guangzhou City, Jianggan District. She is experiencing breathing difficulties, and has been diagnosed with tuberculosis."</data>
+      <data key="d2">b0f5027281290be9889cbd113489f04b</data>
+    </node>
+    <node id="&quot;&#36213;&#20029;&#19996;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Zhao Lidong, 28 years old, with an address in Guangdong Province, Nanjing City, Jianggan District. He is experiencing breathing difficulties, and has been diagnosed with tuberculosis."</data>
+      <data key="d2">b0f5027281290be9889cbd113489f04b</data>
+    </node>
+    <node id="&quot;&#26446;&#26480;&#21018;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The entity "\u674e\u6770\u521a" (Li Jiegang) is a 47-year-old patient residing in Suzhou City, Jianggan District, Hunan Province. He is experiencing chest pain and has been diagnosed with pneumonia. The patient's medical condition involves respiratory issues, as indicated by the diagnosis of pneumonia.</data>
+      <data key="d2">9f3a8eebeec2e77c47b2dd45fcae25e8,b0f5027281290be9889cbd113489f04b</data>
+    </node>
+    <node id="&quot;&#23385;&#30922;&#35946;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b0f5027281290be9889cbd113489f04b</data>
+    </node>
+    <node id="&quot;&#30151;&#29366;&#26159;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">275da7ed1af6ccc32160b6d7bb064b8b,85485c3a27384db1c9965172b1c7fc0a,b0f5027281290be9889cbd113489f04b</data>
+    </node>
+    <node id="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u6253\u55b7\u568f\u6d41\u9f3b\u6d95" is described as a symptom involving sneezing and a runny nose. This concise description captures the key characteristics of the entity within the context provided.</data>
+      <data key="d2">0aeea2b06ebf5d4b8d3d6f1403b9e15c,2175e0171156b33cd03579b81e95528f,b0f5027281290be9889cbd113489f04b,bd14fa95cfa0472de615252e43e6dce2</data>
+    </node>
+    <node id="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u547c\u5438\u56f0\u96be" is described as a symptom involving difficulty in breathing. This concise description indicates that the condition or issue associated with this term impacts an individual's ability to breathe normally, which could be indicative of various medical conditions ranging from asthma and pneumonia to more severe respiratory issues such as acute respiratory distress syndrome (ARDS) or COVID-19.</data>
+      <data key="d2">0aeea2b06ebf5d4b8d3d6f1403b9e15c,0f96d017a95b811697a6029ba98ae780,2175e0171156b33cd03579b81e95528f,4b7d2401006bcab0dfdc5cd6d8d78827,56b51848f8d3ae2c3851084575bc04f7,68d048a4b82a7ec9de63a7a51c752601,6b0c37fbc03dc8db93e4e034cb38f486,7ac03f805011eb8bb8493206470dae8c,85485c3a27384db1c9965172b1c7fc0a,9f3a8eebeec2e77c47b2dd45fcae25e8,b0f5027281290be9889cbd113489f04b</data>
+    </node>
+    <node id="&quot;&#32954;&#28814;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u80ba\u708e" (Pneumonia) is associated with a diagnosis related to the respiratory system, specifically indicating that an individual has been diagnosed with pneumonia. No additional information was provided for this entity beyond the diagnosis.</data>
+      <data key="d2">56b51848f8d3ae2c3851084575bc04f7,6b0c37fbc03dc8db93e4e034cb38f486,7ea034ca6f80af58f0e1e273b6c87d97,7f6e5248877caa607c0f4a134b5105cd,b0f5027281290be9889cbd113489f04b,bd14fa95cfa0472de615252e43e6dce2,c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </node>
+    <node id="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u80ba\u7ed3\u6838" refers to a diagnosis of tuberculosis, specifically focusing on its presence in the lungs. This term encompasses all forms of pulmonary tuberculosis, which is a type of tuberculosis that affects the lungs.</data>
+      <data key="d2">0aeea2b06ebf5d4b8d3d6f1403b9e15c,275da7ed1af6ccc32160b6d7bb064b8b,6b0c37fbc03dc8db93e4e034cb38f486,7ac03f805011eb8bb8493206470dae8c,7ea034ca6f80af58f0e1e273b6c87d97,7f6e5248877caa607c0f4a134b5105cd,b0f5027281290be9889cbd113489f04b</data>
+    </node>
+    <node id="&quot;&#23385;&#30922;&#32724;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Sun Leixiang, 47 years old, with an address in Suzhou City, Wuhou District, Zhejiang Province. He is experiencing sore throat accompanied by fever and has been diagnosed with chronic obstructive pulmonary disease (COPD)."</data>
+      <data key="d2">9f3a8eebeec2e77c47b2dd45fcae25e8</data>
+    </node>
+    <node id="&quot;&#39640;&#23159;&#30922;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Gao Tinglei, 47 years old, with an address in Suzhou City, Jianggan District, Shandong Province. She is experiencing sore throat accompanied by fever and has been diagnosed with upper respiratory tract infection (URI)."</data>
+      <data key="d2">9f3a8eebeec2e77c47b2dd45fcae25e8</data>
+    </node>
+    <node id="&quot;&#26446;&#28009;&#23068;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The patient named Li Haona, 43 years old, resides in the Gulou District of Hangzhou City, Hunan Province. She is experiencing persistent symptoms, specifically a cough that produces phlegm, and has been diagnosed with chronic obstructive pulmonary disease (COPD).</data>
+      <data key="d2">7db56689ec06388f240ce10f29e92180,9f3a8eebeec2e77c47b2dd45fcae25e8</data>
+    </node>
+    <node id="&quot;&#24180;&#40836;28&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9f3a8eebeec2e77c47b2dd45fcae25e8</data>
+    </node>
+    <node id="&quot;&#33016;&#21475;&#30140;&#30171;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u80f8\u53e3\u75bc\u75db" refers to "chest pain," which is a symptom commonly associated with various medical conditions affecting the chest area. This description provides insight into the nature of the entity, indicating that it serves as an indicator or manifestation of underlying health issues related to the chest region.</data>
+      <data key="d2">9f3a8eebeec2e77c47b2dd45fcae25e8,b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </node>
+    <node id="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u54bd\u5589\u75db\u4f34\u53d1\u70ed" is described as a symptom involving sore throat and fever. This concise description indicates that the condition or event associated with this term manifests through discomfort in the throat accompanied by elevated body temperature, which are common indicators of various medical conditions such as infections or inflammatory processes.</data>
+      <data key="d2">0aeea2b06ebf5d4b8d3d6f1403b9e15c,56b51848f8d3ae2c3851084575bc04f7,7db56689ec06388f240ce10f29e92180,9c5ae872fad7a6529f9ac47df23c6826,9f3a8eebeec2e77c47b2dd45fcae25e8,c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </node>
+    <node id="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u6162\u6027\u963b\u585e\u6027\u80ba\u75c5" refers to a diagnosis of chronic obstructive pulmonary disease (COPD), which is a progressive lung disease characterized by the obstruction of airflow from the lungs. This condition typically worsens over time and can significantly impact an individual's quality of life, making it difficult to breathe. COPD usually results from long-term exposure to lung irritants, most commonly cigarette smoke or air pollution. The diagnosis involves assessing symptoms such as shortness of breath, persistent coughing, and frequent respiratory infections. Management strategies include smoking cessation, medication, pulmonary rehabilitation, and in some cases, surgical interventions.</data>
+      <data key="d2">6b0c37fbc03dc8db93e4e034cb38f486,7db56689ec06388f240ce10f29e92180,7ea034ca6f80af58f0e1e273b6c87d97,7f6e5248877caa607c0f4a134b5105cd,9f3a8eebeec2e77c47b2dd45fcae25e8,bd14fa95cfa0472de615252e43e6dce2</data>
+    </node>
+    <node id="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u4e0a\u547c\u5438\u9053\u611f\u67d3" refers to "Upper Respiratory Tract Infection." The comprehensive summary based on the provided description is:
+
+"A diagnosis of upper respiratory tract infection (URI) involves identifying an illness affecting the upper parts of the respiratory system, including the nose, sinuses, throat, and trachea. This condition typically results from viral or bacterial infections and can manifest as symptoms such as a runny nose, sore throat, cough, and congestion."</data>
+      <data key="d2">68d048a4b82a7ec9de63a7a51c752601,6b0c37fbc03dc8db93e4e034cb38f486,7db56689ec06388f240ce10f29e92180,7ea034ca6f80af58f0e1e273b6c87d97,7f6e5248877caa607c0f4a134b5105cd,9f3a8eebeec2e77c47b2dd45fcae25e8,b3021079f8b3c4dfdb2729b20233bdf9,bd14fa95cfa0472de615252e43e6dce2</data>
+    </node>
+    <node id="&quot;&#26417;&#26480;&#40527;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"Patient Zhu Jiepeng, 73 years old, with an address in Beijing City, Hangzhou District. He is experiencing persistent coughing up of phlegm and has been diagnosed with laryngitis."</data>
+      <data key="d2">7db56689ec06388f240ce10f29e92180</data>
+    </node>
+    <node id="&quot;&#24464;&#20013;&#23792;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"Patient Xu Zhongfeng, 83 years old, with an address in Beijing City, Nanjing City, Tianhe District. He is experiencing persistent dry coughing and has been diagnosed with emphysema."</data>
+      <data key="d2">7db56689ec06388f240ce10f29e92180</data>
+    </node>
+    <node id="&quot;&#21608;&#24535;&#27915;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The patient named Zhou Zhiyang, 41 years old, resides in the Yuelu District of Hangzhou City, Shandong Province. He is currently experiencing severe nighttime coughing and has been diagnosed with pneumonia (or possibly an upper respiratory tract infection, as both diagnoses are mentioned). The descriptions provided do not contradict each other but rather present two possible medical conditions for the patient.</data>
+      <data key="d2">56b51848f8d3ae2c3851084575bc04f7,7db56689ec06388f240ce10f29e92180</data>
+    </node>
+    <node id="&quot;47&#23681;&#24739;&#32773;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7db56689ec06388f240ce10f29e92180</data>
+    </node>
+    <node id="&quot;&#25345;&#32493;&#21683;&#30192;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u6301\u7eed\u54b3\u75f0" is described as a symptom associated with persistent coughing and the production of phlegm. This concise description indicates that the entity refers to a medical condition characterized by ongoing coughing accompanied by the expectoration of mucus, which are common clinical manifestations often observed in various respiratory illnesses.</data>
+      <data key="d2">275da7ed1af6ccc32160b6d7bb064b8b,7db56689ec06388f240ce10f29e92180,b3021079f8b3c4dfdb2729b20233bdf9,bd14fa95cfa0472de615252e43e6dce2</data>
+    </node>
+    <node id="&quot;&#24178;&#21683;&#19981;&#27490;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">56b51848f8d3ae2c3851084575bc04f7,7db56689ec06388f240ce10f29e92180,bd14fa95cfa0472de615252e43e6dce2</data>
+    </node>
+    <node id="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0f96d017a95b811697a6029ba98ae780,4b7d2401006bcab0dfdc5cd6d8d78827,56b51848f8d3ae2c3851084575bc04f7,68d048a4b82a7ec9de63a7a51c752601,7ac03f805011eb8bb8493206470dae8c,7db56689ec06388f240ce10f29e92180,bd14fa95cfa0472de615252e43e6dce2</data>
+    </node>
+    <node id="&quot;&#21693;&#21897;&#28814;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">275da7ed1af6ccc32160b6d7bb064b8b,4b7d2401006bcab0dfdc5cd6d8d78827,6b0c37fbc03dc8db93e4e034cb38f486,7db56689ec06388f240ce10f29e92180,7ea034ca6f80af58f0e1e273b6c87d97,bd14fa95cfa0472de615252e43e6dce2</data>
+    </node>
+    <node id="&quot;&#32954;&#27668;&#32959;&quot;">
+      <data key="d0" />
+      <data key="d1">Entity: "&#32954;&#27668;&#32959;"
+
+Summary: A diagnosis of pulmonary emphysema has been made. This condition involves the abnormal enlargement of the air sacs (alveoli) in the lungs, leading to decreased lung elasticity and impaired gas exchange.</data>
+      <data key="d2">0aeea2b06ebf5d4b8d3d6f1403b9e15c,2175e0171156b33cd03579b81e95528f,56b51848f8d3ae2c3851084575bc04f7,7db56689ec06388f240ce10f29e92180,b3021079f8b3c4dfdb2729b20233bdf9,c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </node>
+    <node id="&quot;&#39532;&#26480;&#40527;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Ma Jiepeng, 63 years old, with an address in Jiangsu Province, Qingdao City, Nan'an District. He is experiencing wheezing accompanied by chest tightness and has been diagnosed with bronchial asthma."</data>
+      <data key="d2">56b51848f8d3ae2c3851084575bc04f7</data>
+    </node>
+    <node id="&quot;&#40644;&#23159;&#21018;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Huang Tinggang, 18 years old, with an address in Beijing Municipality, Nanjing City, Xuanwu District. He is experiencing sore throat accompanied by fever and has been diagnosed with allergic asthma."</data>
+      <data key="d2">56b51848f8d3ae2c3851084575bc04f7</data>
+    </node>
+    <node id="&quot;&#26446;&#23567;&#29618;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Li Xiaoling, 22 years old, with an address in Sichuan Province, Nanjing City, Siming District. She is experiencing breathing difficulties and has been diagnosed with pulmonary tuberculosis (the diagnosis is incomplete in the text)."</data>
+      <data key="d2">56b51848f8d3ae2c3851084575bc04f7</data>
+    </node>
+    <node id="&quot;&#24180;&#40836;83&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">56b51848f8d3ae2c3851084575bc04f7</data>
+    </node>
+    <node id="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u6c14\u5598\u4f34\u968f\u80f8\u95f7" is described as a symptom involving wheezing and chest tightness. This summary captures the provided information without any contradictions, as there are no additional descriptions to consider.</data>
+      <data key="d2">0aeea2b06ebf5d4b8d3d6f1403b9e15c,0f96d017a95b811697a6029ba98ae780,56b51848f8d3ae2c3851084575bc04f7</data>
+    </node>
+    <node id="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;">
+      <data key="d0" />
+      <data key="d1">Entity: "&#25903;&#27668;&#31649;&#21742;&#21912;"
+
+Summary: The entity "&#25903;&#27668;&#31649;&#21742;&#21912;" refers to a diagnosis of bronchial asthma, a common chronic inflammatory disease affecting the airways in the lungs. This condition is characterized by inflammation and narrowing of the bronchial tubes, leading to symptoms such as wheezing, shortness of breath, chest tightness, and coughing, particularly at night or early in the morning.</data>
+      <data key="d2">275da7ed1af6ccc32160b6d7bb064b8b,4b7d2401006bcab0dfdc5cd6d8d78827,56b51848f8d3ae2c3851084575bc04f7,6b0c37fbc03dc8db93e4e034cb38f486,7ea034ca6f80af58f0e1e273b6c87d97,7f6e5248877caa607c0f4a134b5105cd,9c5ae872fad7a6529f9ac47df23c6826,b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </node>
+    <node id="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u8fc7\u654f\u6027\u54ee\u5598" refers to "Overall Asthma Quality," which is described as a diagnosis of allergic asthma based on a doctor's assessment. This diagnosis indicates that the individual has been clinically evaluated and confirmed to have allergic asthma, a condition characterized by inflammation in the airways triggered by allergens.</data>
+      <data key="d2">0aeea2b06ebf5d4b8d3d6f1403b9e15c,2175e0171156b33cd03579b81e95528f,56b51848f8d3ae2c3851084575bc04f7,9c5ae872fad7a6529f9ac47df23c6826,b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </node>
+    <node id="&quot;&#32954;&#32467;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">56b51848f8d3ae2c3851084575bc04f7</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#26446;&#23567;&#29618;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"Patient Li Xiaoling, 22 years old, with an address in Sichuan Province, Nanjing City, Siming District. She is experiencing breathing difficulties and has been diagnosed with pulmonary tuberculosis."</data>
+      <data key="d2">0aeea2b06ebf5d4b8d3d6f1403b9e15c</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#26472;&#24314;&#27915;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"Patient Yang Jianyang, 81 years old, with an address in Shandong Province, Fuzhou City, Nanqian District. He is experiencing wheezing and chest tightness, and has been diagnosed with allergic asthma."</data>
+      <data key="d2">0aeea2b06ebf5d4b8d3d6f1403b9e15c</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#20309;&#26480;&#29618;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"Patient He Jieling, 55 years old, with an address in Guangdong Province, Changsha City, Tianhe District. She is experiencing exacerbated cough in the morning and has been diagnosed with allergic asthma."</data>
+      <data key="d2">0aeea2b06ebf5d4b8d3d6f1403b9e15c</data>
+    </node>
+    <node id="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;">
+      <data key="d0">"SYMPTOM"</data>
+      <data key="d1">The entity "\u6668\u8d77\u54b3\u55fd\u52a0\u5267" is associated with a symptom characterized by a severe morning cough. This description provides insight into the nature of the symptom, indicating that it is particularly pronounced upon waking in the morning.</data>
+      <data key="d2">0aeea2b06ebf5d4b8d3d6f1403b9e15c,2175e0171156b33cd03579b81e95528f,9c5ae872fad7a6529f9ac47df23c6826</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#39640;&#26480;&#23792;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"Patient Gao Jiefeng, 70 years old, with an address in Zhejiang Province, Nanjing City, Wuhou District. He is experiencing sneezing and runny nose, and has been diagnosed with emphysema."</data>
+      <data key="d2">0aeea2b06ebf5d4b8d3d6f1403b9e15c</data>
+    </node>
+    <node id="&quot;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0aeea2b06ebf5d4b8d3d6f1403b9e15c</data>
+    </node>
+    <node id="&quot;&#39640;&#26480;&#23792;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Gao Jiefeng, 70 years old, with an address in Nanjing City, Jiangsu Province. He is experiencing symptoms such as sneezing and runny nose, and has been diagnosed with emphysema."</data>
+      <data key="d2">2175e0171156b33cd03579b81e95528f</data>
+    </node>
+    <node id="&quot;&#26446;&#22235;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Li Si, 20 years old, with addresses across multiple provinces including Shanghai, Guangdong, Jiangsu, Zhejiang, Hubei, Hunan, Fujian, Sichuan, Jiangxi, Anhui, Henan, Shaanxi, Chongqing, Yunnan, Guizhou, Xinjiang Uygur Autonomous Region, Tibet Autonomous Region, Inner Mongolia Autonomous Region, and Ningxia Hui Autonomous Region. He is experiencing symptoms such as coughing, expectoration, hemoptysis, sore throat, fever, influenza, runny nose, sneezing, breathing difficulties, wheezing, chest tightness, and chest pain."</data>
+      <data key="d2">2175e0171156b33cd03579b81e95528f</data>
+    </node>
+    <node id="&quot;&#21683;&#22013;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2175e0171156b33cd03579b81e95528f</data>
+    </node>
+    <node id="&quot;&#21683;&#30192;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2175e0171156b33cd03579b81e95528f</data>
+    </node>
+    <node id="&quot;&#21683;&#34880;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2175e0171156b33cd03579b81e95528f</data>
+    </node>
+    <node id="&quot;&#21693;&#21897;&#30171;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2175e0171156b33cd03579b81e95528f</data>
+    </node>
+    <node id="&quot;&#21457;&#28909;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2175e0171156b33cd03579b81e95528f</data>
+    </node>
+    <node id="&quot;&#27969;&#24863;&quot;">
+      <data key="d0" />
+      <data key="d1">Entity: "\u6d41\u611f" (which translates to "Influenza" in English)
+
+Summary: The entity "\u6d41\u611f" refers to a diagnosis of influenza, which is a highly contagious viral infection that primarily affects the respiratory system.</data>
+      <data key="d2">2175e0171156b33cd03579b81e95528f,b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </node>
+    <node id="&quot;&#27969;&#40763;&#28053;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2175e0171156b33cd03579b81e95528f,b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </node>
+    <node id="&quot;&#27668;&#21912;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u6c14\u5598" is described as a symptom associated with wheezing or shortness of breath. This concise description indicates that the condition "\u6c14\u5598" manifests as difficulty in breathing, characterized by wheezing sounds and restricted airflow, which are common respiratory symptoms often observed in various lung conditions such as asthma, chronic obstructive pulmonary disease (COPD), or allergic reactions.</data>
+      <data key="d2">2175e0171156b33cd03579b81e95528f,6b0c37fbc03dc8db93e4e034cb38f486</data>
+    </node>
+    <node id="&quot;&#33016;&#38391;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u80f8\u95f7" refers to "chest tightness," which is a symptom characterized by a sensation of pressure, constriction, or discomfort in the chest area. This symptom can be indicative of various medical conditions and is often associated with cardiovascular issues such as angina or heart attacks.</data>
+      <data key="d2">2175e0171156b33cd03579b81e95528f,6b0c37fbc03dc8db93e4e034cb38f486</data>
+    </node>
+    <node id="&quot;&#33016;&#30171;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u80f8\u75db" refers to "Chest Pain" and is described as a symptom characterized by discomfort or pain in the chest area. This symptom can be indicative of various medical conditions and is often a primary reason for seeking medical attention.</data>
+      <data key="d2">2175e0171156b33cd03579b81e95528f,6b0c37fbc03dc8db93e4e034cb38f486</data>
+    </node>
+    <node id="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;">
+      <data key="d0">"DIAGNOSIS"</data>
+      <data key="d1">The entity "\u6025\u6027\u652f\u6c14\u7ba1\u708e" is associated with a diagnosis of acute bronchitis. This condition refers to the inflammation of the bronchi, which are the air passages that connect the trachea to the lungs. Acute bronchitis typically lasts for a short period and is often caused by viral infections, although bacterial infections can also be responsible in some cases. Symptoms commonly include coughing, chest discomfort, and sometimes fever. Treatment usually focuses on symptom relief and may involve rest, hydration, and over-the-counter medications such as cough suppressants or expectorants. In severe cases or if symptoms persist, medical intervention may be necessary.</data>
+      <data key="d2">0f96d017a95b811697a6029ba98ae780,4b7d2401006bcab0dfdc5cd6d8d78827,6b0c37fbc03dc8db93e4e034cb38f486,7ac03f805011eb8bb8493206470dae8c,7ea034ca6f80af58f0e1e273b6c87d97,7f6e5248877caa607c0f4a134b5105cd</data>
+    </node>
+    <node id="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d0">"DIAGNOSIS"</data>
+      <data key="d1">The entity "\u6d41\u884c\u6027\u611f\u5192" refers to a diagnosis of influenza, commonly known as the flu. This medical condition involves the respiratory system and is caused by influenza viruses. The diagnosis typically includes symptoms such as fever, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches, and fatigue.</data>
+      <data key="d2">4b7d2401006bcab0dfdc5cd6d8d78827,6b0c37fbc03dc8db93e4e034cb38f486,7ea034ca6f80af58f0e1e273b6c87d97,7f6e5248877caa607c0f4a134b5105cd,bd14fa95cfa0472de615252e43e6dce2,c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </node>
+    <node id="&quot;&#39640;&#22269;&#26976;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Gao Guinan, 27 years old, with an address in Changsha City, Nan District, Guangdong Province. He has a symptom of persistent cough for over one week and has been diagnosed with pneumonia."</data>
+      <data key="d2">7ea034ca6f80af58f0e1e273b6c87d97</data>
+    </node>
+    <node id="&quot;&#32993;&#26480;&#29618;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The entity "\u80e1\u6770\u73b2" (Hu Jieling) is an 88-year-old patient residing in Gulou District, Hangzhou City, Zhejiang Province. She is currently experiencing persistent dry cough and has been diagnosed with pharyngitis. The descriptions are consistent regarding her age, location, and medical condition, confirming that she is a patient suffering from these symptoms due to a diagnosis of pharyngitis.</data>
+      <data key="d2">7ea034ca6f80af58f0e1e273b6c87d97,bd14fa95cfa0472de615252e43e6dce2</data>
+    </node>
+    <node id="&quot;&#23385;&#22269;&#25935;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Sun Guomin, 64 years old, with an address in Beijing City, Fuzhou District, Siming District. He is experiencing severe nighttime coughing and has been diagnosed with chronic obstructive pulmonary disease (COPD)."</data>
+      <data key="d2">bd14fa95cfa0472de615252e43e6dce2</data>
+    </node>
+    <node id="&quot;&#36213;&#22823;&#29618;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Zhao Dalin, 84 years old, with an address in Shandong Province, Guangzhou City, Jianggan District. She is experiencing sneezing and runny nose and has been diagnosed with upper respiratory tract infection."</data>
+      <data key="d2">bd14fa95cfa0472de615252e43e6dce2</data>
+    </node>
+    <node id="&quot;&#21016;&#20426;&#23431;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The entity "\u5218\u4fca\u5b87" (Liu Junyu) is a 74-year-old patient residing in Hubei Province, Hangzhou City, Yuelu District. Liu Junyu has been diagnosed with influenza and is experiencing persistent coughing along with the production of phlegm. Both descriptions are consistent in providing this information about the patient's condition and diagnosis.</data>
+      <data key="d2">b3021079f8b3c4dfdb2729b20233bdf9,bd14fa95cfa0472de615252e43e6dce2</data>
+    </node>
+    <node id="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u54b3\u55fd\u6301\u7eed\u8d85\u8fc7\u4e08\u5468" refers to "Persistent Coughing for Over Eight Weeks," which is a symptom described as lasting more than a week. This condition typically indicates a prolonged cough that may be indicative of various underlying medical issues, such as chronic bronchitis, asthma, or other respiratory conditions.</data>
+      <data key="d2">4b7d2401006bcab0dfdc5cd6d8d78827,68d048a4b82a7ec9de63a7a51c752601,85485c3a27384db1c9965172b1c7fc0a,9c5ae872fad7a6529f9ac47df23c6826,b3021079f8b3c4dfdb2729b20233bdf9,bd14fa95cfa0472de615252e43e6dce2,c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </node>
+    <node id="&quot;&#26446;&#20339;&#20521;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Li Jiaqian, 61 years old, with an address in Guangdong Province, Hangzhou City, Yuelu District. She is experiencing high fever and coughing, and has been diagnosed with allergic asthma."</data>
+      <data key="d2">b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </node>
+    <node id="&quot;&#39640;&#28903;&#21683;&#22013;&quot;">
+      <data key="d0">"SYMPTOM"</data>
+      <data key="d1">The entity "\u9ad8\u70e7\u54b3\u55fd" refers to a symptom associated with high fever and coughing. This description indicates that the entity is likely a medical condition or symptom manifesting as part of an illness characterized by elevated body temperature (high fever) accompanied by respiratory symptoms such as coughing.</data>
+      <data key="d2">6b0c37fbc03dc8db93e4e034cb38f486,b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </node>
+    <node id="&quot;&#37101;&#24535;&#38686;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Guo Zhixia, 81 years old, with an address in Shandong Province, Qingdao City, Wuhou District. She is experiencing chest pain, and has been diagnosed with emphysema."</data>
+      <data key="d2">b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </node>
+    <node id="&quot;&#39640;&#22823;&#32724;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The entity "\u9ad8\u5927\u7fd4" (Gao Daxiang) is an 18-year-old patient residing in Nanqun District, Guangzhou City, Zhejiang Province. Gao Daxiang has been experiencing a cough that has lasted over one week and has been diagnosed with bronchial asthma. The descriptions provided are consistent in identifying the patient's age, symptoms, and diagnosis, despite minor differences in the district name (Nanqun District vs. Nan District).</data>
+      <data key="d2">9c5ae872fad7a6529f9ac47df23c6826,b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </node>
+    <node id="&quot;&#20309;&#26480;&#20521;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named He Jieqian, 89 years old, with an address in Xuanwu District, Fuzhou City, Zhejiang Province. She is experiencing morning coughing that has worsened and has been diagnosed with allergic asthma."</data>
+      <data key="d2">9c5ae872fad7a6529f9ac47df23c6826</data>
+    </node>
+    <node id="&quot;&#26417;&#20339;&#24378;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Zhu Jiaqiang, 76 years old, with an address in Gulou District, Changsha City, Hunan Province. He is experiencing a cough that has lasted over one week and has been diagnosed with bronchial asthma."</data>
+      <data key="d2">9c5ae872fad7a6529f9ac47df23c6826</data>
+    </node>
+    <node id="&quot;&#21608;&#28009;&#27915;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The entity "\u5468\u6d69\u6d0b" (Zhou Haoyang) is a 76-year-old patient residing in Hongshan District, Changsha City, Hunan Province. He is currently experiencing symptoms of a sore throat and fever, and has been diagnosed with bronchial asthma.</data>
+      <data key="d2">275da7ed1af6ccc32160b6d7bb064b8b,9c5ae872fad7a6529f9ac47df23c6826</data>
+    </node>
+    <node id="&quot;&#30171;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9c5ae872fad7a6529f9ac47df23c6826</data>
+    </node>
+    <node id="&quot;&#21556;&#24535;&#21018;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Wu Zhigang, 88 years old, with an address in Fuzhou City, Yuelu District, Fujian Province. He is experiencing high fever and coughing and has been diagnosed with tuberculosis."</data>
+      <data key="d2">275da7ed1af6ccc32160b6d7bb064b8b</data>
+    </node>
+    <node id="&quot;&#40644;&#20891;&#35946;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Huang Junhao, 60 years old, with an address in Suzhou City, Siming District, Sichuan Province. He is experiencing persistent coughing up phlegm and has been diagnosed with laryngitis."</data>
+      <data key="d2">275da7ed1af6ccc32160b6d7bb064b8b</data>
+    </node>
+    <node id="&quot;&#29579;&#20116;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The entity "\u738b\u4e94" (Wang Wu) is an 80-year-old patient with multiple addresses across various cities in China, including Beijing, Shanghai, Guangdong, Jiangsu, Zhejiang, Hubei, Hunan, Fujian, Sichuan, Jiangxi, Anhui, Henan, Shaanxi, Chongqing, and Yunnan. He is currently experiencing unspecified symptoms.</data>
+      <data key="d2">275da7ed1af6ccc32160b6d7bb064b8b,3586722bb89b222128a75f96418fde83</data>
+    </node>
+    <node id="&quot;&#21683;&#22013;&#12289;&#21683;&#30192;&#12289;&#21683;&#34880;&#12289;&#21693;&#21897;&#30171;&#12289;&#21457;&#28909;&#12289;&#27969;&#24863;&#12289;&#27969;&#40763;&#28053;&#12289;&#25171;&#21943;&#22159;&#12289;&#21628;&#21560;&#22256;&#38590;&#12289;&#27668;&#21912;&#12289;&#33016;&#38391;&#12289;&#33016;&#30171;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "&#32954;&#32467;&#26680;&#12289;&#32954;&#28814;&#12289;&#32954;&#27873;&#12289;&#21679;&#34880;&#12289;&#21457;&#28909;&#12289;&#27969;&#28053;&#12289;&#25171;&#21943;&#22159;&#12289;&#21628;&#21560;&#22256;&#38590;&#12289;&#21912;&#24687;&#12289;&#33016;&#38391;&#12289;&#33016;&#30171;" refers to a patient experiencing a range of symptoms associated with respiratory conditions. These symptoms include coughing, phlegm production, hemoptysis (coughing up blood), sore throat, fever, influenza-like symptoms such as runny nose and sneezing, breathing difficulties, wheezing, chest tightness, and chest pain. This comprehensive list suggests a patient suffering from multiple respiratory issues, possibly including conditions like pneumonia or tuberculosis, which are consistent with the provided entity names.</data>
+      <data key="d2">3586722bb89b222128a75f96418fde83,c745a835d8e8d3f13689e3996334b723</data>
+    </node>
+    <node id="&quot;&#32954;&#28814;&#12289;&#32954;&#32467;&#26680;&#12289;&#25903;&#27668;&#31649;&#21742;&#21912;&#12289;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&#12289;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&#12289;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&#12289;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d0" />
+      <data key="d1">The patient is diagnosed with a complex array of respiratory conditions including pneumonia, tuberculosis, bronchial asthma, chronic obstructive pulmonary disease (COPD), an upper respiratory tract infection, acute bronchitis, and influenza. This comprehensive diagnosis highlights the interconnected nature of various respiratory illnesses affecting the patient's health.</data>
+      <data key="d2">3586722bb89b222128a75f96418fde83,c745a835d8e8d3f13689e3996334b723</data>
+    </node>
+    <node id="&quot;&#39640;&#20013;&#27915;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The patient named Gao Zhongyang, 34 years old, is from Shandong Province, Xiamen City, Tianhe District. He is experiencing high fever and coughing, which have led to a diagnosis of pneumonia by the doctor. The additional symptoms reported include phlegm production, hemoptysis, sore throat, fever, influenza, runny nose, sneezing, breathing difficulties, wheezing, chest tightness, and chest pain. Based on these symptoms, the doctor has also diagnosed Gao Zhongyang with pulmonary tuberculosis, bronchial asthma, chronic obstructive pulmonary disease, upper respiratory tract infection, acute bronchitis, and influenza.</data>
+      <data key="d2">3586722bb89b222128a75f96418fde83,6b0c37fbc03dc8db93e4e034cb38f486</data>
+    </node>
+    <node id="&quot;&#21016;&#29577;&#38686;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Liu Yuxia, 77 years old, with an address in Beijing City, Hangzhou City, Tianhe District. She is experiencing shortness of breath after activity, and has been diagnosed with tuberculosis."</data>
+      <data key="d2">6b0c37fbc03dc8db93e4e034cb38f486</data>
+    </node>
+    <node id="&quot;&#24352;&#38634;&#20255;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The entity "\u5f20\u96ea\u4f1f" refers to a patient named Zhang Xuewei, who is 12 years old and resides in Xiamen City, Hongshan District. The descriptions indicate that he has been diagnosed with pharyngitis (sore throat) and is experiencing breathing difficulties. There appears to be a contradiction regarding the province; one description states Fujian Province while the other mentions Zhejiang Province. Given the consistency in other details, it can be inferred that there might have been an error in recording the patient's address. Therefore, the coherent summary would consider the consistent information and resolve the discrepancy.
+
+Summary: The entity "\u5f20\u96ea\u4f1f" is a 12-year-old patient named Zhang Xuewei who lives in Xiamen City, Hongshan District. He has been diagnosed with pharyngitis (sore throat) and is experiencing breathing difficulties. There seems to be an inconsistency regarding the province; however, based on the consistent details provided, it can be assumed that his address is in Fujian Province, Xiamen City, Hongshan District.</data>
+      <data key="d2">6b0c37fbc03dc8db93e4e034cb38f486,7ac03f805011eb8bb8493206470dae8c</data>
+    </node>
+    <node id="&quot;&#23385;&#20426;&#29618;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The entity "\u5b59\u4fca\u73b2" (Sun Junling) is a 74-year-old patient residing in Wuhan City, Xuanwu District, Zhejiang Province. The provided descriptions are contradictory regarding the province of residence; one description states Hubei Province while the other indicates Zhejiang Province. Given the inconsistency, we will consider the more specific information available: Sun Junling is from Wuhan City, Xuanwu District.
+
+Sun Junling has been diagnosed with tuberculosis and is experiencing persistent dry coughing. No additional symptoms are mentioned in the provided descriptions.</data>
+      <data key="d2">6b0c37fbc03dc8db93e4e034cb38f486,7ac03f805011eb8bb8493206470dae8c</data>
+    </node>
+    <node id="&quot;&#27963;&#21160;&#21518;&#27668;&#20419;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6b0c37fbc03dc8db93e4e034cb38f486</data>
+    </node>
+    <node id="&quot;&#24352;&#25991;&#23792;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Zhang Wenge, 36 years old, with an address in Jiangsu Province, Nanjing City, Yuelu District. He is experiencing severe nighttime coughing and has been diagnosed with emphysema."</data>
+      <data key="d2">7ac03f805011eb8bb8493206470dae8c</data>
+    </node>
+    <node id="&quot;&#26519;&#20029;&#38745;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Lin Lijing, 35 years old, with an address in Zhejiang Province, Hangzhou City, Gulou District. She is experiencing severe nighttime coughing and has been diagnosed with acute bronchitis."</data>
+      <data key="d2">7ac03f805011eb8bb8493206470dae8c</data>
+    </node>
+    <node id="&quot;&#38472;&#20339;&#25935;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The entity "\u9648\u4f73\u654f" (Chen Jiamin) is a 46-year-old patient residing in Fuzhou City, Wuhou District. The descriptions provided are contradictory as they mention different provinces and medical conditions. To resolve this contradiction, it appears that there might be an error in the data since both descriptions cannot simultaneously apply to the same individual. However, based on the available information:
+
+- One description indicates that Chen Jiamin is from Fujian Province and has been diagnosed with tuberculosis.
+- The other description states that she is from Hubei Province and is experiencing breathing difficulties due to influenza.
+
+Given the inconsistency in the data, a more accurate summary would be: 
+
+Chen Jiamin, a 46-year-old patient residing in Fuzhou City, Wuhou District, has been diagnosed with tuberculosis. However, there is conflicting information regarding her address (Fujian Province vs. Hubei Province) and symptoms (breathing difficulties due to influenza). Further verification is needed to resolve these discrepancies.</data>
+      <data key="d2">4b7d2401006bcab0dfdc5cd6d8d78827,7ac03f805011eb8bb8493206470dae8c</data>
+    </node>
+    <node id="&quot;&#37101;&#20339;&#23792;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Guo Jiafeng, 89 years old, with an address in Beijing City, Xiamen District. He is experiencing severe nighttime coughing and has been diagnosed with bronchial asthma."</data>
+      <data key="d2">4b7d2401006bcab0dfdc5cd6d8d78827</data>
+    </node>
+    <node id="&quot;&#24464;&#25991;&#29747;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Xu Wenlin, 69 years old, with an address in Sichuan Province, Wuhan City, Gusu District. She is experiencing a persistent cough for over a week and has been diagnosed with pharyngitis."</data>
+      <data key="d2">4b7d2401006bcab0dfdc5cd6d8d78827</data>
+    </node>
+    <node id="&quot;&#32993;&#33521;&#26976;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The entity "\u80e1\u82f1\u6960" (Hu Yinan) is a 25-year-old patient residing in Guangzhou City, Xuanwu District, Shandong Province. She is currently experiencing sore throat and fever symptoms and has been diagnosed with emphysema. The information provided suggests that there might be a slight discrepancy between the names "Hu Yinan" and "Hu Yingnan," but given the context, it appears to refer to the same individual.</data>
+      <data key="d2">4b7d2401006bcab0dfdc5cd6d8d78827,c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </node>
+    <node id="&quot;&#20029;&#38745;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4b7d2401006bcab0dfdc5cd6d8d78827</data>
+    </node>
+    <node id="&quot;&#30151;&#29366;&#26159;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4b7d2401006bcab0dfdc5cd6d8d78827</data>
+    </node>
+    <node id="&quot;&#21693; &quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4b7d2401006bcab0dfdc5cd6d8d78827</data>
+    </node>
+    <node id="&quot;&#20309;&#23567;&#30922;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named He Xiaolei, 73 years old, with an address in Jiangsu Province, Wuhan City, Tianhe District. He is experiencing a cough that has lasted over one week and has been diagnosed with pneumonia."</data>
+      <data key="d2">c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </node>
+    <node id="&quot;&#24464;&#26480;&#38686;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Xu Jiexia, 89 years old, with an address in Shanghai City, Hangzhou City, Tianhe District. She is experiencing sore throat accompanied by fever and has been diagnosed with influenza."</data>
+      <data key="d2">c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </node>
+    <node id="&quot;&#26472;&#20029;&#32724;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The entity "\u6768\u4e3d\u7fd4" (Yang Lixiang) is a 73-year-old patient residing in Shanghai City, Suzhou District. Yang Lixiang is experiencing symptoms of a sore throat and fever, and has been diagnosed with tuberculosis. The patient's address is specifically noted to be in Jianggan District; however, the primary description indicates that her actual residence is in Suzhou District. Given the information provided, it appears there may be a discrepancy regarding the exact district within Suzhou City where Yang Lixiang lives.</data>
+      <data key="d2">85485c3a27384db1c9965172b1c7fc0a,c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </node>
+    <node id="&quot;&#25991;&#29747;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </node>
+    <node id="&quot;&#21693;&#28814;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </node>
+    <node id="&quot;&#24352;&#22269;&#35946;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Zhang Guohaohao, 89 years old, with an address in Guangdong Province, Xiamen District. He is experiencing persistent cough for over a week and has been diagnosed with pharyngitis."</data>
+      <data key="d2">85485c3a27384db1c9965172b1c7fc0a</data>
+    </node>
+    <node id="&quot;&#26519;&#22823;&#38686;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Lin Daxia, 20 years old, with an address in Hubei Province, Changsha City, Wuhou District. She is experiencing breathing difficulties and has been diagnosed with upper respiratory infection."</data>
+      <data key="d2">85485c3a27384db1c9965172b1c7fc0a</data>
+    </node>
+    <node id="&quot;&#26519;&#29577;&#21018;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The entity "\u6797\u7389\u521a" refers to a patient named Lin Yugang, who is 82 years old and resides in Fujian Province, Guangzhou City, Siming District. He is currently experiencing symptoms of wheezing along with chest issues. While the information provided is incomplete, these details offer insight into his medical condition and location.</data>
+      <data key="d2">0f96d017a95b811697a6029ba98ae780,85485c3a27384db1c9965172b1c7fc0a</data>
+    </node>
+    <node id="&quot;&#38686;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">85485c3a27384db1c9965172b1c7fc0a</data>
+    </node>
+    <node id="&quot;&#21016;&#33521;&#29618;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Liu Yingling, 84 years old, with an address in Sichuan Province, Xiamen City, Hongshan District. She is experiencing sore throat accompanied by fever and has been diagnosed with acute bronchitis."</data>
+      <data key="d2">0f96d017a95b811697a6029ba98ae780</data>
+    </node>
+    <node id="&quot;&#32599;&#24314;&#30922;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Luo Jianle, 26 years old, with an address in Jiangsu Province, Chengdu City, Yuelu District. He is experiencing severe nighttime coughing and has been diagnosed with upper respiratory infection."</data>
+      <data key="d2">0f96d017a95b811697a6029ba98ae780</data>
+    </node>
+    <node id="&quot;&#20309;&#22269;&#23792;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">The entity "\u4f55\u56fd\u5cf0" (He Guofeng) is a 17-year-old patient residing in the Jianggan District of Qingdao City, Beijing Municipality. He is currently experiencing persistent coughing.</data>
+      <data key="d2">0f96d017a95b811697a6029ba98ae780,68d048a4b82a7ec9de63a7a51c752601</data>
+    </node>
+    <node id="&quot;&#21683;&#22013;&#25345;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0f96d017a95b811697a6029ba98ae780</data>
+    </node>
+    <node id="&quot;&#39532;&#38634;&#20255;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Ma Xuewei, 12 years old, with an address in Guangzhou City, Siming District. He is experiencing breathing difficulties and has been diagnosed with acute bronchitis."</data>
+      <data key="d2">68d048a4b82a7ec9de63a7a51c752601</data>
+    </node>
+    <node id="&quot;&#24352;&#19977;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"A patient named Zhang San, 55 years old, with addresses across multiple provinces including Beijing, Shandong, Jiangsu, Zhejiang, Hubei, Hunan, Guangdong, Fujian, Sichuan, Jiangxi, Anhui, Henan, Shaanxi, Chongqing, Yunnan, Guizhou, Gansu, and Xinjiang. He is experiencing severe nighttime coughing and has been diagnosed with upper respiratory infection."</data>
+      <data key="d2">68d048a4b82a7ec9de63a7a51c752601</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#12289;&#23665;&#19996;&#30465;&#12289;&#27743;&#33487;&#30465;&#12289;&#27993;&#27743;&#30465;&#12289;&#28246;&#21271;&#30465;&#12289;&#28246;&#21335;&#30465;&#12289;&#24191;&#19996;&#30465;&#12289;&#31119;&#24314;&#30465;&#12289;&#22235;&#24029;&#30465;&#12289;&#27743;&#35199;&#30465;&#12289;&#23433;&#24509;&#30465;&#12289;&#27827;&#21335;&#30465;&#12289;&#38485;&#35199;&#30465;&#12289;&#37325;&#24198;&#24066;&#12289;&#20113;&#21335;&#30465;&#12289;&#36149;&#24030;&#30465;&#12289;&#29976;&#32899;&#30465;&#12289;&#26032;&#30086;&#32500;&#21566;&#23572;&#33258;&#27835;&#21306;&#12289;&#35199;&#34255;&#33258;&#27835;&#21306;&#12289;&#20869;&#33945;&#21476;&#33258;&#27835;&#21306;&#12289;&#23425;&#22799;&#22238;&#26063;&#33258;&#27835;&#21306;&quot;">
+      <data key="d0">"ADDRESS"</data>
+      <data key="d1">"A patient with a wide range of addresses across multiple provinces in China."</data>
+      <data key="d2">c745a835d8e8d3f13689e3996334b723</data>
+    </node>
+    <node id="&quot;&#24180;&#40836;55&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c745a835d8e8d3f13689e3996334b723</data>
+    </node>
+    <node id="&quot;&#30151;&#29366;&#26159;&#21683;&#22013;&#12289;&#21683;&#30192;&#12289;&#21683;&#34880;&#12289;&#21693;&#21897;&#30171;&#12289;&#21457;&#28909;&#12289;&#27969;&#24863;&#12289;&#27969;&#40763;&#28053;&#12289;&#25171;&#21943;&#22159;&#12289;&#21628;&#21560;&#22256;&#38590;&#12289;&#27668;&#21912;&#12289;&#33016;&#38391;&#12289;&#33016;&#30171;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c745a835d8e8d3f13689e3996334b723</data>
+    </node>
+    <node id="&quot;&#30140;&#30171;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7f6e5248877caa607c0f4a134b5105cd</data>
+    </node>
+    <edge source="&quot;&#40644;&#20891;&#40527;&quot;" target="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Huang Junpeng is experiencing sneezing and runny nose."</data>
+      <data key="d5">b0f5027281290be9889cbd113489f04b</data>
+    </edge>
+    <edge source="&quot;&#40644;&#20891;&#40527;&quot;" target="&quot;&#32954;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Huang Junpeng has been diagnosed with pneumonia."</data>
+      <data key="d5">b0f5027281290be9889cbd113489f04b</data>
+    </edge>
+    <edge source="&quot;&#39532;&#20891;&#20521;&quot;" target="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Ma Juncang experiences breathing difficulties."</data>
+      <data key="d5">b0f5027281290be9889cbd113489f04b</data>
+    </edge>
+    <edge source="&quot;&#39532;&#20891;&#20521;&quot;" target="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Ma Juncang has been diagnosed with tuberculosis."</data>
+      <data key="d5">b0f5027281290be9889cbd113489f04b</data>
+    </edge>
+    <edge source="&quot;&#36213;&#20029;&#19996;&quot;" target="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Zhao Lidong is experiencing breathing difficulties."</data>
+      <data key="d5">b0f5027281290be9889cbd113489f04b</data>
+    </edge>
+    <edge source="&quot;&#36213;&#20029;&#19996;&quot;" target="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Zhao Lidong has been diagnosed with tuberculosis."</data>
+      <data key="d5">b0f5027281290be9889cbd113489f04b</data>
+    </edge>
+    <edge source="&quot;&#26446;&#26480;&#21018;&quot;" target="&quot;&#33016;&#21475;&#30140;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Jiegang experiences chest pain."</data>
+      <data key="d5">9f3a8eebeec2e77c47b2dd45fcae25e8</data>
+    </edge>
+    <edge source="&quot;&#23385;&#30922;&#35946;&quot;" target="&quot;&#30151;&#29366;&#26159;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Sun Leihao experiences sore throat and fever."</data>
+      <data key="d5">b0f5027281290be9889cbd113489f04b</data>
+    </edge>
+    <edge source="&quot;&#23385;&#30922;&#35946;&quot;" target="&quot;&#32954;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Sun Leihao has been diagnosed with pneumonia."</data>
+      <data key="d5">b0f5027281290be9889cbd113489f04b</data>
+    </edge>
+    <edge source="&quot;&#30151;&#29366;&#26159;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#21608;&#28009;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Zhou Haoyang is experiencing sore throat accompanied by fever."</data>
+      <data key="d5">275da7ed1af6ccc32160b6d7bb064b8b</data>
+    </edge>
+    <edge source="&quot;&#30151;&#29366;&#26159;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#26472;&#20029;&#32724;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Yang Lixiang experiences sore throat accompanied by fever."</data>
+      <data key="d5">85485c3a27384db1c9965172b1c7fc0a</data>
+    </edge>
+    <edge source="&quot;&#30151;&#29366;&#26159;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Xia experiences sore throat accompanied by fever."</data>
+      <data key="d5">85485c3a27384db1c9965172b1c7fc0a</data>
+    </edge>
+    <edge source="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;" target="&quot;&#24739;&#32773;&#39640;&#26480;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Gao Jiefeng experiences sneezing and runny nose."</data>
+      <data key="d5">0aeea2b06ebf5d4b8d3d6f1403b9e15c</data>
+    </edge>
+    <edge source="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;" target="&quot;&#39640;&#26480;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Gao Jiefeng experiences sneezing and runny nose as symptoms."</data>
+      <data key="d5">2175e0171156b33cd03579b81e95528f</data>
+    </edge>
+    <edge source="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;" target="&quot;&#36213;&#22823;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Zhao Dalin experiences sneezing and runny nose."</data>
+      <data key="d5">bd14fa95cfa0472de615252e43e6dce2</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#24180;&#40836;28&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 28-year-old individual experiences breathing difficulties."</data>
+      <data key="d5">9f3a8eebeec2e77c47b2dd45fcae25e8</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#26446;&#23567;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient experiences breathing difficulties."</data>
+      <data key="d5">56b51848f8d3ae2c3851084575bc04f7</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#24739;&#32773;&#26446;&#23567;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Xiaoling experiences breathing difficulties."</data>
+      <data key="d5">0aeea2b06ebf5d4b8d3d6f1403b9e15c</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#26446;&#22235;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Si is experiencing breathing difficulties as a symptom."</data>
+      <data key="d5">2175e0171156b33cd03579b81e95528f</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#24352;&#38634;&#20255;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The patient, named Zhang Xuewei, is experiencing breathing difficulties. This information pertains to both entities provided, "\u547c\u5438\u56f0\u96be" (Zhang Xuewei) and "\u5f20\u96ea\u4f1f" (which also refers to Zhang Xuewei), indicating that the patient is currently facing respiratory issues.</data>
+      <data key="d5">6b0c37fbc03dc8db93e4e034cb38f486,7ac03f805011eb8bb8493206470dae8c</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#38472;&#20339;&#25935;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Chen Jiamin is experiencing breathing difficulties."</data>
+      <data key="d5">4b7d2401006bcab0dfdc5cd6d8d78827</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#26519;&#22823;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Lin Daxia experiences breathing difficulties."</data>
+      <data key="d5">85485c3a27384db1c9965172b1c7fc0a</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#26519;&#29577;&#21018;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Lin Yugang is experiencing breathing difficulties."</data>
+      <data key="d5">0f96d017a95b811697a6029ba98ae780</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#39532;&#38634;&#20255;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Ma Xuewei is experiencing breathing difficulties."</data>
+      <data key="d5">68d048a4b82a7ec9de63a7a51c752601</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#21608;&#24535;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Zhou Zhiyang has been diagnosed with pneumonia."</data>
+      <data key="d5">56b51848f8d3ae2c3851084575bc04f7</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#39640;&#22269;&#26976;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Gao Guinan has been diagnosed with pneumonia."</data>
+      <data key="d5">7ea034ca6f80af58f0e1e273b6c87d97</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The symptom of persistent cough lasting more than a week is related to pneumonia."</data>
+      <data key="d5">bd14fa95cfa0472de615252e43e6dce2</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#39640;&#20013;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Gao Zhongyang has been diagnosed with pneumonia."</data>
+      <data key="d5">6b0c37fbc03dc8db93e4e034cb38f486</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#20309;&#23567;&#30922;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient He Xiaolei has been diagnosed with pneumonia."</data>
+      <data key="d5">c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#30140;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The symptom of pain may be related to the condition of pneumonia."</data>
+      <data key="d5">7f6e5248877caa607c0f4a134b5105cd</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#21556;&#24535;&#21018;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Wu Zhigang has been diagnosed with tuberculosis."</data>
+      <data key="d5">275da7ed1af6ccc32160b6d7bb064b8b</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#21016;&#29577;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Liu Yuxia has been diagnosed with tuberculosis in the lungs."</data>
+      <data key="d5">6b0c37fbc03dc8db93e4e034cb38f486</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#23385;&#20426;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Sun Junling has been diagnosed with tuberculosis."</data>
+      <data key="d5">7ac03f805011eb8bb8493206470dae8c</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#38472;&#20339;&#25935;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Chen Jiamin is suspected to have tuberculosis based on the context, though it's not explicitly mentioned in her symptoms."</data>
+      <data key="d5">7ac03f805011eb8bb8493206470dae8c</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#30140;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The symptom of pain may be related to the condition of tuberculosis."</data>
+      <data key="d5">7f6e5248877caa607c0f4a134b5105cd</data>
+    </edge>
+    <edge source="&quot;&#23385;&#30922;&#32724;&quot;" target="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Sun Leixiang is experiencing sore throat accompanied by fever."</data>
+      <data key="d5">9f3a8eebeec2e77c47b2dd45fcae25e8</data>
+    </edge>
+    <edge source="&quot;&#23385;&#30922;&#32724;&quot;" target="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Sun Leixiang has been diagnosed with chronic obstructive pulmonary disease (COPD). "</data>
+      <data key="d5">9f3a8eebeec2e77c47b2dd45fcae25e8</data>
+    </edge>
+    <edge source="&quot;&#39640;&#23159;&#30922;&quot;" target="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Gao Tinglei experiences sore throat accompanied by fever."</data>
+      <data key="d5">9f3a8eebeec2e77c47b2dd45fcae25e8</data>
+    </edge>
+    <edge source="&quot;&#39640;&#23159;&#30922;&quot;" target="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Gao Tinglei has been diagnosed with upper respiratory tract infection (URI). "</data>
+      <data key="d5">9f3a8eebeec2e77c47b2dd45fcae25e8</data>
+    </edge>
+    <edge source="&quot;&#26446;&#28009;&#23068;&quot;" target="&quot;&#25345;&#32493;&#21683;&#30192;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Haona is experiencing persistent coughing up of phlegm."</data>
+      <data key="d5">7db56689ec06388f240ce10f29e92180</data>
+    </edge>
+    <edge source="&quot;&#26446;&#28009;&#23068;&quot;" target="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Haona has been diagnosed with chronic obstructive pulmonary disease."</data>
+      <data key="d5">7db56689ec06388f240ce10f29e92180</data>
+    </edge>
+    <edge source="&quot;&#33016;&#21475;&#30140;&#30171;&quot;" target="&quot;&#37101;&#24535;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Guo Zhixia experiences chest pain."</data>
+      <data key="d5">b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;47&#23681;&#24739;&#32773;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient experiences sore throat and fever."</data>
+      <data key="d5">7db56689ec06388f240ce10f29e92180</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#40644;&#23159;&#21018;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Huang Tinggang experiences sore throat accompanied by fever."</data>
+      <data key="d5">56b51848f8d3ae2c3851084575bc04f7</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The address is in Xuanwu District, which has a symptom involving sore throat and fever."</data>
+      <data key="d5">0aeea2b06ebf5d4b8d3d6f1403b9e15c</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#21608;&#28009;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sore throat accompanied by fever is a symptom experienced by Zhou Haoyang."</data>
+      <data key="d5">9c5ae872fad7a6529f9ac47df23c6826</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#32993;&#33521;&#26976;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Hu Yinan is experiencing sore throat accompanied by fever."</data>
+      <data key="d5">c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#24464;&#26480;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Xu Jiexia is experiencing sore throat accompanied by fever."</data>
+      <data key="d5">c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </edge>
+    <edge source="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;" target="&quot;&#23385;&#22269;&#25935;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Sun Guomin has been diagnosed with chronic obstructive pulmonary disease (COPD). "</data>
+      <data key="d5">bd14fa95cfa0472de615252e43e6dce2</data>
+    </edge>
+    <edge source="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;" target="&quot;&#30140;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The symptom of pain may be related to the condition of chronic obstructive pulmonary disease."</data>
+      <data key="d5">7f6e5248877caa607c0f4a134b5105cd</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#21608;&#24535;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Zhou Zhiyang has been diagnosed with upper respiratory tract infection."</data>
+      <data key="d5">7db56689ec06388f240ce10f29e92180</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;47&#23681;&#24739;&#32773;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient has been diagnosed with upper respiratory tract infection."</data>
+      <data key="d5">7db56689ec06388f240ce10f29e92180</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#36213;&#22823;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Zhao Dalin has been diagnosed with upper respiratory tract infection."</data>
+      <data key="d5">bd14fa95cfa0472de615252e43e6dce2</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#27969;&#40763;&#28053;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Running nose is a symptom of upper respiratory tract infection."</data>
+      <data key="d5">b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#24352;&#19977;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Zhang San has been diagnosed with upper respiratory infection."</data>
+      <data key="d5">68d048a4b82a7ec9de63a7a51c752601</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#30140;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The symptom of pain may be related to the condition of upper respiratory tract infection."</data>
+      <data key="d5">7f6e5248877caa607c0f4a134b5105cd</data>
+    </edge>
+    <edge source="&quot;&#26417;&#26480;&#40527;&quot;" target="&quot;&#25345;&#32493;&#21683;&#30192;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhu Jiepeng is experiencing persistent coughing up of phlegm."</data>
+      <data key="d5">7db56689ec06388f240ce10f29e92180</data>
+    </edge>
+    <edge source="&quot;&#26417;&#26480;&#40527;&quot;" target="&quot;&#21693;&#21897;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhu Jiepeng has been diagnosed with laryngitis."</data>
+      <data key="d5">7db56689ec06388f240ce10f29e92180</data>
+    </edge>
+    <edge source="&quot;&#24464;&#20013;&#23792;&quot;" target="&quot;&#24178;&#21683;&#19981;&#27490;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Xu Zhongfeng is experiencing persistent dry coughing."</data>
+      <data key="d5">7db56689ec06388f240ce10f29e92180</data>
+    </edge>
+    <edge source="&quot;&#24464;&#20013;&#23792;&quot;" target="&quot;&#32954;&#27668;&#32959;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Xu Zhongfeng has been diagnosed with emphysema."</data>
+      <data key="d5">7db56689ec06388f240ce10f29e92180</data>
+    </edge>
+    <edge source="&quot;&#21608;&#24535;&#27915;&quot;" target="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Entity: "&#21608;&#24535;&#38451;"
+
+Summary: 
+Patient &#21608;&#24535;&#38451; experiences severe nighttime coughing, a symptom that persists during the night. This description provides insight into the medical condition affecting &#21608;&#24535;&#38451;, highlighting the severity and timing of his coughing episodes.</data>
+      <data key="d5">56b51848f8d3ae2c3851084575bc04f7,7db56689ec06388f240ce10f29e92180</data>
+    </edge>
+    <edge source="&quot;&#25345;&#32493;&#21683;&#30192;&quot;" target="&quot;&#21016;&#20426;&#23431;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Liu Junyu, also known as "\u6301\u7eed\u54b3\u75f0" (Patient Liu Junyu), is experiencing persistent coughing and the production of phlegm. This description indicates that the patient is currently dealing with a condition characterized by ongoing respiratory symptoms, specifically a chronic or prolonged cough accompanied by the expectoration of phlegm.</data>
+      <data key="d5">b3021079f8b3c4dfdb2729b20233bdf9,bd14fa95cfa0472de615252e43e6dce2</data>
+    </edge>
+    <edge source="&quot;&#25345;&#32493;&#21683;&#30192;&quot;" target="&quot;&#29579;&#20116;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Wang Wu is experiencing persistent coughing up phlegm, though the exact cause is unspecified."</data>
+      <data key="d5">275da7ed1af6ccc32160b6d7bb064b8b</data>
+    </edge>
+    <edge source="&quot;&#24178;&#21683;&#19981;&#27490;&quot;" target="&quot;&#24180;&#40836;83&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient experiences persistent dry cough."</data>
+      <data key="d5">56b51848f8d3ae2c3851084575bc04f7</data>
+    </edge>
+    <edge source="&quot;&#24178;&#21683;&#19981;&#27490;&quot;" target="&quot;&#32993;&#26480;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Hu Jieling experiences incessant dry cough."</data>
+      <data key="d5">bd14fa95cfa0472de615252e43e6dce2</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;&#23385;&#22269;&#25935;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Sun Guomin is experiencing severe nighttime coughing."</data>
+      <data key="d5">bd14fa95cfa0472de615252e43e6dce2</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;&#24352;&#25991;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhang Wenge experiences severe nighttime coughing."</data>
+      <data key="d5">7ac03f805011eb8bb8493206470dae8c</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;&#37101;&#20339;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Guo Jiafeng experiences severe nighttime coughing."</data>
+      <data key="d5">4b7d2401006bcab0dfdc5cd6d8d78827</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;&#32599;&#24314;&#30922;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Luo Jianle experiences severe nighttime coughing and has been diagnosed with upper respiratory infection."</data>
+      <data key="d5">0f96d017a95b811697a6029ba98ae780</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;&#24352;&#19977;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Zhang San experiences severe nighttime coughing."</data>
+      <data key="d5">68d048a4b82a7ec9de63a7a51c752601</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#32993;&#26480;&#29618;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Patient Hu Jieling has been diagnosed with pharyngitis."</data>
+      <data key="d5">7ea034ca6f80af58f0e1e273b6c87d97,bd14fa95cfa0472de615252e43e6dce2</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#40644;&#20891;&#35946;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Huang Junhao has been diagnosed with laryngitis."</data>
+      <data key="d5">275da7ed1af6ccc32160b6d7bb064b8b</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#24352;&#38634;&#20255;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhang Xuewei has been diagnosed with pharyngitis (sore throat)."</data>
+      <data key="d5">6b0c37fbc03dc8db93e4e034cb38f486</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#24464;&#25991;&#29747;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Xu Wenlin has been diagnosed with pharyngitis."</data>
+      <data key="d5">4b7d2401006bcab0dfdc5cd6d8d78827</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;&#24180;&#40836;83&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient has been diagnosed with emphysema."</data>
+      <data key="d5">56b51848f8d3ae2c3851084575bc04f7</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;&#39640;&#26480;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Gao Jiefeng has been diagnosed with emphysema."</data>
+      <data key="d5">2175e0171156b33cd03579b81e95528f</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;&#37101;&#24535;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Guo Zhixia has been diagnosed with emphysema."</data>
+      <data key="d5">b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;&#32993;&#33521;&#26976;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Hu Yinan has been diagnosed with emphysema."</data>
+      <data key="d5">c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </edge>
+    <edge source="&quot;&#39532;&#26480;&#40527;&quot;" target="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient experiences wheezing accompanied by chest tightness."</data>
+      <data key="d5">56b51848f8d3ae2c3851084575bc04f7</data>
+    </edge>
+    <edge source="&quot;&#39532;&#26480;&#40527;&quot;" target="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient has been diagnosed with bronchial asthma."</data>
+      <data key="d5">56b51848f8d3ae2c3851084575bc04f7</data>
+    </edge>
+    <edge source="&quot;&#40644;&#23159;&#21018;&quot;" target="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Huang Tinggang has been diagnosed with allergic asthma."</data>
+      <data key="d5">56b51848f8d3ae2c3851084575bc04f7</data>
+    </edge>
+    <edge source="&quot;&#26446;&#23567;&#29618;&quot;" target="&quot;&#32954;&#32467;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's diagnosis is incomplete, but it suggests a condition related to the lungs (possibly pulmonary tuberculosis)."</data>
+      <data key="d5">56b51848f8d3ae2c3851084575bc04f7</data>
+    </edge>
+    <edge source="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;" target="&quot;&#24739;&#32773;&#26472;&#24314;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Yang Jianyang experiences wheezing and chest tightness."</data>
+      <data key="d5">0aeea2b06ebf5d4b8d3d6f1403b9e15c</data>
+    </edge>
+    <edge source="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;" target="&quot;&#21016;&#33521;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Liu Yingling is experiencing wheezing and chest tightness accompanied by sore throat and fever."</data>
+      <data key="d5">0f96d017a95b811697a6029ba98ae780</data>
+    </edge>
+    <edge source="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;" target="&quot;&#39640;&#22823;&#32724;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Gao Daxiang has been diagnosed with bronchial asthma."</data>
+      <data key="d5">b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </edge>
+    <edge source="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;" target="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Cough lasting over one week is related to the diagnosis of bronchial asthma.""Cough lasting over one week is a symptom associated with bronchial asthma."</data>
+      <data key="d5">9c5ae872fad7a6529f9ac47df23c6826</data>
+    </edge>
+    <edge source="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;" target="&quot;&#21608;&#28009;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Zhou Haoyang has been diagnosed with bronchial asthma."</data>
+      <data key="d5">275da7ed1af6ccc32160b6d7bb064b8b</data>
+    </edge>
+    <edge source="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;" target="&quot;&#37101;&#20339;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Guo Jiafeng has been diagnosed with bronchial asthma."</data>
+      <data key="d5">4b7d2401006bcab0dfdc5cd6d8d78827</data>
+    </edge>
+    <edge source="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;" target="&quot;&#30140;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The symptom of pain may be related to the condition of bronchial asthma."</data>
+      <data key="d5">7f6e5248877caa607c0f4a134b5105cd</data>
+    </edge>
+    <edge source="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;" target="&quot;&#24739;&#32773;&#26472;&#24314;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Yang Jianyang has been diagnosed with allergic asthma."</data>
+      <data key="d5">0aeea2b06ebf5d4b8d3d6f1403b9e15c</data>
+    </edge>
+    <edge source="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;" target="&quot;&#24739;&#32773;&#20309;&#26480;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient He Jieling has been diagnosed with allergic asthma."</data>
+      <data key="d5">0aeea2b06ebf5d4b8d3d6f1403b9e15c</data>
+    </edge>
+    <edge source="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;" target="&quot;&#24739;&#32773;&#39640;&#26480;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Gao Jiefeng has been diagnosed with allergic asthma."</data>
+      <data key="d5">0aeea2b06ebf5d4b8d3d6f1403b9e15c</data>
+    </edge>
+    <edge source="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;" target="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">The entity "\u8fc7\u654f\u6027\u54ee\u5598" (Morning cough) that has worsened is a significant symptom associated with the diagnosis of allergic asthma. This worsening morning cough indicates a potential exacerbation of allergic asthma, which aligns with both provided descriptions: "Morning coughing that has worsened is related to the diagnosis of allergic asthma" and "Morning severe cough is a symptom of allergic asthma."</data>
+      <data key="d5">2175e0171156b33cd03579b81e95528f,9c5ae872fad7a6529f9ac47df23c6826</data>
+    </edge>
+    <edge source="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;" target="&quot;&#26446;&#20339;&#20521;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Li Jiaqian has been diagnosed with allergic asthma."</data>
+      <data key="d5">b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </edge>
+    <edge source="&quot;&#24739;&#32773;&#20309;&#26480;&#29618;&quot;" target="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient He Jieling experiences exacerbated morning cough."</data>
+      <data key="d5">0aeea2b06ebf5d4b8d3d6f1403b9e15c</data>
+    </edge>
+    <edge source="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;" target="&quot;&#20309;&#26480;&#20521;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Morning coughing that has worsened is a symptom experienced by He Jieqian."</data>
+      <data key="d5">9c5ae872fad7a6529f9ac47df23c6826</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#21683;&#22013;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Si is experiencing coughing as a symptom."</data>
+      <data key="d5">2175e0171156b33cd03579b81e95528f</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#21683;&#30192;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Si is experiencing expectoration as a symptom."</data>
+      <data key="d5">2175e0171156b33cd03579b81e95528f</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#21683;&#34880;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Si is experiencing hemoptysis as a symptom."</data>
+      <data key="d5">2175e0171156b33cd03579b81e95528f</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#21693;&#21897;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Si is experiencing sore throat as a symptom."</data>
+      <data key="d5">2175e0171156b33cd03579b81e95528f</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#21457;&#28909;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Si is experiencing fever as a symptom."</data>
+      <data key="d5">2175e0171156b33cd03579b81e95528f</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#27969;&#24863;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Si is experiencing influenza as a symptom."</data>
+      <data key="d5">2175e0171156b33cd03579b81e95528f</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#27969;&#40763;&#28053;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Si experiences runny nose as a symptom."</data>
+      <data key="d5">2175e0171156b33cd03579b81e95528f</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#27668;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Si is experiencing wheezing as a symptom."</data>
+      <data key="d5">2175e0171156b33cd03579b81e95528f</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#33016;&#38391;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Si experiences chest tightness as a symptom."</data>
+      <data key="d5">2175e0171156b33cd03579b81e95528f</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#33016;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Si experiences chest pain as a symptom."</data>
+      <data key="d5">2175e0171156b33cd03579b81e95528f</data>
+    </edge>
+    <edge source="&quot;&#27969;&#24863;&quot;" target="&quot;&#21016;&#20426;&#23431;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Liu Junyu has been diagnosed with influenza."</data>
+      <data key="d5">b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </edge>
+    <edge source="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;" target="&quot;&#26519;&#20029;&#38745;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Lin Lijing has been diagnosed with acute bronchitis."</data>
+      <data key="d5">7ac03f805011eb8bb8493206470dae8c</data>
+    </edge>
+    <edge source="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;" target="&quot;&#20029;&#38745;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Jing has been diagnosed with acute bronchitis."</data>
+      <data key="d5">4b7d2401006bcab0dfdc5cd6d8d78827</data>
+    </edge>
+    <edge source="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;" target="&quot;&#21016;&#33521;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Liu Yingling has been diagnosed with acute bronchitis."</data>
+      <data key="d5">0f96d017a95b811697a6029ba98ae780</data>
+    </edge>
+    <edge source="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;" target="&quot;&#30140;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The symptom of pain may be related to the condition of acute bronchitis."</data>
+      <data key="d5">7f6e5248877caa607c0f4a134b5105cd</data>
+    </edge>
+    <edge source="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;&#21016;&#20426;&#23431;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Liu Junyu has been diagnosed with influenza."</data>
+      <data key="d5">bd14fa95cfa0472de615252e43e6dce2</data>
+    </edge>
+    <edge source="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;&#38472;&#20339;&#25935;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Chen Jiamin has been diagnosed with influenza."</data>
+      <data key="d5">4b7d2401006bcab0dfdc5cd6d8d78827</data>
+    </edge>
+    <edge source="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;&#24464;&#26480;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Xu Jiexia has been diagnosed with influenza."</data>
+      <data key="d5">c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </edge>
+    <edge source="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;&#30140;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The symptom of pain may be related to the condition of influenza."</data>
+      <data key="d5">7f6e5248877caa607c0f4a134b5105cd</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#39640;&#22823;&#32724;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Gao Daxiang, also referred to as "\u54b3\u55fd\u6301\u7eed\u8d85\u8fc7\u4e00\u5468" (Cough lasting over one week) and "\u9ad8\u5927\u7fd4" (High-grade fever), is experiencing a persistent cough that has lasted for more than one week. This symptom is indicative of an ongoing health issue that requires medical attention.</data>
+      <data key="d5">9c5ae872fad7a6529f9ac47df23c6826,b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#26417;&#20339;&#24378;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cough lasting over one week is a symptom experienced by Zhu Jiaqiang."</data>
+      <data key="d5">9c5ae872fad7a6529f9ac47df23c6826</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#24464;&#25991;&#29747;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Xu Wenlin has a persistent cough for over a week."</data>
+      <data key="d5">4b7d2401006bcab0dfdc5cd6d8d78827</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#20309;&#23567;&#30922;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient He Xiaolei has had a cough lasting over one week."</data>
+      <data key="d5">c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#25991;&#29747;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Wen Lin has had a cough lasting over one week."</data>
+      <data key="d5">c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#24352;&#22269;&#35946;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhang Guohaohao has a persistent cough for over a week."</data>
+      <data key="d5">85485c3a27384db1c9965172b1c7fc0a</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#20309;&#22269;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient He Guofeng's cough has lasted over one week."</data>
+      <data key="d5">68d048a4b82a7ec9de63a7a51c752601</data>
+    </edge>
+    <edge source="&quot;&#26446;&#20339;&#20521;&quot;" target="&quot;&#39640;&#28903;&#21683;&#22013;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Li Jiaqian is experiencing high fever and coughing."</data>
+      <data key="d5">b3021079f8b3c4dfdb2729b20233bdf9</data>
+    </edge>
+    <edge source="&quot;&#39640;&#28903;&#21683;&#22013;&quot;" target="&quot;&#39640;&#20013;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Gao Zhongyang is experiencing high fever and coughing."</data>
+      <data key="d5">6b0c37fbc03dc8db93e4e034cb38f486</data>
+    </edge>
+    <edge source="&quot;&#39640;&#22823;&#32724;&quot;" target="&quot;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The symptom of pain experienced by the unspecified patient is related to Gao Daxiang's condition."</data>
+      <data key="d5">9c5ae872fad7a6529f9ac47df23c6826</data>
+    </edge>
+    <edge source="&quot;&#29579;&#20116;&quot;" target="&quot;&#21683;&#22013;&#12289;&#21683;&#30192;&#12289;&#21683;&#34880;&#12289;&#21693;&#21897;&#30171;&#12289;&#21457;&#28909;&#12289;&#27969;&#24863;&#12289;&#27969;&#40763;&#28053;&#12289;&#25171;&#21943;&#22159;&#12289;&#21628;&#21560;&#22256;&#38590;&#12289;&#27668;&#21912;&#12289;&#33016;&#38391;&#12289;&#33016;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Wang Wu is experiencing various symptoms including coughing, phlegm production, hemoptysis, sore throat, fever, influenza, runny nose, sneezing, breathing difficulties, wheezing, chest tightness, and chest pain."</data>
+      <data key="d5">3586722bb89b222128a75f96418fde83</data>
+    </edge>
+    <edge source="&quot;&#29579;&#20116;&quot;" target="&quot;&#32954;&#28814;&#12289;&#32954;&#32467;&#26680;&#12289;&#25903;&#27668;&#31649;&#21742;&#21912;&#12289;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&#12289;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&#12289;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&#12289;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Wang Wu has been diagnosed with various conditions including pneumonia, pulmonary tuberculosis, bronchial asthma, chronic obstructive pulmonary disease, upper respiratory tract infection, acute bronchitis, and influenza."</data>
+      <data key="d5">3586722bb89b222128a75f96418fde83</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#12289;&#21683;&#30192;&#12289;&#21683;&#34880;&#12289;&#21693;&#21897;&#30171;&#12289;&#21457;&#28909;&#12289;&#27969;&#24863;&#12289;&#27969;&#40763;&#28053;&#12289;&#25171;&#21943;&#22159;&#12289;&#21628;&#21560;&#22256;&#38590;&#12289;&#27668;&#21912;&#12289;&#33016;&#38391;&#12289;&#33016;&#30171;&quot;" target="&quot;&#39640;&#20013;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Gao Zhongyang is experiencing various symptoms including coughing, phlegm production, hemoptysis, sore throat, fever, influenza, runny nose, sneezing, breathing difficulties, wheezing, chest tightness, and chest pain."</data>
+      <data key="d5">3586722bb89b222128a75f96418fde83</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&#12289;&#32954;&#32467;&#26680;&#12289;&#25903;&#27668;&#31649;&#21742;&#21912;&#12289;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&#12289;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&#12289;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&#12289;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;&#39640;&#20013;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Gao Zhongyang has been diagnosed with various conditions including pneumonia, pulmonary tuberculosis, bronchial asthma, chronic obstructive pulmonary disease, upper respiratory tract infection, acute bronchitis, and influenza."</data>
+      <data key="d5">3586722bb89b222128a75f96418fde83</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&#12289;&#32954;&#32467;&#26680;&#12289;&#25903;&#27668;&#31649;&#21742;&#21912;&#12289;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&#12289;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&#12289;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&#12289;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;&#24180;&#40836;55&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 55 years old has been diagnosed with various conditions including pneumonia, tuberculosis, bronchial asthma, chronic obstructive pulmonary disease (COPD), upper respiratory tract infection, acute bronchitis, and influenza."</data>
+      <data key="d5">c745a835d8e8d3f13689e3996334b723</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&#12289;&#32954;&#32467;&#26680;&#12289;&#25903;&#27668;&#31649;&#21742;&#21912;&#12289;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&#12289;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&#12289;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&#12289;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;&#30151;&#29366;&#26159;&#21683;&#22013;&#12289;&#21683;&#30192;&#12289;&#21683;&#34880;&#12289;&#21693;&#21897;&#30171;&#12289;&#21457;&#28909;&#12289;&#27969;&#24863;&#12289;&#27969;&#40763;&#28053;&#12289;&#25171;&#21943;&#22159;&#12289;&#21628;&#21560;&#22256;&#38590;&#12289;&#27668;&#21912;&#12289;&#33016;&#38391;&#12289;&#33016;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's symptoms are related to the various diagnoses of pneumonia, tuberculosis, bronchial asthma, chronic obstructive pulmonary disease (COPD), upper respiratory tract infection, acute bronchitis, and influenza."</data>
+      <data key="d5">c745a835d8e8d3f13689e3996334b723</data>
+    </edge>
+    <edge source="&quot;&#21016;&#29577;&#38686;&quot;" target="&quot;&#27963;&#21160;&#21518;&#27668;&#20419;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Liu Yuxia experiences shortness of breath after activity."</data>
+      <data key="d5">6b0c37fbc03dc8db93e4e034cb38f486</data>
+    </edge>
+    <edge source="&quot;&#32993;&#33521;&#26976;&quot;" target="&quot;&#21693; &quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Hu Yingnan is experiencing throat symptoms, though the specific diagnosis is not mentioned."</data>
+      <data key="d5">4b7d2401006bcab0dfdc5cd6d8d78827</data>
+    </edge>
+    <edge source="&quot;&#20029;&#38745;&quot;" target="&quot;&#30151;&#29366;&#26159;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Li Jing experiences severe nighttime coughing."</data>
+      <data key="d5">4b7d2401006bcab0dfdc5cd6d8d78827</data>
+    </edge>
+    <edge source="&quot;&#25991;&#29747;&quot;" target="&quot;&#21693;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient Wen Lin has been diagnosed with pharyngitis."</data>
+      <data key="d5">c50b61da8859a1ce820b040c4cd8f1f2</data>
+    </edge>
+    <edge source="&quot;&#20309;&#22269;&#23792;&quot;" target="&quot;&#21683;&#22013;&#25345;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patient He Guofeng is experiencing persistent coughing."</data>
+      <data key="d5">0f96d017a95b811697a6029ba98ae780</data>
+    </edge>
+    <edge source="&quot;&#24180;&#40836;55&quot;" target="&quot;&#30151;&#29366;&#26159;&#21683;&#22013;&#12289;&#21683;&#30192;&#12289;&#21683;&#34880;&#12289;&#21693;&#21897;&#30171;&#12289;&#21457;&#28909;&#12289;&#27969;&#24863;&#12289;&#27969;&#40763;&#28053;&#12289;&#25171;&#21943;&#22159;&#12289;&#21628;&#21560;&#22256;&#38590;&#12289;&#27668;&#21912;&#12289;&#33016;&#38391;&#12289;&#33016;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 55 years old experiences a wide range of symptoms including coughing, phlegm production, hemoptysis, sore throat, fever, influenza, runny nose, sneezing, breathing difficulties, wheezing, chest tightness, and chest pain."</data>
+      <data key="d5">c745a835d8e8d3f13689e3996334b723</data>
+    </edge>
+  </graph>
+</graphml>

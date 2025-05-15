@@ -1,0 +1,12 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;1982&#24180;&quot;">
+      <data key="d0">"&#26102;&#38388;"</data>
+      <data key="d1">"the year 1982 when Wu Jun worked at Huag&#468; Opera Troupe in Yiyang County, Hunan Province")Note: The last entity and relationship are based on the assumption that "1982&#24180;" refers to a specific time when an event occurred.</data>
+      <data key="d2">8282c810ed8b7218d145b9518d5160ba</data>
+    </node>
+  </graph>
+</graphml>

@@ -1,0 +1,1933 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;82&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">bdc925db8d80d120e36986e75ffff059</data>
+    </node>
+    <node id="&quot;&#31119;&#24314;&#30465;&#24191;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">bdc925db8d80d120e36986e75ffff059</data>
+    </node>
+    <node id="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of dyspnea accompanied by chest tightness"
+"Symptom of dyspnea accompanied by chest tightness"
+"Symptom of dyspnea accompanied by chest tightness"
+"Symptom of dyspnea accompanied by chest tightness"</data>
+      <data key="d2">4f031dd178fb39f27ddee3cd34d8bb9f,65bfc0741ad81847e0c163e0be08fd3d,abcf535f72153dcc11cd1d601c51eeb4,bdc925db8d80d120e36986e75ffff059</data>
+    </node>
+    <node id="&quot;&#21693;&#21897;&#28814;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of pharyngitis"
+"Diagnosis of pharyngitis"
+"Diagnosis of pharyngitis")("relationship"
+"Diagnosis of pharyngitis"
+"Diagnosis of pharyngitis"
+"Diagnosis of pharyngitis"
+"Diagnosis of pharyngitis"</data>
+      <data key="d2">631a7e3223e15e6fd6edb12c2015fe31,66eb2ea1b51ed6d2b52131c3313e0385,ac2ee3b8814f76c549d3f44ad17b183c,bdc925db8d80d120e36986e75ffff059,e9aa8c7878a7ae2a29f462eda868f201,fced258601d56a5bb394966b0dfbdc17,fe2f2ad162d3cfcf5a5e32b35bf6b360</data>
+    </node>
+    <node id="&quot;50&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">0757e6b0ca4544368f1da650f35f5940,10e0af4844ced9af1cfa8e41b282a5c1,3ee54586d04831d6be8582843aa8318a,4534972910a050e136c2f50ccfa9e72b,4f031dd178fb39f27ddee3cd34d8bb9f,716409f50432b6d41a72097d79c4e274,904ba948f345e1478c0af2ba1ab0580d,95aaa46441bef041c91761ec891f7a5a,a90023bf0dee2db6133a3e49715e1eeb,b703de98d70076a8d5dce33d2af15b30,d9cdcc740d108fb9b697e99a036d8a43,df2c6ab83106c83977b056cdad0fb9d2,f8e5a84adc8b7cad5c61b64465d75589</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#19978;&#28023;&#24066;&#24191;&#19996;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"</data>
+      <data key="d2">0757e6b0ca4544368f1da650f35f5940,10e0af4844ced9af1cfa8e41b282a5c1,3ee54586d04831d6be8582843aa8318a,4534972910a050e136c2f50ccfa9e72b,4f031dd178fb39f27ddee3cd34d8bb9f,716409f50432b6d41a72097d79c4e274,904ba948f345e1478c0af2ba1ab0580d,95aaa46441bef041c91761ec891f7a5a,a90023bf0dee2db6133a3e49715e1eeb,b703de98d70076a8d5dce33d2af15b30,d9cdcc740d108fb9b697e99a036d8a43,df2c6ab83106c83977b056cdad0fb9d2,f8e5a84adc8b7cad5c61b64465d75589</data>
+    </node>
+    <node id="&quot;&#39640;&#28903;&#21683;&#22013;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of high fever and coughing"
+"Symptoms of high fever and coughing"
+"Symptom of high fever and coughing"
+"Symptom of high fever and coughing"</data>
+      <data key="d2">00b3f2d0c0c3f7ceff3d20f2bc949572,558b3868ecf2410309cb4052382d06b5,91ef2a256c68cd35b3c168751fd9367a,d9cdcc740d108fb9b697e99a036d8a43</data>
+    </node>
+    <node id="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of upper respiratory tract infection"
+"Diagnosis of upper respiratory tract infection"
+"Diagnosis of upper respiratory tract infection"
+"Diagnosis of upper respiratory tract infection"
+"Diagnosis of upper respiratory tract infection"
+"Diagnosis of upper respiratory tract infection"</data>
+      <data key="d2">4124751013f57c238dd7139a10dfdff1,5a04414d369f14d70f2774376896bdef,922876b108baab4b16ce9f7231d20609,98a4bab38cf61c4ed1cd9fd183ef097b,d9cdcc740d108fb9b697e99a036d8a43,fa451ce26e62193d59e40bb4ca6713df</data>
+    </node>
+    <node id="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptoms of sneezing and runny nose"
+"Symptom of sneezing and runny nose"
+"Symptom of sneezing and runny nose"
+"Symptoms of sneezing and runny nose"</data>
+      <data key="d2">4534972910a050e136c2f50ccfa9e72b,7e814ef2477dcb1b249cfbfb875ed7db,922876b108baab4b16ce9f7231d20609,dbf91170f46be6e366511edc13db9dbe</data>
+    </node>
+    <node id="&quot;&#32954;&#28814;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"</data>
+      <data key="d2">1be49fdcaedc95d28a22aa5312725314,1faeb8e8a4729ccb9e4eaed54117b966,381f16dceb2904b8fc0dba3b0b794e33,3ee54586d04831d6be8582843aa8318a,4124751013f57c238dd7139a10dfdff1,4534972910a050e136c2f50ccfa9e72b,508324e0146372b3c612f47a11623372,558b3868ecf2410309cb4052382d06b5,b5585474da6b01b1fbf52e798e2103aa,b703de98d70076a8d5dce33d2af15b30,dbf91170f46be6e366511edc13db9dbe</data>
+    </node>
+    <node id="&quot;20&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">98a4bab38cf61c4ed1cd9fd183ef097b</data>
+    </node>
+    <node id="&quot;&#28246;&#21271;&#30465;&#38271;&#27801;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">98a4bab38cf61c4ed1cd9fd183ef097b</data>
+    </node>
+    <node id="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"</data>
+      <data key="d2">3a2ef7edaa7d1f729127d6fdb0813080,497733f4242b847c15c9b7691c9dcfca,6b144bca08bd92c65ef6b7bf0bb1b210,7d9d5989f95f62517d02d326446f998a,98a4bab38cf61c4ed1cd9fd183ef097b,a90023bf0dee2db6133a3e49715e1eeb,ac2ee3b8814f76c549d3f44ad17b183c,b8062090060526d049eb6f7be030d785,df2c6ab83106c83977b056cdad0fb9d2</data>
+    </node>
+    <node id="&quot;55&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">50f2b4cf3de396f11e71c2051ec0ffd2</data>
+    </node>
+    <node id="&quot;&#24191;&#19996;&#30465;&#38271;&#27801;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">50f2b4cf3de396f11e71c2051ec0ffd2</data>
+    </node>
+    <node id="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of increased morning coughing"
+"Symptom of increased morning coughing"
+"Symptom of increased morning coughing"</data>
+      <data key="d2">50f2b4cf3de396f11e71c2051ec0ffd2,904ba948f345e1478c0af2ba1ab0580d,cc39e2721a0c39f0ed221e6b017fb2fe</data>
+    </node>
+    <node id="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of allergic asthma"
+"Diagnosis of allergic asthma"
+"Diagnosis of allergic asthma"
+"Diagnosis of allergic asthma"
+"Diagnosis of allergic asthma"</data>
+      <data key="d2">50f2b4cf3de396f11e71c2051ec0ffd2,65bfc0741ad81847e0c163e0be08fd3d,91ef2a256c68cd35b3c168751fd9367a,cc39e2721a0c39f0ed221e6b017fb2fe,e427b50b62d503d70c3abe806b370771</data>
+    </node>
+    <node id="&quot;84&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">13350cddc13909741d3af301b52c2b46,922876b108baab4b16ce9f7231d20609</data>
+    </node>
+    <node id="&quot;&#22235;&#24029;&#30465;&#21414;&#38376;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">13350cddc13909741d3af301b52c2b46</data>
+    </node>
+    <node id="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of sore throat and fever"
+"Symptom of sore throat and fever"
+"Symptom of sore throat and fever"
+"Symptom of sore throat and fever"
+"Symptom of sore throat and fever"
+"Symptom of sore throat and fever"
+"Symptom of sore throat and fever"
+"Symptom of sore throat and fever"
+"Symptom of sore throat and fever"
+"Symptom of sore throat and fever"</data>
+      <data key="d2">0999acfd62f9ab018267ec13257b00b6,13350cddc13909741d3af301b52c2b46,1faeb8e8a4729ccb9e4eaed54117b966,27e74b1fcd06ffd11ba52e9eca361c25,3ee54586d04831d6be8582843aa8318a,5a04414d369f14d70f2774376896bdef,b1254b39f57b6cf235c1be2a01c947e0,dc9b711e7879ae20059d90729584ec53,e427b50b62d503d70c3abe806b370771,f417d04076a08025ab592a452e2c880d</data>
+    </node>
+    <node id="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of acute bronchitis"
+"Diagnosis of acute bronchitis"
+"Diagnosis of acute bronchitis"
+"Diagnosis of acute bronchitis"
+"Diagnosis of acute bronchitis"</data>
+      <data key="d2">10e0af4844ced9af1cfa8e41b282a5c1,13350cddc13909741d3af301b52c2b46,4124751013f57c238dd7139a10dfdff1,7d9d5989f95f62517d02d326446f998a,98394455ee25a4587117498bc9e46b6d</data>
+    </node>
+    <node id="&quot;70&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">7e814ef2477dcb1b249cfbfb875ed7db</data>
+    </node>
+    <node id="&quot;&#27993;&#27743;&#30465;&#21335;&#20140;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">7e814ef2477dcb1b249cfbfb875ed7db</data>
+    </node>
+    <node id="&quot;&#32954;&#27668;&#32959;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of emphysema"
+"Diagnosis of emphysema"
+"Diagnosis of emphysema"
+"Diagnosis of emphysema"
+"Diagnosis of emphysema"</data>
+      <data key="d2">0999acfd62f9ab018267ec13257b00b6,10e6dd3f9cc2eb5bed0abb8e67430f50,4252c5ebe891a01bc80fe2cbe97c43f3,7e814ef2477dcb1b249cfbfb875ed7db,b58034e6537f78c9687b4fccbd847065</data>
+    </node>
+    <node id="&quot;89&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">cc39e2721a0c39f0ed221e6b017fb2fe,f417d04076a08025ab592a452e2c880d,f7c333a14c39dd5b876bfb0990d4dd50,fe2f2ad162d3cfcf5a5e32b35bf6b360</data>
+    </node>
+    <node id="&quot;&#27993;&#27743;&#30465;&#31119;&#24030;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">cc39e2721a0c39f0ed221e6b017fb2fe</data>
+    </node>
+    <node id="&quot;18&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">864665bab4cf4ccfcd350e5c448c7b33,e427b50b62d503d70c3abe806b370771</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#21335;&#20140;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">e427b50b62d503d70c3abe806b370771</data>
+    </node>
+    <node id="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of persistent cough for more than a week"
+"Symptom of persistent cough for more than a week"
+"Symptom of persistent cough for more than a week"
+"Symptom of persistent cough for more than a week"
+"Symptom of persistent cough for more than a week"
+"Symptom of persistent cough for more than a week"
+"Symptom of persistent cough for more than a week"
+"Symptom of persistent cough for more than a week"</data>
+      <data key="d2">10e0af4844ced9af1cfa8e41b282a5c1,1be49fdcaedc95d28a22aa5312725314,339889400ac018e70d0f00c486ab52af,381f16dceb2904b8fc0dba3b0b794e33,631a7e3223e15e6fd6edb12c2015fe31,864665bab4cf4ccfcd350e5c448c7b33,b74b94c9685d4484dc383961b311aa8b,fe2f2ad162d3cfcf5a5e32b35bf6b360</data>
+    </node>
+    <node id="&quot;83&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">b58034e6537f78c9687b4fccbd847065</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#21335;&#20140;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">b58034e6537f78c9687b4fccbd847065</data>
+    </node>
+    <node id="&quot;&#24178;&#21683;&#19981;&#27490;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of persistent dry cough"
+"Symptom of persistent dry cough"
+"Symptom of persistent dry cough"</data>
+      <data key="d2">66eb2ea1b51ed6d2b52131c3313e0385,7bd00f70cea33abc0afdd9e60b42162e,b58034e6537f78c9687b4fccbd847065</data>
+    </node>
+    <node id="&quot;25&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">0999acfd62f9ab018267ec13257b00b6</data>
+    </node>
+    <node id="&quot;&#23665;&#19996;&#30465;&#24191;&#24030;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">0999acfd62f9ab018267ec13257b00b6</data>
+    </node>
+    <node id="&quot;60&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">fced258601d56a5bb394966b0dfbdc17</data>
+    </node>
+    <node id="&quot;&#22235;&#24029;&#30465;&#33487;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">fced258601d56a5bb394966b0dfbdc17</data>
+    </node>
+    <node id="&quot;&#25345;&#32493;&#21683;&#30192;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of persistent sputum production"
+"Symptom of persistent sputum production"
+"Symptom of persistent sputum production"
+"Symptom of persistent sputum production"
+"Symptom of persistent sputum production"</data>
+      <data key="d2">b703de98d70076a8d5dce33d2af15b30,d113918110a60fa0f033eb498b39cc83,d8af756c0f3793583fa23ef89db0d559,e9aa8c7878a7ae2a29f462eda868f201,fced258601d56a5bb394966b0dfbdc17</data>
+    </node>
+    <node id="&quot;26&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">fa451ce26e62193d59e40bb4ca6713df</data>
+    </node>
+    <node id="&quot;&#27743;&#33487;&#30465;&#25104;&#37117;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">fa451ce26e62193d59e40bb4ca6713df</data>
+    </node>
+    <node id="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of severe nighttime coughing"
+"Symptom of severe nighttime coughing"
+"Symptom of severe nocturnal coughing"
+"Symptom of severe nocturnal coughing"
+"Symptom of severe nocturnal coughing"
+"Severe nighttime coughing symptom"
+"Symptom of severe nocturnal coughing"</data>
+      <data key="d2">10e6dd3f9cc2eb5bed0abb8e67430f50,716409f50432b6d41a72097d79c4e274,7e350b9370b46844dea072a23af8b52e,98394455ee25a4587117498bc9e46b6d,b5585474da6b01b1fbf52e798e2103aa,f7c333a14c39dd5b876bfb0990d4dd50,fa451ce26e62193d59e40bb4ca6713df</data>
+    </node>
+    <node id="&quot;12&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">7d9d5989f95f62517d02d326446f998a,ac2ee3b8814f76c549d3f44ad17b183c</data>
+    </node>
+    <node id="&quot;&#27993;&#27743;&#30465;&#21414;&#38376;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">ac2ee3b8814f76c549d3f44ad17b183c</data>
+    </node>
+    <node id="&quot;36&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">10e6dd3f9cc2eb5bed0abb8e67430f50</data>
+    </node>
+    <node id="&quot;&#27993;&#27743;&#30465;&#21335;&#20140;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">10e6dd3f9cc2eb5bed0abb8e67430f50</data>
+    </node>
+    <node id="&quot;81&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">4252c5ebe891a01bc80fe2cbe97c43f3,65bfc0741ad81847e0c163e0be08fd3d</data>
+    </node>
+    <node id="&quot;&#23665;&#19996;&#30465;&#38738;&#23707;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">4252c5ebe891a01bc80fe2cbe97c43f3</data>
+    </node>
+    <node id="&quot;&#33016;&#21475;&#30140;&#30171;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of chest pain"
+"Symptom of chest pain"</data>
+      <data key="d2">4252c5ebe891a01bc80fe2cbe97c43f3,508324e0146372b3c612f47a11623372</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#21414;&#38376;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">f7c333a14c39dd5b876bfb0990d4dd50</data>
+    </node>
+    <node id="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of bronchial asthma"
+"Diagnosis of bronchial asthma"
+"Diagnosis of bronchial asthma"
+"Diagnosis of bronchial asthma"
+"Diagnosis of bronchial asthma"
+"Diagnosis of bronchial asthma"
+"Diagnosis of bronchial asthma"</data>
+      <data key="d2">4124751013f57c238dd7139a10dfdff1,864665bab4cf4ccfcd350e5c448c7b33,abcf535f72153dcc11cd1d601c51eeb4,b1254b39f57b6cf235c1be2a01c947e0,b74b94c9685d4484dc383961b311aa8b,df2c6ab83106c83977b056cdad0fb9d2,f7c333a14c39dd5b876bfb0990d4dd50</data>
+    </node>
+    <node id="&quot;47&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">27e74b1fcd06ffd11ba52e9eca361c25,508324e0146372b3c612f47a11623372,5a04414d369f14d70f2774376896bdef</data>
+    </node>
+    <node id="&quot;&#23665;&#19996;&#30465;&#33487;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">5a04414d369f14d70f2774376896bdef</data>
+    </node>
+    <node id="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"</data>
+      <data key="d2">00b3f2d0c0c3f7ceff3d20f2bc949572,11a17a6cd42ce5b3da45c95a04b90f4a,3a2ef7edaa7d1f729127d6fdb0813080,4124751013f57c238dd7139a10dfdff1,4f031dd178fb39f27ddee3cd34d8bb9f,6b144bca08bd92c65ef6b7bf0bb1b210,7bd00f70cea33abc0afdd9e60b42162e,a90023bf0dee2db6133a3e49715e1eeb,b8062090060526d049eb6f7be030d785,dc9b711e7879ae20059d90729584ec53</data>
+    </node>
+    <node id="&quot;73&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">1be49fdcaedc95d28a22aa5312725314,dc9b711e7879ae20059d90729584ec53,e9aa8c7878a7ae2a29f462eda868f201</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#26477;&#24030;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">e9aa8c7878a7ae2a29f462eda868f201</data>
+    </node>
+    <node id="&quot;34&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">558b3868ecf2410309cb4052382d06b5</data>
+    </node>
+    <node id="&quot;&#23665;&#19996;&#30465;&#21414;&#38376;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">558b3868ecf2410309cb4052382d06b5</data>
+    </node>
+    <node id="&quot;17&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">339889400ac018e70d0f00c486ab52af</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#38738;&#23707;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">339889400ac018e70d0f00c486ab52af</data>
+    </node>
+    <node id="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of chronic obstructive pulmonary disease (COPD)"
+"Diagnosis of chronic obstructive pulmonary disease (COPD)"
+"Diagnosis of chronic obstructive pulmonary disease (COPD)"
+"Diagnosis of chronic obstructive pulmonary disease (COPD)"
+"Diagnosis of chronic obstructive pulmonary disease (COPD)"
+"Diagnosis of chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d2">27e74b1fcd06ffd11ba52e9eca361c25,339889400ac018e70d0f00c486ab52af,4124751013f57c238dd7139a10dfdff1,7e350b9370b46844dea072a23af8b52e,904ba948f345e1478c0af2ba1ab0580d,d113918110a60fa0f033eb498b39cc83</data>
+    </node>
+    <node id="&quot;&#28246;&#21335;&#30465;&#33487;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">508324e0146372b3c612f47a11623372</data>
+    </node>
+    <node id="&quot;88&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">00b3f2d0c0c3f7ceff3d20f2bc949572,66eb2ea1b51ed6d2b52131c3313e0385</data>
+    </node>
+    <node id="&quot;&#28246;&#21271;&#30465;&#26477;&#24030;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">66eb2ea1b51ed6d2b52131c3313e0385</data>
+    </node>
+    <node id="&quot;&#21683;&#30192;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of coughing up phlegm"</data>
+      <data key="d2">95aaa46441bef041c91761ec891f7a5a</data>
+    </node>
+    <node id="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of influenza"
+"Diagnosis of influenza"
+"Diagnosis of influenza")("relationship"
+"Diagnosis of influenza"
+"Diagnosis of influenza"
+"Diagnosis of influenza"
+"Diagnosis of influenza"
+"Diagnosis of influenza"</data>
+      <data key="d2">0757e6b0ca4544368f1da650f35f5940,4124751013f57c238dd7139a10dfdff1,497733f4242b847c15c9b7691c9dcfca,716409f50432b6d41a72097d79c4e274,95aaa46441bef041c91761ec891f7a5a,d8af756c0f3793583fa23ef89db0d559,f417d04076a08025ab592a452e2c880d,f8e5a84adc8b7cad5c61b64465d75589</data>
+    </node>
+    <node id="&quot;&#21683;&#34880;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of hemoptysis (coughing up blood)"</data>
+      <data key="d2">f8e5a84adc8b7cad5c61b64465d75589</data>
+    </node>
+    <node id="&quot;&#22235;&#24029;&#30465;&#24191;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">7d9d5989f95f62517d02d326446f998a</data>
+    </node>
+    <node id="&quot;64&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">7e350b9370b46844dea072a23af8b52e</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#31119;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">7e350b9370b46844dea072a23af8b52e</data>
+    </node>
+    <node id="&quot;74&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">7bd00f70cea33abc0afdd9e60b42162e,d8af756c0f3793583fa23ef89db0d559</data>
+    </node>
+    <node id="&quot;&#27993;&#27743;&#30465;&#27494;&#27721;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">7bd00f70cea33abc0afdd9e60b42162e</data>
+    </node>
+    <node id="&quot;37&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">1faeb8e8a4729ccb9e4eaed54117b966</data>
+    </node>
+    <node id="&quot;&#27743;&#33487;&#30465;&#38738;&#23707;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">1faeb8e8a4729ccb9e4eaed54117b966</data>
+    </node>
+    <node id="&quot;&#33016;&#38391;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of chest tightness"</data>
+      <data key="d2">4124751013f57c238dd7139a10dfdff1</data>
+    </node>
+    <node id="&quot;&#33016;&#30171;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of chest pain"</data>
+      <data key="d2">4124751013f57c238dd7139a10dfdff1</data>
+    </node>
+    <node id="&quot;&#23665;&#19996;&#30465;&#24191;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"
+"Residence address of the patient"</data>
+      <data key="d2">922876b108baab4b16ce9f7231d20609,b8062090060526d049eb6f7be030d785</data>
+    </node>
+    <node id="&quot;35&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">98394455ee25a4587117498bc9e46b6d</data>
+    </node>
+    <node id="&quot;&#24191;&#19996;&#30465;&#26477;&#24030;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">98394455ee25a4587117498bc9e46b6d</data>
+    </node>
+    <node id="&quot;46&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">497733f4242b847c15c9b7691c9dcfca</data>
+    </node>
+    <node id="&quot;&#28246;&#21271;&#30465;&#31119;&#24030;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">497733f4242b847c15c9b7691c9dcfca</data>
+    </node>
+    <node id="&quot;&#23665;&#19996;&#30465;&#31119;&#24030;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">65bfc0741ad81847e0c163e0be08fd3d</data>
+    </node>
+    <node id="&quot;&#27993;&#27743;&#30465;&#33487;&#24030;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">27e74b1fcd06ffd11ba52e9eca361c25</data>
+    </node>
+    <node id="&quot;&#27993;&#27743;&#30465;&#24191;&#24030;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">864665bab4cf4ccfcd350e5c448c7b33</data>
+    </node>
+    <node id="&quot;43&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">d113918110a60fa0f033eb498b39cc83</data>
+    </node>
+    <node id="&quot;&#28246;&#21335;&#30465;&#26477;&#24030;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">d113918110a60fa0f033eb498b39cc83</data>
+    </node>
+    <node id="&quot;&#19978;&#28023;&#24066;&#26477;&#24030;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">f417d04076a08025ab592a452e2c880d</data>
+    </node>
+    <node id="&quot;2025&#24180;1&#26376;2&#26085;&quot;">
+      <data key="d0">"&#26102;&#38388;&#25139;"</data>
+      <data key="d1">"The timestamp indicating the start date of the patient's symptoms"</data>
+      <data key="d2">df2c6ab83106c83977b056cdad0fb9d2</data>
+    </node>
+    <node id="&quot;28&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">6b144bca08bd92c65ef6b7bf0bb1b210</data>
+    </node>
+    <node id="&quot;&#24191;&#19996;&#30465;&#21335;&#20140;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">6b144bca08bd92c65ef6b7bf0bb1b210</data>
+    </node>
+    <node id="&quot;86&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">b8062090060526d049eb6f7be030d785</data>
+    </node>
+    <node id="&quot;&#21683;&#22013;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of coughing"</data>
+      <data key="d2">0757e6b0ca4544368f1da650f35f5940</data>
+    </node>
+    <node id="&quot;76&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">b1254b39f57b6cf235c1be2a01c947e0,b74b94c9685d4484dc383961b311aa8b</data>
+    </node>
+    <node id="&quot;&#28246;&#21271;&#30465;&#38271;&#27801;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">b74b94c9685d4484dc383961b311aa8b</data>
+    </node>
+    <node id="&quot;27&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">381f16dceb2904b8fc0dba3b0b794e33</data>
+    </node>
+    <node id="&quot;&#24191;&#19996;&#30465;&#38271;&#27801;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">381f16dceb2904b8fc0dba3b0b794e33</data>
+    </node>
+    <node id="&quot;&#28246;&#21271;&#30465;&#26477;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">d8af756c0f3793583fa23ef89db0d559</data>
+    </node>
+    <node id="&quot;61&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">91ef2a256c68cd35b3c168751fd9367a</data>
+    </node>
+    <node id="&quot;&#24191;&#19996;&#30465;&#26477;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">91ef2a256c68cd35b3c168751fd9367a</data>
+    </node>
+    <node id="&quot;&#19978;&#28023;&#24066;&#33487;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">dc9b711e7879ae20059d90729584ec53</data>
+    </node>
+    <node id="&quot;22&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">3a2ef7edaa7d1f729127d6fdb0813080</data>
+    </node>
+    <node id="&quot;&#22235;&#24029;&#30465;&#21335;&#20140;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">3a2ef7edaa7d1f729127d6fdb0813080</data>
+    </node>
+    <node id="&quot;41&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">b5585474da6b01b1fbf52e798e2103aa</data>
+    </node>
+    <node id="&quot;&#23665;&#19996;&#30465;&#26477;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">b5585474da6b01b1fbf52e798e2103aa</data>
+    </node>
+    <node id="&quot;69&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">631a7e3223e15e6fd6edb12c2015fe31</data>
+    </node>
+    <node id="&quot;&#22235;&#24029;&#30465;&#27494;&#27721;&#24066;&#22993;&#33487;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">631a7e3223e15e6fd6edb12c2015fe31</data>
+    </node>
+    <node id="&quot;&#24191;&#19996;&#30465;&#21414;&#38376;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">fe2f2ad162d3cfcf5a5e32b35bf6b360</data>
+    </node>
+    <node id="&quot;&#31119;&#24314;&#30465;&#31119;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">00b3f2d0c0c3f7ceff3d20f2bc949572</data>
+    </node>
+    <node id="&quot;&#28246;&#21335;&#30465;&#38271;&#27801;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">b1254b39f57b6cf235c1be2a01c947e0</data>
+    </node>
+    <node id="&quot;&#27743;&#33487;&#30465;&#27494;&#27721;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">1be49fdcaedc95d28a22aa5312725314</data>
+    </node>
+    <node id="&quot;42&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">dbf91170f46be6e366511edc13db9dbe</data>
+    </node>
+    <node id="&quot;&#19978;&#28023;&#24066;&#38738;&#23707;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">dbf91170f46be6e366511edc13db9dbe</data>
+    </node>
+    <node id="&quot;63&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">abcf535f72153dcc11cd1d601c51eeb4</data>
+    </node>
+    <node id="&quot;&#27743;&#33487;&#30465;&#38738;&#23707;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">abcf535f72153dcc11cd1d601c51eeb4</data>
+    </node>
+    <node id="&quot;77&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">11a17a6cd42ce5b3da45c95a04b90f4a</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#26477;&#24030;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">11a17a6cd42ce5b3da45c95a04b90f4a</data>
+    </node>
+    <node id="&quot;&#27963;&#21160;&#21518;&#27668;&#20419;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of dyspnea after activity"</data>
+      <data key="d2">11a17a6cd42ce5b3da45c95a04b90f4a</data>
+    </node>
+    <edge source="&quot;82&quot;" target="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 82 exhibits the symptom of dyspnea and chest tightness"</data>
+      <data key="d5">bdc925db8d80d120e36986e75ffff059</data>
+    </edge>
+    <edge source="&quot;82&quot;" target="&quot;&#21693;&#21897;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 82 was diagnosed with pharyngitis"</data>
+      <data key="d5">bdc925db8d80d120e36986e75ffff059</data>
+    </edge>
+    <edge source="&quot;82&quot;" target="&quot;&#31119;&#24314;&#30465;&#24191;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 82-year-old patient resides at the specified address"</data>
+      <data key="d5">bdc925db8d80d120e36986e75ffff059</data>
+    </edge>
+    <edge source="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;" target="&quot;&#21693;&#21897;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dyspnea and chest tightness led to the diagnosis of pharyngitis"</data>
+      <data key="d5">bdc925db8d80d120e36986e75ffff059</data>
+    </edge>
+    <edge source="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;" target="&quot;81&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 81 exhibits the symptom of dyspnea and chest tightness"</data>
+      <data key="d5">65bfc0741ad81847e0c163e0be08fd3d</data>
+    </edge>
+    <edge source="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;" target="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dyspnea and chest tightness led to the diagnosis of allergic asthma"</data>
+      <data key="d5">65bfc0741ad81847e0c163e0be08fd3d</data>
+    </edge>
+    <edge source="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;" target="&quot;50&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 50 exhibits the symptom of dyspnea and chest tightness"</data>
+      <data key="d5">4f031dd178fb39f27ddee3cd34d8bb9f</data>
+    </edge>
+    <edge source="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;" target="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dyspnea and chest tightness led to the diagnosis of tuberculosis"</data>
+      <data key="d5">4f031dd178fb39f27ddee3cd34d8bb9f</data>
+    </edge>
+    <edge source="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;" target="&quot;63&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 63 exhibits the symptom of dyspnea and chest tightness"</data>
+      <data key="d5">abcf535f72153dcc11cd1d601c51eeb4</data>
+    </edge>
+    <edge source="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;" target="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dyspnea and chest tightness led to the diagnosis of bronchial asthma"</data>
+      <data key="d5">abcf535f72153dcc11cd1d601c51eeb4</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;60&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 60 was diagnosed with pharyngitis"</data>
+      <data key="d5">fced258601d56a5bb394966b0dfbdc17</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#25345;&#32493;&#21683;&#30192;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Persistent sputum production led to the diagnosis of pharyngitis"
+"Persistent sputum production led to the diagnosis of pharyngitis"</data>
+      <data key="d5">e9aa8c7878a7ae2a29f462eda868f201,fced258601d56a5bb394966b0dfbdc17</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;12&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 12 was diagnosed with pharyngitis"</data>
+      <data key="d5">ac2ee3b8814f76c549d3f44ad17b183c</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dyspnea led to the diagnosis of pharyngitis"</data>
+      <data key="d5">ac2ee3b8814f76c549d3f44ad17b183c</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;73&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 73 was diagnosed with pharyngitis"</data>
+      <data key="d5">e9aa8c7878a7ae2a29f462eda868f201</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;88&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 88 was diagnosed with pharyngitis"</data>
+      <data key="d5">66eb2ea1b51ed6d2b52131c3313e0385</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#24178;&#21683;&#19981;&#27490;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Persistent dry cough led to the diagnosis of pharyngitis"</data>
+      <data key="d5">66eb2ea1b51ed6d2b52131c3313e0385</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;69&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 69 was diagnosed with pharyngitis"</data>
+      <data key="d5">631a7e3223e15e6fd6edb12c2015fe31</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Persistent cough for more than a week led to the diagnosis of pharyngitis"
+"Persistent cough for over a week led to the diagnosis of pharyngitis"</data>
+      <data key="d5">631a7e3223e15e6fd6edb12c2015fe31,fe2f2ad162d3cfcf5a5e32b35bf6b360</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;89&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 89-year-old patient was diagnosed with pharyngitis"</data>
+      <data key="d5">fe2f2ad162d3cfcf5a5e32b35bf6b360</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#39640;&#28903;&#21683;&#22013;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 50 exhibits the symptom of high fever and coughing"</data>
+      <data key="d5">d9cdcc740d108fb9b697e99a036d8a43</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 50 was diagnosed with upper respiratory tract infection"</data>
+      <data key="d5">d9cdcc740d108fb9b697e99a036d8a43</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#21271;&#20140;&#24066;&#19978;&#28023;&#24066;&#24191;&#19996;&#21306;&quot;">
+      <data key="d3">13.0</data>
+      <data key="d4">"The 50-year-old patient resides at the specified address"
+"The 50-year-old patient resides at the specified address"
+"The 50-year-old patient resides at the specified address"
+"The 50-year-old patient resides at the specified address"
+"The 50-year-old patient resides at the specified address"
+"The 50-year-old patient resides at the specified address"
+"The 50-year-old patient resides at the specified address"
+"The 50-year-old patient resides at the specified address"
+"The 50-year-old patient resides at the specified address"
+"The 50-year-old patient resides at the specified address"
+"The 50-year-old patient resides at the specified address"
+"The 50-year-old patient resides at the specified address"
+"The 50-year-old patient resides at the specified address"</data>
+      <data key="d5">0757e6b0ca4544368f1da650f35f5940,10e0af4844ced9af1cfa8e41b282a5c1,3ee54586d04831d6be8582843aa8318a,4534972910a050e136c2f50ccfa9e72b,4f031dd178fb39f27ddee3cd34d8bb9f,716409f50432b6d41a72097d79c4e274,904ba948f345e1478c0af2ba1ab0580d,95aaa46441bef041c91761ec891f7a5a,a90023bf0dee2db6133a3e49715e1eeb,b703de98d70076a8d5dce33d2af15b30,d9cdcc740d108fb9b697e99a036d8a43,df2c6ab83106c83977b056cdad0fb9d2,f8e5a84adc8b7cad5c61b64465d75589</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 50 exhibits the symptoms of sneezing and runny nose"</data>
+      <data key="d5">4534972910a050e136c2f50ccfa9e72b</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#32954;&#28814;&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">"The patient aged 50 was diagnosed with pneumonia"
+"The patient aged 50 was diagnosed with pneumonia"
+"The patient aged 50 was diagnosed with pneumonia"</data>
+      <data key="d5">3ee54586d04831d6be8582843aa8318a,4534972910a050e136c2f50ccfa9e72b,b703de98d70076a8d5dce33d2af15b30</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 50 exhibits the symptom of a persistent cough lasting over a week"</data>
+      <data key="d5">10e0af4844ced9af1cfa8e41b282a5c1</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 50 was diagnosed with acute bronchitis"</data>
+      <data key="d5">10e0af4844ced9af1cfa8e41b282a5c1</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The patient aged 50 exhibits the symptom of dyspnea"
+"The patient aged 50 exhibits the symptom of dyspnea"</data>
+      <data key="d5">a90023bf0dee2db6133a3e49715e1eeb,df2c6ab83106c83977b056cdad0fb9d2</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The patient aged 50 was diagnosed with tuberculosis"
+"The patient aged 50 was diagnosed with tuberculosis"</data>
+      <data key="d5">4f031dd178fb39f27ddee3cd34d8bb9f,a90023bf0dee2db6133a3e49715e1eeb</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#21683;&#30192;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 50 exhibits the symptom of coughing up phlegm"</data>
+      <data key="d5">95aaa46441bef041c91761ec891f7a5a</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d3">4.0</data>
+      <data key="d4">"The patient aged 50 was diagnosed with influenza"
+"The patient aged 50 was diagnosed with influenza"
+"The 50-year-old patient was diagnosed with influenza"
+"The patient aged 50 was diagnosed with influenza"</data>
+      <data key="d5">0757e6b0ca4544368f1da650f35f5940,716409f50432b6d41a72097d79c4e274,95aaa46441bef041c91761ec891f7a5a,f8e5a84adc8b7cad5c61b64465d75589</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#21683;&#34880;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 50 exhibits the symptom of hemoptysis"</data>
+      <data key="d5">f8e5a84adc8b7cad5c61b64465d75589</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#25345;&#32493;&#21683;&#30192;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 50 exhibits the symptom of persistent sputum production"</data>
+      <data key="d5">b703de98d70076a8d5dce33d2af15b30</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 50 exhibits the symptom of increased morning coughing"</data>
+      <data key="d5">904ba948f345e1478c0af2ba1ab0580d</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 50 was diagnosed with chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">904ba948f345e1478c0af2ba1ab0580d</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 50 was diagnosed with bronchial asthma"</data>
+      <data key="d5">df2c6ab83106c83977b056cdad0fb9d2</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#21683;&#22013;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 50-year-old patient exhibits the symptom of coughing"</data>
+      <data key="d5">0757e6b0ca4544368f1da650f35f5940</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 50 exhibits severe nighttime coughing"</data>
+      <data key="d5">716409f50432b6d41a72097d79c4e274</data>
+    </edge>
+    <edge source="&quot;50&quot;" target="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 50 exhibits the symptom of sore throat and fever"</data>
+      <data key="d5">3ee54586d04831d6be8582843aa8318a</data>
+    </edge>
+    <edge source="&quot;&#39640;&#28903;&#21683;&#22013;&quot;" target="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"High fever and coughing led to the diagnosis of upper respiratory tract infection"</data>
+      <data key="d5">d9cdcc740d108fb9b697e99a036d8a43</data>
+    </edge>
+    <edge source="&quot;&#39640;&#28903;&#21683;&#22013;&quot;" target="&quot;34&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 34 exhibits the symptoms of high fever and coughing"</data>
+      <data key="d5">558b3868ecf2410309cb4052382d06b5</data>
+    </edge>
+    <edge source="&quot;&#39640;&#28903;&#21683;&#22013;&quot;" target="&quot;&#32954;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"High fever and coughing led to the diagnosis of pneumonia"</data>
+      <data key="d5">558b3868ecf2410309cb4052382d06b5</data>
+    </edge>
+    <edge source="&quot;&#39640;&#28903;&#21683;&#22013;&quot;" target="&quot;61&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 61 exhibits the symptom of high fever and coughing"</data>
+      <data key="d5">91ef2a256c68cd35b3c168751fd9367a</data>
+    </edge>
+    <edge source="&quot;&#39640;&#28903;&#21683;&#22013;&quot;" target="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"High fever and coughing led to the diagnosis of allergic asthma"</data>
+      <data key="d5">91ef2a256c68cd35b3c168751fd9367a</data>
+    </edge>
+    <edge source="&quot;&#39640;&#28903;&#21683;&#22013;&quot;" target="&quot;88&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 88 exhibits the symptom of high fever and coughing"</data>
+      <data key="d5">00b3f2d0c0c3f7ceff3d20f2bc949572</data>
+    </edge>
+    <edge source="&quot;&#39640;&#28903;&#21683;&#22013;&quot;" target="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"High fever and coughing led to the diagnosis of tuberculosis"</data>
+      <data key="d5">00b3f2d0c0c3f7ceff3d20f2bc949572</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;20&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 20 was diagnosed with upper respiratory tract infection"</data>
+      <data key="d5">98a4bab38cf61c4ed1cd9fd183ef097b</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dyspnea led to the diagnosis of upper respiratory tract infection"</data>
+      <data key="d5">98a4bab38cf61c4ed1cd9fd183ef097b</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;26&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 26 was diagnosed with upper respiratory tract infection"</data>
+      <data key="d5">fa451ce26e62193d59e40bb4ca6713df</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Severe nighttime coughing led to the diagnosis of upper respiratory tract infection"</data>
+      <data key="d5">fa451ce26e62193d59e40bb4ca6713df</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;47&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 47 was diagnosed with upper respiratory tract infection"</data>
+      <data key="d5">5a04414d369f14d70f2774376896bdef</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sore throat and fever led to the diagnosis of upper respiratory tract infection"</data>
+      <data key="d5">5a04414d369f14d70f2774376896bdef</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#33016;&#38391;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest tightness can be a symptom of upper respiratory tract infection"</data>
+      <data key="d5">4124751013f57c238dd7139a10dfdff1</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#33016;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest pain is sometimes associated with upper respiratory tract infections"</data>
+      <data key="d5">4124751013f57c238dd7139a10dfdff1</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;84&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 84 was diagnosed with upper respiratory tract infection"</data>
+      <data key="d5">922876b108baab4b16ce9f7231d20609</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sneezing and runny nose led to the diagnosis of upper respiratory tract infection"</data>
+      <data key="d5">922876b108baab4b16ce9f7231d20609</data>
+    </edge>
+    <edge source="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;" target="&quot;&#32954;&#28814;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Sneezing and runny nose are symptoms that led to the diagnosis of pneumonia"
+"Sneezing and runny nose led to the diagnosis of pneumonia"</data>
+      <data key="d5">4534972910a050e136c2f50ccfa9e72b,dbf91170f46be6e366511edc13db9dbe</data>
+    </edge>
+    <edge source="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;" target="&quot;70&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 70 exhibits the symptom of sneezing and runny nose"</data>
+      <data key="d5">7e814ef2477dcb1b249cfbfb875ed7db</data>
+    </edge>
+    <edge source="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;" target="&quot;&#32954;&#27668;&#32959;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sneezing and runny nose are symptoms that may be associated with emphysema, leading to this diagnosis"</data>
+      <data key="d5">7e814ef2477dcb1b249cfbfb875ed7db</data>
+    </edge>
+    <edge source="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;" target="&quot;84&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 84 exhibits the symptom of sneezing and runny nose"</data>
+      <data key="d5">922876b108baab4b16ce9f7231d20609</data>
+    </edge>
+    <edge source="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;" target="&quot;42&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 42 exhibits the symptoms of sneezing and runny nose"</data>
+      <data key="d5">dbf91170f46be6e366511edc13db9dbe</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;34&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 34 was diagnosed with pneumonia"</data>
+      <data key="d5">558b3868ecf2410309cb4052382d06b5</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;47&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 47-year-old patient was diagnosed with pneumonia"</data>
+      <data key="d5">508324e0146372b3c612f47a11623372</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#33016;&#21475;&#30140;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest pain led to the diagnosis of pneumonia"</data>
+      <data key="d5">508324e0146372b3c612f47a11623372</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#25345;&#32493;&#21683;&#30192;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Persistent sputum production led to the diagnosis of pneumonia"</data>
+      <data key="d5">b703de98d70076a8d5dce33d2af15b30</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;37&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 37 was diagnosed with pneumonia"</data>
+      <data key="d5">1faeb8e8a4729ccb9e4eaed54117b966</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Sore throat and fever led to the diagnosis of pneumonia"
+"Sore throat and fever led to the diagnosis of pneumonia"</data>
+      <data key="d5">1faeb8e8a4729ccb9e4eaed54117b966,3ee54586d04831d6be8582843aa8318a</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#33016;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest pain can be a symptom of pneumonia"</data>
+      <data key="d5">4124751013f57c238dd7139a10dfdff1</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;27&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 27-year-old patient was diagnosed with pneumonia"</data>
+      <data key="d5">381f16dceb2904b8fc0dba3b0b794e33</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Persistent cough for over a week led to the diagnosis of pneumonia"
+"Persistent cough for more than a week led to the diagnosis of pneumonia"</data>
+      <data key="d5">1be49fdcaedc95d28a22aa5312725314,381f16dceb2904b8fc0dba3b0b794e33</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;41&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 41 was diagnosed with pneumonia"</data>
+      <data key="d5">b5585474da6b01b1fbf52e798e2103aa</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Severe nocturnal coughing led to the diagnosis of pneumonia"</data>
+      <data key="d5">b5585474da6b01b1fbf52e798e2103aa</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;73&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 73 was diagnosed with pneumonia"</data>
+      <data key="d5">1be49fdcaedc95d28a22aa5312725314</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;42&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 42 was diagnosed with pneumonia"</data>
+      <data key="d5">dbf91170f46be6e366511edc13db9dbe</data>
+    </edge>
+    <edge source="&quot;20&quot;" target="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 20 exhibits the symptom of dyspnea"</data>
+      <data key="d5">98a4bab38cf61c4ed1cd9fd183ef097b</data>
+    </edge>
+    <edge source="&quot;20&quot;" target="&quot;&#28246;&#21271;&#30465;&#38271;&#27801;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 20-year-old patient resides at the specified address"</data>
+      <data key="d5">98a4bab38cf61c4ed1cd9fd183ef097b</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d3">4.0</data>
+      <data key="d4">"Dyspnea led to the diagnosis of tuberculosis"
+"Dyspnea led to the diagnosis of tuberculosis"
+"Dyspnea led to the diagnosis of tuberculosis"
+"Dyspnea led to the diagnosis of tuberculosis"</data>
+      <data key="d5">3a2ef7edaa7d1f729127d6fdb0813080,6b144bca08bd92c65ef6b7bf0bb1b210,a90023bf0dee2db6133a3e49715e1eeb,b8062090060526d049eb6f7be030d785</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;12&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 12 exhibits the symptom of dyspnea"</data>
+      <data key="d5">7d9d5989f95f62517d02d326446f998a</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dyspnea led to the diagnosis of acute bronchitis"</data>
+      <data key="d5">7d9d5989f95f62517d02d326446f998a</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;46&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 46 exhibits the symptom of dyspnea"</data>
+      <data key="d5">497733f4242b847c15c9b7691c9dcfca</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dyspnea led to the diagnosis of influenza"</data>
+      <data key="d5">497733f4242b847c15c9b7691c9dcfca</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;2025&#24180;1&#26376;2&#26085;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dyspnea symptoms started from this date for the patient"</data>
+      <data key="d5">df2c6ab83106c83977b056cdad0fb9d2</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The symptom of dyspnea led to the diagnosis of bronchial asthma"</data>
+      <data key="d5">df2c6ab83106c83977b056cdad0fb9d2</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;28&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 28 exhibits the symptom of dyspnea"</data>
+      <data key="d5">6b144bca08bd92c65ef6b7bf0bb1b210</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;86&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 86 exhibits the symptom of dyspnea"</data>
+      <data key="d5">b8062090060526d049eb6f7be030d785</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;22&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 22 exhibits the symptom of dyspnea"</data>
+      <data key="d5">3a2ef7edaa7d1f729127d6fdb0813080</data>
+    </edge>
+    <edge source="&quot;55&quot;" target="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 55 exhibits the symptom of increased morning coughing"</data>
+      <data key="d5">50f2b4cf3de396f11e71c2051ec0ffd2</data>
+    </edge>
+    <edge source="&quot;55&quot;" target="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 55 was diagnosed with allergic asthma"</data>
+      <data key="d5">50f2b4cf3de396f11e71c2051ec0ffd2</data>
+    </edge>
+    <edge source="&quot;55&quot;" target="&quot;&#24191;&#19996;&#30465;&#38271;&#27801;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 55-year-old patient resides at the specified address"</data>
+      <data key="d5">50f2b4cf3de396f11e71c2051ec0ffd2</data>
+    </edge>
+    <edge source="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;" target="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Increased morning coughing is a symptom leading to the diagnosis of allergic asthma"
+"Increased morning coughing led to the diagnosis of allergic asthma"</data>
+      <data key="d5">50f2b4cf3de396f11e71c2051ec0ffd2,cc39e2721a0c39f0ed221e6b017fb2fe</data>
+    </edge>
+    <edge source="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;" target="&quot;89&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 89-year-old patient exhibits the symptom of increased morning coughing"</data>
+      <data key="d5">cc39e2721a0c39f0ed221e6b017fb2fe</data>
+    </edge>
+    <edge source="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;" target="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Increased morning coughing is a symptom leading to the diagnosis of chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">904ba948f345e1478c0af2ba1ab0580d</data>
+    </edge>
+    <edge source="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;" target="&quot;89&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 89-year-old patient was diagnosed with allergic asthma"</data>
+      <data key="d5">cc39e2721a0c39f0ed221e6b017fb2fe</data>
+    </edge>
+    <edge source="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;" target="&quot;18&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 18 was diagnosed with allergic asthma"</data>
+      <data key="d5">e427b50b62d503d70c3abe806b370771</data>
+    </edge>
+    <edge source="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;" target="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sore throat and fever led to the diagnosis of allergic asthma"</data>
+      <data key="d5">e427b50b62d503d70c3abe806b370771</data>
+    </edge>
+    <edge source="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;" target="&quot;81&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 81 was diagnosed with allergic asthma"</data>
+      <data key="d5">65bfc0741ad81847e0c163e0be08fd3d</data>
+    </edge>
+    <edge source="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;" target="&quot;61&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 61 was diagnosed with allergic asthma"</data>
+      <data key="d5">91ef2a256c68cd35b3c168751fd9367a</data>
+    </edge>
+    <edge source="&quot;84&quot;" target="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 84 exhibits the symptom of sore throat and fever"</data>
+      <data key="d5">13350cddc13909741d3af301b52c2b46</data>
+    </edge>
+    <edge source="&quot;84&quot;" target="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 84 was diagnosed with acute bronchitis"</data>
+      <data key="d5">13350cddc13909741d3af301b52c2b46</data>
+    </edge>
+    <edge source="&quot;84&quot;" target="&quot;&#22235;&#24029;&#30465;&#21414;&#38376;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 84-year-old patient resides at the specified address"</data>
+      <data key="d5">13350cddc13909741d3af301b52c2b46</data>
+    </edge>
+    <edge source="&quot;84&quot;" target="&quot;&#23665;&#19996;&#30465;&#24191;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 84-year-old patient resides at the specified address"</data>
+      <data key="d5">922876b108baab4b16ce9f7231d20609</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sore throat and fever led to the diagnosis of acute bronchitis"</data>
+      <data key="d5">13350cddc13909741d3af301b52c2b46</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;18&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 18 exhibits the symptom of sore throat and fever"</data>
+      <data key="d5">e427b50b62d503d70c3abe806b370771</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;25&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 25 exhibits the symptom of sore throat and fever"</data>
+      <data key="d5">0999acfd62f9ab018267ec13257b00b6</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#32954;&#27668;&#32959;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sore throat and fever led to the diagnosis of emphysema"</data>
+      <data key="d5">0999acfd62f9ab018267ec13257b00b6</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;47&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The patient aged 47 exhibits the symptom of sore throat and fever"
+"The patient aged 47 exhibits the symptom of sore throat and fever"</data>
+      <data key="d5">27e74b1fcd06ffd11ba52e9eca361c25,5a04414d369f14d70f2774376896bdef</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;37&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 37 exhibits the symptom of sore throat and fever"</data>
+      <data key="d5">1faeb8e8a4729ccb9e4eaed54117b966</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sore throat and fever led to the diagnosis of chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">27e74b1fcd06ffd11ba52e9eca361c25</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;89&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 89-year-old patient exhibits the symptom of sore throat and fever"</data>
+      <data key="d5">f417d04076a08025ab592a452e2c880d</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sore throat and fever led to the diagnosis of influenza"</data>
+      <data key="d5">f417d04076a08025ab592a452e2c880d</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;73&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 73 exhibits the symptom of sore throat and fever"</data>
+      <data key="d5">dc9b711e7879ae20059d90729584ec53</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sore throat and fever led to the diagnosis of tuberculosis"</data>
+      <data key="d5">dc9b711e7879ae20059d90729584ec53</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;76&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 76 exhibits the symptom of sore throat and fever"</data>
+      <data key="d5">b1254b39f57b6cf235c1be2a01c947e0</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sore throat and fever led to the diagnosis of bronchial asthma"</data>
+      <data key="d5">b1254b39f57b6cf235c1be2a01c947e0</data>
+    </edge>
+    <edge source="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;" target="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Persistent cough for more than a week led to the diagnosis of acute bronchitis"</data>
+      <data key="d5">10e0af4844ced9af1cfa8e41b282a5c1</data>
+    </edge>
+    <edge source="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;" target="&quot;12&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 12 was diagnosed with acute bronchitis"</data>
+      <data key="d5">7d9d5989f95f62517d02d326446f998a</data>
+    </edge>
+    <edge source="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;" target="&quot;&#33016;&#38391;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest tightness can be a symptom of acute bronchitis"</data>
+      <data key="d5">4124751013f57c238dd7139a10dfdff1</data>
+    </edge>
+    <edge source="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;" target="&quot;&#33016;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest pain is often associated with acute bronchitis"</data>
+      <data key="d5">4124751013f57c238dd7139a10dfdff1</data>
+    </edge>
+    <edge source="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;" target="&quot;35&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 35 was diagnosed with acute bronchitis"</data>
+      <data key="d5">98394455ee25a4587117498bc9e46b6d</data>
+    </edge>
+    <edge source="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;" target="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Severe nocturnal coughing led to the diagnosis of acute bronchitis"</data>
+      <data key="d5">98394455ee25a4587117498bc9e46b6d</data>
+    </edge>
+    <edge source="&quot;70&quot;" target="&quot;&#32954;&#27668;&#32959;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 70 was diagnosed with emphysema"</data>
+      <data key="d5">7e814ef2477dcb1b249cfbfb875ed7db</data>
+    </edge>
+    <edge source="&quot;70&quot;" target="&quot;&#27993;&#27743;&#30465;&#21335;&#20140;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 70-year-old patient resides at the specified address"</data>
+      <data key="d5">7e814ef2477dcb1b249cfbfb875ed7db</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;83&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 83 was diagnosed with emphysema"</data>
+      <data key="d5">b58034e6537f78c9687b4fccbd847065</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;&#24178;&#21683;&#19981;&#27490;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Persistent dry cough led to the diagnosis of emphysema"</data>
+      <data key="d5">b58034e6537f78c9687b4fccbd847065</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;25&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 25 was diagnosed with emphysema"</data>
+      <data key="d5">0999acfd62f9ab018267ec13257b00b6</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;36&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 36 was diagnosed with emphysema"</data>
+      <data key="d5">10e6dd3f9cc2eb5bed0abb8e67430f50</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Severe nighttime coughing led to the diagnosis of emphysema"</data>
+      <data key="d5">10e6dd3f9cc2eb5bed0abb8e67430f50</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;81&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 81 was diagnosed with emphysema"</data>
+      <data key="d5">4252c5ebe891a01bc80fe2cbe97c43f3</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;&#33016;&#21475;&#30140;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest pain led to the diagnosis of emphysema"</data>
+      <data key="d5">4252c5ebe891a01bc80fe2cbe97c43f3</data>
+    </edge>
+    <edge source="&quot;89&quot;" target="&quot;&#27993;&#27743;&#30465;&#31119;&#24030;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 89-year-old patient resides at the specified address"</data>
+      <data key="d5">cc39e2721a0c39f0ed221e6b017fb2fe</data>
+    </edge>
+    <edge source="&quot;89&quot;" target="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 89 exhibits the symptom of severe nocturnal coughing"</data>
+      <data key="d5">f7c333a14c39dd5b876bfb0990d4dd50</data>
+    </edge>
+    <edge source="&quot;89&quot;" target="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 89 was diagnosed with bronchial asthma"</data>
+      <data key="d5">f7c333a14c39dd5b876bfb0990d4dd50</data>
+    </edge>
+    <edge source="&quot;89&quot;" target="&quot;&#21271;&#20140;&#24066;&#21414;&#38376;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 89-year-old patient resides at the specified address"</data>
+      <data key="d5">f7c333a14c39dd5b876bfb0990d4dd50</data>
+    </edge>
+    <edge source="&quot;89&quot;" target="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 89-year-old patient was diagnosed with influenza"</data>
+      <data key="d5">f417d04076a08025ab592a452e2c880d</data>
+    </edge>
+    <edge source="&quot;89&quot;" target="&quot;&#19978;&#28023;&#24066;&#26477;&#24030;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 89-year-old patient resides at the specified address"</data>
+      <data key="d5">f417d04076a08025ab592a452e2c880d</data>
+    </edge>
+    <edge source="&quot;89&quot;" target="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 89-year-old patient exhibits the symptom of persistent cough for over a week"</data>
+      <data key="d5">fe2f2ad162d3cfcf5a5e32b35bf6b360</data>
+    </edge>
+    <edge source="&quot;89&quot;" target="&quot;&#24191;&#19996;&#30465;&#21414;&#38376;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 89-year-old patient resides at the specified address"</data>
+      <data key="d5">fe2f2ad162d3cfcf5a5e32b35bf6b360</data>
+    </edge>
+    <edge source="&quot;18&quot;" target="&quot;&#21271;&#20140;&#24066;&#21335;&#20140;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 18-year-old patient resides at the specified address"</data>
+      <data key="d5">e427b50b62d503d70c3abe806b370771</data>
+    </edge>
+    <edge source="&quot;18&quot;" target="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 18 exhibits the symptom of persistent cough for over a week"</data>
+      <data key="d5">864665bab4cf4ccfcd350e5c448c7b33</data>
+    </edge>
+    <edge source="&quot;18&quot;" target="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 18 was diagnosed with bronchial asthma"</data>
+      <data key="d5">864665bab4cf4ccfcd350e5c448c7b33</data>
+    </edge>
+    <edge source="&quot;18&quot;" target="&quot;&#27993;&#27743;&#30465;&#24191;&#24030;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 18-year-old patient resides at the specified address"</data>
+      <data key="d5">864665bab4cf4ccfcd350e5c448c7b33</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;17&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 17-year-old patient exhibits the symptom of persistent cough for more than a week"</data>
+      <data key="d5">339889400ac018e70d0f00c486ab52af</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Persistent cough for more than a week led to the diagnosis of chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">339889400ac018e70d0f00c486ab52af</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Persistent cough for more than a week led to the diagnosis of bronchial asthma"
+"Persistent cough for more than a week led to the diagnosis of bronchial asthma"</data>
+      <data key="d5">864665bab4cf4ccfcd350e5c448c7b33,b74b94c9685d4484dc383961b311aa8b</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;76&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 76 exhibits the symptom of persistent cough for over a week"</data>
+      <data key="d5">b74b94c9685d4484dc383961b311aa8b</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;27&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 27-year-old patient exhibits the symptom of persistent cough for over a week"</data>
+      <data key="d5">381f16dceb2904b8fc0dba3b0b794e33</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;69&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 69 exhibits the symptom of persistent cough for over a week"</data>
+      <data key="d5">631a7e3223e15e6fd6edb12c2015fe31</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;73&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 73 exhibits the symptom of a persistent cough for over a week"</data>
+      <data key="d5">1be49fdcaedc95d28a22aa5312725314</data>
+    </edge>
+    <edge source="&quot;83&quot;" target="&quot;&#24178;&#21683;&#19981;&#27490;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 83 exhibits the symptom of persistent dry cough"</data>
+      <data key="d5">b58034e6537f78c9687b4fccbd847065</data>
+    </edge>
+    <edge source="&quot;83&quot;" target="&quot;&#21271;&#20140;&#24066;&#21335;&#20140;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 83-year-old patient resides at the specified address"</data>
+      <data key="d5">b58034e6537f78c9687b4fccbd847065</data>
+    </edge>
+    <edge source="&quot;&#24178;&#21683;&#19981;&#27490;&quot;" target="&quot;88&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 88 exhibits the symptom of persistent dry cough"</data>
+      <data key="d5">66eb2ea1b51ed6d2b52131c3313e0385</data>
+    </edge>
+    <edge source="&quot;&#24178;&#21683;&#19981;&#27490;&quot;" target="&quot;74&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 74 exhibits the symptom of persistent dry cough"</data>
+      <data key="d5">7bd00f70cea33abc0afdd9e60b42162e</data>
+    </edge>
+    <edge source="&quot;&#24178;&#21683;&#19981;&#27490;&quot;" target="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Persistent dry cough led to the diagnosis of tuberculosis"</data>
+      <data key="d5">7bd00f70cea33abc0afdd9e60b42162e</data>
+    </edge>
+    <edge source="&quot;25&quot;" target="&quot;&#23665;&#19996;&#30465;&#24191;&#24030;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 25-year-old patient resides at the specified address"</data>
+      <data key="d5">0999acfd62f9ab018267ec13257b00b6</data>
+    </edge>
+    <edge source="&quot;60&quot;" target="&quot;&#25345;&#32493;&#21683;&#30192;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 60 exhibits the symptom of persistent sputum production"</data>
+      <data key="d5">fced258601d56a5bb394966b0dfbdc17</data>
+    </edge>
+    <edge source="&quot;60&quot;" target="&quot;&#22235;&#24029;&#30465;&#33487;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 60-year-old patient resides at the specified address"</data>
+      <data key="d5">fced258601d56a5bb394966b0dfbdc17</data>
+    </edge>
+    <edge source="&quot;&#25345;&#32493;&#21683;&#30192;&quot;" target="&quot;73&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 73 exhibits the symptom of persistent sputum production"</data>
+      <data key="d5">e9aa8c7878a7ae2a29f462eda868f201</data>
+    </edge>
+    <edge source="&quot;&#25345;&#32493;&#21683;&#30192;&quot;" target="&quot;43&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 43 exhibits the symptom of persistent sputum production"</data>
+      <data key="d5">d113918110a60fa0f033eb498b39cc83</data>
+    </edge>
+    <edge source="&quot;&#25345;&#32493;&#21683;&#30192;&quot;" target="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Persistent sputum production led to the diagnosis of chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">d113918110a60fa0f033eb498b39cc83</data>
+    </edge>
+    <edge source="&quot;&#25345;&#32493;&#21683;&#30192;&quot;" target="&quot;74&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 74 exhibits the symptom of persistent sputum production"</data>
+      <data key="d5">d8af756c0f3793583fa23ef89db0d559</data>
+    </edge>
+    <edge source="&quot;&#25345;&#32493;&#21683;&#30192;&quot;" target="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Persistent sputum production led to the diagnosis of influenza"</data>
+      <data key="d5">d8af756c0f3793583fa23ef89db0d559</data>
+    </edge>
+    <edge source="&quot;26&quot;" target="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 26 exhibits the symptom of severe nighttime coughing"</data>
+      <data key="d5">fa451ce26e62193d59e40bb4ca6713df</data>
+    </edge>
+    <edge source="&quot;26&quot;" target="&quot;&#27743;&#33487;&#30465;&#25104;&#37117;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 26-year-old patient resides at the specified address"</data>
+      <data key="d5">fa451ce26e62193d59e40bb4ca6713df</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;36&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 36 exhibits the symptom of severe nighttime coughing"</data>
+      <data key="d5">10e6dd3f9cc2eb5bed0abb8e67430f50</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Severe nocturnal coughing led to the diagnosis of bronchial asthma"</data>
+      <data key="d5">f7c333a14c39dd5b876bfb0990d4dd50</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;64&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 64 exhibits the symptom of severe nocturnal coughing"</data>
+      <data key="d5">7e350b9370b46844dea072a23af8b52e</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Severe nocturnal coughing is a symptom leading to the diagnosis of chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">7e350b9370b46844dea072a23af8b52e</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;35&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 35 exhibits the symptom of severe nocturnal coughing"</data>
+      <data key="d5">98394455ee25a4587117498bc9e46b6d</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Severe nighttime coughing led to the diagnosis of influenza"</data>
+      <data key="d5">716409f50432b6d41a72097d79c4e274</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;41&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 41 exhibits the symptom of severe nocturnal coughing"</data>
+      <data key="d5">b5585474da6b01b1fbf52e798e2103aa</data>
+    </edge>
+    <edge source="&quot;12&quot;" target="&quot;&#27993;&#27743;&#30465;&#21414;&#38376;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 12-year-old patient resides at the specified address"</data>
+      <data key="d5">ac2ee3b8814f76c549d3f44ad17b183c</data>
+    </edge>
+    <edge source="&quot;12&quot;" target="&quot;&#22235;&#24029;&#30465;&#24191;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 12-year-old patient resides at the specified address"</data>
+      <data key="d5">7d9d5989f95f62517d02d326446f998a</data>
+    </edge>
+    <edge source="&quot;36&quot;" target="&quot;&#27993;&#27743;&#30465;&#21335;&#20140;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 36-year-old patient resides at the specified address"</data>
+      <data key="d5">10e6dd3f9cc2eb5bed0abb8e67430f50</data>
+    </edge>
+    <edge source="&quot;81&quot;" target="&quot;&#33016;&#21475;&#30140;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 81 exhibits the symptom of chest pain"</data>
+      <data key="d5">4252c5ebe891a01bc80fe2cbe97c43f3</data>
+    </edge>
+    <edge source="&quot;81&quot;" target="&quot;&#23665;&#19996;&#30465;&#38738;&#23707;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 81-year-old patient resides at the specified address"</data>
+      <data key="d5">4252c5ebe891a01bc80fe2cbe97c43f3</data>
+    </edge>
+    <edge source="&quot;81&quot;" target="&quot;&#23665;&#19996;&#30465;&#31119;&#24030;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 81-year-old patient resides at the specified address"</data>
+      <data key="d5">65bfc0741ad81847e0c163e0be08fd3d</data>
+    </edge>
+    <edge source="&quot;&#33016;&#21475;&#30140;&#30171;&quot;" target="&quot;47&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 47-year-old patient exhibits the symptom of chest pain"</data>
+      <data key="d5">508324e0146372b3c612f47a11623372</data>
+    </edge>
+    <edge source="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;" target="&quot;&#33016;&#38391;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest tightness can be a symptom of bronchial asthma"</data>
+      <data key="d5">4124751013f57c238dd7139a10dfdff1</data>
+    </edge>
+    <edge source="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;" target="&quot;&#33016;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest pain is sometimes experienced by patients with bronchial asthma"</data>
+      <data key="d5">4124751013f57c238dd7139a10dfdff1</data>
+    </edge>
+    <edge source="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;" target="&quot;76&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The patient aged 76 was diagnosed with bronchial asthma"
+"The patient aged 76 was diagnosed with bronchial asthma"</data>
+      <data key="d5">b1254b39f57b6cf235c1be2a01c947e0,b74b94c9685d4484dc383961b311aa8b</data>
+    </edge>
+    <edge source="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;" target="&quot;63&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 63 was diagnosed with bronchial asthma"</data>
+      <data key="d5">abcf535f72153dcc11cd1d601c51eeb4</data>
+    </edge>
+    <edge source="&quot;47&quot;" target="&quot;&#23665;&#19996;&#30465;&#33487;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 47-year-old patient resides at the specified address"</data>
+      <data key="d5">5a04414d369f14d70f2774376896bdef</data>
+    </edge>
+    <edge source="&quot;47&quot;" target="&quot;&#28246;&#21335;&#30465;&#33487;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 47-year-old patient resides at the specified address"</data>
+      <data key="d5">508324e0146372b3c612f47a11623372</data>
+    </edge>
+    <edge source="&quot;47&quot;" target="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 47 was diagnosed with chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">27e74b1fcd06ffd11ba52e9eca361c25</data>
+    </edge>
+    <edge source="&quot;47&quot;" target="&quot;&#27993;&#27743;&#30465;&#33487;&#24030;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 47-year-old patient resides at the specified address"</data>
+      <data key="d5">27e74b1fcd06ffd11ba52e9eca361c25</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;74&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 74 was diagnosed with tuberculosis"</data>
+      <data key="d5">7bd00f70cea33abc0afdd9e60b42162e</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#33016;&#38391;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest tightness may indicate tuberculosis"</data>
+      <data key="d5">4124751013f57c238dd7139a10dfdff1</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#33016;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest pain is often associated with tuberculosis"</data>
+      <data key="d5">4124751013f57c238dd7139a10dfdff1</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;28&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 28 was diagnosed with tuberculosis"</data>
+      <data key="d5">6b144bca08bd92c65ef6b7bf0bb1b210</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;86&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 86 was diagnosed with tuberculosis"</data>
+      <data key="d5">b8062090060526d049eb6f7be030d785</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;73&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 73 was diagnosed with tuberculosis"</data>
+      <data key="d5">dc9b711e7879ae20059d90729584ec53</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;22&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 22 was diagnosed with tuberculosis"</data>
+      <data key="d5">3a2ef7edaa7d1f729127d6fdb0813080</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;88&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 88 was diagnosed with tuberculosis"</data>
+      <data key="d5">00b3f2d0c0c3f7ceff3d20f2bc949572</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;77&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 77 was diagnosed with tuberculosis"</data>
+      <data key="d5">11a17a6cd42ce5b3da45c95a04b90f4a</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#27963;&#21160;&#21518;&#27668;&#20419;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dyspnea after activity led to the diagnosis of tuberculosis"</data>
+      <data key="d5">11a17a6cd42ce5b3da45c95a04b90f4a</data>
+    </edge>
+    <edge source="&quot;73&quot;" target="&quot;&#21271;&#20140;&#24066;&#26477;&#24030;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 73-year-old patient resides at the specified address"</data>
+      <data key="d5">e9aa8c7878a7ae2a29f462eda868f201</data>
+    </edge>
+    <edge source="&quot;73&quot;" target="&quot;&#19978;&#28023;&#24066;&#33487;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 73-year-old patient resides at the specified address"</data>
+      <data key="d5">dc9b711e7879ae20059d90729584ec53</data>
+    </edge>
+    <edge source="&quot;73&quot;" target="&quot;&#27743;&#33487;&#30465;&#27494;&#27721;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 73-year-old patient resides at the specified address"</data>
+      <data key="d5">1be49fdcaedc95d28a22aa5312725314</data>
+    </edge>
+    <edge source="&quot;34&quot;" target="&quot;&#23665;&#19996;&#30465;&#21414;&#38376;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 34-year-old patient resides at the specified address"</data>
+      <data key="d5">558b3868ecf2410309cb4052382d06b5</data>
+    </edge>
+    <edge source="&quot;17&quot;" target="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 17-year-old patient was diagnosed with chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">339889400ac018e70d0f00c486ab52af</data>
+    </edge>
+    <edge source="&quot;17&quot;" target="&quot;&#21271;&#20140;&#24066;&#38738;&#23707;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 17-year-old patient resides at the specified address"</data>
+      <data key="d5">339889400ac018e70d0f00c486ab52af</data>
+    </edge>
+    <edge source="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;" target="&quot;64&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 64 was diagnosed with chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">7e350b9370b46844dea072a23af8b52e</data>
+    </edge>
+    <edge source="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;" target="&quot;&#33016;&#38391;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest tightness can be a symptom of chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">4124751013f57c238dd7139a10dfdff1</data>
+    </edge>
+    <edge source="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;" target="&quot;&#33016;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest pain is often associated with COPD"</data>
+      <data key="d5">4124751013f57c238dd7139a10dfdff1</data>
+    </edge>
+    <edge source="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;" target="&quot;43&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 43 was diagnosed with chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">d113918110a60fa0f033eb498b39cc83</data>
+    </edge>
+    <edge source="&quot;88&quot;" target="&quot;&#28246;&#21271;&#30465;&#26477;&#24030;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 88-year-old patient resides at the specified address"</data>
+      <data key="d5">66eb2ea1b51ed6d2b52131c3313e0385</data>
+    </edge>
+    <edge source="&quot;88&quot;" target="&quot;&#31119;&#24314;&#30465;&#31119;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 88-year-old patient resides at the specified address"</data>
+      <data key="d5">00b3f2d0c0c3f7ceff3d20f2bc949572</data>
+    </edge>
+    <edge source="&quot;&#21683;&#30192;&quot;" target="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Coughing up phlegm led to the diagnosis of influenza"</data>
+      <data key="d5">95aaa46441bef041c91761ec891f7a5a</data>
+    </edge>
+    <edge source="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;&#21683;&#34880;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hemoptysis led to the diagnosis of influenza"</data>
+      <data key="d5">f8e5a84adc8b7cad5c61b64465d75589</data>
+    </edge>
+    <edge source="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;&#33016;&#38391;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest tightness can be a symptom of influenza"</data>
+      <data key="d5">4124751013f57c238dd7139a10dfdff1</data>
+    </edge>
+    <edge source="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;&#33016;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest pain is sometimes associated with influenza"</data>
+      <data key="d5">4124751013f57c238dd7139a10dfdff1</data>
+    </edge>
+    <edge source="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;46&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 46 was diagnosed with influenza"</data>
+      <data key="d5">497733f4242b847c15c9b7691c9dcfca</data>
+    </edge>
+    <edge source="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;&#21683;&#22013;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Coughing led to the diagnosis of influenza"</data>
+      <data key="d5">0757e6b0ca4544368f1da650f35f5940</data>
+    </edge>
+    <edge source="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;74&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 74 was diagnosed with influenza"</data>
+      <data key="d5">d8af756c0f3793583fa23ef89db0d559</data>
+    </edge>
+    <edge source="&quot;64&quot;" target="&quot;&#21271;&#20140;&#24066;&#31119;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 64-year-old patient resides at the specified address"</data>
+      <data key="d5">7e350b9370b46844dea072a23af8b52e</data>
+    </edge>
+    <edge source="&quot;74&quot;" target="&quot;&#27993;&#27743;&#30465;&#27494;&#27721;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 74-year-old patient resides at the specified address"</data>
+      <data key="d5">7bd00f70cea33abc0afdd9e60b42162e</data>
+    </edge>
+    <edge source="&quot;74&quot;" target="&quot;&#28246;&#21271;&#30465;&#26477;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 74-year-old patient resides at the specified address"</data>
+      <data key="d5">d8af756c0f3793583fa23ef89db0d559</data>
+    </edge>
+    <edge source="&quot;37&quot;" target="&quot;&#27743;&#33487;&#30465;&#38738;&#23707;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 37-year-old patient resides at the specified address"</data>
+      <data key="d5">1faeb8e8a4729ccb9e4eaed54117b966</data>
+    </edge>
+    <edge source="&quot;&#23665;&#19996;&#30465;&#24191;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;" target="&quot;86&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 86-year-old patient resides at the specified address"</data>
+      <data key="d5">b8062090060526d049eb6f7be030d785</data>
+    </edge>
+    <edge source="&quot;35&quot;" target="&quot;&#24191;&#19996;&#30465;&#26477;&#24030;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 35-year-old patient resides at the specified address"</data>
+      <data key="d5">98394455ee25a4587117498bc9e46b6d</data>
+    </edge>
+    <edge source="&quot;46&quot;" target="&quot;&#28246;&#21271;&#30465;&#31119;&#24030;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 46-year-old patient resides at the specified address"</data>
+      <data key="d5">497733f4242b847c15c9b7691c9dcfca</data>
+    </edge>
+    <edge source="&quot;43&quot;" target="&quot;&#28246;&#21335;&#30465;&#26477;&#24030;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 43-year-old patient resides at the specified address"</data>
+      <data key="d5">d113918110a60fa0f033eb498b39cc83</data>
+    </edge>
+    <edge source="&quot;28&quot;" target="&quot;&#24191;&#19996;&#30465;&#21335;&#20140;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 28-year-old patient resides at the specified address"</data>
+      <data key="d5">6b144bca08bd92c65ef6b7bf0bb1b210</data>
+    </edge>
+    <edge source="&quot;76&quot;" target="&quot;&#28246;&#21271;&#30465;&#38271;&#27801;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 76-year-old patient resides at the specified address"</data>
+      <data key="d5">b74b94c9685d4484dc383961b311aa8b</data>
+    </edge>
+    <edge source="&quot;76&quot;" target="&quot;&#28246;&#21335;&#30465;&#38271;&#27801;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 76-year-old patient resides at the specified address"</data>
+      <data key="d5">b1254b39f57b6cf235c1be2a01c947e0</data>
+    </edge>
+    <edge source="&quot;27&quot;" target="&quot;&#24191;&#19996;&#30465;&#38271;&#27801;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 27-year-old patient resides at the specified address"</data>
+      <data key="d5">381f16dceb2904b8fc0dba3b0b794e33</data>
+    </edge>
+    <edge source="&quot;61&quot;" target="&quot;&#24191;&#19996;&#30465;&#26477;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 61-year-old patient resides at the specified address"</data>
+      <data key="d5">91ef2a256c68cd35b3c168751fd9367a</data>
+    </edge>
+    <edge source="&quot;22&quot;" target="&quot;&#22235;&#24029;&#30465;&#21335;&#20140;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 22-year-old patient resides at the specified address"</data>
+      <data key="d5">3a2ef7edaa7d1f729127d6fdb0813080</data>
+    </edge>
+    <edge source="&quot;41&quot;" target="&quot;&#23665;&#19996;&#30465;&#26477;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 41-year-old patient resides at the specified address"</data>
+      <data key="d5">b5585474da6b01b1fbf52e798e2103aa</data>
+    </edge>
+    <edge source="&quot;69&quot;" target="&quot;&#22235;&#24029;&#30465;&#27494;&#27721;&#24066;&#22993;&#33487;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 69-year-old patient resides at the specified address"</data>
+      <data key="d5">631a7e3223e15e6fd6edb12c2015fe31</data>
+    </edge>
+    <edge source="&quot;42&quot;" target="&quot;&#19978;&#28023;&#24066;&#38738;&#23707;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 42-year-old patient resides at the specified address"</data>
+      <data key="d5">dbf91170f46be6e366511edc13db9dbe</data>
+    </edge>
+    <edge source="&quot;63&quot;" target="&quot;&#27743;&#33487;&#30465;&#38738;&#23707;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 63-year-old patient resides at the specified address"</data>
+      <data key="d5">abcf535f72153dcc11cd1d601c51eeb4</data>
+    </edge>
+    <edge source="&quot;77&quot;" target="&quot;&#27963;&#21160;&#21518;&#27668;&#20419;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient aged 77 exhibits the symptom of dyspnea after activity"</data>
+      <data key="d5">11a17a6cd42ce5b3da45c95a04b90f4a</data>
+    </edge>
+    <edge source="&quot;77&quot;" target="&quot;&#21271;&#20140;&#24066;&#26477;&#24030;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 77-year-old patient resides at the specified address"</data>
+      <data key="d5">11a17a6cd42ce5b3da45c95a04b90f4a</data>
+    </edge>
+  </graph>
+</graphml>

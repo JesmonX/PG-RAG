@@ -1,0 +1,405 @@
+Using model: qwen2.5:32b
+Output: ("entity"<|>"马军倩"<|>"患者"<|>"Patient named Ma Junqian")##
+("entity"<|>"刘玉霞"<|>"患者"<|>"Patient named Liu Yuxia")##
+("entity"<|>"黄军豪"<|>"患者"<|>"Patient named Huang Junhao")##
+("entity"<|>"张国豪"<|>"患者"<|>"Patient named Zhang Guohao")##
+("entity"<|>"肺结核"<|>"诊断结果"<|>"Diagnosis of tuberculosis")##
+("entity"<|>"呼吸困难"<|>"症状"<|>"Symptom of dyspnea (breathing difficulty)")##
+("entity"<|>"持续咳痰"<|>"症状"<|>"Symptom of persistent sputum production")##
+("entity"<|>"咳嗽持续超过一周"<|>"症状"<|>"Symptom of cough lasting more than one week")
+
+("relationship"<|>"马军倩"<|>"呼吸困难"<|>"Ma Junqian has the symptom of dyspnea"<|>9)##
+("relationship"<|>"刘玉霞"<|>"呼吸困难"<|>"Liu Yuxia has the symptom of dyspnea"<|>9)##
+("relationship"<|>"马军倩"<|>"肺结核"<|>"Ma Junqian was diagnosed with tuberculosis"<|>9)##
+("relationship"<|>"刘玉霞"<|>"肺结核"<|>"Liu Yuxia was diagnosed with tuberculosis"<|>9)##
+("relationship"<|>"黄军豪"<|>"持续咳痰"<|>"Huang Junhao has the symptom of persistent sputum production"<|>9)##
+("relationship"<|>"张国豪"<|>"咳嗽持续超过一周"<|>"Zhang Guohao has the symptom of cough lasting more than one week"<|>9)
+
+<|COMPLETE|>
+实体列表:
+{'value': '马军倩', 'type': '患者', 'desc': 'Patient named Ma Junqian'}
+{'value': '刘玉霞', 'type': '患者', 'desc': 'Patient named Liu Yuxia'}
+{'value': '黄军豪', 'type': '患者', 'desc': 'Patient named Huang Junhao'}
+{'value': '张国豪', 'type': '患者', 'desc': 'Patient named Zhang Guohao'}
+{'value': '肺结核', 'type': '诊断结果', 'desc': 'Diagnosis of tuberculosis'}
+{'value': '呼吸困难', 'type': '症状', 'desc': 'Symptom of dyspnea (breathing difficulty)'}
+{'value': '持续咳痰', 'type': '症状', 'desc': 'Symptom of persistent sputum production'}
+{'value': '咳嗽持续超过一周', 'type': '症状', 'desc': 'Symptom of cough lasting more than one week'}
+
+关系列表:
+{'head': '马军倩', 'tail': '呼吸困难', 'desc': 'Ma Junqian has the symptom of dyspnea', 'power': 9}
+{'head': '刘玉霞', 'tail': '呼吸困难', 'desc': 'Liu Yuxia has the symptom of dyspnea', 'power': 9}
+{'head': '马军倩', 'tail': '肺结核', 'desc': 'Ma Junqian was diagnosed with tuberculosis', 'power': 9}
+{'head': '刘玉霞', 'tail': '肺结核', 'desc': 'Liu Yuxia was diagnosed with tuberculosis', 'power': 9}
+{'head': '黄军豪', 'tail': '持续咳痰', 'desc': 'Huang Junhao has the symptom of persistent sputum production', 'power': 9}
+{'head': '张国豪', 'tail': '咳嗽持续超过一周', 'desc': 'Zhang Guohao has the symptom of cough lasting more than one week', 'power': 9}
+匹配到敏感实例: ('马军倩',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('刘玉霞',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('黄军豪',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('张国豪',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('马军倩', '呼吸困难')，类型: {'患者', '症状'}，且实体间有关联
+匹配到敏感实例: ('刘玉霞', '呼吸困难')，类型: {'患者', '症状'}，且实体间有关联
+匹配到敏感实例: ('黄军豪', '持续咳痰')，类型: {'患者', '症状'}，且实体间有关联
+匹配到敏感实例: ('张国豪', '咳嗽持续超过一周')，类型: {'患者', '症状'}，且实体间有关联
+匹配到敏感实例: ('马军倩', '肺结核')，类型: {'患者', '诊断结果'}，且实体间有关联
+匹配到敏感实例: ('刘玉霞', '肺结核')，类型: {'患者', '诊断结果'}，且实体间有关联
+
+检测到的敏感实例：
+('马军倩',)
+('刘玉霞',)
+('黄军豪',)
+('张国豪',)
+('马军倩', '呼吸困难')
+('刘玉霞', '呼吸困难')
+('黄军豪', '持续咳痰')
+('张国豪', '咳嗽持续超过一周')
+('马军倩', '肺结核')
+('刘玉霞', '肺结核')
+Using model: qwen2.5:32b
+Output: ("entity"<|>"马雪伟"<|>"患者"<|>"Patient named Ma Xuewei")##
+("entity"<|>"12岁"<|>"年龄"<|>"Age of the patient, 12 years old")##
+("entity"<|>"四川省广州市思明区"<|>"地址"<|>"Residence address of the patient, Sichuan Province Guangzhou Siming District")##
+("entity"<|>"呼吸困难"<|>"症状"<|>"Symptom of dyspnea (breathing difficulty)")##
+("entity"<|>"急性支气管炎"<|>"诊断结果"<|>"Diagnosis of acute bronchitis")##
+
+("entity"<|>"陈佳敏"<|>"患者"<|>"Patient named Chen Jiamin")##
+("entity"<|>"46岁"<|>"年龄"<|>"Age of the patient, 46 years old")##
+("entity"<|>"湖北省福州市武侯区"<|>"地址"<|>"Residence address of the patient, Hubei Province Fuzhou Wuhou District")##
+("entity"<|>"流行性感冒"<|>"诊断结果"<|>"Diagnosis of influenza")##
+
+("entity"<|>"何杰玲"<|>"患者"<|>"Patient named He Jieling")##
+("entity"<|>"55岁"<|>"年龄"<|>"Age of the patient, 55 years old")##
+("entity"<|>"广东省长沙市天河区"<|>"地址"<|>"Residence address of the patient, Guangdong Province Changsha Tianhe District")##
+("entity"<|>"晨起咳嗽加剧"<|>"症状"<|>"Symptom of increased morning coughing")##
+("entity"<|>"过敏性哮喘"<|>"诊断结果"<|>"Diagnosis of allergic asthma")##
+
+("entity"<|>"胡杰玲"<|>"患者"<|>"Patient named Hu Jieling")##
+("entity"<|>"88岁"<|>"年龄"<|>"Age of the patient, 88 years old")##
+("entity"<|>"湖北省杭州市鼓楼区"<|>"地址"<|>"Residence address of the patient, Hubei Province Hangzhou Gulou District")##
+("entity"<|>"干咳不止"<|>"症状"<|>"Symptom of persistent dry cough")##
+("entity"<|>"咽喉炎"<|>"诊断结果"<|>"Diagnosis of pharyngitis")##
+
+("relationship"<|>"马雪伟"<|>"12岁"<|>"Ma Xuewei's age is 12 years old"<|>9)##
+("relationship"<|>"马雪伟"<|>"四川省广州市思明区"<|>"Ma Xuewei resides at the specified address"<|>9)##
+("relationship"<|>"马雪伟"<|>"呼吸困难"<|>"Ma Xuewei exhibits the symptom of dyspnea"<|>9)##
+("relationship"<|>"马雪伟"<|>"急性支气管炎"<|>"Ma Xuewei was diagnosed with acute bronchitis"<|>9)##
+
+("relationship"<|>"陈佳敏"<|>"46岁"<|>"Chen Jiamin's age is 46 years old"<|>9)##
+("relationship"<|>"陈佳敏"<|>"湖北省福州市武侯区"<|>"Chen Jiamin resides at the specified address"<|>9)##
+("relationship"<|>"陈佳敏"<|>"呼吸困难"<|>"Chen Jiamin exhibits the symptom of dyspnea"<|>9)##
+("relationship"<|>"陈佳敏"<|>"流行性感冒"<|>"Chen Jiamin was diagnosed with influenza"<|>9)##
+
+("relationship"<|>"何杰玲"<|>"55岁"<|>"He Jieling's age is 55 years old"<|>9)##
+("relationship"<|>"何杰玲"<|>"广东省长沙市天河区"<|>"He Jieling resides at the specified address"<|>9)##
+("relationship"<|>"何杰玲"<|>"晨起咳嗽加剧"<|>"He Jieling exhibits the symptom of increased morning coughing"<|>9)##
+("relationship"<|>"何杰玲"<|>"过敏性哮喘"<|>"He Jieling was diagnosed with allergic asthma"<|>9)##
+
+("relationship"<|>"胡杰玲"<|>"88岁"<|>"Hu Jieling's age is 88 years old"<|>9)##
+("relationship"<|>"胡杰玲"<|>"湖北省杭州市鼓楼区"<|>"Hu Jieling resides at the specified address"<|>9)##
+("relationship"<|>"胡杰玲"<|>"干咳不止"<|>"Hu Jieling exhibits the symptom of persistent dry cough"<|>9)##
+("relationship"<|>"胡杰玲"<|>"咽喉炎"<|>"Hu Jieling was diagnosed with pharyngitis"<|>9)##
+
+("relationship"<|>"呼吸困难"<|>"急性支气管炎"<|>"Acute bronchitis can cause dyspnea"<|>8)##
+("relationship"<|>"呼吸困难"<|>"流行性感冒"<|>"Influenza can cause dyspnea"<|>8)##
+("relationship"<|>"过敏性哮喘"<|>"呼吸功能影响"<|>"Allergic asthma may indirectly affect respiratory function"<|>7)##
+("relationship"<|>"咽喉炎"<|>"呼吸功能影响"<|>"Pharyngitis may indirectly affect respiratory function"<|>7)##
+
+如果您有更具体的症状或问题，请提供更多信息以便进行进一步的分析和建议。
+实体列表:
+{'value': '马雪伟', 'type': '患者', 'desc': 'Patient named Ma Xuewei'}
+{'value': '12岁', 'type': '年龄', 'desc': 'Age of the patient, 12 years old'}
+{'value': '四川省广州市思明区', 'type': '地址', 'desc': 'Residence address of the patient, Sichuan Province Guangzhou Siming District'}
+{'value': '呼吸困难', 'type': '症状', 'desc': 'Symptom of dyspnea (breathing difficulty)'}
+{'value': '急性支气管炎', 'type': '诊断结果', 'desc': 'Diagnosis of acute bronchitis'}
+{'value': '陈佳敏', 'type': '患者', 'desc': 'Patient named Chen Jiamin'}
+{'value': '46岁', 'type': '年龄', 'desc': 'Age of the patient, 46 years old'}
+{'value': '湖北省福州市武侯区', 'type': '地址', 'desc': 'Residence address of the patient, Hubei Province Fuzhou Wuhou District'}
+{'value': '流行性感冒', 'type': '诊断结果', 'desc': 'Diagnosis of influenza'}
+{'value': '何杰玲', 'type': '患者', 'desc': 'Patient named He Jieling'}
+{'value': '55岁', 'type': '年龄', 'desc': 'Age of the patient, 55 years old'}
+{'value': '广东省长沙市天河区', 'type': '地址', 'desc': 'Residence address of the patient, Guangdong Province Changsha Tianhe District'}
+{'value': '晨起咳嗽加剧', 'type': '症状', 'desc': 'Symptom of increased morning coughing'}
+{'value': '过敏性哮喘', 'type': '诊断结果', 'desc': 'Diagnosis of allergic asthma'}
+{'value': '胡杰玲', 'type': '患者', 'desc': 'Patient named Hu Jieling'}
+{'value': '88岁', 'type': '年龄', 'desc': 'Age of the patient, 88 years old'}
+{'value': '湖北省杭州市鼓楼区', 'type': '地址', 'desc': 'Residence address of the patient, Hubei Province Hangzhou Gulou District'}
+{'value': '干咳不止', 'type': '症状', 'desc': 'Symptom of persistent dry cough'}
+{'value': '咽喉炎', 'type': '诊断结果', 'desc': 'Diagnosis of pharyngitis'}
+
+关系列表:
+{'head': '马雪伟', 'tail': '12岁', 'desc': "Ma Xuewei's age is 12 years old", 'power': 9}
+{'head': '马雪伟', 'tail': '四川省广州市思明区', 'desc': 'Ma Xuewei resides at the specified address', 'power': 9}
+{'head': '马雪伟', 'tail': '呼吸困难', 'desc': 'Ma Xuewei exhibits the symptom of dyspnea', 'power': 9}
+{'head': '马雪伟', 'tail': '急性支气管炎', 'desc': 'Ma Xuewei was diagnosed with acute bronchitis', 'power': 9}
+{'head': '陈佳敏', 'tail': '46岁', 'desc': "Chen Jiamin's age is 46 years old", 'power': 9}
+{'head': '陈佳敏', 'tail': '湖北省福州市武侯区', 'desc': 'Chen Jiamin resides at the specified address', 'power': 9}
+{'head': '陈佳敏', 'tail': '呼吸困难', 'desc': 'Chen Jiamin exhibits the symptom of dyspnea', 'power': 9}
+{'head': '陈佳敏', 'tail': '流行性感冒', 'desc': 'Chen Jiamin was diagnosed with influenza', 'power': 9}
+{'head': '何杰玲', 'tail': '55岁', 'desc': "He Jieling's age is 55 years old", 'power': 9}
+{'head': '何杰玲', 'tail': '广东省长沙市天河区', 'desc': 'He Jieling resides at the specified address', 'power': 9}
+{'head': '何杰玲', 'tail': '晨起咳嗽加剧', 'desc': 'He Jieling exhibits the symptom of increased morning coughing', 'power': 9}
+{'head': '何杰玲', 'tail': '过敏性哮喘', 'desc': 'He Jieling was diagnosed with allergic asthma', 'power': 9}
+{'head': '胡杰玲', 'tail': '88岁', 'desc': "Hu Jieling's age is 88 years old", 'power': 9}
+{'head': '胡杰玲', 'tail': '湖北省杭州市鼓楼区', 'desc': 'Hu Jieling resides at the specified address', 'power': 9}
+{'head': '胡杰玲', 'tail': '干咳不止', 'desc': 'Hu Jieling exhibits the symptom of persistent dry cough', 'power': 9}
+{'head': '胡杰玲', 'tail': '咽喉炎', 'desc': 'Hu Jieling was diagnosed with pharyngitis', 'power': 9}
+{'head': '呼吸困难', 'tail': '急性支气管炎', 'desc': 'Acute bronchitis can cause dyspnea', 'power': 8}
+{'head': '呼吸困难', 'tail': '流行性感冒', 'desc': 'Influenza can cause dyspnea', 'power': 8}
+{'head': '过敏性哮喘', 'tail': '呼吸功能影响', 'desc': 'Allergic asthma may indirectly affect respiratory function', 'power': 7}
+{'head': '咽喉炎', 'tail': '呼吸功能影响', 'desc': 'Pharyngitis may indirectly affect respiratory function', 'power': 7}
+匹配到敏感实例: ('马雪伟',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('陈佳敏',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('何杰玲',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('胡杰玲',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('马雪伟', '12岁')，类型: {'患者', '年龄'}，且实体间有关联
+匹配到敏感实例: ('陈佳敏', '46岁')，类型: {'患者', '年龄'}，且实体间有关联
+匹配到敏感实例: ('何杰玲', '55岁')，类型: {'患者', '年龄'}，且实体间有关联
+匹配到敏感实例: ('胡杰玲', '88岁')，类型: {'患者', '年龄'}，且实体间有关联
+匹配到敏感实例: ('马雪伟', '呼吸困难')，类型: {'症状', '患者'}，且实体间有关联
+匹配到敏感实例: ('呼吸困难', '陈佳敏')，类型: {'症状', '患者'}，且实体间有关联
+匹配到敏感实例: ('何杰玲', '晨起咳嗽加剧')，类型: {'症状', '患者'}，且实体间有关联
+匹配到敏感实例: ('胡杰玲', '干咳不止')，类型: {'症状', '患者'}，且实体间有关联
+匹配到敏感实例: ('马雪伟', '急性支气管炎')，类型: {'患者', '诊断结果'}，且实体间有关联
+匹配到敏感实例: ('陈佳敏', '流行性感冒')，类型: {'患者', '诊断结果'}，且实体间有关联
+匹配到敏感实例: ('何杰玲', '过敏性哮喘')，类型: {'患者', '诊断结果'}，且实体间有关联
+匹配到敏感实例: ('胡杰玲', '咽喉炎')，类型: {'患者', '诊断结果'}，且实体间有关联
+匹配到敏感实例: ('马雪伟', '四川省广州市思明区')，类型: {'患者', '地址'}，且实体间有关联
+匹配到敏感实例: ('陈佳敏', '湖北省福州市武侯区')，类型: {'患者', '地址'}，且实体间有关联
+匹配到敏感实例: ('何杰玲', '广东省长沙市天河区')，类型: {'患者', '地址'}，且实体间有关联
+匹配到敏感实例: ('胡杰玲', '湖北省杭州市鼓楼区')，类型: {'患者', '地址'}，且实体间有关联
+
+检测到的敏感实例：
+('马雪伟',)
+('陈佳敏',)
+('何杰玲',)
+('胡杰玲',)
+('马雪伟', '12岁')
+('陈佳敏', '46岁')
+('何杰玲', '55岁')
+('胡杰玲', '88岁')
+('马雪伟', '呼吸困难')
+('呼吸困难', '陈佳敏')
+('何杰玲', '晨起咳嗽加剧')
+('胡杰玲', '干咳不止')
+('马雪伟', '急性支气管炎')
+('陈佳敏', '流行性感冒')
+('何杰玲', '过敏性哮喘')
+('胡杰玲', '咽喉炎')
+('马雪伟', '四川省广州市思明区')
+('陈佳敏', '湖北省福州市武侯区')
+('何杰玲', '广东省长沙市天河区')
+('胡杰玲', '湖北省杭州市鼓楼区')
+Using model: qwen2.5:32b
+Output: ("entity"<|>"呼吸困难"<|>"症状"<|>"A common symptom that can be caused by various diseases, characterized by difficulty in breathing")##  
+("entity"<|>"肺炎"<|>"诊断结果"<|>"Lung infection caused by bacteria, viruses, or other microorganisms leading to symptoms such as shortness of breath and coughing")##  
+("entity"<|>"过敏性哮喘"<|>"诊断结果"<|>"A common chronic inflammatory disease that causes narrowing of the airways, resulting in wheezing, chest tightness, and difficulty breathing")##  
+("entity"<|>"肺气肿"<|>"诊断结果"<|>"A type of chronic obstructive pulmonary disease (COPD) usually caused by long-term smoking leading to restricted airflow and breathlessness")##  
+("entity"<|>"上呼吸道感染"<|>"诊断结果"<|>"Infections affecting the nose, throat, and larynx that can cause breathing difficulties; includes common colds")
+
+("relationship"<|>"呼吸困难"<|>"肺炎"<|>"Pneumonia is a disease that can lead to the symptom of breathlessness"<|>9)##  
+("relationship"<|>"呼吸困难"<|>"过敏性哮喘"<|>"Allergic asthma is a condition that causes difficulty in breathing"<|>9)##  
+("relationship"<|>"呼吸困难"<|>"肺气肿"<|>"Emphysema leads to breathlessness as one of its symptoms"<|>9)##  
+("relationship"<|>"呼吸困难"<|>"上呼吸道感染"<|>"Upper respiratory infections can cause breathing difficulties"<|>8)
+
+<|COMPLETE|>
+实体列表:
+{'value': '呼吸困难', 'type': '症状', 'desc': 'A common symptom that can be caused by various diseases, characterized by difficulty in breathing'}
+{'value': '肺炎', 'type': '诊断结果', 'desc': 'Lung infection caused by bacteria, viruses, or other microorganisms leading to symptoms such as shortness of breath and coughing'}
+{'value': '过敏性哮喘', 'type': '诊断结果', 'desc': 'A common chronic inflammatory disease that causes narrowing of the airways, resulting in wheezing, chest tightness, and difficulty breathing'}
+{'value': '肺气肿', 'type': '诊断结果', 'desc': 'A type of chronic obstructive pulmonary disease (COPD) usually caused by long-term smoking leading to restricted airflow and breathlessness'}
+{'value': '上呼吸道感染', 'type': '诊断结果', 'desc': 'Infections affecting the nose, throat, and larynx that can cause breathing difficulties; includes common colds'}
+
+关系列表:
+{'head': '呼吸困难', 'tail': '肺炎', 'desc': 'Pneumonia is a disease that can lead to the symptom of breathlessness', 'power': 9}
+{'head': '呼吸困难', 'tail': '过敏性哮喘', 'desc': 'Allergic asthma is a condition that causes difficulty in breathing', 'power': 9}
+{'head': '呼吸困难', 'tail': '肺气肿', 'desc': 'Emphysema leads to breathlessness as one of its symptoms', 'power': 9}
+{'head': '呼吸困难', 'tail': '上呼吸道感染', 'desc': 'Upper respiratory infections can cause breathing difficulties', 'power': 8}
+
+检测到的敏感实例：
+Using model: qwen2.5:32b
+Output: ("entity"<|>"林大霞"<|>"患者"<|>"Patient named Lin Daxia")##
+("entity"<|>"20岁"<|>"年龄"<|>"Age of the patient Lin Daxia")##
+("entity"<|>"赵丽东"<|>"患者"<|>"Patient named Zhao Liding")##
+("entity"<|>"28岁"<|>"年龄"<|>"Age of the patient Zhao Liding")##
+("entity"<|>"罗建磊"<|>"患者"<|>"Patient named Luo Jianlei")##
+("entity"<|>"26岁"<|>"年龄"<|>"Age of the patient Luo Jianlei")##
+("entity"<|>"陈佳敏"<|>"患者"<|>"Patient named Chen Jiamin")##
+("entity"<|>"46岁"<|>"年龄"<|>"Age of the patient Chen Jiamin")##
+("entity"<|>"林玉刚"<|>"患者"<|>"Patient named Lin Yugang")##
+("entity"<|>"82岁"<|>"年龄"<|>"Age of the patient Lin Yugang")##
+("entity"<|>"呼吸困难"<|>"症状"<|>"Symptom of dyspnea (breathing difficulty)")##
+
+("relationship"<|>"林大霞"<|>"20岁"<|>"Lin Daxia's age is 20"<|>9)##
+("relationship"<|>"赵丽东"<|>"28岁"<|>"Zhao Liding's age is 28"<|>9)##
+("relationship"<|>"罗建磊"<|>"26岁"<|>"Luo Jianlei's age is 26"<|>9)##
+("relationship"<|>"陈佳敏"<|>"46岁"<|>"Chen Jiamin's age is 46"<|>9)##
+("relationship"<|>"林玉刚"<|>"82岁"<|>"Lin Yugang's age is 82"<|>9)##
+("relationship"<|>"呼吸困难"<|>"林大霞"<|>"Lin Daxia has the symptom of dyspnea"<|>7)##
+("relationship"<|>"呼吸困难"<|>"赵丽东"<|>"Zhao Liding has the symptom of dyspnea"<|>7)##
+
+<|COMPLETE|>
+实体列表:
+{'value': '林大霞', 'type': '患者', 'desc': 'Patient named Lin Daxia'}
+{'value': '20岁', 'type': '年龄', 'desc': 'Age of the patient Lin Daxia'}
+{'value': '赵丽东', 'type': '患者', 'desc': 'Patient named Zhao Liding'}
+{'value': '28岁', 'type': '年龄', 'desc': 'Age of the patient Zhao Liding'}
+{'value': '罗建磊', 'type': '患者', 'desc': 'Patient named Luo Jianlei'}
+{'value': '26岁', 'type': '年龄', 'desc': 'Age of the patient Luo Jianlei'}
+{'value': '陈佳敏', 'type': '患者', 'desc': 'Patient named Chen Jiamin'}
+{'value': '46岁', 'type': '年龄', 'desc': 'Age of the patient Chen Jiamin'}
+{'value': '林玉刚', 'type': '患者', 'desc': 'Patient named Lin Yugang'}
+{'value': '82岁', 'type': '年龄', 'desc': 'Age of the patient Lin Yugang'}
+{'value': '呼吸困难', 'type': '症状', 'desc': 'Symptom of dyspnea (breathing difficulty)'}
+
+关系列表:
+{'head': '林大霞', 'tail': '20岁', 'desc': "Lin Daxia's age is 20", 'power': 9}
+{'head': '赵丽东', 'tail': '28岁', 'desc': "Zhao Liding's age is 28", 'power': 9}
+{'head': '罗建磊', 'tail': '26岁', 'desc': "Luo Jianlei's age is 26", 'power': 9}
+{'head': '陈佳敏', 'tail': '46岁', 'desc': "Chen Jiamin's age is 46", 'power': 9}
+{'head': '林玉刚', 'tail': '82岁', 'desc': "Lin Yugang's age is 82", 'power': 9}
+{'head': '呼吸困难', 'tail': '林大霞', 'desc': 'Lin Daxia has the symptom of dyspnea', 'power': 7}
+{'head': '呼吸困难', 'tail': '赵丽东', 'desc': 'Zhao Liding has the symptom of dyspnea', 'power': 7}
+匹配到敏感实例: ('林大霞',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('赵丽东',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('罗建磊',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('陈佳敏',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('林玉刚',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('林大霞', '20岁')，类型: {'年龄', '患者'}，且实体间有关联
+匹配到敏感实例: ('赵丽东', '28岁')，类型: {'年龄', '患者'}，且实体间有关联
+匹配到敏感实例: ('罗建磊', '26岁')，类型: {'年龄', '患者'}，且实体间有关联
+匹配到敏感实例: ('陈佳敏', '46岁')，类型: {'年龄', '患者'}，且实体间有关联
+匹配到敏感实例: ('林玉刚', '82岁')，类型: {'年龄', '患者'}，且实体间有关联
+匹配到敏感实例: ('林大霞', '呼吸困难')，类型: {'患者', '症状'}，且实体间有关联
+匹配到敏感实例: ('赵丽东', '呼吸困难')，类型: {'患者', '症状'}，且实体间有关联
+
+检测到的敏感实例：
+('林大霞',)
+('赵丽东',)
+('罗建磊',)
+('陈佳敏',)
+('林玉刚',)
+('林大霞', '20岁')
+('赵丽东', '28岁')
+('罗建磊', '26岁')
+('陈佳敏', '46岁')
+('林玉刚', '82岁')
+('林大霞', '呼吸困难')
+('赵丽东', '呼吸困难')
+Using model: qwen2.5:32b
+Output: ("entity"<|>"张雪伟"<|>"患者"<|>"Patient named Zhang Xuewei from Zhejiang Province, Nanjing City, Wuhou District")##
+("entity"<|>"12岁"<|>"年龄"<|>"Age of the patient Zhang Xuewei is 12 years old")##
+("entity"<|>"浙江省南京市武侯区"<|>"地址"<|>"Address of the patient Zhang Xuewei in Zhejiang Province, Nanjing City, Wuhou District")##
+("entity"<|>"呼吸困难"<|>"症状"<|>"Symptom of dyspnea experienced by Zhang Xuewei")##
+("entity"<|>"咽喉炎"<|>"诊断结果"<|>"Diagnosis of pharyngitis for patient Zhang Xuewei")##
+
+("entity"<|>"黄军鹏"<|>"患者"<|>"Patient named Huang Junpeng from Shanghai City, Qingdao District, Hongshan District")##
+("entity"<|>"42岁"<|>"年龄"<|>"Age of the patient Huang Junpeng is 42 years old")##
+("entity"<|>"上海市青岛市洪山区"<|>"地址"<|>"Address of the patient Huang Junpeng in Shanghai City, Qingdao District, Hongshan District")##
+("entity"<|>"打喷嚏和流鼻涕"<|>"症状"<|>"Symptoms of sneezing and runny nose experienced by Huang Junpeng")##
+("entity"<|>"肺炎"<|>"诊断结果"<|>"Diagnosis of pneumonia for patient Huang Junpeng")##
+
+("entity"<|>"孙国敏"<|>"患者"<|>"Patient named Sun Guomin from Beijing City, Fuzhou District, Siming District")##
+("entity"<|>"夜间咳嗽严重"<|>"症状"<|>"Symptom of severe night cough experienced by Sun Guomin")##
+("entity"<|>"慢性阻塞性肺病"<|>"诊断结果"<|>"Diagnosis of chronic obstructive pulmonary disease for patient Sun Guomin")##
+
+("entity"<|>"罗建磊"<|>"患者"<|>"Patient named Luo Jianlei from Jiangsu Province, Chengdu District, Yuelu District")##
+("entity"<|>"26岁"<|>"年龄"<|>"Age of the patient Luo Jianlei is 26 years old")##
+("entity"<|>"成都市岳麓区"<|>"地址"<|>"Address of the patient Luo Jianlei in Jiangsu Province, Chengdu District, Yuelu District")##
+("entity"<|>"上呼吸道感染"<|>"诊断结果"<|>"Diagnosis of upper respiratory tract infection for patient Luo Jianlei")##
+
+("relationship"<|>"张雪伟"<|>"12岁"<|>"Zhang Xuewei's age is 12 years old"<|>9)##
+("relationship"<|>"张雪伟"<|>"浙江省南京市武侯区"<|>"Zhang Xuewei resides at the specified address in Zhejiang Province, Nanjing City, Wuhou District"<|>9)##
+("relationship"<|>"张雪伟"<|>"呼吸困难"<|>"Zhang Xuewei exhibits the symptom of dyspnea"<|>9)##
+("relationship"<|>"张雪伟"<|>"咽喉炎"<|>"Zhang Xuewei was diagnosed with pharyngitis"<|>9)##
+
+("relationship"<|>"黄军鹏"<|>"42岁"<|>"Huang Junpeng's age is 42 years old"<|>9)##
+("relationship"<|>"黄军鹏"<|>"上海市青岛市洪山区"<|>"Huang Junpeng resides at the specified address in Shanghai City, Qingdao District, Hongshan District"<|>9)##
+("relationship"<|>"黄军鹏"<|>"打喷嚏和流鼻涕"<|>"Huang Junpeng exhibits symptoms of sneezing and runny nose"<|>9)##
+("relationship"<|>"黄军鹏"<|>"肺炎"<|>"Huang Junpeng was diagnosed with pneumonia"<|>9)##
+
+("relationship"<|>"孙国敏"<|>"夜间咳嗽严重"<|>"Sun Guomin exhibits the symptom of severe night cough"<|>9)##
+("relationship"<|>"孙国敏"<|>"慢性阻塞性肺病"<|>"Sun Guomin was diagnosed with chronic obstructive pulmonary disease"<|>9)##
+
+("relationship"<|>"罗建磊"<|>"26岁"<|>"Luo Jianlei's age is 26 years old"<|>9)##
+("relationship"<|>"罗建磊"<|>"成都市岳麓区"<|>"Luo Jianlei resides at the specified address in Jiangsu Province, Chengdu District, Yuelu District"<|>9)##
+("relationship"<|>"罗建磊"<|>"夜间咳嗽严重"<|>"Luo Jianlei exhibits the symptom of severe night cough"<|>9)##
+("relationship"<|>"罗建磊"<|>"上呼吸道感染"<|>"Luo Jianlei was diagnosed with upper respiratory tract infection"<|>9)##
+
+("relationship"<|>"呼吸困难"<|>"夜间咳嗽严重"<|>"Both symptoms are related to respiratory issues"<|>7)##
+("relationship"<|>"慢性阻塞性肺病"<|>"上呼吸道感染"<|>"Both diagnoses are related to respiratory diseases"<|>8)##
+
+<|endoftext|>
+实体列表:
+{'value': '张雪伟', 'type': '患者', 'desc': 'Patient named Zhang Xuewei from Zhejiang Province, Nanjing City, Wuhou District'}
+{'value': '12岁', 'type': '年龄', 'desc': 'Age of the patient Zhang Xuewei is 12 years old'}
+{'value': '浙江省南京市武侯区', 'type': '地址', 'desc': 'Address of the patient Zhang Xuewei in Zhejiang Province, Nanjing City, Wuhou District'}
+{'value': '呼吸困难', 'type': '症状', 'desc': 'Symptom of dyspnea experienced by Zhang Xuewei'}
+{'value': '咽喉炎', 'type': '诊断结果', 'desc': 'Diagnosis of pharyngitis for patient Zhang Xuewei'}
+{'value': '黄军鹏', 'type': '患者', 'desc': 'Patient named Huang Junpeng from Shanghai City, Qingdao District, Hongshan District'}
+{'value': '42岁', 'type': '年龄', 'desc': 'Age of the patient Huang Junpeng is 42 years old'}
+{'value': '上海市青岛市洪山区', 'type': '地址', 'desc': 'Address of the patient Huang Junpeng in Shanghai City, Qingdao District, Hongshan District'}
+{'value': '打喷嚏和流鼻涕', 'type': '症状', 'desc': 'Symptoms of sneezing and runny nose experienced by Huang Junpeng'}
+{'value': '肺炎', 'type': '诊断结果', 'desc': 'Diagnosis of pneumonia for patient Huang Junpeng'}
+{'value': '孙国敏', 'type': '患者', 'desc': 'Patient named Sun Guomin from Beijing City, Fuzhou District, Siming District'}
+{'value': '夜间咳嗽严重', 'type': '症状', 'desc': 'Symptom of severe night cough experienced by Sun Guomin'}
+{'value': '慢性阻塞性肺病', 'type': '诊断结果', 'desc': 'Diagnosis of chronic obstructive pulmonary disease for patient Sun Guomin'}
+{'value': '罗建磊', 'type': '患者', 'desc': 'Patient named Luo Jianlei from Jiangsu Province, Chengdu District, Yuelu District'}
+{'value': '26岁', 'type': '年龄', 'desc': 'Age of the patient Luo Jianlei is 26 years old'}
+{'value': '成都市岳麓区', 'type': '地址', 'desc': 'Address of the patient Luo Jianlei in Jiangsu Province, Chengdu District, Yuelu District'}
+{'value': '上呼吸道感染', 'type': '诊断结果', 'desc': 'Diagnosis of upper respiratory tract infection for patient Luo Jianlei'}
+
+关系列表:
+{'head': '张雪伟', 'tail': '12岁', 'desc': "Zhang Xuewei's age is 12 years old", 'power': 9}
+{'head': '张雪伟', 'tail': '浙江省南京市武侯区', 'desc': 'Zhang Xuewei resides at the specified address in Zhejiang Province, Nanjing City, Wuhou District', 'power': 9}
+{'head': '张雪伟', 'tail': '呼吸困难', 'desc': 'Zhang Xuewei exhibits the symptom of dyspnea', 'power': 9}
+{'head': '张雪伟', 'tail': '咽喉炎', 'desc': 'Zhang Xuewei was diagnosed with pharyngitis', 'power': 9}
+{'head': '黄军鹏', 'tail': '42岁', 'desc': "Huang Junpeng's age is 42 years old", 'power': 9}
+{'head': '黄军鹏', 'tail': '上海市青岛市洪山区', 'desc': 'Huang Junpeng resides at the specified address in Shanghai City, Qingdao District, Hongshan District', 'power': 9}
+{'head': '黄军鹏', 'tail': '打喷嚏和流鼻涕', 'desc': 'Huang Junpeng exhibits symptoms of sneezing and runny nose', 'power': 9}
+{'head': '黄军鹏', 'tail': '肺炎', 'desc': 'Huang Junpeng was diagnosed with pneumonia', 'power': 9}
+{'head': '孙国敏', 'tail': '夜间咳嗽严重', 'desc': 'Sun Guomin exhibits the symptom of severe night cough', 'power': 9}
+{'head': '孙国敏', 'tail': '慢性阻塞性肺病', 'desc': 'Sun Guomin was diagnosed with chronic obstructive pulmonary disease', 'power': 9}
+{'head': '罗建磊', 'tail': '26岁', 'desc': "Luo Jianlei's age is 26 years old", 'power': 9}
+{'head': '罗建磊', 'tail': '成都市岳麓区', 'desc': 'Luo Jianlei resides at the specified address in Jiangsu Province, Chengdu District, Yuelu District', 'power': 9}
+{'head': '罗建磊', 'tail': '夜间咳嗽严重', 'desc': 'Luo Jianlei exhibits the symptom of severe night cough', 'power': 9}
+{'head': '罗建磊', 'tail': '上呼吸道感染', 'desc': 'Luo Jianlei was diagnosed with upper respiratory tract infection', 'power': 9}
+{'head': '呼吸困难', 'tail': '夜间咳嗽严重', 'desc': 'Both symptoms are related to respiratory issues', 'power': 7}
+{'head': '慢性阻塞性肺病', 'tail': '上呼吸道感染', 'desc': 'Both diagnoses are related to respiratory diseases', 'power': 8}
+匹配到敏感实例: ('张雪伟',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('黄军鹏',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('孙国敏',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('罗建磊',)，类型: {'患者'}，且实体间有关联
+匹配到敏感实例: ('张雪伟', '12岁')，类型: {'患者', '年龄'}，且实体间有关联
+匹配到敏感实例: ('黄军鹏', '42岁')，类型: {'患者', '年龄'}，且实体间有关联
+匹配到敏感实例: ('罗建磊', '26岁')，类型: {'患者', '年龄'}，且实体间有关联
+匹配到敏感实例: ('张雪伟', '呼吸困难')，类型: {'患者', '症状'}，且实体间有关联
+匹配到敏感实例: ('黄军鹏', '打喷嚏和流鼻涕')，类型: {'患者', '症状'}，且实体间有关联
+匹配到敏感实例: ('孙国敏', '夜间咳嗽严重')，类型: {'患者', '症状'}，且实体间有关联
+匹配到敏感实例: ('夜间咳嗽严重', '罗建磊')，类型: {'患者', '症状'}，且实体间有关联
+匹配到敏感实例: ('张雪伟', '咽喉炎')，类型: {'患者', '诊断结果'}，且实体间有关联
+匹配到敏感实例: ('黄军鹏', '肺炎')，类型: {'患者', '诊断结果'}，且实体间有关联
+匹配到敏感实例: ('孙国敏', '慢性阻塞性肺病')，类型: {'患者', '诊断结果'}，且实体间有关联
+匹配到敏感实例: ('罗建磊', '上呼吸道感染')，类型: {'患者', '诊断结果'}，且实体间有关联
+匹配到敏感实例: ('张雪伟', '浙江省南京市武侯区')，类型: {'患者', '地址'}，且实体间有关联
+匹配到敏感实例: ('黄军鹏', '上海市青岛市洪山区')，类型: {'患者', '地址'}，且实体间有关联
+匹配到敏感实例: ('罗建磊', '成都市岳麓区')，类型: {'患者', '地址'}，且实体间有关联
+
+检测到的敏感实例：
+('张雪伟',)
+('黄军鹏',)
+('孙国敏',)
+('罗建磊',)
+('张雪伟', '12岁')
+('黄军鹏', '42岁')
+('罗建磊', '26岁')
+('张雪伟', '呼吸困难')
+('黄军鹏', '打喷嚏和流鼻涕')
+('孙国敏', '夜间咳嗽严重')
+('夜间咳嗽严重', '罗建磊')
+('张雪伟', '咽喉炎')
+('黄军鹏', '肺炎')
+('孙国敏', '慢性阻塞性肺病')
+('罗建磊', '上呼吸道感染')
+('张雪伟', '浙江省南京市武侯区')
+('黄军鹏', '上海市青岛市洪山区')
+('罗建磊', '成都市岳麓区')

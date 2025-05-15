@@ -1,0 +1,2513 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;2025-01-01&quot;">
+      <data key="d0">"&#26102;&#38388;&#25139;"</data>
+      <data key="d1">"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"</data>
+      <data key="d2">02cc84099946f22489e8198db86636ba,031692db924b45715c5d4e568118e302,07f543132042ede44c8baf78e2b81f05,0b6d305e3bd9dc11d1bfedbb227604e6,0b8d8c4acdd8d7de31ca1dd5421267f4,18a4bb1fee6ca7d10647e83c00368db4,1c0430a47139a9c5b73ad2ddceb5e46c,1ce6f7817799a40be58850ad20e7cde9,1ebd22b6ce164fa76933649fa3ee53ad,24cdde672039935d0b1cd8524f3b6b00,259bd95117db8e750b9dd2e29d92b8b9,27100b75c3645e2cb53f0807b74506eb,2e1526ad169859e7c2cec3425768fdd7,3463ec27fd8fe36eaee36e4715f4f267,39c29354434c3bdc619414541027364c,3a48497bf3dd04a3e5388d0e1755791f,3e9207e16d70d4cef8f5094ab32f2542,4344bf4dc4bb5fb2bfc530df0d694f61,52b9f5971ba8a9bbf13bf6b3fe1da5d0,553c0f770c8ade5fcd817c8ae9470c37,5a17454c1b1506830cc2c4af1fc8a866,5decb9ae60217783f79716d1772276a3,6df9b67d59df60a7d62d622bcbb671f1,733a05f22030e77b99eba8eaeeb7dfb0,75d9a09bcec6cbd612bc5ac3f9b899fa,789fec9d3f2e107d8cf3eab6994d600b,855047272e7704389061658182c2ae7e,8aa7ec2609f53fa4a0e06d378cee0899,92687225d5dc436294cb14f9e3542bce,938f256e4414db114159ebdfa3583d2b,9a31cf24b734bbd60c4e357a833dc454,9e0de751e59346413ac29ead569953b1,a20896b69c3b7f185331895b6dc03274,ae5d1b762162cd1b905bd1c3337609e8,b415a0ebfa769e26a503098e63d676a0,b9bf5b3f4572e830c75529465ccf4662,bba89037d5ea3b1727a6088a991f0ec5,bbff8a02e9dacebee15c4cf37c03e37b,bdb756443a5dd8d5528fd8ebf169695b,c45c630208d8f4989e2df504d66dc981,ca49a2e142570ff7014d70d896852c7d,ccb35a3e8ba03ce89303368caa068b03,d5ad05e620df7be5b882f06ff49e2ef9,e4fcfb88a3b56680feb1767fe2ad91c7,e577efc5338348ac44c2ad83aec29d99,e5a979dfecfd1d90d2aa6f28525ba33d,e878f184b03c5015ccc2d7bdcb94ad62,f7d882119d0eddbd30c4a650bbc1cc65,f809e176a792718a7ddff5d7e8a695db,f90186df84705b94de736cb19e37417c</data>
+    </node>
+    <node id="&quot;&#39532;&#26480;&#40527;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Ma Jiepeng, note that this is private information and should not be disclosed."</data>
+      <data key="d2">b415a0ebfa769e26a503098e63d676a0</data>
+    </node>
+    <node id="&quot;63&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">b415a0ebfa769e26a503098e63d676a0</data>
+    </node>
+    <node id="&quot;&#27743;&#33487;&#30465;&#38738;&#23707;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">b415a0ebfa769e26a503098e63d676a0</data>
+    </node>
+    <node id="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of dyspnea with chest tightness"
+"Symptom of dyspnea with chest tightness"
+"Symptom of dyspnea with chest tightness"
+"Symptom of dyspnea accompanied by chest tightness"</data>
+      <data key="d2">3410721a10ba6303c9a2dc44349ee229,b415a0ebfa769e26a503098e63d676a0,e4fcfb88a3b56680feb1767fe2ad91c7,f809e176a792718a7ddff5d7e8a695db</data>
+    </node>
+    <node id="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of bronchial asthma"
+"Diagnosis of bronchial asthma"
+"Diagnosis of bronchial asthma"
+"Diagnosis of bronchial asthma"
+"Diagnosis of bronchial asthma"
+"Diagnosis of bronchial asthma"
+"Diagnosis of bronchial asthma"</data>
+      <data key="d2">39c29354434c3bdc619414541027364c,553c0f770c8ade5fcd817c8ae9470c37,a20896b69c3b7f185331895b6dc03274,b415a0ebfa769e26a503098e63d676a0,b5b2eec2fc2a670825de2cfe20c06ace,e37bf4290849382426bf0625a405b32c,e5a979dfecfd1d90d2aa6f28525ba33d</data>
+    </node>
+    <node id="&quot;&#26417;&#20339;&#24378;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Zhu Jiaqiang, note that this is private information and should not be disclosed."</data>
+      <data key="d2">a20896b69c3b7f185331895b6dc03274</data>
+    </node>
+    <node id="&quot;76&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">39c29354434c3bdc619414541027364c,a20896b69c3b7f185331895b6dc03274</data>
+    </node>
+    <node id="&quot;&#28246;&#21271;&#30465;&#38271;&#27801;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">a20896b69c3b7f185331895b6dc03274</data>
+    </node>
+    <node id="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of persistent cough for more than a week"
+"Symptom of persistent cough for more than a week"
+"Symptom of persistent cough for more than a week"
+"Symptom of persistent cough for more than a week"
+"Symptom of persistent cough for more than a week"
+"Symptom of persistent cough for more than a week"
+"Symptom of persistent cough for more than a week"
+"Symptom of persistent cough for more than a week"</data>
+      <data key="d2">733a05f22030e77b99eba8eaeeb7dfb0,8aa7ec2609f53fa4a0e06d378cee0899,92687225d5dc436294cb14f9e3542bce,9af37a7d146b4f85fc86076ed0465924,a20896b69c3b7f185331895b6dc03274,b9bf5b3f4572e830c75529465ccf4662,d5ad05e620df7be5b882f06ff49e2ef9,e5a979dfecfd1d90d2aa6f28525ba33d</data>
+    </node>
+    <node id="&quot;&#26446;&#26480;&#21018;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Li Jiegang, note that this is private information and should not be disclosed."</data>
+      <data key="d2">789fec9d3f2e107d8cf3eab6994d600b</data>
+    </node>
+    <node id="&quot;47&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">3a48497bf3dd04a3e5388d0e1755791f,75d9a09bcec6cbd612bc5ac3f9b899fa,789fec9d3f2e107d8cf3eab6994d600b</data>
+    </node>
+    <node id="&quot;&#28246;&#21335;&#30465;&#33487;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">789fec9d3f2e107d8cf3eab6994d600b</data>
+    </node>
+    <node id="&quot;&#33016;&#21475;&#30140;&#30171;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of chest pain"
+"Symptom of chest pain"</data>
+      <data key="d2">18a4bb1fee6ca7d10647e83c00368db4,789fec9d3f2e107d8cf3eab6994d600b</data>
+    </node>
+    <node id="&quot;&#32954;&#28814;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"
+"Diagnosis of pneumonia"</data>
+      <data key="d2">07f543132042ede44c8baf78e2b81f05,1ce6f7817799a40be58850ad20e7cde9,3fedbc98a166fa6daa3c14611419403b,789fec9d3f2e107d8cf3eab6994d600b,7f660773530f15dc868a81722d31d10d,92687225d5dc436294cb14f9e3542bce,9e0de751e59346413ac29ead569953b1,b9bf5b3f4572e830c75529465ccf4662,e37bf4290849382426bf0625a405b32c,ebf5b8b94668027ff5de737b74dfef62,f7d882119d0eddbd30c4a650bbc1cc65</data>
+    </node>
+    <node id="&quot;&#23385;&#20426;&#29618;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Sun Junling, note that this is private information and should not be disclosed."</data>
+      <data key="d2">bba89037d5ea3b1727a6088a991f0ec5</data>
+    </node>
+    <node id="&quot;74&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">bba89037d5ea3b1727a6088a991f0ec5,ca49a2e142570ff7014d70d896852c7d</data>
+    </node>
+    <node id="&quot;&#27993;&#27743;&#30465;&#27494;&#27721;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">bba89037d5ea3b1727a6088a991f0ec5</data>
+    </node>
+    <node id="&quot;&#24178;&#21683;&#19981;&#27490;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of persistent dry cough"
+"Symptom of persistent dry cough"
+"Symptom of persistent dry cough"</data>
+      <data key="d2">259bd95117db8e750b9dd2e29d92b8b9,52b9f5971ba8a9bbf13bf6b3fe1da5d0,bba89037d5ea3b1727a6088a991f0ec5</data>
+    </node>
+    <node id="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"
+"Diagnosis of tuberculosis"</data>
+      <data key="d2">0b6d305e3bd9dc11d1bfedbb227604e6,1ebd22b6ce164fa76933649fa3ee53ad,3410721a10ba6303c9a2dc44349ee229,3e9207e16d70d4cef8f5094ab32f2542,a9cf14694e4aeba562b87ba2d1de30de,bba89037d5ea3b1727a6088a991f0ec5,bbff8a02e9dacebee15c4cf37c03e37b,ccb35a3e8ba03ce89303368caa068b03,e37bf4290849382426bf0625a405b32c,e577efc5338348ac44c2ad83aec29d99</data>
+    </node>
+    <node id="&quot;&#26472;&#24314;&#27915;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Yang Jianyang, note that this is private information and should not be disclosed."</data>
+      <data key="d2">e4fcfb88a3b56680feb1767fe2ad91c7</data>
+    </node>
+    <node id="&quot;81&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">18a4bb1fee6ca7d10647e83c00368db4,e4fcfb88a3b56680feb1767fe2ad91c7</data>
+    </node>
+    <node id="&quot;&#23665;&#19996;&#30465;&#31119;&#24030;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">e4fcfb88a3b56680feb1767fe2ad91c7</data>
+    </node>
+    <node id="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of allergic asthma"
+"Diagnosis of allergic asthma"
+"Diagnosis of allergic asthma"
+"Diagnosis of allergic asthma"
+"Diagnosis of allergic asthma"</data>
+      <data key="d2">02cc84099946f22489e8198db86636ba,24cdde672039935d0b1cd8524f3b6b00,855047272e7704389061658182c2ae7e,9a31cf24b734bbd60c4e357a833dc454,e4fcfb88a3b56680feb1767fe2ad91c7</data>
+    </node>
+    <node id="&quot;2025-05-01&quot;">
+      <data key="d0">"&#26102;&#38388;&#25139;"</data>
+      <data key="d1">"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"
+"The timestamp indicating the date of the medical record"</data>
+      <data key="d2">0ee7adcee1176e68fd478a7a06004869,3410721a10ba6303c9a2dc44349ee229,3fedbc98a166fa6daa3c14611419403b,425aef1babed8b9975fd2735d8608c10,611ad950efefb19ac80dfc19f5db2632,7f660773530f15dc868a81722d31d10d,92f4cac0bf77d85e6c50fd05e6983660,9af37a7d146b4f85fc86076ed0465924,a9cf14694e4aeba562b87ba2d1de30de,b3b788dc51d6d952147c794749864375,b5b2eec2fc2a670825de2cfe20c06ace,ebf5b8b94668027ff5de737b74dfef62,f242d97d74cd96e9039e0d2241f3bd5c</data>
+    </node>
+    <node id="&quot;&#26446;&#22235;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Li Si, note that this is private information and should not be disclosed."
+"Patient named Li Si, note that this is private information and should not be disclosed."
+"Patient named Li Si, note that this is private information and should not be disclosed."
+"Patient named Li Si, note that this is private information and should not be disclosed."
+"Patient named Li Si, note that this is private information and should not be disclosed."
+"Patient named Li Si, whose name is considered private information and should not be mentioned in searches."
+"Patient named Li Si, note that this is private information and should not be disclosed."
+"Patient named Li Si, note that this is private information and should not be disclosed."
+"Patient named Li Si, note that this is private information and should not be disclosed."
+"Patient named Li Si, note that this is private information and should not be disclosed."
+"Patient named Li Si, note that this is private information and should not be disclosed."
+"Patient named Li Si, note that this is private information and should not be disclosed."
+"Patient named Li Si, note that this is private information and should not be disclosed."</data>
+      <data key="d2">0ee7adcee1176e68fd478a7a06004869,3410721a10ba6303c9a2dc44349ee229,3fedbc98a166fa6daa3c14611419403b,425aef1babed8b9975fd2735d8608c10,611ad950efefb19ac80dfc19f5db2632,7f660773530f15dc868a81722d31d10d,92f4cac0bf77d85e6c50fd05e6983660,9af37a7d146b4f85fc86076ed0465924,a9cf14694e4aeba562b87ba2d1de30de,b3b788dc51d6d952147c794749864375,b5b2eec2fc2a670825de2cfe20c06ace,ebf5b8b94668027ff5de737b74dfef62,f242d97d74cd96e9039e0d2241f3bd5c</data>
+    </node>
+    <node id="&quot;50&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">0ee7adcee1176e68fd478a7a06004869,3410721a10ba6303c9a2dc44349ee229,3fedbc98a166fa6daa3c14611419403b,425aef1babed8b9975fd2735d8608c10,611ad950efefb19ac80dfc19f5db2632,7f660773530f15dc868a81722d31d10d,92f4cac0bf77d85e6c50fd05e6983660,9af37a7d146b4f85fc86076ed0465924,a9cf14694e4aeba562b87ba2d1de30de,b3b788dc51d6d952147c794749864375,b5b2eec2fc2a670825de2cfe20c06ace,ebf5b8b94668027ff5de737b74dfef62,f242d97d74cd96e9039e0d2241f3bd5c</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#19978;&#28023;&#24066;&#24191;&#19996;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"
+"Residence address of the patient"</data>
+      <data key="d2">0ee7adcee1176e68fd478a7a06004869,3410721a10ba6303c9a2dc44349ee229,3fedbc98a166fa6daa3c14611419403b,425aef1babed8b9975fd2735d8608c10,611ad950efefb19ac80dfc19f5db2632,7f660773530f15dc868a81722d31d10d,92f4cac0bf77d85e6c50fd05e6983660,9af37a7d146b4f85fc86076ed0465924,a9cf14694e4aeba562b87ba2d1de30de,b3b788dc51d6d952147c794749864375,b5b2eec2fc2a670825de2cfe20c06ace,ebf5b8b94668027ff5de737b74dfef62,f242d97d74cd96e9039e0d2241f3bd5c</data>
+    </node>
+    <node id="&quot;&#24352;&#22269;&#35946;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Zhang Guohao, note that this is private information and should not be disclosed."</data>
+      <data key="d2">8aa7ec2609f53fa4a0e06d378cee0899</data>
+    </node>
+    <node id="&quot;89&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"
+"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">1c0430a47139a9c5b73ad2ddceb5e46c,553c0f770c8ade5fcd817c8ae9470c37,8aa7ec2609f53fa4a0e06d378cee0899,9a31cf24b734bbd60c4e357a833dc454</data>
+    </node>
+    <node id="&quot;&#24191;&#19996;&#30465;&#21414;&#38376;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">8aa7ec2609f53fa4a0e06d378cee0899</data>
+    </node>
+    <node id="&quot;&#21693;&#21897;&#28814;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of pharyngitis"
+"Diagnosis of pharyngitis"
+"Diagnosis of pharyngitis"
+"Diagnosis of pharyngitis"
+"Diagnosis of pharyngitis"
+"Diagnosis of pharyngitis"
+"Diagnosis of pharyngitis"</data>
+      <data key="d2">52b9f5971ba8a9bbf13bf6b3fe1da5d0,5decb9ae60217783f79716d1772276a3,733a05f22030e77b99eba8eaeeb7dfb0,8aa7ec2609f53fa4a0e06d378cee0899,ae5d1b762162cd1b905bd1c3337609e8,bdb756443a5dd8d5528fd8ebf169695b,f809e176a792718a7ddff5d7e8a695db</data>
+    </node>
+    <node id="&quot;&#39640;&#26480;&#23792;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Gao Jiefeng, note that this is private information and should not be disclosed."</data>
+      <data key="d2">e878f184b03c5015ccc2d7bdcb94ad62</data>
+    </node>
+    <node id="&quot;70&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">e878f184b03c5015ccc2d7bdcb94ad62</data>
+    </node>
+    <node id="&quot;&#27993;&#27743;&#30465;&#21335;&#20140;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">e878f184b03c5015ccc2d7bdcb94ad62</data>
+    </node>
+    <node id="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of sneezing and runny nose"
+"Symptoms include sneezing and runny nose"
+"Symptom of sneezing and runny nose"
+"Symptoms include sneezing and runny nose"</data>
+      <data key="d2">0b8d8c4acdd8d7de31ca1dd5421267f4,1ce6f7817799a40be58850ad20e7cde9,e878f184b03c5015ccc2d7bdcb94ad62,ebf5b8b94668027ff5de737b74dfef62</data>
+    </node>
+    <node id="&quot;&#32954;&#27668;&#32959;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of emphysema"
+"Diagnosis of emphysema"
+"Diagnosis of emphysema"
+"Diagnosis of emphysema"
+"Diagnosis of emphysema"</data>
+      <data key="d2">18a4bb1fee6ca7d10647e83c00368db4,259bd95117db8e750b9dd2e29d92b8b9,938f256e4414db114159ebdfa3583d2b,e878f184b03c5015ccc2d7bdcb94ad62,f90186df84705b94de736cb19e37417c</data>
+    </node>
+    <node id="&quot;&#32599;&#24314;&#30922;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Luo Jianlei, note that this is private information and should not be disclosed."</data>
+      <data key="d2">3463ec27fd8fe36eaee36e4715f4f267</data>
+    </node>
+    <node id="&quot;26&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">3463ec27fd8fe36eaee36e4715f4f267</data>
+    </node>
+    <node id="&quot;&#27743;&#33487;&#30465;&#25104;&#37117;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">3463ec27fd8fe36eaee36e4715f4f267</data>
+    </node>
+    <node id="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of severe nighttime coughing"
+"Symptom of severe nighttime coughing"
+"Symptom of severe nighttime coughing"
+"Symptom of severe nighttime coughing"
+"Symptom of severe nighttime coughing"
+"Symptom of severe nocturnal coughing"
+"Symptom of severe nocturnal coughing"</data>
+      <data key="d2">07f543132042ede44c8baf78e2b81f05,3463ec27fd8fe36eaee36e4715f4f267,4344bf4dc4bb5fb2bfc530df0d694f61,553c0f770c8ade5fcd817c8ae9470c37,5a17454c1b1506830cc2c4af1fc8a866,938f256e4414db114159ebdfa3583d2b,b3b788dc51d6d952147c794749864375</data>
+    </node>
+    <node id="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of upper respiratory tract infection"
+"Diagnosis of upper respiratory tract infection"
+"Diagnosis is upper respiratory tract infection."
+"Diagnosis of upper respiratory tract infection"
+"Diagnosis of upper respiratory tract infection"
+"Diagnosis of upper respiratory tract infection"</data>
+      <data key="d2">0b8d8c4acdd8d7de31ca1dd5421267f4,27100b75c3645e2cb53f0807b74506eb,3463ec27fd8fe36eaee36e4715f4f267,3a48497bf3dd04a3e5388d0e1755791f,92f4cac0bf77d85e6c50fd05e6983660,e37bf4290849382426bf0625a405b32c</data>
+    </node>
+    <node id="&quot;&#21016;&#33521;&#29618;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Liu Yingling, note that this is private information and should not be disclosed."</data>
+      <data key="d2">c45c630208d8f4989e2df504d66dc981</data>
+    </node>
+    <node id="&quot;84&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">0b8d8c4acdd8d7de31ca1dd5421267f4,c45c630208d8f4989e2df504d66dc981</data>
+    </node>
+    <node id="&quot;&#22235;&#24029;&#30465;&#21414;&#38376;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">c45c630208d8f4989e2df504d66dc981</data>
+    </node>
+    <node id="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of sore throat with fever"
+"Symptom of sore throat and fever"
+"Symptom of sore throat with fever"
+"Symptom of sore throat and fever"
+"Symptom of sore throat and fever"
+"Symptom of sore throat and fever"
+"Symptom of sore throat with fever"
+"Symptom of sore throat and fever"
+"Symptom of sore throat and fever"
+"Symptom of sore throat with fever"</data>
+      <data key="d2">02cc84099946f22489e8198db86636ba,1c0430a47139a9c5b73ad2ddceb5e46c,39c29354434c3bdc619414541027364c,3a48497bf3dd04a3e5388d0e1755791f,3fedbc98a166fa6daa3c14611419403b,75d9a09bcec6cbd612bc5ac3f9b899fa,9e0de751e59346413ac29ead569953b1,c45c630208d8f4989e2df504d66dc981,e577efc5338348ac44c2ad83aec29d99,f90186df84705b94de736cb19e37417c</data>
+    </node>
+    <node id="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of acute bronchitis"
+"Diagnosis of acute bronchitis"
+"Diagnosis of acute bronchitis"
+"Diagnosis of acute bronchitis"
+"Diagnosis of acute bronchitis"</data>
+      <data key="d2">2e1526ad169859e7c2cec3425768fdd7,4344bf4dc4bb5fb2bfc530df0d694f61,9af37a7d146b4f85fc86076ed0465924,c45c630208d8f4989e2df504d66dc981,e37bf4290849382426bf0625a405b32c</data>
+    </node>
+    <node id="&quot;&#20309;&#23567;&#30922;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named He Xiaolei, note that this is private information and should not be disclosed."</data>
+      <data key="d2">b9bf5b3f4572e830c75529465ccf4662</data>
+    </node>
+    <node id="&quot;73&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">5decb9ae60217783f79716d1772276a3,b9bf5b3f4572e830c75529465ccf4662,e577efc5338348ac44c2ad83aec29d99</data>
+    </node>
+    <node id="&quot;&#27743;&#33487;&#30465;&#27494;&#27721;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">b9bf5b3f4572e830c75529465ccf4662</data>
+    </node>
+    <node id="&quot;&#21016;&#29577;&#38686;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Liu Yuxia, note that this is private information and should not be disclosed."</data>
+      <data key="d2">bbff8a02e9dacebee15c4cf37c03e37b</data>
+    </node>
+    <node id="&quot;77&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">bbff8a02e9dacebee15c4cf37c03e37b</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#26477;&#24030;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">bbff8a02e9dacebee15c4cf37c03e37b</data>
+    </node>
+    <node id="&quot;&#27963;&#21160;&#21518;&#27668;&#20419;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of dyspnea after activity"</data>
+      <data key="d2">bbff8a02e9dacebee15c4cf37c03e37b</data>
+    </node>
+    <node id="&quot;&#26519;&#20029;&#38745;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Lin Lijing, note that this is private information and should not be disclosed."</data>
+      <data key="d2">4344bf4dc4bb5fb2bfc530df0d694f61</data>
+    </node>
+    <node id="&quot;35&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">4344bf4dc4bb5fb2bfc530df0d694f61</data>
+    </node>
+    <node id="&quot;&#24191;&#19996;&#30465;&#26477;&#24030;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">4344bf4dc4bb5fb2bfc530df0d694f61</data>
+    </node>
+    <node id="&quot;&#38472;&#20339;&#25935;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Chen Jiamin, note that this is private information and should not be disclosed."</data>
+      <data key="d2">6df9b67d59df60a7d62d622bcbb671f1</data>
+    </node>
+    <node id="&quot;46&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">6df9b67d59df60a7d62d622bcbb671f1</data>
+    </node>
+    <node id="&quot;&#28246;&#21271;&#30465;&#31119;&#24030;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">6df9b67d59df60a7d62d622bcbb671f1</data>
+    </node>
+    <node id="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"
+"Symptom of dyspnea (difficulty breathing)"</data>
+      <data key="d2">0b6d305e3bd9dc11d1bfedbb227604e6,27100b75c3645e2cb53f0807b74506eb,2e1526ad169859e7c2cec3425768fdd7,3e9207e16d70d4cef8f5094ab32f2542,6df9b67d59df60a7d62d622bcbb671f1,a9cf14694e4aeba562b87ba2d1de30de,b5b2eec2fc2a670825de2cfe20c06ace,bdb756443a5dd8d5528fd8ebf169695b,ccb35a3e8ba03ce89303368caa068b03</data>
+    </node>
+    <node id="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of influenza"
+"Diagnosis of influenza"
+"Diagnosis of influenza"
+"Diagnosis of influenza"
+"Diagnosis of influenza"
+"Diagnosis of influenza"
+"Diagnosis of influenza"
+"Diagnosis of influenza"</data>
+      <data key="d2">0ee7adcee1176e68fd478a7a06004869,1c0430a47139a9c5b73ad2ddceb5e46c,425aef1babed8b9975fd2735d8608c10,6df9b67d59df60a7d62d622bcbb671f1,b3b788dc51d6d952147c794749864375,ca49a2e142570ff7014d70d896852c7d,e37bf4290849382426bf0625a405b32c,f242d97d74cd96e9039e0d2241f3bd5c</data>
+    </node>
+    <node id="&quot;&#40644;&#23159;&#21018;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Huang Tinggang, note that this is sensitive information and should not be disclosed."</data>
+      <data key="d2">02cc84099946f22489e8198db86636ba</data>
+    </node>
+    <node id="&quot;18&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">02cc84099946f22489e8198db86636ba,e5a979dfecfd1d90d2aa6f28525ba33d</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#21335;&#20140;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">02cc84099946f22489e8198db86636ba</data>
+    </node>
+    <node id="&quot;&#20309;&#22269;&#23792;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named He Guofeng, note that this is private information and should not be disclosed."</data>
+      <data key="d2">d5ad05e620df7be5b882f06ff49e2ef9</data>
+    </node>
+    <node id="&quot;17&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">d5ad05e620df7be5b882f06ff49e2ef9</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#38738;&#23707;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">d5ad05e620df7be5b882f06ff49e2ef9</data>
+    </node>
+    <node id="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d0">"&#35786;&#26029;&#32467;&#26524;"</data>
+      <data key="d1">"Diagnosis of chronic obstructive pulmonary disease (COPD)"
+"Diagnosis of chronic obstructive pulmonary disease (COPD)"
+"Diagnosis of chronic obstructive pulmonary disease (COPD)"
+"Diagnosis of chronic obstructive pulmonary disease (COPD)"
+"Diagnosis of chronic obstructive pulmonary disease (COPD)"
+"Diagnosis of chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d2">031692db924b45715c5d4e568118e302,5a17454c1b1506830cc2c4af1fc8a866,611ad950efefb19ac80dfc19f5db2632,75d9a09bcec6cbd612bc5ac3f9b899fa,d5ad05e620df7be5b882f06ff49e2ef9,e37bf4290849382426bf0625a405b32c</data>
+    </node>
+    <node id="&quot;&#26446;&#28009;&#23068;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Li Haona, note that this is private information and should not be disclosed."</data>
+      <data key="d2">031692db924b45715c5d4e568118e302</data>
+    </node>
+    <node id="&quot;43&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">031692db924b45715c5d4e568118e302</data>
+    </node>
+    <node id="&quot;&#28246;&#21335;&#30465;&#26477;&#24030;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">031692db924b45715c5d4e568118e302</data>
+    </node>
+    <node id="&quot;&#25345;&#32493;&#21683;&#30192;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of persistent sputum production"
+"Symptom of persistent sputum production"
+"Symptom of persistent sputum production"
+"Symptom of persistent sputum production"
+"Symptom of persistent sputum production"</data>
+      <data key="d2">031692db924b45715c5d4e568118e302,5decb9ae60217783f79716d1772276a3,7f660773530f15dc868a81722d31d10d,ae5d1b762162cd1b905bd1c3337609e8,ca49a2e142570ff7014d70d896852c7d</data>
+    </node>
+    <node id="&quot;&#20309;&#26480;&#20521;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named He Jieqian, note that this is private information and should not be disclosed."</data>
+      <data key="d2">9a31cf24b734bbd60c4e357a833dc454</data>
+    </node>
+    <node id="&quot;&#27993;&#27743;&#30465;&#31119;&#24030;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">9a31cf24b734bbd60c4e357a833dc454</data>
+    </node>
+    <node id="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of increased morning coughing"
+"Symptom of increased morning coughing"
+"Symptom of increased morning coughing"</data>
+      <data key="d2">24cdde672039935d0b1cd8524f3b6b00,611ad950efefb19ac80dfc19f5db2632,9a31cf24b734bbd60c4e357a833dc454</data>
+    </node>
+    <node id="&quot;&#39640;&#23159;&#30922;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Gao Tinglei, note that this is private information and should not be disclosed."</data>
+      <data key="d2">3a48497bf3dd04a3e5388d0e1755791f</data>
+    </node>
+    <node id="&quot;&#23665;&#19996;&#30465;&#33487;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">3a48497bf3dd04a3e5388d0e1755791f</data>
+    </node>
+    <node id="&quot;&#36213;&#20029;&#19996;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Zhao Liding, note that this is sensitive information and should not be disclosed."</data>
+      <data key="d2">ccb35a3e8ba03ce89303368caa068b03</data>
+    </node>
+    <node id="&quot;28&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">ccb35a3e8ba03ce89303368caa068b03</data>
+    </node>
+    <node id="&quot;&#24191;&#19996;&#30465;&#21335;&#20140;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">ccb35a3e8ba03ce89303368caa068b03</data>
+    </node>
+    <node id="&quot;&#21683;&#34880;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of hemoptysis (coughing up blood)"</data>
+      <data key="d2">425aef1babed8b9975fd2735d8608c10</data>
+    </node>
+    <node id="&quot;&#26446;&#23567;&#29618;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Li Xiaoling, note that this is private information and should not be disclosed."</data>
+      <data key="d2">0b6d305e3bd9dc11d1bfedbb227604e6</data>
+    </node>
+    <node id="&quot;22&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">0b6d305e3bd9dc11d1bfedbb227604e6</data>
+    </node>
+    <node id="&quot;&#22235;&#24029;&#30465;&#21335;&#20140;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">0b6d305e3bd9dc11d1bfedbb227604e6</data>
+    </node>
+    <node id="&quot;&#39640;&#28903;&#21683;&#22013;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptoms include high fever and coughing."
+"Symptoms include high fever and coughing"
+"Symptoms include high fever and coughing"
+"Symptoms include high fever and coughing"</data>
+      <data key="d2">1ebd22b6ce164fa76933649fa3ee53ad,855047272e7704389061658182c2ae7e,92f4cac0bf77d85e6c50fd05e6983660,f7d882119d0eddbd30c4a650bbc1cc65</data>
+    </node>
+    <node id="&quot;&#26519;&#22823;&#38686;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Lin Daxia, note that this is sensitive information and should not be disclosed."</data>
+      <data key="d2">27100b75c3645e2cb53f0807b74506eb</data>
+    </node>
+    <node id="&quot;20&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">27100b75c3645e2cb53f0807b74506eb</data>
+    </node>
+    <node id="&quot;&#28246;&#21271;&#30465;&#38271;&#27801;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">27100b75c3645e2cb53f0807b74506eb</data>
+    </node>
+    <node id="&quot;&#39640;&#22269;&#26976;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Gao Guonan, note that this is private information and should not be disclosed."</data>
+      <data key="d2">92687225d5dc436294cb14f9e3542bce</data>
+    </node>
+    <node id="&quot;27&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">92687225d5dc436294cb14f9e3542bce</data>
+    </node>
+    <node id="&quot;&#24191;&#19996;&#30465;&#38271;&#27801;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">92687225d5dc436294cb14f9e3542bce</data>
+    </node>
+    <node id="&quot;&#26446;&#20339;&#20521;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Li Jiaqian, note that this is private information and should not be disclosed."</data>
+      <data key="d2">855047272e7704389061658182c2ae7e</data>
+    </node>
+    <node id="&quot;61&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">855047272e7704389061658182c2ae7e</data>
+    </node>
+    <node id="&quot;&#24191;&#19996;&#30465;&#26477;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">855047272e7704389061658182c2ae7e</data>
+    </node>
+    <node id="&quot;&#24464;&#20013;&#23792;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Xu Zhongfeng, note that this is private information and should not be disclosed."</data>
+      <data key="d2">259bd95117db8e750b9dd2e29d92b8b9</data>
+    </node>
+    <node id="&quot;83&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">259bd95117db8e750b9dd2e29d92b8b9</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#21335;&#20140;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">259bd95117db8e750b9dd2e29d92b8b9</data>
+    </node>
+    <node id="&quot;&#37101;&#20339;&#23792;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Guo Jiafeng, note that this is private information and should not be disclosed."</data>
+      <data key="d2">553c0f770c8ade5fcd817c8ae9470c37</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#21414;&#38376;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">553c0f770c8ade5fcd817c8ae9470c37</data>
+    </node>
+    <node id="&quot;&#21608;&#24535;&#27915;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Zhou Zhiyang, note that this is private information and should not be disclosed."</data>
+      <data key="d2">07f543132042ede44c8baf78e2b81f05</data>
+    </node>
+    <node id="&quot;41&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">07f543132042ede44c8baf78e2b81f05</data>
+    </node>
+    <node id="&quot;&#23665;&#19996;&#30465;&#26477;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">07f543132042ede44c8baf78e2b81f05</data>
+    </node>
+    <node id="&quot;&#36213;&#22823;&#29618;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Zhao Daling, note that this is sensitive information and should not be disclosed."</data>
+      <data key="d2">0b8d8c4acdd8d7de31ca1dd5421267f4</data>
+    </node>
+    <node id="&quot;&#23665;&#19996;&#30465;&#24191;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"
+"Residence address of the patient"</data>
+      <data key="d2">0b8d8c4acdd8d7de31ca1dd5421267f4,3e9207e16d70d4cef8f5094ab32f2542</data>
+    </node>
+    <node id="&quot;&#23385;&#30922;&#32724;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Sun Leixiang, note that this is private information and should not be disclosed."</data>
+      <data key="d2">75d9a09bcec6cbd612bc5ac3f9b899fa</data>
+    </node>
+    <node id="&quot;&#27993;&#27743;&#30465;&#33487;&#24030;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">75d9a09bcec6cbd612bc5ac3f9b899fa</data>
+    </node>
+    <node id="&quot;&#26519;&#29577;&#21018;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Lin Yugang, note that this is private information and should not be disclosed."</data>
+      <data key="d2">f809e176a792718a7ddff5d7e8a695db</data>
+    </node>
+    <node id="&quot;82&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">f809e176a792718a7ddff5d7e8a695db</data>
+    </node>
+    <node id="&quot;&#31119;&#24314;&#30465;&#24191;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">f809e176a792718a7ddff5d7e8a695db</data>
+    </node>
+    <node id="&quot;&#24352;&#25991;&#23792;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Zhang Wenfeng, note that this is private information and should not be disclosed."</data>
+      <data key="d2">938f256e4414db114159ebdfa3583d2b</data>
+    </node>
+    <node id="&quot;36&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">938f256e4414db114159ebdfa3583d2b</data>
+    </node>
+    <node id="&quot;&#27993;&#27743;&#30465;&#21335;&#20140;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">938f256e4414db114159ebdfa3583d2b</data>
+    </node>
+    <node id="&quot;&#23385;&#22269;&#25935;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Sun Guomin, note that this is private information and should not be disclosed."</data>
+      <data key="d2">5a17454c1b1506830cc2c4af1fc8a866</data>
+    </node>
+    <node id="&quot;64&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">5a17454c1b1506830cc2c4af1fc8a866</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#31119;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">5a17454c1b1506830cc2c4af1fc8a866</data>
+    </node>
+    <node id="&quot;&#21556;&#24535;&#21018;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Wu Zhigang, note that this is private information and should not be disclosed."</data>
+      <data key="d2">1ebd22b6ce164fa76933649fa3ee53ad</data>
+    </node>
+    <node id="&quot;88&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">1ebd22b6ce164fa76933649fa3ee53ad,52b9f5971ba8a9bbf13bf6b3fe1da5d0</data>
+    </node>
+    <node id="&quot;&#31119;&#24314;&#30465;&#31119;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">1ebd22b6ce164fa76933649fa3ee53ad</data>
+    </node>
+    <node id="&quot;&#20309;&#26480;&#29618;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named He Jieling, note that this is private information and should not be disclosed."</data>
+      <data key="d2">24cdde672039935d0b1cd8524f3b6b00</data>
+    </node>
+    <node id="&quot;55&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">24cdde672039935d0b1cd8524f3b6b00</data>
+    </node>
+    <node id="&quot;&#24191;&#19996;&#30465;&#38271;&#27801;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">24cdde672039935d0b1cd8524f3b6b00</data>
+    </node>
+    <node id="&quot;&#39640;&#20013;&#27915;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Gao Zhongyang, note that this is private information and should not be disclosed."</data>
+      <data key="d2">f7d882119d0eddbd30c4a650bbc1cc65</data>
+    </node>
+    <node id="&quot;34&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">f7d882119d0eddbd30c4a650bbc1cc65</data>
+    </node>
+    <node id="&quot;&#23665;&#19996;&#30465;&#21414;&#38376;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">f7d882119d0eddbd30c4a650bbc1cc65</data>
+    </node>
+    <node id="&quot;&#21683;&#30192;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of expectoration (coughing up phlegm)"</data>
+      <data key="d2">f242d97d74cd96e9039e0d2241f3bd5c</data>
+    </node>
+    <node id="&quot;&#21683;&#22013;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of coughing"</data>
+      <data key="d2">0ee7adcee1176e68fd478a7a06004869</data>
+    </node>
+    <node id="&quot;&#26417;&#26480;&#40527;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Zhu Jiepeng, note that this is private information and should not be disclosed."</data>
+      <data key="d2">5decb9ae60217783f79716d1772276a3</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&#24066;&#26477;&#24030;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">5decb9ae60217783f79716d1772276a3</data>
+    </node>
+    <node id="&quot;&#40644;&#20891;&#35946;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Huang Junhao, note that this is private information and should not be disclosed."</data>
+      <data key="d2">ae5d1b762162cd1b905bd1c3337609e8</data>
+    </node>
+    <node id="&quot;60&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">ae5d1b762162cd1b905bd1c3337609e8</data>
+    </node>
+    <node id="&quot;&#22235;&#24029;&#30465;&#33487;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">ae5d1b762162cd1b905bd1c3337609e8</data>
+    </node>
+    <node id="&quot;&#24464;&#25991;&#29747;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Xu Wenlin, note that this is private information and should not be disclosed."</data>
+      <data key="d2">733a05f22030e77b99eba8eaeeb7dfb0</data>
+    </node>
+    <node id="&quot;69&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">733a05f22030e77b99eba8eaeeb7dfb0</data>
+    </node>
+    <node id="&quot;&#22235;&#24029;&#30465;&#27494;&#27721;&#24066;&#22993;&#33487;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">733a05f22030e77b99eba8eaeeb7dfb0</data>
+    </node>
+    <node id="&quot;&#37101;&#24535;&#38686;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Guo Zhi Xia, note that this is private information and should not be disclosed."</data>
+      <data key="d2">18a4bb1fee6ca7d10647e83c00368db4</data>
+    </node>
+    <node id="&quot;&#23665;&#19996;&#30465;&#38738;&#23707;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">18a4bb1fee6ca7d10647e83c00368db4</data>
+    </node>
+    <node id="&quot;&#24464;&#26480;&#38686;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Xu Jiaxia, note that this is private information and should not be disclosed."</data>
+      <data key="d2">1c0430a47139a9c5b73ad2ddceb5e46c</data>
+    </node>
+    <node id="&quot;&#19978;&#28023;&#24066;&#26477;&#24030;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">1c0430a47139a9c5b73ad2ddceb5e46c</data>
+    </node>
+    <node id="&quot;&#39532;&#20891;&#20521;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Ma Junqian, note that this is sensitive information and should not be disclosed."</data>
+      <data key="d2">3e9207e16d70d4cef8f5094ab32f2542</data>
+    </node>
+    <node id="&quot;86&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">3e9207e16d70d4cef8f5094ab32f2542</data>
+    </node>
+    <node id="&quot;&#21608;&#28009;&#27915;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Zhou Haoyang, note that this is private information and should not be disclosed."</data>
+      <data key="d2">39c29354434c3bdc619414541027364c</data>
+    </node>
+    <node id="&quot;&#28246;&#21335;&#30465;&#38271;&#27801;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">39c29354434c3bdc619414541027364c</data>
+    </node>
+    <node id="&quot;&#39532;&#38634;&#20255;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Ma Xuewei, note that this is private information and should not be disclosed."</data>
+      <data key="d2">2e1526ad169859e7c2cec3425768fdd7</data>
+    </node>
+    <node id="&quot;12&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"
+"Age of the patient"</data>
+      <data key="d2">2e1526ad169859e7c2cec3425768fdd7,bdb756443a5dd8d5528fd8ebf169695b</data>
+    </node>
+    <node id="&quot;&#22235;&#24029;&#30465;&#24191;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">2e1526ad169859e7c2cec3425768fdd7</data>
+    </node>
+    <node id="&quot;&#24352;&#38634;&#20255;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Zhang Xuewei, note that this is private information and should not be disclosed."</data>
+      <data key="d2">bdb756443a5dd8d5528fd8ebf169695b</data>
+    </node>
+    <node id="&quot;&#27993;&#27743;&#30465;&#21414;&#38376;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">bdb756443a5dd8d5528fd8ebf169695b</data>
+    </node>
+    <node id="&quot;&#21016;&#20426;&#23431;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Liu Junyu, note that this is private information and should not be disclosed."</data>
+      <data key="d2">ca49a2e142570ff7014d70d896852c7d</data>
+    </node>
+    <node id="&quot;&#28246;&#21271;&#30465;&#26477;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">ca49a2e142570ff7014d70d896852c7d</data>
+    </node>
+    <node id="&quot;&#40644;&#20891;&#40527;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Huang Junpeng, note that this is private information and should not be disclosed."</data>
+      <data key="d2">1ce6f7817799a40be58850ad20e7cde9</data>
+    </node>
+    <node id="&quot;42&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">1ce6f7817799a40be58850ad20e7cde9</data>
+    </node>
+    <node id="&quot;&#19978;&#28023;&#24066;&#38738;&#23707;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">1ce6f7817799a40be58850ad20e7cde9</data>
+    </node>
+    <node id="&quot;&#32993;&#33521;&#26976;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Hu Yingnan, note that this is private information and should not be disclosed."</data>
+      <data key="d2">f90186df84705b94de736cb19e37417c</data>
+    </node>
+    <node id="&quot;25&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">f90186df84705b94de736cb19e37417c</data>
+    </node>
+    <node id="&quot;&#23665;&#19996;&#30465;&#24191;&#24030;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">f90186df84705b94de736cb19e37417c</data>
+    </node>
+    <node id="&quot;&#21560;&#22256;&#38590;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of difficulty breathing"</data>
+      <data key="d2">e37bf4290849382426bf0625a405b32c</data>
+    </node>
+    <node id="&quot;&#27668;&#21912;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of wheezing"</data>
+      <data key="d2">e37bf4290849382426bf0625a405b32c</data>
+    </node>
+    <node id="&quot;&#33016;&#38391;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of chest tightness"</data>
+      <data key="d2">e37bf4290849382426bf0625a405b32c</data>
+    </node>
+    <node id="&quot;&#33016;&#30171;&quot;">
+      <data key="d0">"&#30151;&#29366;"</data>
+      <data key="d1">"Symptom of chest pain"</data>
+      <data key="d2">e37bf4290849382426bf0625a405b32c</data>
+    </node>
+    <node id="&quot;&#39640;&#22823;&#32724;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Gao Daxiang, note that this is private information and should not be disclosed."</data>
+      <data key="d2">e5a979dfecfd1d90d2aa6f28525ba33d</data>
+    </node>
+    <node id="&quot;&#27993;&#27743;&#30465;&#24191;&#24030;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">e5a979dfecfd1d90d2aa6f28525ba33d</data>
+    </node>
+    <node id="&quot;&#32993;&#26480;&#29618;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Hu Jieling, note that this is private information and should not be disclosed."</data>
+      <data key="d2">52b9f5971ba8a9bbf13bf6b3fe1da5d0</data>
+    </node>
+    <node id="&quot;&#28246;&#21271;&#30465;&#26477;&#24030;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">52b9f5971ba8a9bbf13bf6b3fe1da5d0</data>
+    </node>
+    <node id="&quot;37&quot;">
+      <data key="d0">"&#24180;&#40836;"</data>
+      <data key="d1">"Age of the patient"</data>
+      <data key="d2">9e0de751e59346413ac29ead569953b1</data>
+    </node>
+    <node id="&quot;&#27743;&#33487;&#30465;&#38738;&#23707;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">9e0de751e59346413ac29ead569953b1</data>
+    </node>
+    <node id="&quot;&#26472;&#20029;&#32724;&quot;">
+      <data key="d0">"&#24739;&#32773;"</data>
+      <data key="d1">"Patient named Yang Lixiang, note that this is private information and should not be disclosed."</data>
+      <data key="d2">e577efc5338348ac44c2ad83aec29d99</data>
+    </node>
+    <node id="&quot;&#19978;&#28023;&#24066;&#33487;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d0">"&#22320;&#22336;"</data>
+      <data key="d1">"Residence address of the patient"</data>
+      <data key="d2">e577efc5338348ac44c2ad83aec29d99</data>
+    </node>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#39532;&#26480;&#40527;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">b415a0ebfa769e26a503098e63d676a0</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#26417;&#20339;&#24378;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient Zhu Jiaqiang was created on this date"</data>
+      <data key="d5">a20896b69c3b7f185331895b6dc03274</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#26446;&#26480;&#21018;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for patient Li Jiegang was created on this date"</data>
+      <data key="d5">789fec9d3f2e107d8cf3eab6994d600b</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#23385;&#20426;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">bba89037d5ea3b1727a6088a991f0ec5</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#26472;&#24314;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for Yang Jianyang was created on this date"</data>
+      <data key="d5">e4fcfb88a3b56680feb1767fe2ad91c7</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#24352;&#22269;&#35946;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for Zhang Guohao was created on this date."</data>
+      <data key="d5">8aa7ec2609f53fa4a0e06d378cee0899</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#39640;&#26480;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">e878f184b03c5015ccc2d7bdcb94ad62</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#32599;&#24314;&#30922;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">3463ec27fd8fe36eaee36e4715f4f267</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#21016;&#33521;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for Liu Yingling was created on this date"</data>
+      <data key="d5">c45c630208d8f4989e2df504d66dc981</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#20309;&#23567;&#30922;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">b9bf5b3f4572e830c75529465ccf4662</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#21016;&#29577;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">bbff8a02e9dacebee15c4cf37c03e37b</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#26519;&#20029;&#38745;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">4344bf4dc4bb5fb2bfc530df0d694f61</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#38472;&#20339;&#25935;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">6df9b67d59df60a7d62d622bcbb671f1</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#40644;&#23159;&#21018;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient Huang Tinggang was created on this date"</data>
+      <data key="d5">02cc84099946f22489e8198db86636ba</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#20309;&#22269;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">d5ad05e620df7be5b882f06ff49e2ef9</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#26446;&#28009;&#23068;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for Li Haona was created on this date"</data>
+      <data key="d5">031692db924b45715c5d4e568118e302</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#20309;&#26480;&#20521;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">9a31cf24b734bbd60c4e357a833dc454</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#39640;&#23159;&#30922;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">3a48497bf3dd04a3e5388d0e1755791f</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#36213;&#20029;&#19996;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient Zhao Liding was created on this date"</data>
+      <data key="d5">ccb35a3e8ba03ce89303368caa068b03</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#26446;&#23567;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for Li Xiaoling was created on this date"</data>
+      <data key="d5">0b6d305e3bd9dc11d1bfedbb227604e6</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#26519;&#22823;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date, note that this relationship involves sensitive information."</data>
+      <data key="d5">27100b75c3645e2cb53f0807b74506eb</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#39640;&#22269;&#26976;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">92687225d5dc436294cb14f9e3542bce</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#26446;&#20339;&#20521;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">855047272e7704389061658182c2ae7e</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#24464;&#20013;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">259bd95117db8e750b9dd2e29d92b8b9</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#37101;&#20339;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">553c0f770c8ade5fcd817c8ae9470c37</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#21608;&#24535;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">07f543132042ede44c8baf78e2b81f05</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#36213;&#22823;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for Zhao Daling was created on this date"</data>
+      <data key="d5">0b8d8c4acdd8d7de31ca1dd5421267f4</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#23385;&#30922;&#32724;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">75d9a09bcec6cbd612bc5ac3f9b899fa</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#26519;&#29577;&#21018;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">f809e176a792718a7ddff5d7e8a695db</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#24352;&#25991;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for Zhang Wenfeng was created on this date"</data>
+      <data key="d5">938f256e4414db114159ebdfa3583d2b</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#23385;&#22269;&#25935;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">5a17454c1b1506830cc2c4af1fc8a866</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#21556;&#24535;&#21018;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for Wu Zhigang was created on this date, note that this information should not be disclosed."</data>
+      <data key="d5">1ebd22b6ce164fa76933649fa3ee53ad</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#20309;&#26480;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">24cdde672039935d0b1cd8524f3b6b00</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#39640;&#20013;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">f7d882119d0eddbd30c4a650bbc1cc65</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#26417;&#26480;&#40527;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient Zhu Jiepeng was created on this date"</data>
+      <data key="d5">5decb9ae60217783f79716d1772276a3</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#40644;&#20891;&#35946;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">ae5d1b762162cd1b905bd1c3337609e8</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#24464;&#25991;&#29747;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">733a05f22030e77b99eba8eaeeb7dfb0</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#37101;&#24535;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">18a4bb1fee6ca7d10647e83c00368db4</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#24464;&#26480;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">1c0430a47139a9c5b73ad2ddceb5e46c</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#39532;&#20891;&#20521;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">3e9207e16d70d4cef8f5094ab32f2542</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#21608;&#28009;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for Zhou Haoyang was created on this date"</data>
+      <data key="d5">39c29354434c3bdc619414541027364c</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#39532;&#38634;&#20255;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">2e1526ad169859e7c2cec3425768fdd7</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#24352;&#38634;&#20255;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">bdb756443a5dd8d5528fd8ebf169695b</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#21016;&#20426;&#23431;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date, note that this information should not be disclosed."</data>
+      <data key="d5">ca49a2e142570ff7014d70d896852c7d</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#40644;&#20891;&#40527;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">1ce6f7817799a40be58850ad20e7cde9</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#32993;&#33521;&#26976;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for Hu Yingnan was created on this date"</data>
+      <data key="d5">f90186df84705b94de736cb19e37417c</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#39640;&#22823;&#32724;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">e5a979dfecfd1d90d2aa6f28525ba33d</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#32993;&#26480;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">52b9f5971ba8a9bbf13bf6b3fe1da5d0</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;37&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record was created on this date for the patient aged 37"</data>
+      <data key="d5">9e0de751e59346413ac29ead569953b1</data>
+    </edge>
+    <edge source="&quot;2025-01-01&quot;" target="&quot;&#26472;&#20029;&#32724;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The medical record for the patient was created on this date"</data>
+      <data key="d5">e577efc5338348ac44c2ad83aec29d99</data>
+    </edge>
+    <edge source="&quot;&#39532;&#26480;&#40527;&quot;" target="&quot;63&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 63"</data>
+      <data key="d5">b415a0ebfa769e26a503098e63d676a0</data>
+    </edge>
+    <edge source="&quot;&#39532;&#26480;&#40527;&quot;" target="&quot;&#27743;&#33487;&#30465;&#38738;&#23707;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">b415a0ebfa769e26a503098e63d676a0</data>
+    </edge>
+    <edge source="&quot;&#39532;&#26480;&#40527;&quot;" target="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of dyspnea with chest tightness"</data>
+      <data key="d5">b415a0ebfa769e26a503098e63d676a0</data>
+    </edge>
+    <edge source="&quot;&#39532;&#26480;&#40527;&quot;" target="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with bronchial asthma"</data>
+      <data key="d5">b415a0ebfa769e26a503098e63d676a0</data>
+    </edge>
+    <edge source="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;" target="&quot;&#26472;&#24314;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Yang Jianyang exhibits the symptom of dyspnea with chest tightness"</data>
+      <data key="d5">e4fcfb88a3b56680feb1767fe2ad91c7</data>
+    </edge>
+    <edge source="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;" target="&quot;&#26446;&#22235;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Si exhibits the symptom of dyspnea with chest tightness"</data>
+      <data key="d5">3410721a10ba6303c9a2dc44349ee229</data>
+    </edge>
+    <edge source="&quot;&#27668;&#21912;&#20276;&#38543;&#33016;&#38391;&quot;" target="&quot;&#26519;&#29577;&#21018;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of dyspnea accompanied by chest tightness"</data>
+      <data key="d5">f809e176a792718a7ddff5d7e8a695db</data>
+    </edge>
+    <edge source="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;" target="&quot;&#26417;&#20339;&#24378;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhu Jiaqiang was diagnosed with bronchial asthma"</data>
+      <data key="d5">a20896b69c3b7f185331895b6dc03274</data>
+    </edge>
+    <edge source="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;" target="&quot;&#37101;&#20339;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with bronchial asthma"</data>
+      <data key="d5">553c0f770c8ade5fcd817c8ae9470c37</data>
+    </edge>
+    <edge source="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;" target="&quot;&#26446;&#22235;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Si was diagnosed with bronchial asthma"</data>
+      <data key="d5">b5b2eec2fc2a670825de2cfe20c06ace</data>
+    </edge>
+    <edge source="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;" target="&quot;&#21608;&#28009;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zhou Haoyang was diagnosed with bronchial asthma"</data>
+      <data key="d5">39c29354434c3bdc619414541027364c</data>
+    </edge>
+    <edge source="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;" target="&quot;&#27668;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wheezing is often associated with bronchial asthma"</data>
+      <data key="d5">e37bf4290849382426bf0625a405b32c</data>
+    </edge>
+    <edge source="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;" target="&quot;&#39640;&#22823;&#32724;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with bronchial asthma"</data>
+      <data key="d5">e5a979dfecfd1d90d2aa6f28525ba33d</data>
+    </edge>
+    <edge source="&quot;&#26417;&#20339;&#24378;&quot;" target="&quot;76&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhu Jiaqiang's age is 76"</data>
+      <data key="d5">a20896b69c3b7f185331895b6dc03274</data>
+    </edge>
+    <edge source="&quot;&#26417;&#20339;&#24378;&quot;" target="&quot;&#28246;&#21271;&#30465;&#38271;&#27801;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhu Jiaqiang resides at the specified address"</data>
+      <data key="d5">a20896b69c3b7f185331895b6dc03274</data>
+    </edge>
+    <edge source="&quot;&#26417;&#20339;&#24378;&quot;" target="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhu Jiaqiang exhibits the symptom of persistent cough for more than a week"</data>
+      <data key="d5">a20896b69c3b7f185331895b6dc03274</data>
+    </edge>
+    <edge source="&quot;76&quot;" target="&quot;&#21608;&#28009;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhou Haoyang's age is 76"</data>
+      <data key="d5">39c29354434c3bdc619414541027364c</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#24352;&#22269;&#35946;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhang Guohao exhibits the symptom of persistent cough for more than a week."</data>
+      <data key="d5">8aa7ec2609f53fa4a0e06d378cee0899</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#20309;&#23567;&#30922;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of persistent cough for more than a week"</data>
+      <data key="d5">b9bf5b3f4572e830c75529465ccf4662</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#20309;&#22269;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of persistent cough for more than a week"</data>
+      <data key="d5">d5ad05e620df7be5b882f06ff49e2ef9</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#39640;&#22269;&#26976;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of persistent cough for more than a week"</data>
+      <data key="d5">92687225d5dc436294cb14f9e3542bce</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#24464;&#25991;&#29747;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of persistent cough for more than a week"</data>
+      <data key="d5">733a05f22030e77b99eba8eaeeb7dfb0</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#39640;&#22823;&#32724;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of persistent cough for more than a week"</data>
+      <data key="d5">e5a979dfecfd1d90d2aa6f28525ba33d</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#26446;&#22235;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Si exhibits the symptom of persistent cough for more than a week"</data>
+      <data key="d5">9af37a7d146b4f85fc86076ed0465924</data>
+    </edge>
+    <edge source="&quot;&#26446;&#26480;&#21018;&quot;" target="&quot;47&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The age of the patient Li Jiegang is 47"</data>
+      <data key="d5">789fec9d3f2e107d8cf3eab6994d600b</data>
+    </edge>
+    <edge source="&quot;&#26446;&#26480;&#21018;&quot;" target="&quot;&#28246;&#21335;&#30465;&#33487;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Jiegang resides at the specified address"</data>
+      <data key="d5">789fec9d3f2e107d8cf3eab6994d600b</data>
+    </edge>
+    <edge source="&quot;&#26446;&#26480;&#21018;&quot;" target="&quot;&#33016;&#21475;&#30140;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Li Jiegang exhibits the symptom of chest pain"</data>
+      <data key="d5">789fec9d3f2e107d8cf3eab6994d600b</data>
+    </edge>
+    <edge source="&quot;&#26446;&#26480;&#21018;&quot;" target="&quot;&#32954;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Jiegang was diagnosed with pneumonia"</data>
+      <data key="d5">789fec9d3f2e107d8cf3eab6994d600b</data>
+    </edge>
+    <edge source="&quot;47&quot;" target="&quot;&#39640;&#23159;&#30922;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 47"</data>
+      <data key="d5">3a48497bf3dd04a3e5388d0e1755791f</data>
+    </edge>
+    <edge source="&quot;47&quot;" target="&quot;&#23385;&#30922;&#32724;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 47"</data>
+      <data key="d5">75d9a09bcec6cbd612bc5ac3f9b899fa</data>
+    </edge>
+    <edge source="&quot;&#33016;&#21475;&#30140;&#30171;&quot;" target="&quot;&#37101;&#24535;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of chest pain"</data>
+      <data key="d5">18a4bb1fee6ca7d10647e83c00368db4</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#20309;&#23567;&#30922;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with pneumonia"</data>
+      <data key="d5">b9bf5b3f4572e830c75529465ccf4662</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#26446;&#22235;&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">"Li Si was diagnosed with pneumonia"
+"Li Si was diagnosed with pneumonia"
+"Li Si was diagnosed with pneumonia"</data>
+      <data key="d5">3fedbc98a166fa6daa3c14611419403b,7f660773530f15dc868a81722d31d10d,ebf5b8b94668027ff5de737b74dfef62</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#39640;&#22269;&#26976;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with pneumonia"</data>
+      <data key="d5">92687225d5dc436294cb14f9e3542bce</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#21608;&#24535;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with pneumonia"</data>
+      <data key="d5">07f543132042ede44c8baf78e2b81f05</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#39640;&#20013;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with pneumonia"</data>
+      <data key="d5">f7d882119d0eddbd30c4a650bbc1cc65</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#40644;&#20891;&#40527;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with pneumonia"</data>
+      <data key="d5">1ce6f7817799a40be58850ad20e7cde9</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#21560;&#22256;&#38590;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Difficulty breathing can be a symptom of pneumonia"</data>
+      <data key="d5">e37bf4290849382426bf0625a405b32c</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#33016;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest pain can be associated with pneumonia"</data>
+      <data key="d5">e37bf4290849382426bf0625a405b32c</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sore throat and fever are symptoms leading to a diagnosis of pneumonia"</data>
+      <data key="d5">9e0de751e59346413ac29ead569953b1</data>
+    </edge>
+    <edge source="&quot;&#23385;&#20426;&#29618;&quot;" target="&quot;74&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 74"</data>
+      <data key="d5">bba89037d5ea3b1727a6088a991f0ec5</data>
+    </edge>
+    <edge source="&quot;&#23385;&#20426;&#29618;&quot;" target="&quot;&#27993;&#27743;&#30465;&#27494;&#27721;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">bba89037d5ea3b1727a6088a991f0ec5</data>
+    </edge>
+    <edge source="&quot;&#23385;&#20426;&#29618;&quot;" target="&quot;&#24178;&#21683;&#19981;&#27490;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of persistent dry cough"</data>
+      <data key="d5">bba89037d5ea3b1727a6088a991f0ec5</data>
+    </edge>
+    <edge source="&quot;&#23385;&#20426;&#29618;&quot;" target="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with tuberculosis"</data>
+      <data key="d5">bba89037d5ea3b1727a6088a991f0ec5</data>
+    </edge>
+    <edge source="&quot;74&quot;" target="&quot;&#21016;&#20426;&#23431;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 74, note that this information should not be disclosed."</data>
+      <data key="d5">ca49a2e142570ff7014d70d896852c7d</data>
+    </edge>
+    <edge source="&quot;&#24178;&#21683;&#19981;&#27490;&quot;" target="&quot;&#24464;&#20013;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of persistent dry cough"</data>
+      <data key="d5">259bd95117db8e750b9dd2e29d92b8b9</data>
+    </edge>
+    <edge source="&quot;&#24178;&#21683;&#19981;&#27490;&quot;" target="&quot;&#32993;&#26480;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of persistent dry cough"</data>
+      <data key="d5">52b9f5971ba8a9bbf13bf6b3fe1da5d0</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#26446;&#22235;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Li Si was diagnosed with tuberculosis"
+"Li Si was diagnosed with tuberculosis"</data>
+      <data key="d5">3410721a10ba6303c9a2dc44349ee229,a9cf14694e4aeba562b87ba2d1de30de</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#21016;&#29577;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with tuberculosis"</data>
+      <data key="d5">bbff8a02e9dacebee15c4cf37c03e37b</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#36213;&#20029;&#19996;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with tuberculosis"</data>
+      <data key="d5">ccb35a3e8ba03ce89303368caa068b03</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#26446;&#23567;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Xiaoling was diagnosed with tuberculosis"</data>
+      <data key="d5">0b6d305e3bd9dc11d1bfedbb227604e6</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#21556;&#24535;&#21018;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wu Zhigang was diagnosed with tuberculosis, note that this information should not be disclosed."</data>
+      <data key="d5">1ebd22b6ce164fa76933649fa3ee53ad</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#39532;&#20891;&#20521;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with tuberculosis"</data>
+      <data key="d5">3e9207e16d70d4cef8f5094ab32f2542</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#27668;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wheezing is a symptom that can occur in tuberculosis"</data>
+      <data key="d5">e37bf4290849382426bf0625a405b32c</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#26472;&#20029;&#32724;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with tuberculosis"</data>
+      <data key="d5">e577efc5338348ac44c2ad83aec29d99</data>
+    </edge>
+    <edge source="&quot;&#26472;&#24314;&#27915;&quot;" target="&quot;81&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Yang Jianyang's age is 81"</data>
+      <data key="d5">e4fcfb88a3b56680feb1767fe2ad91c7</data>
+    </edge>
+    <edge source="&quot;&#26472;&#24314;&#27915;&quot;" target="&quot;&#23665;&#19996;&#30465;&#31119;&#24030;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Yang Jianyang resides at the specified address"</data>
+      <data key="d5">e4fcfb88a3b56680feb1767fe2ad91c7</data>
+    </edge>
+    <edge source="&quot;&#26472;&#24314;&#27915;&quot;" target="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Yang Jianyang was diagnosed with allergic asthma"</data>
+      <data key="d5">e4fcfb88a3b56680feb1767fe2ad91c7</data>
+    </edge>
+    <edge source="&quot;81&quot;" target="&quot;&#37101;&#24535;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 81"</data>
+      <data key="d5">18a4bb1fee6ca7d10647e83c00368db4</data>
+    </edge>
+    <edge source="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;" target="&quot;&#40644;&#23159;&#21018;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Huang Tinggang was diagnosed with allergic asthma"</data>
+      <data key="d5">02cc84099946f22489e8198db86636ba</data>
+    </edge>
+    <edge source="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;" target="&quot;&#20309;&#26480;&#20521;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with allergic asthma"</data>
+      <data key="d5">9a31cf24b734bbd60c4e357a833dc454</data>
+    </edge>
+    <edge source="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;" target="&quot;&#26446;&#20339;&#20521;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with allergic asthma"</data>
+      <data key="d5">855047272e7704389061658182c2ae7e</data>
+    </edge>
+    <edge source="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;" target="&quot;&#20309;&#26480;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with allergic asthma"</data>
+      <data key="d5">24cdde672039935d0b1cd8524f3b6b00</data>
+    </edge>
+    <edge source="&quot;2025-05-01&quot;" target="&quot;&#26446;&#22235;&quot;">
+      <data key="d3">13.0</data>
+      <data key="d4">"The medical record for Li Si was created on this date"
+"The medical record for Li Si was created on this date"
+"The medical record was created on this date for the patient, but the name 'Li Si' should not be disclosed."
+"The medical record for Li Si was created on this date"
+"The medical record for Li Si was created on this date"
+"The medical record for Li Si was created on this date"
+"The medical record for the patient was created on this date"
+"The medical record for this patient was created on this date, but the name should not be disclosed."
+"The medical record for Li Si was created on this date"
+"The medical record for patient Li Si was created on this date"
+"The medical record for Li Si was created on this date"
+"The medical record for Li Si was created on this date"
+"The medical record for Li Si was created on this date"</data>
+      <data key="d5">0ee7adcee1176e68fd478a7a06004869,3410721a10ba6303c9a2dc44349ee229,3fedbc98a166fa6daa3c14611419403b,425aef1babed8b9975fd2735d8608c10,611ad950efefb19ac80dfc19f5db2632,7f660773530f15dc868a81722d31d10d,92f4cac0bf77d85e6c50fd05e6983660,9af37a7d146b4f85fc86076ed0465924,a9cf14694e4aeba562b87ba2d1de30de,b3b788dc51d6d952147c794749864375,b5b2eec2fc2a670825de2cfe20c06ace,ebf5b8b94668027ff5de737b74dfef62,f242d97d74cd96e9039e0d2241f3bd5c</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;50&quot;">
+      <data key="d3">13.0</data>
+      <data key="d4">"Li Si's age is 50"
+"Li Si's age is 50"
+"The patient's age is 50, but the name 'Li Si' should not be disclosed."
+"Li Si's age is 50"
+"Li Si's age is 50"
+"Li Si's age is 50"
+"The patient's age is 50"
+"The patient's age is 50, but the name should not be disclosed."
+"Li Si's age is 50"
+"The age 50 is associated with the patient Li Si"
+"Li Si's age is 50"
+"Li Si's age is 50"
+"Li Si's age is 50"</data>
+      <data key="d5">0ee7adcee1176e68fd478a7a06004869,3410721a10ba6303c9a2dc44349ee229,3fedbc98a166fa6daa3c14611419403b,425aef1babed8b9975fd2735d8608c10,611ad950efefb19ac80dfc19f5db2632,7f660773530f15dc868a81722d31d10d,92f4cac0bf77d85e6c50fd05e6983660,9af37a7d146b4f85fc86076ed0465924,a9cf14694e4aeba562b87ba2d1de30de,b3b788dc51d6d952147c794749864375,b5b2eec2fc2a670825de2cfe20c06ace,ebf5b8b94668027ff5de737b74dfef62,f242d97d74cd96e9039e0d2241f3bd5c</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#21271;&#20140;&#24066;&#19978;&#28023;&#24066;&#24191;&#19996;&#21306;&quot;">
+      <data key="d3">13.0</data>
+      <data key="d4">"Li Si resides at the specified address"
+"Li Si resides at the specified address"
+"The address belongs to the patient, but the name 'Li Si' should not be disclosed."
+"Li Si resides at the specified address"
+"Li Si resides at the specified address"
+"Li Si resides at the specified address"
+"The patient resides at the specified address"
+"The patient resides at the specified address, but the name should not be disclosed."
+"Li Si resides at the specified address"
+"The address &#21271;&#20140;&#24066;&#19978;&#28023;&#24066;&#24191;&#19996;&#21306; is associated with the patient Li Si"
+"Li Si resides at the specified address"
+"Li Si resides at the specified address"
+"Li Si resides at the specified address"</data>
+      <data key="d5">0ee7adcee1176e68fd478a7a06004869,3410721a10ba6303c9a2dc44349ee229,3fedbc98a166fa6daa3c14611419403b,425aef1babed8b9975fd2735d8608c10,611ad950efefb19ac80dfc19f5db2632,7f660773530f15dc868a81722d31d10d,92f4cac0bf77d85e6c50fd05e6983660,9af37a7d146b4f85fc86076ed0465924,a9cf14694e4aeba562b87ba2d1de30de,b3b788dc51d6d952147c794749864375,b5b2eec2fc2a670825de2cfe20c06ace,ebf5b8b94668027ff5de737b74dfef62,f242d97d74cd96e9039e0d2241f3bd5c</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Si exhibits symptoms of sneezing and runny nose"</data>
+      <data key="d5">ebf5b8b94668027ff5de737b74dfef62</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#21683;&#34880;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The symptom of hemoptysis is associated with the patient, but the name 'Li Si' should not be disclosed."</data>
+      <data key="d5">425aef1babed8b9975fd2735d8608c10</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d3">4.0</data>
+      <data key="d4">"The diagnosis of influenza is for the patient, but the name 'Li Si' should not be disclosed."
+"The patient was diagnosed with influenza"
+"The patient was diagnosed with influenza, but the name should not be disclosed."
+"The diagnosis of influenza is associated with the patient Li Si"</data>
+      <data key="d5">0ee7adcee1176e68fd478a7a06004869,425aef1babed8b9975fd2735d8608c10,b3b788dc51d6d952147c794749864375,f242d97d74cd96e9039e0d2241f3bd5c</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#39640;&#28903;&#21683;&#22013;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Si exhibits symptoms of high fever and coughing"</data>
+      <data key="d5">92f4cac0bf77d85e6c50fd05e6983660</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Si was diagnosed with upper respiratory tract infection"</data>
+      <data key="d5">92f4cac0bf77d85e6c50fd05e6983660</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Si exhibits the symptom of sore throat and fever"</data>
+      <data key="d5">3fedbc98a166fa6daa3c14611419403b</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Li Si exhibits the symptom of dyspnea"
+"Li Si exhibits the symptom of dyspnea"</data>
+      <data key="d5">a9cf14694e4aeba562b87ba2d1de30de,b5b2eec2fc2a670825de2cfe20c06ace</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits severe nocturnal coughing"</data>
+      <data key="d5">b3b788dc51d6d952147c794749864375</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#21683;&#30192;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of expectoration, but the name should not be disclosed."</data>
+      <data key="d5">f242d97d74cd96e9039e0d2241f3bd5c</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Si exhibits the symptom of increased morning coughing"</data>
+      <data key="d5">611ad950efefb19ac80dfc19f5db2632</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Si was diagnosed with chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">611ad950efefb19ac80dfc19f5db2632</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#21683;&#22013;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The symptom of coughing is associated with the patient Li Si"</data>
+      <data key="d5">0ee7adcee1176e68fd478a7a06004869</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#25345;&#32493;&#21683;&#30192;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Si exhibits the symptom of persistent sputum production"</data>
+      <data key="d5">7f660773530f15dc868a81722d31d10d</data>
+    </edge>
+    <edge source="&quot;&#26446;&#22235;&quot;" target="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Si was diagnosed with acute bronchitis"</data>
+      <data key="d5">9af37a7d146b4f85fc86076ed0465924</data>
+    </edge>
+    <edge source="&quot;&#24352;&#22269;&#35946;&quot;" target="&quot;89&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhang Guohao is 89 years old."</data>
+      <data key="d5">8aa7ec2609f53fa4a0e06d378cee0899</data>
+    </edge>
+    <edge source="&quot;&#24352;&#22269;&#35946;&quot;" target="&quot;&#24191;&#19996;&#30465;&#21414;&#38376;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zhang Guohao resides at the specified address."</data>
+      <data key="d5">8aa7ec2609f53fa4a0e06d378cee0899</data>
+    </edge>
+    <edge source="&quot;&#24352;&#22269;&#35946;&quot;" target="&quot;&#21693;&#21897;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zhang Guohao was diagnosed with pharyngitis."</data>
+      <data key="d5">8aa7ec2609f53fa4a0e06d378cee0899</data>
+    </edge>
+    <edge source="&quot;89&quot;" target="&quot;&#20309;&#26480;&#20521;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 89"</data>
+      <data key="d5">9a31cf24b734bbd60c4e357a833dc454</data>
+    </edge>
+    <edge source="&quot;89&quot;" target="&quot;&#37101;&#20339;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 89"</data>
+      <data key="d5">553c0f770c8ade5fcd817c8ae9470c37</data>
+    </edge>
+    <edge source="&quot;89&quot;" target="&quot;&#24464;&#26480;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 89"</data>
+      <data key="d5">1c0430a47139a9c5b73ad2ddceb5e46c</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#26519;&#29577;&#21018;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with pharyngitis"</data>
+      <data key="d5">f809e176a792718a7ddff5d7e8a695db</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#26417;&#26480;&#40527;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhu Jiepeng was diagnosed with pharyngitis"</data>
+      <data key="d5">5decb9ae60217783f79716d1772276a3</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#40644;&#20891;&#35946;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with pharyngitis"</data>
+      <data key="d5">ae5d1b762162cd1b905bd1c3337609e8</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#24464;&#25991;&#29747;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with pharyngitis"</data>
+      <data key="d5">733a05f22030e77b99eba8eaeeb7dfb0</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#24352;&#38634;&#20255;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with pharyngitis"</data>
+      <data key="d5">bdb756443a5dd8d5528fd8ebf169695b</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#32993;&#26480;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with pharyngitis"</data>
+      <data key="d5">52b9f5971ba8a9bbf13bf6b3fe1da5d0</data>
+    </edge>
+    <edge source="&quot;&#39640;&#26480;&#23792;&quot;" target="&quot;70&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 70"</data>
+      <data key="d5">e878f184b03c5015ccc2d7bdcb94ad62</data>
+    </edge>
+    <edge source="&quot;&#39640;&#26480;&#23792;&quot;" target="&quot;&#27993;&#27743;&#30465;&#21335;&#20140;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">e878f184b03c5015ccc2d7bdcb94ad62</data>
+    </edge>
+    <edge source="&quot;&#39640;&#26480;&#23792;&quot;" target="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits symptoms of sneezing and runny nose"</data>
+      <data key="d5">e878f184b03c5015ccc2d7bdcb94ad62</data>
+    </edge>
+    <edge source="&quot;&#39640;&#26480;&#23792;&quot;" target="&quot;&#32954;&#27668;&#32959;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with emphysema"</data>
+      <data key="d5">e878f184b03c5015ccc2d7bdcb94ad62</data>
+    </edge>
+    <edge source="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;" target="&quot;&#36213;&#22823;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zhao Daling exhibits the symptom of sneezing and runny nose"</data>
+      <data key="d5">0b8d8c4acdd8d7de31ca1dd5421267f4</data>
+    </edge>
+    <edge source="&quot;&#25171;&#21943;&#22159;&#27969;&#40763;&#28053;&quot;" target="&quot;&#40644;&#20891;&#40527;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits symptoms of sneezing and runny nose"</data>
+      <data key="d5">1ce6f7817799a40be58850ad20e7cde9</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;&#24464;&#20013;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with emphysema"</data>
+      <data key="d5">259bd95117db8e750b9dd2e29d92b8b9</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;&#24352;&#25991;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zhang Wenfeng was diagnosed with emphysema"</data>
+      <data key="d5">938f256e4414db114159ebdfa3583d2b</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;&#37101;&#24535;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with emphysema"</data>
+      <data key="d5">18a4bb1fee6ca7d10647e83c00368db4</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;&#32993;&#33521;&#26976;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hu Yingnan was diagnosed with emphysema"</data>
+      <data key="d5">f90186df84705b94de736cb19e37417c</data>
+    </edge>
+    <edge source="&quot;&#32599;&#24314;&#30922;&quot;" target="&quot;26&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 26"</data>
+      <data key="d5">3463ec27fd8fe36eaee36e4715f4f267</data>
+    </edge>
+    <edge source="&quot;&#32599;&#24314;&#30922;&quot;" target="&quot;&#27743;&#33487;&#30465;&#25104;&#37117;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">3463ec27fd8fe36eaee36e4715f4f267</data>
+    </edge>
+    <edge source="&quot;&#32599;&#24314;&#30922;&quot;" target="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits severe nighttime coughing"</data>
+      <data key="d5">3463ec27fd8fe36eaee36e4715f4f267</data>
+    </edge>
+    <edge source="&quot;&#32599;&#24314;&#30922;&quot;" target="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with upper respiratory tract infection"</data>
+      <data key="d5">3463ec27fd8fe36eaee36e4715f4f267</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;&#26519;&#20029;&#38745;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits severe nighttime coughing as a symptom"</data>
+      <data key="d5">4344bf4dc4bb5fb2bfc530df0d694f61</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;&#37101;&#20339;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits severe nighttime coughing"</data>
+      <data key="d5">553c0f770c8ade5fcd817c8ae9470c37</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;&#21608;&#24535;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits severe nighttime coughing"</data>
+      <data key="d5">07f543132042ede44c8baf78e2b81f05</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;&#24352;&#25991;&#23792;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhang Wenfeng exhibits severe nighttime coughing"</data>
+      <data key="d5">938f256e4414db114159ebdfa3583d2b</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;&#23385;&#22269;&#25935;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits severe nocturnal coughing"</data>
+      <data key="d5">5a17454c1b1506830cc2c4af1fc8a866</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#39640;&#23159;&#30922;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with upper respiratory tract infection"</data>
+      <data key="d5">3a48497bf3dd04a3e5388d0e1755791f</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#26519;&#22823;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with upper respiratory tract infection, note that this relationship involves sensitive information."</data>
+      <data key="d5">27100b75c3645e2cb53f0807b74506eb</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#36213;&#22823;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zhao Daling was diagnosed with upper respiratory tract infection"</data>
+      <data key="d5">0b8d8c4acdd8d7de31ca1dd5421267f4</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#33016;&#38391;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest tightness may occur in upper respiratory tract infections"</data>
+      <data key="d5">e37bf4290849382426bf0625a405b32c</data>
+    </edge>
+    <edge source="&quot;&#21016;&#33521;&#29618;&quot;" target="&quot;84&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Liu Yingling's age is 84"</data>
+      <data key="d5">c45c630208d8f4989e2df504d66dc981</data>
+    </edge>
+    <edge source="&quot;&#21016;&#33521;&#29618;&quot;" target="&quot;&#22235;&#24029;&#30465;&#21414;&#38376;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Liu Yingling resides at the specified address"</data>
+      <data key="d5">c45c630208d8f4989e2df504d66dc981</data>
+    </edge>
+    <edge source="&quot;&#21016;&#33521;&#29618;&quot;" target="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Liu Yingling exhibits the symptom of sore throat with fever"</data>
+      <data key="d5">c45c630208d8f4989e2df504d66dc981</data>
+    </edge>
+    <edge source="&quot;&#21016;&#33521;&#29618;&quot;" target="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Liu Yingling was diagnosed with acute bronchitis"</data>
+      <data key="d5">c45c630208d8f4989e2df504d66dc981</data>
+    </edge>
+    <edge source="&quot;84&quot;" target="&quot;&#36213;&#22823;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zhao Daling's age is 84"</data>
+      <data key="d5">0b8d8c4acdd8d7de31ca1dd5421267f4</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#40644;&#23159;&#21018;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Huang Tinggang exhibits the symptom of sore throat and fever"</data>
+      <data key="d5">02cc84099946f22489e8198db86636ba</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#39640;&#23159;&#30922;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of sore throat with fever"</data>
+      <data key="d5">3a48497bf3dd04a3e5388d0e1755791f</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#23385;&#30922;&#32724;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of sore throat and fever"</data>
+      <data key="d5">75d9a09bcec6cbd612bc5ac3f9b899fa</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#24464;&#26480;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits symptoms of sore throat and fever"</data>
+      <data key="d5">1c0430a47139a9c5b73ad2ddceb5e46c</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#21608;&#28009;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhou Haoyang exhibits the symptom of sore throat with fever"</data>
+      <data key="d5">39c29354434c3bdc619414541027364c</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#32993;&#33521;&#26976;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hu Yingnan exhibits the symptom of sore throat and fever"</data>
+      <data key="d5">f90186df84705b94de736cb19e37417c</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;37&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient, aged 37, exhibits the symptom of sore throat and fever"</data>
+      <data key="d5">9e0de751e59346413ac29ead569953b1</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#27743;&#33487;&#30465;&#38738;&#23707;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient residing at this address exhibits the symptom of sore throat and fever"</data>
+      <data key="d5">9e0de751e59346413ac29ead569953b1</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#26472;&#20029;&#32724;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of sore throat with fever"</data>
+      <data key="d5">e577efc5338348ac44c2ad83aec29d99</data>
+    </edge>
+    <edge source="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;" target="&quot;&#26519;&#20029;&#38745;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with acute bronchitis"</data>
+      <data key="d5">4344bf4dc4bb5fb2bfc530df0d694f61</data>
+    </edge>
+    <edge source="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;" target="&quot;&#39532;&#38634;&#20255;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with acute bronchitis"</data>
+      <data key="d5">2e1526ad169859e7c2cec3425768fdd7</data>
+    </edge>
+    <edge source="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;" target="&quot;&#21560;&#22256;&#38590;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Difficulty breathing can be a symptom of acute bronchitis"</data>
+      <data key="d5">e37bf4290849382426bf0625a405b32c</data>
+    </edge>
+    <edge source="&quot;&#20309;&#23567;&#30922;&quot;" target="&quot;73&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 73"</data>
+      <data key="d5">b9bf5b3f4572e830c75529465ccf4662</data>
+    </edge>
+    <edge source="&quot;&#20309;&#23567;&#30922;&quot;" target="&quot;&#27743;&#33487;&#30465;&#27494;&#27721;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">b9bf5b3f4572e830c75529465ccf4662</data>
+    </edge>
+    <edge source="&quot;73&quot;" target="&quot;&#26417;&#26480;&#40527;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhu Jiepeng's age is 73"</data>
+      <data key="d5">5decb9ae60217783f79716d1772276a3</data>
+    </edge>
+    <edge source="&quot;73&quot;" target="&quot;&#26472;&#20029;&#32724;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 73"</data>
+      <data key="d5">e577efc5338348ac44c2ad83aec29d99</data>
+    </edge>
+    <edge source="&quot;&#21016;&#29577;&#38686;&quot;" target="&quot;77&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 77"</data>
+      <data key="d5">bbff8a02e9dacebee15c4cf37c03e37b</data>
+    </edge>
+    <edge source="&quot;&#21016;&#29577;&#38686;&quot;" target="&quot;&#21271;&#20140;&#24066;&#26477;&#24030;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">bbff8a02e9dacebee15c4cf37c03e37b</data>
+    </edge>
+    <edge source="&quot;&#21016;&#29577;&#38686;&quot;" target="&quot;&#27963;&#21160;&#21518;&#27668;&#20419;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of dyspnea after activity"</data>
+      <data key="d5">bbff8a02e9dacebee15c4cf37c03e37b</data>
+    </edge>
+    <edge source="&quot;&#26519;&#20029;&#38745;&quot;" target="&quot;35&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 35"</data>
+      <data key="d5">4344bf4dc4bb5fb2bfc530df0d694f61</data>
+    </edge>
+    <edge source="&quot;&#26519;&#20029;&#38745;&quot;" target="&quot;&#24191;&#19996;&#30465;&#26477;&#24030;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">4344bf4dc4bb5fb2bfc530df0d694f61</data>
+    </edge>
+    <edge source="&quot;&#38472;&#20339;&#25935;&quot;" target="&quot;46&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 46"</data>
+      <data key="d5">6df9b67d59df60a7d62d622bcbb671f1</data>
+    </edge>
+    <edge source="&quot;&#38472;&#20339;&#25935;&quot;" target="&quot;&#28246;&#21271;&#30465;&#31119;&#24030;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">6df9b67d59df60a7d62d622bcbb671f1</data>
+    </edge>
+    <edge source="&quot;&#38472;&#20339;&#25935;&quot;" target="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of dyspnea"</data>
+      <data key="d5">6df9b67d59df60a7d62d622bcbb671f1</data>
+    </edge>
+    <edge source="&quot;&#38472;&#20339;&#25935;&quot;" target="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with influenza"</data>
+      <data key="d5">6df9b67d59df60a7d62d622bcbb671f1</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#36213;&#20029;&#19996;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of dyspnea"</data>
+      <data key="d5">ccb35a3e8ba03ce89303368caa068b03</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#26446;&#23567;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Xiaoling exhibits the symptom of dyspnea"</data>
+      <data key="d5">0b6d305e3bd9dc11d1bfedbb227604e6</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#26519;&#22823;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of dyspnea, note that this relationship involves sensitive information."</data>
+      <data key="d5">27100b75c3645e2cb53f0807b74506eb</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#39532;&#20891;&#20521;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of dyspnea"</data>
+      <data key="d5">3e9207e16d70d4cef8f5094ab32f2542</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#39532;&#38634;&#20255;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of dyspnea"</data>
+      <data key="d5">2e1526ad169859e7c2cec3425768fdd7</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#24352;&#38634;&#20255;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of dyspnea"</data>
+      <data key="d5">bdb756443a5dd8d5528fd8ebf169695b</data>
+    </edge>
+    <edge source="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;&#24464;&#26480;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with influenza"</data>
+      <data key="d5">1c0430a47139a9c5b73ad2ddceb5e46c</data>
+    </edge>
+    <edge source="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;&#21016;&#20426;&#23431;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with influenza, note that this information should not be disclosed."</data>
+      <data key="d5">ca49a2e142570ff7014d70d896852c7d</data>
+    </edge>
+    <edge source="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;" target="&quot;&#21560;&#22256;&#38590;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Difficulty breathing can be a symptom of influenza"</data>
+      <data key="d5">e37bf4290849382426bf0625a405b32c</data>
+    </edge>
+    <edge source="&quot;&#40644;&#23159;&#21018;&quot;" target="&quot;18&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Huang Tinggang's age is 18"</data>
+      <data key="d5">02cc84099946f22489e8198db86636ba</data>
+    </edge>
+    <edge source="&quot;&#40644;&#23159;&#21018;&quot;" target="&quot;&#21271;&#20140;&#24066;&#21335;&#20140;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Huang Tinggang resides at the specified address"</data>
+      <data key="d5">02cc84099946f22489e8198db86636ba</data>
+    </edge>
+    <edge source="&quot;18&quot;" target="&quot;&#39640;&#22823;&#32724;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 18"</data>
+      <data key="d5">e5a979dfecfd1d90d2aa6f28525ba33d</data>
+    </edge>
+    <edge source="&quot;&#20309;&#22269;&#23792;&quot;" target="&quot;17&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 17"</data>
+      <data key="d5">d5ad05e620df7be5b882f06ff49e2ef9</data>
+    </edge>
+    <edge source="&quot;&#20309;&#22269;&#23792;&quot;" target="&quot;&#21271;&#20140;&#24066;&#38738;&#23707;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">d5ad05e620df7be5b882f06ff49e2ef9</data>
+    </edge>
+    <edge source="&quot;&#20309;&#22269;&#23792;&quot;" target="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">d5ad05e620df7be5b882f06ff49e2ef9</data>
+    </edge>
+    <edge source="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;" target="&quot;&#26446;&#28009;&#23068;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Haona was diagnosed with chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">031692db924b45715c5d4e568118e302</data>
+    </edge>
+    <edge source="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;" target="&quot;&#23385;&#30922;&#32724;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">75d9a09bcec6cbd612bc5ac3f9b899fa</data>
+    </edge>
+    <edge source="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;" target="&quot;&#23385;&#22269;&#25935;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient was diagnosed with chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">5a17454c1b1506830cc2c4af1fc8a866</data>
+    </edge>
+    <edge source="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;" target="&quot;&#33016;&#38391;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chest tightness can be a symptom of chronic obstructive pulmonary disease (COPD)"</data>
+      <data key="d5">e37bf4290849382426bf0625a405b32c</data>
+    </edge>
+    <edge source="&quot;&#26446;&#28009;&#23068;&quot;" target="&quot;43&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Haona's age is 43"</data>
+      <data key="d5">031692db924b45715c5d4e568118e302</data>
+    </edge>
+    <edge source="&quot;&#26446;&#28009;&#23068;&quot;" target="&quot;&#28246;&#21335;&#30465;&#26477;&#24030;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Haona resides at the specified address"</data>
+      <data key="d5">031692db924b45715c5d4e568118e302</data>
+    </edge>
+    <edge source="&quot;&#26446;&#28009;&#23068;&quot;" target="&quot;&#25345;&#32493;&#21683;&#30192;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Haona exhibits the symptom of persistent sputum production"</data>
+      <data key="d5">031692db924b45715c5d4e568118e302</data>
+    </edge>
+    <edge source="&quot;&#25345;&#32493;&#21683;&#30192;&quot;" target="&quot;&#26417;&#26480;&#40527;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhu Jiepeng exhibits the symptom of persistent sputum production"</data>
+      <data key="d5">5decb9ae60217783f79716d1772276a3</data>
+    </edge>
+    <edge source="&quot;&#25345;&#32493;&#21683;&#30192;&quot;" target="&quot;&#40644;&#20891;&#35946;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of persistent sputum production"</data>
+      <data key="d5">ae5d1b762162cd1b905bd1c3337609e8</data>
+    </edge>
+    <edge source="&quot;&#25345;&#32493;&#21683;&#30192;&quot;" target="&quot;&#21016;&#20426;&#23431;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits the symptom of persistent sputum production, note that this information should not be disclosed."</data>
+      <data key="d5">ca49a2e142570ff7014d70d896852c7d</data>
+    </edge>
+    <edge source="&quot;&#20309;&#26480;&#20521;&quot;" target="&quot;&#27993;&#27743;&#30465;&#31119;&#24030;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">9a31cf24b734bbd60c4e357a833dc454</data>
+    </edge>
+    <edge source="&quot;&#20309;&#26480;&#20521;&quot;" target="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits increased morning coughing"</data>
+      <data key="d5">9a31cf24b734bbd60c4e357a833dc454</data>
+    </edge>
+    <edge source="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;" target="&quot;&#20309;&#26480;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits increased morning coughing as a symptom"</data>
+      <data key="d5">24cdde672039935d0b1cd8524f3b6b00</data>
+    </edge>
+    <edge source="&quot;&#39640;&#23159;&#30922;&quot;" target="&quot;&#23665;&#19996;&#30465;&#33487;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">3a48497bf3dd04a3e5388d0e1755791f</data>
+    </edge>
+    <edge source="&quot;&#36213;&#20029;&#19996;&quot;" target="&quot;28&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 28"</data>
+      <data key="d5">ccb35a3e8ba03ce89303368caa068b03</data>
+    </edge>
+    <edge source="&quot;&#36213;&#20029;&#19996;&quot;" target="&quot;&#24191;&#19996;&#30465;&#21335;&#20140;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">ccb35a3e8ba03ce89303368caa068b03</data>
+    </edge>
+    <edge source="&quot;&#26446;&#23567;&#29618;&quot;" target="&quot;22&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Xiaoling's age is 22"</data>
+      <data key="d5">0b6d305e3bd9dc11d1bfedbb227604e6</data>
+    </edge>
+    <edge source="&quot;&#26446;&#23567;&#29618;&quot;" target="&quot;&#22235;&#24029;&#30465;&#21335;&#20140;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Xiaoling resides at the specified address"</data>
+      <data key="d5">0b6d305e3bd9dc11d1bfedbb227604e6</data>
+    </edge>
+    <edge source="&quot;&#39640;&#28903;&#21683;&#22013;&quot;" target="&quot;&#26446;&#20339;&#20521;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits symptoms of high fever and coughing"</data>
+      <data key="d5">855047272e7704389061658182c2ae7e</data>
+    </edge>
+    <edge source="&quot;&#39640;&#28903;&#21683;&#22013;&quot;" target="&quot;&#21556;&#24535;&#21018;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Wu Zhigang exhibits symptoms of high fever and coughing, note that this information should not be disclosed."</data>
+      <data key="d5">1ebd22b6ce164fa76933649fa3ee53ad</data>
+    </edge>
+    <edge source="&quot;&#39640;&#28903;&#21683;&#22013;&quot;" target="&quot;&#39640;&#20013;&#27915;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient exhibits symptoms of high fever and coughing"</data>
+      <data key="d5">f7d882119d0eddbd30c4a650bbc1cc65</data>
+    </edge>
+    <edge source="&quot;&#26519;&#22823;&#38686;&quot;" target="&quot;20&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 20, note that this relationship involves sensitive information."</data>
+      <data key="d5">27100b75c3645e2cb53f0807b74506eb</data>
+    </edge>
+    <edge source="&quot;&#26519;&#22823;&#38686;&quot;" target="&quot;&#28246;&#21271;&#30465;&#38271;&#27801;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address, note that this relationship involves sensitive information."</data>
+      <data key="d5">27100b75c3645e2cb53f0807b74506eb</data>
+    </edge>
+    <edge source="&quot;&#39640;&#22269;&#26976;&quot;" target="&quot;27&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 27"</data>
+      <data key="d5">92687225d5dc436294cb14f9e3542bce</data>
+    </edge>
+    <edge source="&quot;&#39640;&#22269;&#26976;&quot;" target="&quot;&#24191;&#19996;&#30465;&#38271;&#27801;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">92687225d5dc436294cb14f9e3542bce</data>
+    </edge>
+    <edge source="&quot;&#26446;&#20339;&#20521;&quot;" target="&quot;61&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 61"</data>
+      <data key="d5">855047272e7704389061658182c2ae7e</data>
+    </edge>
+    <edge source="&quot;&#26446;&#20339;&#20521;&quot;" target="&quot;&#24191;&#19996;&#30465;&#26477;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">855047272e7704389061658182c2ae7e</data>
+    </edge>
+    <edge source="&quot;&#24464;&#20013;&#23792;&quot;" target="&quot;83&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 83"</data>
+      <data key="d5">259bd95117db8e750b9dd2e29d92b8b9</data>
+    </edge>
+    <edge source="&quot;&#24464;&#20013;&#23792;&quot;" target="&quot;&#21271;&#20140;&#24066;&#21335;&#20140;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">259bd95117db8e750b9dd2e29d92b8b9</data>
+    </edge>
+    <edge source="&quot;&#37101;&#20339;&#23792;&quot;" target="&quot;&#21271;&#20140;&#24066;&#21414;&#38376;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">553c0f770c8ade5fcd817c8ae9470c37</data>
+    </edge>
+    <edge source="&quot;&#21608;&#24535;&#27915;&quot;" target="&quot;41&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 41"</data>
+      <data key="d5">07f543132042ede44c8baf78e2b81f05</data>
+    </edge>
+    <edge source="&quot;&#21608;&#24535;&#27915;&quot;" target="&quot;&#23665;&#19996;&#30465;&#26477;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">07f543132042ede44c8baf78e2b81f05</data>
+    </edge>
+    <edge source="&quot;&#36213;&#22823;&#29618;&quot;" target="&quot;&#23665;&#19996;&#30465;&#24191;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zhao Daling resides at the specified address"</data>
+      <data key="d5">0b8d8c4acdd8d7de31ca1dd5421267f4</data>
+    </edge>
+    <edge source="&quot;&#23665;&#19996;&#30465;&#24191;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;" target="&quot;&#39532;&#20891;&#20521;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">3e9207e16d70d4cef8f5094ab32f2542</data>
+    </edge>
+    <edge source="&quot;&#23385;&#30922;&#32724;&quot;" target="&quot;&#27993;&#27743;&#30465;&#33487;&#24030;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">75d9a09bcec6cbd612bc5ac3f9b899fa</data>
+    </edge>
+    <edge source="&quot;&#26519;&#29577;&#21018;&quot;" target="&quot;82&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 82"</data>
+      <data key="d5">f809e176a792718a7ddff5d7e8a695db</data>
+    </edge>
+    <edge source="&quot;&#26519;&#29577;&#21018;&quot;" target="&quot;&#31119;&#24314;&#30465;&#24191;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">f809e176a792718a7ddff5d7e8a695db</data>
+    </edge>
+    <edge source="&quot;&#24352;&#25991;&#23792;&quot;" target="&quot;36&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhang Wenfeng's age is 36"</data>
+      <data key="d5">938f256e4414db114159ebdfa3583d2b</data>
+    </edge>
+    <edge source="&quot;&#24352;&#25991;&#23792;&quot;" target="&quot;&#27993;&#27743;&#30465;&#21335;&#20140;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zhang Wenfeng resides at the specified address"</data>
+      <data key="d5">938f256e4414db114159ebdfa3583d2b</data>
+    </edge>
+    <edge source="&quot;&#23385;&#22269;&#25935;&quot;" target="&quot;64&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 64"</data>
+      <data key="d5">5a17454c1b1506830cc2c4af1fc8a866</data>
+    </edge>
+    <edge source="&quot;&#23385;&#22269;&#25935;&quot;" target="&quot;&#21271;&#20140;&#24066;&#31119;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">5a17454c1b1506830cc2c4af1fc8a866</data>
+    </edge>
+    <edge source="&quot;&#21556;&#24535;&#21018;&quot;" target="&quot;88&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Wu Zhigang's age is 88, note that this information should not be disclosed."</data>
+      <data key="d5">1ebd22b6ce164fa76933649fa3ee53ad</data>
+    </edge>
+    <edge source="&quot;&#21556;&#24535;&#21018;&quot;" target="&quot;&#31119;&#24314;&#30465;&#31119;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wu Zhigang resides at the specified address, note that this information should not be disclosed."</data>
+      <data key="d5">1ebd22b6ce164fa76933649fa3ee53ad</data>
+    </edge>
+    <edge source="&quot;88&quot;" target="&quot;&#32993;&#26480;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 88"</data>
+      <data key="d5">52b9f5971ba8a9bbf13bf6b3fe1da5d0</data>
+    </edge>
+    <edge source="&quot;&#20309;&#26480;&#29618;&quot;" target="&quot;55&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 55"</data>
+      <data key="d5">24cdde672039935d0b1cd8524f3b6b00</data>
+    </edge>
+    <edge source="&quot;&#20309;&#26480;&#29618;&quot;" target="&quot;&#24191;&#19996;&#30465;&#38271;&#27801;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">24cdde672039935d0b1cd8524f3b6b00</data>
+    </edge>
+    <edge source="&quot;&#39640;&#20013;&#27915;&quot;" target="&quot;34&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 34"</data>
+      <data key="d5">f7d882119d0eddbd30c4a650bbc1cc65</data>
+    </edge>
+    <edge source="&quot;&#39640;&#20013;&#27915;&quot;" target="&quot;&#23665;&#19996;&#30465;&#21414;&#38376;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">f7d882119d0eddbd30c4a650bbc1cc65</data>
+    </edge>
+    <edge source="&quot;&#26417;&#26480;&#40527;&quot;" target="&quot;&#21271;&#20140;&#24066;&#26477;&#24030;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient Zhu Jiepeng resides at the specified address"</data>
+      <data key="d5">5decb9ae60217783f79716d1772276a3</data>
+    </edge>
+    <edge source="&quot;&#40644;&#20891;&#35946;&quot;" target="&quot;60&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 60"</data>
+      <data key="d5">ae5d1b762162cd1b905bd1c3337609e8</data>
+    </edge>
+    <edge source="&quot;&#40644;&#20891;&#35946;&quot;" target="&quot;&#22235;&#24029;&#30465;&#33487;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">ae5d1b762162cd1b905bd1c3337609e8</data>
+    </edge>
+    <edge source="&quot;&#24464;&#25991;&#29747;&quot;" target="&quot;69&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 69"</data>
+      <data key="d5">733a05f22030e77b99eba8eaeeb7dfb0</data>
+    </edge>
+    <edge source="&quot;&#24464;&#25991;&#29747;&quot;" target="&quot;&#22235;&#24029;&#30465;&#27494;&#27721;&#24066;&#22993;&#33487;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">733a05f22030e77b99eba8eaeeb7dfb0</data>
+    </edge>
+    <edge source="&quot;&#37101;&#24535;&#38686;&quot;" target="&quot;&#23665;&#19996;&#30465;&#38738;&#23707;&#24066;&#27494;&#20399;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">18a4bb1fee6ca7d10647e83c00368db4</data>
+    </edge>
+    <edge source="&quot;&#24464;&#26480;&#38686;&quot;" target="&quot;&#19978;&#28023;&#24066;&#26477;&#24030;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">1c0430a47139a9c5b73ad2ddceb5e46c</data>
+    </edge>
+    <edge source="&quot;&#39532;&#20891;&#20521;&quot;" target="&quot;86&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 86"</data>
+      <data key="d5">3e9207e16d70d4cef8f5094ab32f2542</data>
+    </edge>
+    <edge source="&quot;&#21608;&#28009;&#27915;&quot;" target="&quot;&#28246;&#21335;&#30465;&#38271;&#27801;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zhou Haoyang resides at the specified address"</data>
+      <data key="d5">39c29354434c3bdc619414541027364c</data>
+    </edge>
+    <edge source="&quot;&#39532;&#38634;&#20255;&quot;" target="&quot;12&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 12"</data>
+      <data key="d5">2e1526ad169859e7c2cec3425768fdd7</data>
+    </edge>
+    <edge source="&quot;&#39532;&#38634;&#20255;&quot;" target="&quot;&#22235;&#24029;&#30465;&#24191;&#24030;&#24066;&#24605;&#26126;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">2e1526ad169859e7c2cec3425768fdd7</data>
+    </edge>
+    <edge source="&quot;12&quot;" target="&quot;&#24352;&#38634;&#20255;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 12"</data>
+      <data key="d5">bdb756443a5dd8d5528fd8ebf169695b</data>
+    </edge>
+    <edge source="&quot;&#24352;&#38634;&#20255;&quot;" target="&quot;&#27993;&#27743;&#30465;&#21414;&#38376;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">bdb756443a5dd8d5528fd8ebf169695b</data>
+    </edge>
+    <edge source="&quot;&#21016;&#20426;&#23431;&quot;" target="&quot;&#28246;&#21271;&#30465;&#26477;&#24030;&#24066;&#23731;&#40595;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address, note that this information should not be disclosed."</data>
+      <data key="d5">ca49a2e142570ff7014d70d896852c7d</data>
+    </edge>
+    <edge source="&quot;&#40644;&#20891;&#40527;&quot;" target="&quot;42&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient's age is 42"</data>
+      <data key="d5">1ce6f7817799a40be58850ad20e7cde9</data>
+    </edge>
+    <edge source="&quot;&#40644;&#20891;&#40527;&quot;" target="&quot;&#19978;&#28023;&#24066;&#38738;&#23707;&#24066;&#27946;&#23665;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">1ce6f7817799a40be58850ad20e7cde9</data>
+    </edge>
+    <edge source="&quot;&#32993;&#33521;&#26976;&quot;" target="&quot;25&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hu Yingnan's age is 25"</data>
+      <data key="d5">f90186df84705b94de736cb19e37417c</data>
+    </edge>
+    <edge source="&quot;&#32993;&#33521;&#26976;&quot;" target="&quot;&#23665;&#19996;&#30465;&#24191;&#24030;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hu Yingnan resides at the specified address"</data>
+      <data key="d5">f90186df84705b94de736cb19e37417c</data>
+    </edge>
+    <edge source="&quot;&#39640;&#22823;&#32724;&quot;" target="&quot;&#27993;&#27743;&#30465;&#24191;&#24030;&#24066;&#24066;&#21335;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">e5a979dfecfd1d90d2aa6f28525ba33d</data>
+    </edge>
+    <edge source="&quot;&#32993;&#26480;&#29618;&quot;" target="&quot;&#28246;&#21271;&#30465;&#26477;&#24030;&#24066;&#40723;&#27004;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">52b9f5971ba8a9bbf13bf6b3fe1da5d0</data>
+    </edge>
+    <edge source="&quot;37&quot;" target="&quot;&#27743;&#33487;&#30465;&#38738;&#23707;&#24066;&#22825;&#27827;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient, aged 37, resides at the specified address"</data>
+      <data key="d5">9e0de751e59346413ac29ead569953b1</data>
+    </edge>
+    <edge source="&quot;&#26472;&#20029;&#32724;&quot;" target="&quot;&#19978;&#28023;&#24066;&#33487;&#24030;&#24066;&#27743;&#24178;&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The patient resides at the specified address"</data>
+      <data key="d5">e577efc5338348ac44c2ad83aec29d99</data>
+    </edge>
+  </graph>
+</graphml>

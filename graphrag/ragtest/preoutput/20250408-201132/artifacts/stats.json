@@ -1,0 +1,47 @@
+{
+    "total_runtime": 695.9178795814514,
+    "num_documents": 1,
+    "input_load_time": 0,
+    "workflows": {
+        "create_base_text_units": {
+            "overall": 27.442636251449585,
+            "0_orderby": 0.0035545825958251953,
+            "1_zip": 0.0043871402740478516,
+            "2_aggregate_override": 0.007802248001098633,
+            "3_chunk": 27.358709573745728,
+            "4_select": 0.006042003631591797,
+            "5_unroll": 0.008268356323242188,
+            "6_rename": 0.006169319152832031,
+            "7_genid": 0.0076673030853271484,
+            "8_unzip": 0.007706165313720703,
+            "9_copy": 0.006844520568847656,
+            "10_filter": 0.022263288497924805
+        },
+        "create_base_extracted_entities": {
+            "overall": 654.7171552181244,
+            "0_entity_extract": 654.6800866127014,
+            "1_snapshot": 0.007441520690917969,
+            "2_merge_graphs": 0.013972759246826172,
+            "3_snapshot_rows": 0.009423017501831055
+        },
+        "create_final_covariates": {
+            "overall": 0.288524866104126,
+            "0_extract_covariates": 0.1931314468383789,
+            "1_window": 0.013058185577392578,
+            "2_genid": 0.00780797004699707,
+            "3_convert": 0.027916908264160156,
+            "4_rename": 0.008983135223388672,
+            "5_select": 0.009582281112670898
+        },
+        "create_summarized_entities": {
+            "overall": 11.68464970588684,
+            "0_summarize_descriptions": 11.660962581634521,
+            "1_snapshot_rows": 0.015138626098632812
+        },
+        "join_text_units_to_covariate_ids": {
+            "overall": 0.06914520263671875,
+            "0_select": 0.013834238052368164,
+            "1_aggregate_override": 0.04246068000793457
+        }
+    }
+}

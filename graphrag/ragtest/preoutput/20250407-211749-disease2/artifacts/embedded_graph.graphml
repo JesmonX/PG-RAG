@@ -1,0 +1,310 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;&#24739;&#32773;&#23385;&#30922;&#35946;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"Patient named Sun Leihao, 37 years old, from Jiangsu Province, Qingdao City, Tianhe District.")("entity"</data>
+      <data key="d2">7de2ef3945db60206a41864a90159565</data>
+    </node>
+    <node id="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u54bd\u5589\u75db\u4f34\u53d1\u70ed" (Pharyngitis) is described as a symptom of an upper respiratory infection, involving sore throat and fever. This summary concisely captures the key characteristics associated with pharyngitis within the medical context provided.</data>
+      <data key="d2">6daff0130e83f12fc6b7580ca840bc32,7de2ef3945db60206a41864a90159565,8434b7631600ad11339c68ac9185f78c,90a11c7b750ad34ff3e9c7fa748e6bdd,a55f713ec2cac0d5d8d5eae1ea6a3d38,d5729d9f64a418605dad63f2a1ce7017</data>
+    </node>
+    <node id="&quot;&#32954;&#28814;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7de2ef3945db60206a41864a90159565,8da63c3f258fb1ce926ff3b07c6401b4,90a11c7b750ad34ff3e9c7fa748e6bdd,cf412b627de16fcbd0e5089005347418</data>
+    </node>
+    <node id="&quot;28&quot;">
+      <data key="d0">"AGE"</data>
+      <data key="d1">"Age of the patient, 28 years old.")("entity"</data>
+      <data key="d2">d0abee480f5937c9f46611c291722a30</data>
+    </node>
+    <node id="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">116504db0045e8f2ac3bd9028b5b4f2f,9802074ef014c85cfdce8e2b69c8ecc9,d0abee480f5937c9f46611c291722a30</data>
+    </node>
+    <node id="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d0" />
+      <data key="d1">The entity "\u80ba\u7ed3\u6838" refers to a diagnosis provided by a doctor for a patient exhibiting symptoms such as a persistent cough and difficulty breathing. This diagnosis is based on the clinical assessment of the patient's condition and is intended to guide further treatment or management strategies.</data>
+      <data key="d2">8afe1c74b28f220d81b93bd98d452657,9802074ef014c85cfdce8e2b69c8ecc9,d0abee480f5937c9f46611c291722a30</data>
+    </node>
+    <node id="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">116504db0045e8f2ac3bd9028b5b4f2f,4ecf146604caac568a440f10bd63a5c6,6daff0130e83f12fc6b7580ca840bc32,f67a20cd7a33f564eb812af04568314f</data>
+    </node>
+    <node id="&quot;83&quot;">
+      <data key="d0">"AGE"</data>
+      <data key="d1">"Age of the patient, 83 years old.")("entity"</data>
+      <data key="d2">16de3b7e704414f8df3115cc09566e45</data>
+    </node>
+    <node id="&quot;&#24178;&#21683;&#19981;&#27490;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">16de3b7e704414f8df3115cc09566e45</data>
+    </node>
+    <node id="&quot;&#32954;&#27668;&#32959;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">16de3b7e704414f8df3115cc09566e45,4e1937ab13a11fa46637c8240a54a420</data>
+    </node>
+    <node id="&quot;&#24066;&#29572;&#27494;&#21306;&quot;">
+      <data key="d0">"ADDRESS"</data>
+      <data key="d1">"Address of the patient, located in Xuanwu District.")("entity"</data>
+      <data key="d2">a55f713ec2cac0d5d8d5eae1ea6a3d38</data>
+    </node>
+    <node id="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">23cbd6dcaf0729c80c8e9d69584f89a5,a55f713ec2cac0d5d8d5eae1ea6a3d38</data>
+    </node>
+    <node id="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;">
+      <data key="d0">"SYMPTOM"</data>
+      <data key="d1">"Symptom of an allergic asthma, worsening in the morning.")("entity"</data>
+      <data key="d2">23cbd6dcaf0729c80c8e9d69584f89a5</data>
+    </node>
+    <node id="&quot;&#33945;&#21476;&#33258;&#27835;&#21306;&#12289;&#23425;&#22799;&#22238;&#26063;&#33258;&#27835;&#21306;&quot;">
+      <data key="d0">"ADDRESS"</data>
+      <data key="d1">"The regions of Mongolia Autonomous Region and Ningxia Hui Autonomous Region.")("entity"</data>
+      <data key="d2">4da50c150a988b8046fdd78d431fe05f</data>
+    </node>
+    <node id="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d0">"SYMPTOM"</data>
+      <data key="d1">The entity "\u54b3\u55fd\u6301\u7eed\u8d85\u8fc7\u4e00\u5468" refers to a persistent cough lasting more than one week, which is a symptom experienced by a patient. This description provides insight into the medical condition being observed or treated, highlighting the duration and nature of the cough as a key indicator in the patient's health status.</data>
+      <data key="d2">724af534bc52e6436cde8a8d0b9617a0,8da63c3f258fb1ce926ff3b07c6401b4</data>
+    </node>
+    <node id="&quot;&#27969;&#40763;&#28053;&quot;">
+      <data key="d0">"SYMPTOM"</data>
+      <data key="d1">"Symptom of an upper respiratory infection.")("entity"</data>
+      <data key="d2">4ecf146604caac568a440f10bd63a5c6</data>
+    </node>
+    <node id="&quot;&#30171;&quot;">
+      <data key="d0">"SYMPTOM"</data>
+      <data key="d1">The entity "\u75db" refers to a symptom of an unspecified nature, which can also manifest as pain experienced by the patient. This symptom is broad and non-specific, encompassing various types of discomfort or distress that may be reported by individuals in medical contexts.</data>
+      <data key="d2">4e1937ab13a11fa46637c8240a54a420,90a11c7b750ad34ff3e9c7fa748e6bdd</data>
+    </node>
+    <node id="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;">
+      <data key="d0">"DIAGNOSIS"</data>
+      <data key="d1">"Diagnosis given by the doctor for a patient with symptoms like wheezing and cough.")("entity"</data>
+      <data key="d2">8434b7631600ad11339c68ac9185f78c</data>
+    </node>
+    <node id="&quot;&#21693;&#21897;&#28814;&quot;">
+      <data key="d0">"DIAGNOSIS"</data>
+      <data key="d1">Entity: "&#21693;&#28814;"
+
+Summary: The entity "&#21693;&#28814;" (Bian Yan, commonly translated as Pharyngitis) is diagnosed by a doctor based on symptoms such as a sore throat. This diagnosis involves the inflammation of the pharynx, which is the back of the throat including the tonsils and the area behind the nose and mouth.</data>
+      <data key="d2">3daa0abcfefe64afaa9d231b6aa6f31d,724af534bc52e6436cde8a8d0b9617a0</data>
+    </node>
+    <node id="&quot;&#21683;&#22013;&#12289;&#21683;&#30192;&#12289;&#21683;&#34880;&#12289;&#21693;&#21897;&#30171;&#12289;&#21457;&#28909;&#12289;&#27969;&#24863;&#12289;&#27969;&#40763;&#28053;&#12289;&#25171;&#21943;&#22159;&#12289;&#21628;&#21560;&#22256;&#38590;&#12289;&#27668;&#21912;&#12289;&#33016;&#38391;&#12289;&#33016;&#30171;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3daa0abcfefe64afaa9d231b6aa6f31d,dd4d34a5504111e1ae4a5a68aa261d36</data>
+    </node>
+    <node id="&quot;&#32954;&#28814;&#12289;&#32954;&#32467;&#26680;&#12289;&#25903;&#27668;&#31649;&#21742;&#21912;&#12289;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&#12289;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&#12289;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&#12289;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3daa0abcfefe64afaa9d231b6aa6f31d,dd4d34a5504111e1ae4a5a68aa261d36</data>
+    </node>
+    <node id="&quot;&#22256;&#38590;&quot;">
+      <data key="d0">"SYMPTOM"</data>
+      <data key="d1">"Symptom of difficulty in breathing or discomfort.")("entity"</data>
+      <data key="d2">cf412b627de16fcbd0e5089005347418</data>
+    </node>
+    <node id="&quot;&#39640;&#28903;&#21683;&#22013;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cf412b627de16fcbd0e5089005347418</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#23385;&#20426;&#29618;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8afe1c74b28f220d81b93bd98d452657</data>
+    </node>
+    <node id="&quot;&#20029;&#38745;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"Patient named Li Jing, 35 years old, from Guangdong Province, Hangzhou City, Gulou District.")("entity"</data>
+      <data key="d2">9ea4318a6d6cdaf1a03ba7b7e96dd731</data>
+    </node>
+    <node id="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9ea4318a6d6cdaf1a03ba7b7e96dd731,f67a20cd7a33f564eb812af04568314f</data>
+    </node>
+    <node id="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9ea4318a6d6cdaf1a03ba7b7e96dd731</data>
+    </node>
+    <node id="&quot;&#25991;&#29747;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"Patient named Wen Lin, 69 years old, from Sichuan Province, Wuhan City, Su Su District.")("entity"</data>
+      <data key="d2">724af534bc52e6436cde8a8d0b9617a0</data>
+    </node>
+    <node id="&quot;&#38686;&quot;">
+      <data key="d0">"PATIENT"</data>
+      <data key="d1">"Patient named Xia, 89 years old, from Shanghai City, Hangzhou District, Tianhe Area.")("entity"</data>
+      <data key="d2">d5729d9f64a418605dad63f2a1ce7017</data>
+    </node>
+    <node id="&quot;20&quot;">
+      <data key="d0">"AGE"</data>
+      <data key="d1">"Age of the patient, 20 years old.")("entity"</data>
+      <data key="d2">116504db0045e8f2ac3bd9028b5b4f2f</data>
+    </node>
+    <node id="&quot;26&quot;">
+      <data key="d0">"AGE"</data>
+      <data key="d1">"Age of the patient, 26 years old.")("entity"</data>
+      <data key="d2">f67a20cd7a33f564eb812af04568314f</data>
+    </node>
+    <node id="&quot;&#24180;&#40836;55&quot;">
+      <data key="d0">"AGE"</data>
+      <data key="d1">"Age of the patient, 55 years old.")("entity"</data>
+      <data key="d2">dd4d34a5504111e1ae4a5a68aa261d36</data>
+    </node>
+    <node id="&quot;&#40836;50&quot;">
+      <data key="d0">"AGE"</data>
+      <data key="d1">"Age of the patient, 50 years old.")("entity"</data>
+      <data key="d2">9802074ef014c85cfdce8e2b69c8ecc9</data>
+    </node>
+    <node id="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;">
+      <data key="d0">"DIAGNOSIS"</data>
+      <data key="d1">"Diagnosis given by the doctor for a patient with chronic obstructive pulmonary disease.")("entity"</data>
+      <data key="d2">a08d1c72042af55e6e478c0c9e8c0dfe</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#26446;&#22235;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a08d1c72042af55e6e478c0c9e8c0dfe</data>
+    </node>
+    <node id="&quot;&#21683;&#22013;&quot;">
+      <data key="d0">"SYMPTOM"</data>
+      <data key="d1">"Symptom of an upper respiratory infection.")("entity"</data>
+      <data key="d2">224127bdb35d4ea980949c5d97b54e99</data>
+    </node>
+    <node id="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">224127bdb35d4ea980949c5d97b54e99</data>
+    </node>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#32954;&#28814;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The entities "\u54bd\u5589\u75db\u4f34\u53d1\u70ed" (sore throat) and "\u80ba\u708e" (throat pain) can both be associated with pneumonia. Throat pain, often described as sore throat or \u80ba\u708e, along with fever, are indicative symptoms of pneumonia, particularly when accompanied by other respiratory symptoms such as coughing or shortness of breath. These symptoms collectively suggest the presence of pneumonia and warrant further medical evaluation.</data>
+      <data key="d5">7de2ef3945db60206a41864a90159565,90a11c7b750ad34ff3e9c7fa748e6bdd</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sore throat and fever are common symptoms of upper respiratory infection."</data>
+      <data key="d5">6daff0130e83f12fc6b7580ca840bc32</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sore throat accompanied by fever can be associated with allergic asthma in some cases."</data>
+      <data key="d5">a55f713ec2cac0d5d8d5eae1ea6a3d38</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#25903;&#27668;&#31649;&#21742;&#21912;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sore throat accompanied by fever can be symptoms of bronchial asthma."</data>
+      <data key="d5">8434b7631600ad11339c68ac9185f78c</data>
+    </edge>
+    <edge source="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;" target="&quot;&#38686;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sore throat and fever are common symptoms in the patient Xia."</data>
+      <data key="d5">d5729d9f64a418605dad63f2a1ce7017</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Persistent cough for more than a week is a common symptom of pneumonia."</data>
+      <data key="d5">8da63c3f258fb1ce926ff3b07c6401b4</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#39640;&#28903;&#21683;&#22013;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"High fever and cough can be symptoms of pneumonia."</data>
+      <data key="d5">cf412b627de16fcbd0e5089005347418</data>
+    </edge>
+    <edge source="&quot;&#32954;&#28814;&quot;" target="&quot;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pain can be a symptom associated with pneumonia."</data>
+      <data key="d5">90a11c7b750ad34ff3e9c7fa748e6bdd</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Difficulty in breathing is a common symptom of tuberculosis."</data>
+      <data key="d5">9802074ef014c85cfdce8e2b69c8ecc9,d0abee480f5937c9f46611c291722a30</data>
+    </edge>
+    <edge source="&quot;&#21628;&#21560;&#22256;&#38590;&quot;" target="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Difficulty in breathing can be a symptom of upper respiratory infection."</data>
+      <data key="d5">116504db0045e8f2ac3bd9028b5b4f2f</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#24739;&#32773;&#23385;&#20426;&#29618;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Persistent dry cough can be a symptom of pulmonary tuberculosis."</data>
+      <data key="d5">8afe1c74b28f220d81b93bd98d452657</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#27969;&#40763;&#28053;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Symptom of an upper respiratory infection."</data>
+      <data key="d5">4ecf146604caac568a440f10bd63a5c6</data>
+    </edge>
+    <edge source="&quot;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&quot;" target="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Severe nighttime cough is a common symptom of upper respiratory infection."</data>
+      <data key="d5">f67a20cd7a33f564eb812af04568314f</data>
+    </edge>
+    <edge source="&quot;&#24178;&#21683;&#19981;&#27490;&quot;" target="&quot;&#32954;&#27668;&#32959;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Persistent dry cough can be a symptom of emphysema."</data>
+      <data key="d5">16de3b7e704414f8df3115cc09566e45</data>
+    </edge>
+    <edge source="&quot;&#32954;&#27668;&#32959;&quot;" target="&quot;&#30171;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pain can be associated with pulmonary emphysema, though not directly listed as a primary symptom."</data>
+      <data key="d5">4e1937ab13a11fa46637c8240a54a420</data>
+    </edge>
+    <edge source="&quot;&#36807;&#25935;&#24615;&#21742;&#21912;&quot;" target="&quot;&#26216;&#36215;&#21683;&#22013;&#21152;&#21095;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Morning coughing exacerbation is a common symptom of allergic asthma."</data>
+      <data key="d5">23cbd6dcaf0729c80c8e9d69584f89a5</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;" target="&quot;&#21693;&#21897;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Persistent cough for more than one week can be a symptom of pharyngitis."</data>
+      <data key="d5">724af534bc52e6436cde8a8d0b9617a0</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&#12289;&#21683;&#30192;&#12289;&#21683;&#34880;&#12289;&#21693;&#21897;&#30171;&#12289;&#21457;&#28909;&#12289;&#27969;&#24863;&#12289;&#27969;&#40763;&#28053;&#12289;&#25171;&#21943;&#22159;&#12289;&#21628;&#21560;&#22256;&#38590;&#12289;&#27668;&#21912;&#12289;&#33016;&#38391;&#12289;&#33016;&#30171;&quot;" target="&quot;&#32954;&#28814;&#12289;&#32954;&#32467;&#26680;&#12289;&#25903;&#27668;&#31649;&#21742;&#21912;&#12289;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&#12289;&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;&#12289;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&#12289;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The provided entities are related to medical conditions or symptoms that can manifest in the respiratory system. The descriptions indicate that these symptoms are associated with a variety of respiratory conditions such as pneumonia, tuberculosis, asthma (referred to as "bronchial asthma" in one description), chronic obstructive pulmonary disease (COPD), upper respiratory infection, acute bronchitis, and influenza.
+
+These conditions can affect different parts of the respiratory system, including the lungs and airways. The symptoms described are likely to include coughing, shortness of breath, chest pain, fever, and in some cases, difficulty breathing or wheezing. These descriptions collectively suggest a broad spectrum of respiratory issues that could be encountered in clinical settings.
+
+The entities mentioned, such as "\u54b3\u55fd" (pneumonia), "\u54b3\u75f0" (tuberculosis), "\u54b3\u8840" (bronchial asthma), "\u54bd\u5589\u75db" (COPD), "\u53d1\u70ed" (upper respiratory infection), "\u6d41\u611f" (acute bronchitis), and "\u6c14\u5598" (influenza), are all related to the same group of respiratory conditions. The descriptions highlight that these conditions can present with similar symptoms, making diagnosis challenging without proper medical evaluation.
+
+The second description includes "&#19978;&#21628;&#21560;&#36947;&#24863;&#26579;" which translates to "upper respiratory infection," and "&#27969;&#21033;&#24615;&#27668;&#31649;&#31649;&#29702;" which could be a misinterpretation or typo; it is likely meant to refer to "&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;" (acute bronchitis) as mentioned in the first description. The term "\u6025\u6027\u652f\u6c14\u7ba1\u708e" could be a specific medical condition or a combination of symptoms, but it is not commonly recognized in standard medical terminology and might need further clarification.
+
+In summary, the provided entities are associated with various respiratory conditions that can cause similar symptoms such as coughing, shortness of breath, chest pain, fever, and difficulty breathing. These conditions include pneumonia, tuberculosis, bronchial asthma, COPD, upper respiratory infection, acute bronchitis, and influenza.</data>
+      <data key="d5">3daa0abcfefe64afaa9d231b6aa6f31d,dd4d34a5504111e1ae4a5a68aa261d36</data>
+    </edge>
+    <edge source="&quot;&#22812;&#38388;&#21683;&#22013;&#20005;&#37325;&quot;" target="&quot;&#24613;&#24615;&#25903;&#27668;&#31649;&#28814;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Severe nighttime cough can be a symptom of acute bronchitis."</data>
+      <data key="d5">9ea4318a6d6cdaf1a03ba7b7e96dd731</data>
+    </edge>
+    <edge source="&quot;&#24930;&#24615;&#38459;&#22622;&#24615;&#32954;&#30149;&quot;" target="&quot;&#24739;&#32773;&#26446;&#22235;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chronic obstructive pulmonary disease is a diagnosis for Patient Li Si."</data>
+      <data key="d5">a08d1c72042af55e6e478c0c9e8c0dfe</data>
+    </edge>
+    <edge source="&quot;&#21683;&#22013;&quot;" target="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cough is a common symptom of influenza."</data>
+      <data key="d5">224127bdb35d4ea980949c5d97b54e99</data>
+    </edge>
+  </graph>
+</graphml>

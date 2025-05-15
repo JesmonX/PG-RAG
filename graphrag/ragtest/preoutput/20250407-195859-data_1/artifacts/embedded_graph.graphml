@@ -1,0 +1,1096 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&lt;&quot;&#37034;&#23569;&#20853;&#29579;&quot;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"&#37034;&#23569;&#20853;&#29579;" is a network novel written by Binghuoweyang and serialized on Qifengtianxia.&gt;</data>
+      <data key="d2">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </node>
+    <node id="&lt;&quot;&#20912;&#28779;&#26410;&#22830;&quot;&gt;">
+      <data key="d0">&lt;&#20316;&#32773;&gt;</data>
+      <data key="d1">&lt;"Ice Fire Unending" is the author of the novel "&#37034;&#23569;&#20853;&#29579;".&gt;</data>
+      <data key="d2">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </node>
+    <node id="&lt;&quot;GV-971&quot;&gt;">
+      <data key="d0">&lt;&#33322;&#22825;&#25216;&#26415;&gt;</data>
+      <data key="d1">&lt;"GV-971 is a drug developed by a joint effort between Ocean University of China, Shanghai Institute of Materia Medica under Chinese Academy of Sciences (CAS), and Green Valley Pharmaceutical Co., Ltd. It is an oligosaccharide molecule extracted from seaweed."&gt;</data>
+      <data key="d2">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </node>
+    <node id="&lt;&quot;&#20013;&#22269;&#28023;&#27915;&#22823;&#23398;&quot;&gt;">
+      <data key="d0">&lt;&#20844;&#21496;&gt;</data>
+      <data key="d1">&lt;"Ocean University of China is a higher education institution in Qingdao, Shandong Province, China."&gt;</data>
+      <data key="d2">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </node>
+    <node id="&lt;&quot;&#20013;&#22269;&#31185;&#23398;&#38498;&#19978;&#28023;&#33647;&#29289;&#30740;&#31350;&#25152;&quot;&gt;">
+      <data key="d0">&lt;&#20844;&#21496;&gt;</data>
+      <data key="d1">&lt;"Shanghai Institute of Materia Medica under Chinese Academy of Sciences (CAS) is an institute dedicated to the research and development of pharmaceuticals in Shanghai, China."&gt;</data>
+      <data key="d2">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </node>
+    <node id="&lt;&quot;&#19978;&#28023;&#32511;&#35895;&#21046;&#33647;&#26377;&#38480;&#20844;&#21496;&quot;&gt;">
+      <data key="d0">&lt;&#20844;&#21496;&gt;</data>
+      <data key="d1">&lt;"Green Valley Pharmaceutical Co., Ltd. is a pharmaceutical company based in Shanghai, China."&gt;</data>
+      <data key="d2">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </node>
+    <node id="&lt;&quot;&#21556;&#23431;&#26862;&quot;&gt;">
+      <data key="d0">&lt;&#28436;&#21592;&gt;</data>
+      <data key="d1">&lt;"Wu Yusan is a renowned Chinese film director known for his action and crime films, including 'The Killer' and 'A Better Tomorrow'."&gt;</data>
+      <data key="d2">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </node>
+    <node id="&lt;&quot;&#36771;&#25163;&#31070;&#25506;&quot;&gt;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </node>
+    <node id="&lt;&quot;&#21476;&#40857;&quot;&gt;">
+      <data key="d0">&lt;&#21382;&#21490;&#20154;&#29289;&gt;</data>
+      <data key="d1">&lt;"Kong Long, also known as Gu Long, was a famous Chinese writer and martial arts novelist who created many iconic characters in his works."&gt;</data>
+      <data key="d2">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </node>
+    <node id="&lt;&quot;&#26970;&#30041;&#39321;&quot;&gt;">
+      <data key="d0">&lt;&#28436;&#21592;&gt;</data>
+      <data key="d1">The entity "&lt;\"A fictional character from Gu Long's novels, portrayed by multiple actors. In 2011, Zhang Zhiyao played this role in 'Chu Lvxiang New Legend', maintaining a strong and handsome image.\"" and the description "Chu Liuxiang is a fictional character from the novels of Gu Long. Many actors have portrayed this role, including Zhang Zhiyao in 2011's 'New Chu Liuxiang Story'." refer to the same entity. Both descriptions indicate that Chu Liuxiang (or Chu Lvxiang) is a fictional character created by author Gu Long and has been played by various actors over time. Specifically, in 2011, Zhang Zhiyao portrayed this role in the television series "Chu Lvxiang New Legend," presenting an image characterized as strong and handsome.
+
+This summary resolves any potential contradictions between the two descriptions and combines their information to provide a cohesive overview of Chu Liuxiang's character and portrayal.</data>
+      <data key="d2">33a26d3ec4ea073ea810db39b0bbae40,fedc4e406c65e2c903b6d8b23659c7cc</data>
+    </node>
+    <node id="&lt;&quot;&#21476;&#40857;&#23567;&#35828;&#20154;&#29289;&#26970;&#30041;&#39321;&quot;&gt;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </node>
+    <node id="&lt;&quot;&#24352;&#26234;&#23591;&quot;&gt;">
+      <data key="d0" />
+      <data key="d1">The entity "&lt;\u5f20\u667a\u5c27&gt;" refers to Zhang Zhiyao, a renowned Chinese actor known for his roles in various TV series and dramas. In 2011, he played the character Chu Lvxiang in "Chu Lvxiang New Legend," showcasing his enduring charm at the age of 36.</data>
+      <data key="d2">33a26d3ec4ea073ea810db39b0bbae40,fedc4e406c65e2c903b6d8b23659c7cc</data>
+    </node>
+    <node id="&lt;&quot;&#26080;&#30031;&#30340;&#32422;&#32752;&quot;&gt;">
+      <data key="d0">&lt;"&#21382;&#21490;&#20154;&#29289;"&gt;</data>
+      <data key="d1">&lt;"John the Fearless, a historical figure and son of Duke of Flanders Philip II. He was involved in political conflicts during the Hundred Years' War."</data>
+      <data key="d2">fedc4e406c65e2c903b6d8b23659c7cc</data>
+    </node>
+    <node id="&lt;&quot;&#33778;&#21033;&#26222;&#20108;&#19990;&quot;&gt;">
+      <data key="d0">&lt;"&#21382;&#21490;&#20154;&#29289;"&gt;</data>
+      <data key="d1">&lt;"Philip II, also known as Philip the Good, was the Duke of Burgundy who ruled from 1419 to 1467. He was the father of John the Fearless and a significant figure in European history."</data>
+      <data key="d2">fedc4e406c65e2c903b6d8b23659c7cc</data>
+    </node>
+    <node id="&lt;&quot;&#36149;&#38451;&#37329;&#40857;&#25151;&#22320;&#20135;&#24320;&#21457;&#26377;&#38480;&#36131;&#20219;&#20844;&#21496;&quot;&gt;">
+      <data key="d0">&lt;"&#20844;&#21496;"&gt;</data>
+      <data key="d1">&lt;"Guilin Jinlong Real Estate Development Co., Ltd. was established in 2002 and operates in real estate development."</data>
+      <data key="d2">fedc4e406c65e2c903b6d8b23659c7cc</data>
+    </node>
+    <node id="&#29702;&#20116;&#19990;">
+      <data key="d0">&#21382;&#21490;&#20154;&#29289;</data>
+      <data key="d1">&#29702;&#20116;&#19990;&#20146;&#25163;&#24314;&#31435;&#22823;&#22909;&#23616;&#21183;&#65292;&#26080;&#30031;&#30340;&#32422;&#32752;&#22842;&#21462;&#25668;&#25919;&#26435;&#65292;&#21518;&#19982;&#33521;&#29579;&#20136;&#21033;&#20116;&#19990;&#30473;&#26469;&#30524;&#21435;</data>
+      <data key="d2">4fbbc513536d4c28f503445ddba053c4</data>
+    </node>
+    <node id="&#32422;&#32752;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4fbbc513536d4c28f503445ddba053c4</data>
+    </node>
+    <node id="&#36149;&#38451;&#37329;&#40857;&#25151;&#22320;&#20135;&#24320;&#21457;&#26377;&#38480;&#36131;&#20219;&#20844;&#21496;">
+      <data key="d0">&#20844;&#21496;</data>
+      <data key="d1">&#25104;&#31435;&#20110;2002&#24180;11&#26376;19&#26085;&#65292;&#22320;&#28857;&#22312;&#36149;&#38451;&#24066;&#35266;&#23665;&#28246;&#21306;</data>
+      <data key="d2">4fbbc513536d4c28f503445ddba053c4</data>
+    </node>
+    <node id="&#29579;&#26690;&#33603;">
+      <data key="d0">&#21382;&#21490;&#20154;&#29289;</data>
+      <data key="d1">&#27597;&#20146;&#24525;&#30171;&#25226;&#24188;&#23376;&#26753;&#24605;&#31036;&#36865;&#21040;&#32654;&#22269;&#23398;&#20064;&#31185;&#23398;&#25216;&#26415;</data>
+      <data key="d2">4fbbc513536d4c28f503445ddba053c4</data>
+    </node>
+    <node id="&#26753;&#24605;&#31036;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4fbbc513536d4c28f503445ddba053c4</data>
+    </node>
+    <node id="&#23431;&#25991;&#23077;&#33521;">
+      <data key="d0">&#21382;&#21490;&#20154;&#29289;</data>
+      <data key="d1">&#38539;&#25991;&#24093;&#20043;&#22899;&#65292;&#27597;&#20146;&#20026;&#20048;&#24179;&#20844;&#20027;&#26472;&#20029;&#21326;&#65292;&#22312;&#21271;&#21608;&#26102;&#26399;&#35806;&#19979;&#20844;&#20027;</data>
+      <data key="d2">4fbbc513536d4c28f503445ddba053c4</data>
+    </node>
+    <node id="&#20048;&#24179;&#20844;&#20027;&#26472;&#20029;&#21326;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4fbbc513536d4c28f503445ddba053c4</data>
+    </node>
+    <node id="&#38446;&#22269;&#40857;">
+      <data key="d0">&#28436;&#21592;</data>
+      <data key="d1">\962e\56fd\9f99 is a model from Dalian, with an height of 170cm and a weight of 63kg. She was born on February 19, 1988.</data>
+      <data key="d2">4fbbc513536d4c28f503445ddba053c4,ae289c646257b5ff347096798e3e2e79</data>
+    </node>
+    <node id="&#25991;&#24093;&#20043;&#22899;&#20048;&#24179;&#20844;&#20027;&#26472;&#20029;&#21326;">
+      <data key="d0">&#21382;&#21490;&#20154;&#29289;</data>
+      <data key="d1">&#25991;&#24093;&#20043;&#22899;&#20048;&#24179;&#20844;&#20027;&#26472;&#20029;&#21326;&#26159;&#38539;&#26397;&#26102;&#26399;&#30340;&#20154;&#29289;&#65292;&#23233;&#32473;&#20102;&#21271;&#21608;&#23459;&#24093;&#23431;&#25991;&#36191;&#65292;&#24182;&#35806;&#19979;&#20102;&#21271;&#21608;&#20844;&#20027;&#23431;&#25991;&#23077;&#33521;&#12290;</data>
+      <data key="d2">ae289c646257b5ff347096798e3e2e79</data>
+    </node>
+    <node id="&#33521;&#36798;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ae289c646257b5ff347096798e3e2e79</data>
+    </node>
+    <node id="&#12298;&#20013;&#22269;&#21916;&#21095;&#29579;&#12299;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ae289c646257b5ff347096798e3e2e79</data>
+    </node>
+    <node id="&#12298;&#27515;&#20129;&#24187;&#35273;&#12299;">
+      <data key="d0">&#30005;&#35270;&#21095;</data>
+      <data key="d1">&#12298;&#27515;&#20129;&#24187;&#35273;&#12299;&#26159;&#35199;&#29677;&#29273;&#24748;&#30097;&#22823;&#24072;&#22885;&#37324;&#22885;&#23572;&#183;&#20445;&#32599;&#25191;&#23548;&#30340;&#30005;&#24433;&#65292;&#35762;&#36848;&#22899;&#20027;&#20154;&#20844;&#32500;&#25289;&#24847;&#22806;&#25327;&#25937;&#30007;&#23401;&#23612;&#20811;&#21518;&#24341;&#21457;&#30340;&#25925;&#20107;&#12290;</data>
+      <data key="d2">ae289c646257b5ff347096798e3e2e79</data>
+    </node>
+    <node id="&#22885;&#37324;&#22885;&#23572;&#183;&#20445;&#32599;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ae289c646257b5ff347096798e3e2e79</data>
+    </node>
+    <node id="&#12298;&#27515;&#20129;&#24187;&#35273;}">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ae289c646257b5ff347096798e3e2e79</data>
+    </node>
+    <node id="&lt;&quot;&#26446;&#21452;&#27743;&#22827;&#22919;&quot;&gt;">
+      <data key="d0">&lt;"&#28436;&#21592;"&gt;</data>
+      <data key="d1">&lt;"A couple known for their love and affection towards their child, currently facing regret due to the actions of their son Li Tianyi."&gt;</data>
+      <data key="d2">8cf17007f4da4469c12f97561b2dff52</data>
+    </node>
+    <node id="&lt;&quot;&#27178;&#24215;&#38598;&#22242;&quot;&gt;">
+      <data key="d0">&lt;"&#20844;&#21496;"&gt;</data>
+      <data key="d1">&lt;"A business group headquartered in Dongyang, Zhejiang, led by Duan Yong'an as its chairman and president."&gt;</data>
+      <data key="d2">8cf17007f4da4469c12f97561b2dff52</data>
+    </node>
+    <node id="&lt;&quot;&#21556;&#20891;&quot;&gt;">
+      <data key="d0">&lt;"&#28436;&#21592;"&gt;</data>
+      <data key="d1">&lt;"A performer who worked in Hunan Province's opera troupe in 1982 and won an award for his performances."&gt;</data>
+      <data key="d2">8cf17007f4da4469c12f97561b2dff52</data>
+    </node>
+    <node id="&lt;&quot;&#25166;&#35199;&#39039;&#29664;&quot;&gt;">
+      <data key="d0">&lt;"&#27468;&#25163;"&gt;</data>
+      <data key="d1">&lt;"Zaxi Dongzhu, son of famous Yunnan Diqing singer Zong Yongzhuo, who won sixth place in the second Good Boys competition but is recognized for his talent."&gt;</data>
+      <data key="d2">8cf17007f4da4469c12f97561b2dff52</data>
+    </node>
+    <node id="&#8220;&#32418;&#23401;&#23376;&#8212;&#8212;&#25166;&#35199;&#39039;&#29664;&#8221;">
+      <data key="d0">&#27468;&#25163;</data>
+      <data key="d1">&#25166;&#35199;&#39039;&#29664;&#26159;&#20113;&#21335;&#36842;&#24198;&#33879;&#21517;&#27468;&#25163;&#23447;&#24248;&#21331;&#29595;&#30340;&#23453;&#36125;&#20799;&#23376;&#65292;&#26366;&#21442;&#21152;&#31532;&#20108;&#23626;&#22909;&#30007;&#20799;&#35780;&#36873;&#24182;&#33719;&#24471;&#31532;&#20845;&#21517;&#12290;&#20182;&#25512;&#20986;&#30340;&#19987;&#36753;&#12298;&#25166;&#35199;&#39039;&#29664;&#12299;&#20197;&#29616;&#20195;&#20803;&#32032;&#35808;&#37322;&#27665;&#27468;&#32463;&#20856;&#65292;&#36194;&#24471;&#20247;&#22810;&#31881;&#19997;&#12290;</data>
+      <data key="d2">bc1d4f1d340fc779e3a9fe2c615e43a8</data>
+    </node>
+    <node id="&#38472;&#32500;&#28085;">
+      <data key="d0">&#28436;&#21592;</data>
+      <data key="d1">&#38472;&#32500;&#28085;&#26159;&#20013;&#22269;&#36797;&#23425;&#20154;&#65292;&#27605;&#19994;&#20110;&#20013;&#22830;&#25103;&#21095;&#23398;&#38498;&#65292;&#29616;&#20026;&#20013;&#22269;&#20154;&#27665;&#35299;&#25918;&#20891;&#31354;&#20891;&#25919;&#27835;&#37096;&#30005;&#35270;&#33402;&#26415;&#20013;&#24515;&#30340;&#28436;&#21592;&#12290;</data>
+      <data key="d2">bc1d4f1d340fc779e3a9fe2c615e43a8</data>
+    </node>
+    <node id="&#25166;&#35199;&#39039;&#29664;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bc1d4f1d340fc779e3a9fe2c615e43a8</data>
+    </node>
+    <node id="&#27468;&#25163;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bc1d4f1d340fc779e3a9fe2c615e43a8</data>
+    </node>
+    <node id="&#28436;&#21592;">
+      <data key="d0" />
+      <data key="d1">The entity "\u6f14\u5458" (which translates to "Artist") has been involved in a completed recording session, as indicated by the description "\u5a36\u4e86\u90ed\u853c\u660e" (which means "Completed recording evidence"). This suggests that the artist has recently concluded work on a music production or audio recording project.</data>
+      <data key="d2">45025f44f4cbef0d6116287f26a69562,bc1d4f1d340fc779e3a9fe2c615e43a8</data>
+    </node>
+    <node id="&#28201;&#24030;&#21326;&#27888;&#35686;&#31034;&#35774;&#22791;&#26377;&#38480;&#20844;&#21496;">
+      <data key="d0">&#20844;&#21496;</data>
+      <data key="d1">The entity "\u6e29\u5dde\u534e\u6cf0\u8b66\u793a\u8bbe\u5907\u6709\u9650\u516c\u53f8" is a professional manufacturer of warning equipment established in 2006. The company focuses on producing high-quality warning devices and operates with principles of integrity, brand value, and market orientation.</data>
+      <data key="d2">bc1d4f1d340fc779e3a9fe2c615e43a8,f26620ad8ffae513481da4de469309e0</data>
+    </node>
+    <node id="&#26446;&#28851;&#29031;">
+      <data key="d0">&#28436;&#21592;</data>
+      <data key="d1">Air Force Political Department TV Art Focus actor</data>
+      <data key="d2">f26620ad8ffae513481da4de469309e0</data>
+    </node>
+    <node id="&#29579;&#23439;&#27954;">
+      <data key="d0">&#28436;&#21592;</data>
+      <data key="d1">Not specified in the text, but inferred as a co-author of a book on mathematics</data>
+      <data key="d2">f26620ad8ffae513481da4de469309e0</data>
+    </node>
+    <node id="&#12298;&#24278;&#23478;&#12299;">
+      <data key="d0">&#30005;&#35270;&#21095;</data>
+      <data key="d1">Not specified in the text, but inferred as a TV drama</data>
+      <data key="d2">f26620ad8ffae513481da4de469309e0</data>
+    </node>
+    <node id="&#36158;&#19968;&#24179;">
+      <data key="d0">&#28436;&#21592;</data>
+      <data key="d1">The entity "\u8d3e\u4e00\u5e73" refers to Jia Yiping, a Chinese actor known for his roles in various TV dramas and films. Recently, he has been more open about his personal life, revealing that he is married with a 3-year-old child. Additionally, it can be inferred from the text that Jia Yiping appeared in the TV drama "Lia."</data>
+      <data key="d2">6dc0a3ff01d0686a59e373aa9004c26c,f26620ad8ffae513481da4de469309e0</data>
+    </node>
+    <node id="&#33891;&#26195;&#29141;">
+      <data key="d0">&#28436;&#21592;</data>
+      <data key="d1">Dong Xiaoyan is a Chinese actress associated with the media events of the TV drama "The Liao Family" in Beijing. While she has not been widely publicized, it is known that she is married to actor Jia Yiping and they have a 3-year-old child together. Although her specific role or scenes from the drama are not detailed, she is recognized for her appearance in the production.</data>
+      <data key="d2">6dc0a3ff01d0686a59e373aa9004c26c,f26620ad8ffae513481da4de469309e0</data>
+    </node>
+    <node id="&#26420;&#20449;&#24800;">
+      <data key="d0">&#27468;&#25163;/&#28436;&#21592;</data>
+      <data key="d1">The entity "\u6734\u4fe1\u60e0" refers to Park Shin Hye, a South Korean actress and singer who has gained significant popularity for her roles in various dramas and films. She was reported to have been dating Choi Tae Jun since August of the previous year after they were seen together multiple times.</data>
+      <data key="d2">6dc0a3ff01d0686a59e373aa9004c26c,f26620ad8ffae513481da4de469309e0</data>
+    </node>
+    <node id="&#23828;&#27888;&#20426;">
+      <data key="d0">&#28436;&#21592;</data>
+      <data key="d1">The entity "\u5d14\u6cf0\u4fca" refers to Choi Tae Jun, a South Korean actor who has been active in the entertainment industry for some time. He is reportedly in a relationship with actress Park Shin Hye and was previously classmates with her at Central University's Drama Department.</data>
+      <data key="d2">6dc0a3ff01d0686a59e373aa9004c26c,f26620ad8ffae513481da4de469309e0</data>
+    </node>
+    <node id="&#38470;&#20113;&#30340;&#24618;&#20154;&#24072;&#20613;">
+      <data key="d0">&#21382;&#21490;&#20154;&#29289;</data>
+      <data key="d1">A mysterious historical figure who was one of the three people that disappeared from the Nine Heavens Void Realm. Known for his high cultivation level and knowledge in various schools of thought, he vanished after only a short stay in the realm before returning to the mortal world.</data>
+      <data key="d2">6dc0a3ff01d0686a59e373aa9004c26c</data>
+    </node>
+    <node id="&#20061;&#22825;&#34394;&#26080;&#30028;">
+      <data key="d0">&#33322;&#22825;&#25216;&#26415;</data>
+      <data key="d1">A fictional space realm mentioned in the text where characters can ascend through cultivation. It is described as having its own unique rules and conditions for ascension, with the highest cultivators residing there.</data>
+      <data key="d2">6dc0a3ff01d0686a59e373aa9004c26c</data>
+    </node>
+    <node id="&#32536;&#28781;&#8212;&#8212;&#21363;&#38470;&#20113;&#30340;&#24618;&#20154;&#24072;&#20613;">
+      <data key="d0">&#21382;&#21490;&#20154;&#29289;</data>
+      <data key="d1">A reference to the mysterious historical figure mentioned earlier, known by another name in the text.</data>
+      <data key="d2">6dc0a3ff01d0686a59e373aa9004c26c</data>
+    </node>
+    <node id="&#32599;&#32500;&#30005;&#24433;">
+      <data key="d0">&#30005;&#35270;&#21095;</data>
+      <data key="d1">&#32599;&#32500;&#30005;&#24433;&#20027;&#35201;&#20316;&#21697;&#21253;&#25324;&#26446;&#23567;&#40857;&#20027;&#28436;&#30340;&#12298;&#21776;&#23665;&#22823;&#20804;&#12299;&#21450;&#12298;&#31934;&#27494;&#38376;&#12299;&#65292;&#20197;&#21450;&#25104;&#40857;&#21021;&#20986;&#36947;&#26102;&#20043;&#22810;&#37096;&#30005;&#24433;&#12290;</data>
+      <data key="d2">cb159d6c4d745e991eb05135ac0ec10f</data>
+    </node>
+    <node id="&#29420;&#23396;&#20285;&#32599;">
+      <data key="d0">&#21382;&#21490;&#20154;&#29289;</data>
+      <data key="d1">&#29420;&#23396;&#20285;&#32599;&#26159;&#21382;&#21490;&#19978;&#30495;&#27491;&#23384;&#22312;&#30340;&#30343;&#21518;&#65292;&#21518;&#19982;&#26472;&#22362;&#19968;&#36215;&#24320;&#21019;&#20102;&#38539;&#26397;&#30427;&#19990;&#65292;&#24191;&#21463;&#21518;&#20154;&#31216;&#36190;&#12290;</data>
+      <data key="d2">cb159d6c4d745e991eb05135ac0ec10f</data>
+    </node>
+    <node id="&#12298;&#24494;&#24494;&#19968;&#31505;&#24456;&#20542;&#22478;&#12299;">
+      <data key="d0">&#30005;&#35270;&#21095;</data>
+      <data key="d1">&#12298;&#24494;&#24494;&#19968;&#31505;&#24456;&#20542;&#22478;&#12299;&#26159;&#19968;&#37096;&#36229;&#32423;&#28779;&#29190;&#30340;&#38738;&#26149;&#26657;&#22253;&#20598;&#20687;&#21095;&#65292;&#30001;&#37073;&#29245;&#21644;&#26472;&#27915;&#25645;&#26723;&#20986;&#28436;&#12290;</data>
+      <data key="d2">cb159d6c4d745e991eb05135ac0ec10f</data>
+    </node>
+    <node id="&#37073;&#29245;">
+      <data key="d0" />
+      <data key="d1">\90d1\723d, also known as Zheng Shuang, is a renowned Chinese actress recognized for her performances in popular TV dramas and films. She gained significant prominence during her role in "Micro Smile Makes One (&#24494;&#31505;&#22312;&#21767;&#36793;)," where she portrayed a character who underwent substantial weight loss, further enhancing her public profile and popularity.</data>
+      <data key="d2">b87d71f8d0ccbd5bae426910f3f4c374,cb159d6c4d745e991eb05135ac0ec10f</data>
+    </node>
+    <node id="&#26472;&#27915;">
+      <data key="d0" />
+      <data key="d1">The entity "\u6768\u6d0b" refers to Yang Yang, a distinguished Chinese actor known for his versatile career in both television and film. He achieved significant recognition for his leading role in the production "Micro Smile Makes One (&#24494;&#31505;&#22312;&#21767;&#36793;)".</data>
+      <data key="d2">b87d71f8d0ccbd5bae426910f3f4c374,cb159d6c4d745e991eb05135ac0ec10f</data>
+    </node>
+    <node id="&#22958;&#27468;&#25289;&#183;&#21704;&#29305;">
+      <data key="d0">&#27468;&#25163;</data>
+      <data key="d1">Nicolle Hart, also known as Nicole Cheung, is the wife of Steven Gerrard, an English national team player. She is a member of the Singapore sports club and serves as a stepdaughter to Steven Gerrard.</data>
+      <data key="d2">1acd3cda57665042306665e0efe27b3f,cb159d6c4d745e991eb05135ac0ec10f</data>
+    </node>
+    <node id="&#24432;">
+      <data key="d0">&#33322;&#22825;&#25216;&#26415;</data>
+      <data key="d1">Based on wavelet packet transform and fuzzy control for electrolytic machining gap detection and control, published in "China Mechanical Engineering" in 2006, volume 17, issue 11, pages 1170-1173.</data>
+      <data key="d2">1acd3cda57665042306665e0efe27b3f</data>
+    </node>
+    <node id="&#20811;&#20029;&#32519;&#23068;&#38598;&#22242;">
+      <data key="d0">&#20844;&#21496;</data>
+      <data key="d1">Qitian Group, with its chairman Ms. Chen Bihua winning the "Public Welfare and Love Award" in December 2012.</data>
+      <data key="d2">1acd3cda57665042306665e0efe27b3f</data>
+    </node>
+    <node id="&#24352;&#29595;&#33673;">
+      <data key="d0">&#21382;&#21490;&#20154;&#29289;</data>
+      <data key="d1">Zhang Mal&#236;, who dated Li Zhongchen (Li Xiaol&#243;ng's elder brother) for four years and eight months before finally getting married. The wedding dress was designed by Zhang Mal&#236; herself in February 1980.</data>
+      <data key="d2">1acd3cda57665042306665e0efe27b3f</data>
+    </node>
+    <node id="&#20234;&#38534;&#183;&#39532;&#26031;&#20811;">
+      <data key="d0">&#33322;&#22825;&#25216;&#26415;</data>
+      <data key="d1">Elon Musk, founder of SpaceX, excitedly posted a rocket launch image on Twitter on the same day that the company's Falcon 9 had a soft landing failure.</data>
+      <data key="d2">1acd3cda57665042306665e0efe27b3f</data>
+    </node>
+    <node id="&#33891;&#20107;&#38271;&#38472;&#30887;&#21326;&#22899;&#22763;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1acd3cda57665042306665e0efe27b3f</data>
+    </node>
+    <node id="&#26446;&#24544;&#29723;(&#26446;&#23567;&#40857;&#20043;&#20804;)">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1acd3cda57665042306665e0efe27b3f</data>
+    </node>
+    <node id="&#29454;&#40560;&#20061;&#21495;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1acd3cda57665042306665e0efe27b3f</data>
+    </node>
+    <node id="&#32654;&#22269;&#22826;&#31354;&#25506;&#32034;&#25216;&#26415;&#20844;&#21496;&#21019;&#22987;&#20154;&#20234;&#38534;&#183;&#39532;&#26031;&#20811;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1acd3cda57665042306665e0efe27b3f</data>
+    </node>
+    <node id="&lt;&quot;&#24352;&#29595;&#33673;&quot;&gt;">
+      <data key="d0">&lt;"&#28436;&#21592;"&gt;</data>
+      <data key="d1">&lt;"A designer of the show."</data>
+      <data key="d2">b54195ddcb82d0dd9c9c83c3d3b87a0b</data>
+    </node>
+    <node id="&lt;&quot;&#29454;&#40560;&#20061;&#21495;&quot;&gt;">
+      <data key="d0">&lt;"&#33322;&#22825;&#25216;&#26415;"&gt;</data>
+      <data key="d1">&lt;"A rocket developed by SpaceX, which failed in a landing test after successfully delivering a spacecraft to the International Space Station."</data>
+      <data key="d2">b54195ddcb82d0dd9c9c83c3d3b87a0b</data>
+    </node>
+    <node id="&lt;&quot;&#29454; FALCON 9&quot;&gt;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b54195ddcb82d0dd9c9c83c3d3b87a0b</data>
+    </node>
+    <node id="&lt;&quot;&#32654;&#22269;&#22826;&#31354;&#25506;&#32034;&#25216;&#26415;&#20844;&#21496;&quot;&gt;">
+      <data key="d0">&lt;"&#20844;&#21496;"&gt;</data>
+      <data key="d1">&lt;"SpaceX, a company founded by Elon Musk for developing rockets and space exploration technologies."</data>
+      <data key="d2">b54195ddcb82d0dd9c9c83c3d3b87a0b</data>
+    </node>
+    <node id="&lt;&quot;SPACEX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b54195ddcb82d0dd9c9c83c3d3b87a0b</data>
+    </node>
+    <node id="&lt;&quot;&#20234;&#38534;&#183;&#39532;&#26031;&#20811;&quot;&gt;">
+      <data key="d0">&lt;"&#33322;&#22825;&#25216;&#26415;"&gt;</data>
+      <data key="d1">&lt;"Elon Musk, the founder of SpaceX, involved in space exploration and rocket development."</data>
+      <data key="d2">b54195ddcb82d0dd9c9c83c3d3b87a0b</data>
+    </node>
+    <node id="&lt;&quot;&#26366;&#32852;&#25163;&#25171;&#36896;&#36807;&#12298;&#37027;&#24180;&#20908;&#22825;&#39118;&#22312;&#21561;&#12299;&#12289;&#12298;&#27809;&#20851;&#31995;&#65292;&#26159;&#29233;&#24773;&#21834;&#12299;&#12289;&#12298;DEAR MY FRIENDS&#12299;&#30340;&#21346;&#29081;&#20140;&#32534;&#21095;&#12289;&#37329;&#22862;&#27888;&#23548;&#28436;&#20877;&#24230;&#21512;&#20316;&quot;&gt;">
+      <data key="d0">&lt;"&#28436;&#21592;, &#30005;&#35270;&#21095;"&gt;</data>
+      <data key="d1">&lt;"Lu Xijing and Kim Kwate have collaborated on several popular dramas such as 'That Winter, the Wind Blows', 'It's Okay, It's Love', and 'Dear My Friends'."</data>
+      <data key="d2">b54195ddcb82d0dd9c9c83c3d3b87a0b</data>
+    </node>
+    <node id="&lt;&quot;&#21346;&#29081;&#20140;&#32534;&#21095;&#12289;&#37329;&#22862;&#27888;&#23548;&#28436;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b54195ddcb82d0dd9c9c83c3d3b87a0b</data>
+    </node>
+    <node id="&lt;&quot;&#12298;&#37027;&#24180;&#20908;&#22825;&#39118;&#22312;&#21561;&#12299;&#12289;&#12298;&#27809;&#20851;&#31995;&#65292;&#26159;&#29233;&#24773;&#21834;&#12299;&#12289;&#12298;DEAR MY FRIENDS&#12299;&quot;&gt;">
+      <data key="d0">&lt;"&#30005;&#35270;&#21095;"&gt;</data>
+      <data key="d1">&lt;"Popular dramas produced by Lu Xijing and Kim Kwate."</data>
+      <data key="d2">b54195ddcb82d0dd9c9c83c3d3b87a0b</data>
+    </node>
+    <node id="&#30005;&#35270;&#21095;">
+      <data key="d0">&#30005;&#35270;&#21095;</data>
+      <data key="d1">"&#37027;&#24180;&#20908;&#22825;&#39118;&#22312;&#21561;"&#12289;&#12298;&#27809;&#20851;&#31995;&#65292;&#26159;&#29233;&#24773;&#21834;&#12299;&#12289;&#12298;Dear My Friends'}"</data>
+      <data key="d2">45025f44f4cbef0d6116287f26a69562</data>
+    </node>
+    <node id="&#32534;&#21095;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45025f44f4cbef0d6116287f26a69562</data>
+    </node>
+    <node id="&#35282;&#33394;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45025f44f4cbef0d6116287f26a69562</data>
+    </node>
+    <node id="&#21382;&#21490;&#20154;&#29289;">
+      <data key="d0">&#26446;&#26174;</data>
+      <data key="d1">&#20013;&#23447;&#65292;&#26446;&#26174;&#24248;&#25062;&#26080;&#33021;&#65292;&#30343;&#21518;&#38886;&#27663;&#19982;&#23433;&#20048;&#20844;&#20027;&#24324;&#26435;"</data>
+      <data key="d2">45025f44f4cbef0d6116287f26a69562</data>
+    </node>
+    <node id="&#20799;&#23376;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45025f44f4cbef0d6116287f26a69562</data>
+    </node>
+    <node id="&#33322;&#22825;&#25216;&#26415;">
+      <data key="d0">&#37030;&#29468;&#183;&#33487;&#35199;</data>
+      <data key="d1">&#27888;&#22269;&#26368;&#39640;&#30007;&#23376;&#65292;&#36523;&#39640;2&#31859;69&#65292;&#21487;&#33021;&#26159;&#19990;&#30028;&#26368;&#39640;&#30007;"</data>
+      <data key="d2">45025f44f4cbef0d6116287f26a69562</data>
+    </node>
+    <node id="&#25551;&#36848;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45025f44f4cbef0d6116287f26a69562</data>
+    </node>
+    <node id="&lt;&#38534;&#22522;&gt;">
+      <data key="d0">&lt;&#21382;&#21490;&#20154;&#29289;&gt;</data>
+      <data key="d1">&lt;"Emperor Xuanzong of Tang, also known as Emperor Ming of Tang, ascended the throne by defeating Wei Hou's faction and changed his era name to Kaiyuan."&gt;</data>
+      <data key="d2">aff325c556e415c20ec68fdc7685f9ed</data>
+    </node>
+    <node id="&lt;&#38886;&#21518;&#38598;&#22242;&gt;">
+      <data key="d0">&lt;&#20844;&#21496;&gt;</data>
+      <data key="d1">&lt;"A group associated with Wei Hua during the Tang Dynasty."&gt;</data>
+      <data key="d2">aff325c556e415c20ec68fdc7685f9ed</data>
+    </node>
+    <node id="&lt;&#12298;&#32437;&#27178;&#38738;&#26149;&#12299;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"A network novel serialized on 17k&#23567;&#35828;&#32593;, written by Shuchen."&gt;</data>
+      <data key="d2">aff325c556e415c20ec68fdc7685f9ed</data>
+    </node>
+    <node id="&lt;&#27821;&#23576;&gt;">
+      <data key="d0">&lt;&#28436;&#21592;&gt;</data>
+      <data key="d1">&lt;"The author of the novel '&#32437;&#27178;&#38738;&#26149;'."&gt;</data>
+      <data key="d2">aff325c556e415c20ec68fdc7685f9ed</data>
+    </node>
+    <node id="&lt;&#37030;&#29468;&#183;&#33487;&#35199;&gt;">
+      <data key="d0">&lt;&#33322;&#22825;&#25216;&#26415;&gt;</data>
+      <data key="d1">&lt;"A Thai man who was reported to be the tallest living man, with a height of 2.69 meters, but died at the age of 26 due to acromegaly and other diseases in November 2015."&gt;</data>
+      <data key="d2">aff325c556e415c20ec68fdc7685f9ed</data>
+    </node>
+    <node id="&lt;&#12298;&#26970;&#20052;&#20256;&#12299;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"A TV series based on the novel 'The 11th Princess' by Qixia, which was accused of plagiarism from multiple works including 'Jiang Ziya' and 'Ruyi's Royal Love in the Palace'."&gt;</data>
+      <data key="d2">aff325c556e415c20ec68fdc7685f9ed</data>
+    </node>
+    <node id="&lt;&#12298;11&#22788;&#29305;&#24037;&#30343;&#22915;&#12299;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"A novel suspected to be plagiarized by 'The 11th Princess', which is a source for the TV series 'Empresses in the Palace'."&gt;</data>
+      <data key="d2">aff325c556e415c20ec68fdc7685f9ed</data>
+    </node>
+    <node id="&lt;&#12298;&#23490;&#23518;&#31354;&#24237;&#26149;&#27442;&#26202;&#12299;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"A novel by Fei Wode that criticized the alleged plagiarism in 'Empresses in the Palace'."&gt;</data>
+      <data key="d2">aff325c556e415c20ec68fdc7685f9ed</data>
+    </node>
+    <node id="&lt;&#21290;&#25105;&#24605;&#23384;&gt;">
+      <data key="d0">&lt;&#28436;&#21592;&gt;</data>
+      <data key="d1">&lt;"The author who wrote 'Empresses in the Palace' and criticized the alleged plagiarism in 'Empresses in the Palace' through her Weibo account."&gt;</data>
+      <data key="d2">aff325c556e415c20ec68fdc7685f9ed</data>
+    </node>
+    <node id="&lt;&#12298;&#29956;&#23323;&#20256;&#12299;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"A TV series written by Liu Liangzi, which was also involved in the plagiarism controversy with 'Empresses in the Palace'."&gt;</data>
+      <data key="d2">aff325c556e415c20ec68fdc7685f9ed</data>
+    </node>
+    <node id="&lt;&#12298;&#22914;&#25087;&#20256;&#12299;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"A TV series written by Liu Liangzi, which was also involved in the plagiarism controversy with 'Empresses in the Palace'."&gt;</data>
+      <data key="d2">aff325c556e415c20ec68fdc7685f9ed</data>
+    </node>
+    <node id="&lt;&quot;&#12298;&#23490;&#23518;&#31354;&#24237;&#26149;&#27442;&#26202;}&quot;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"The novel 'The Lonely Courtyard in Late Spring' by Fei Woshisi has publicly criticized the works of Liu Lianzi, including 'Zhen Zhen's Execution' and 'Ruyi's Revenge', for alleged plagiarism."&gt;</data>
+      <data key="d2">046bb658f43e4551399559cc9af37e17</data>
+    </node>
+    <node id="&lt;&quot;&#27969;&#28491;&#32043;&quot;&gt;">
+      <data key="d0">&lt;&#21382;&#21490;&#20154;&#29289;&gt;</data>
+      <data key="d1">&lt;"Liu Lianzi is a contemporary Chinese author who wrote novels such as 'Zhen Zhen's Execution' and 'Ruyi's Revenge'. She has been criticized by Fei Woshisi for alleged plagiarism."&gt;</data>
+      <data key="d2">046bb658f43e4551399559cc9af37e17</data>
+    </node>
+    <node id="&lt;&quot;&#21290;&#25105;&#24605;&#23384;&quot;&gt;">
+      <data key="d0">&lt;&#28436;&#21592;&gt;</data>
+      <data key="d1">&lt;"Fei Woshisi is a Chinese author known for her novels, including 'The Lonely Courtyard in Late Spring', which publicly criticized Liu Lianzi's works for alleged plagiarism."&gt;</data>
+      <data key="d2">046bb658f43e4551399559cc9af37e17</data>
+    </node>
+    <node id="&lt;&quot;&#39033;&#32701;&quot;&gt;">
+      <data key="d0">&lt;&#21382;&#21490;&#20154;&#29289;&gt;</data>
+      <data key="d1">The entity "&lt;\"Xiang Yu\"&gt;" was a historical figure known as the Western Chu Overlord during the Warring States period in ancient China. He is renowned for his exceptional military prowess, which earned him fame through significant battles such as the Battle of Julu and the Siege of Gaixia. Xiang Yu's life is also marked by well-known stories like "Breaking the Cooking Pots to Cross the River" (\u7834\u91dc\u6c89\u821f) and "Banquet at Hong Gate" (\u9e3f\u95e8\u5bb4). These tales highlight his strategic brilliance and tragic end, making him a pivotal figure in Chinese history.</data>
+      <data key="d2">046bb658f43e4551399559cc9af37e17,d0c82e92a8299cf6e93690f05801b225</data>
+    </node>
+    <node id="&lt;&quot;&#30772;&#37340;&#27785;&#33311;&quot;&gt;">
+      <data key="d0">&lt;&#33322;&#22825;&#25216;&#26415;&gt;</data>
+      <data key="d1">&lt;"The phrase 'Breaking the cooking pots and sinking the boats' is an idiom derived from Xiang Yu's strategy to show determination and leave no room for retreat in battle, unrelated to any form of aerospace technology."&gt;</data>
+      <data key="d2">046bb658f43e4551399559cc9af37e17</data>
+    </node>
+    <node id="&lt;&quot;&#40511;&#38376;&#23476;&quot;&gt;">
+      <data key="d0">&lt;&#21382;&#21490;&#20154;&#29289;&gt;</data>
+      <data key="d1">&lt;"Hongan Feast was a significant historical event during the Chu-Han Contention period, where Xiang Yu hosted Liu Bang at his camp, leading to a tense situation that foreshadowed future conflicts between them."&gt;</data>
+      <data key="d2">046bb658f43e4551399559cc9af37e17</data>
+    </node>
+    <node id="&lt;&quot;&#30005;&#20987;G'S&quot;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"&#30005;&#20987;G's" is a magazine, but in the context of the text provided, it seems to be related to some form of media or entertainment content.&gt;</data>
+      <data key="d2">d0c82e92a8299cf6e93690f05801b225</data>
+    </node>
+    <node id="&lt;&quot;&#24352;&#22269;&#33635;&quot;&gt;">
+      <data key="d0">&lt;&#27468;&#25163;&gt;</data>
+      <data key="d1">&lt;"&#24352;&#22269;&#33635;" was a renowned Hong Kong singer and actor, known for his influential works in the 1980s and 1990s.&gt;</data>
+      <data key="d2">d0c82e92a8299cf6e93690f05801b225</data>
+    </node>
+    <node id="&lt;&quot;FOREVER&#26032;&#26354;+&#31934;&#36873;&quot;&gt;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d0c82e92a8299cf6e93690f05801b225</data>
+    </node>
+    <node id="&lt;&quot;&#12298;&#26032;&#21916;&#21095;&#20043;&#29579;&#12299;&quot;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"&#12298;&#26032;&#21916;&#21095;&#20043;&#29579;&#12299;" is a film, but it can be considered as related to entertainment content which might include actors or singers.&gt;</data>
+      <data key="d2">d0c82e92a8299cf6e93690f05801b225</data>
+    </node>
+    <node id="&lt;&quot;&#22823;&#28909;&quot;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"&#22823;&#28909;" is a popular song that has gained significant popularity.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;&#36335;&#36807;&#34619;&#34579;&quot;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"&#36335;&#36807;&#34619;&#34579;" is a song, not a TV series.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;&#38506;&#20320;&#20498;&#25968;&quot;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"&#38506;&#20320;&#20498;&#25968;" is a song, not a TV series.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;TONIGHT+FOREVER&quot;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"Tonight+Forever" is a song, not a TV series.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;&#26790;&#21040;&#20869;&#27827;&quot;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"&#26790;&#21040;&#20869;&#27827;" is a song, not a TV series.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;&#27905;&#36523;&#33258;&#29233;&quot;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"&#27905;&#36523;&#33258;&#29233;" is a song, not a TV series.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;&#26376;&#20142;&#20195;&#34920;&#25105;&#30340;&#24515;&quot;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"&#26376;&#20142;&#20195;&#34920;&#25105;&#30340;&#24515;" is a song, not a TV series.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;&#26032;&#21916;&#21095;&#20043;&#29579;&quot;&gt;">
+      <data key="d0">&lt;&#30005;&#24433;&gt;</data>
+      <data key="d1">&lt;"&#26032;&#21916;&#21095;&#20043;&#29579;" is a film with a box office of 6 billion yuan.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;&#38472;&#20271;&#26449;&quot;&gt;">
+      <data key="d0">&lt;&#21382;&#21490;&#20154;&#29289;&gt;</data>
+      <data key="d1">&lt;"&#38472;&#20271;&#26449;" was a historical figure who served as the secretary and political commissar in various positions, and his wife Zhao Zixuan also held important positions.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;&#21187;&#21033;&#22320;&#22996;&#20070;&#35760;&#20860;&#20891;&#20998;&#21306;&#25919;&#22996;&quot;&gt;">
+      <data key="d0">&lt;&#32844;&#20301;&gt;</data>
+      <data key="d1">&lt;"&#21187;&#21033;&#22320;&#22996;&#20070;&#35760;&#20860;&#20891;&#20998;&#21306;&#25919;&#22996;" is a position held by Chen Bocun.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;&#20013;&#20849;&#21512;&#27743;&#30465;&#22996;&#21103;&#20070;&#35760;&#20860;&#27665;&#36816;&#37096;&#37096;&#38271;&quot;&gt;">
+      <data key="d0">&lt;&#32844;&#20301;&gt;</data>
+      <data key="d1">&lt;"&#20013;&#20849;&#21512;&#27743;&#30465;&#22996;&#21103;&#20070;&#35760;&#20860;&#27665;&#36816;&#37096;&#37096;&#38271;" is a position held by Chen Bocun's wife, Zhao Zixuan.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;&#36170;&#24215;&#32769;&#37202;&#32929;&#20221;&#26377;&#38480;&#20844;&#21496;&#33891;&#20107;&#38271;&#21333;&#26862;&#26519;&#20808;&#29983;&quot;&gt;">
+      <data key="d0">&lt;&#20844;&#21496;&gt;</data>
+      <data key="d1">&lt;"&#36170;&#24215;&#32769;&#37202;&#32929;&#20221;&#26377;&#38480;&#20844;&#21496;&#33891;&#20107;&#38271;&#21333;&#26862;&#26519;&#20808;&#29983;" is the chairman of Shadian Liquor Co., Ltd.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;&#27827;&#21335;&#36170;&#24215;&#21830;&#19994;&#26377;&#38480;&#20844;&#21496;&#38144;&#21806;&#21103;&#24635;&#30417;&#24352;&#25991;&#26143;&quot;&gt;">
+      <data key="d0">&lt;&#20844;&#21496;&gt;</data>
+      <data key="d1">&lt;"&#27827;&#21335;&#36170;&#24215;&#21830;&#19994;&#26377;&#38480;&#20844;&#21496;&#38144;&#21806;&#21103;&#24635;&#30417;&#24352;&#25991;&#26143;" is a vice general manager in charge of sales at Henan Shadian Commerce Co., Ltd.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;&#31038;&#26071;&#21439;&#27665;&#20439;&#25991;&#21270;&#30740;&#31350;&#20250;&#12289;&#20851;&#20844;&#25991;&#21270;&#30740;&#31350;&#20250;&#24635;&#39038;&#38382;&#33503;&#20041;&#20840;&quot;&gt;">
+      <data key="d0">&lt;&#20844;&#21496;&gt;</data>
+      <data key="d1">&lt;"&#31038;&#26071;&#21439;&#27665;&#20439;&#25991;&#21270;&#30740;&#31350;&#20250;&#12289;&#20851;&#20844;&#25991;&#21270;&#30740;&#31350;&#20250;&#24635;&#39038;&#38382;&#33503;&#20041;&#20840;" is a senior advisor in the cultural research associations of Sheqi County.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;&#31038;&#26071;&#21439;&#27665;&#20439;&#19987;&#23478;&#24464;&#19996;&quot;&gt;">
+      <data key="d0">&lt;&#21382;&#21490;&#20154;&#29289;&gt;</data>
+      <data key="d1">&lt;"&#31038;&#26071;&#21439;&#27665;&#20439;&#19987;&#23478;&#24464;&#19996;" is an expert in folk culture from Sheqi County.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;&#31038;&#26071;&#21439;&#20851;&#20844;&#25991;&#21270;&#30740;&#31350;&#20250;&#20250;&#38271;&#26472;&#19996;&#24658;&#12289;&#31038;&#26071;&#21439;&#27665;&#20439;&#25991;&#21270;&#30740;&#31350;&#20250;&#20250;&#38271;&#24800;&#65533;&quot;&gt;">
+      <data key="d0">&lt;&#20844;&#21496;&gt;</data>
+      <data key="d1">&lt;"&#31038;&#26071;&#21439;&#20851;&#20844;&#25991;&#21270;&#30740;&#31350;&#20250;&#20250;&#38271;&#26472;&#19996;&#24658;&#12289;&#31038;&#26071;&#21439;&#27665;&#20439;&#25991;&#21270;&#30740;&#31350;&#20250;&#20250;&#38271;&#24800;&#65533;" are the presidents of cultural research associations in Sheqi County.&gt;</data>
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&lt;&quot;&#36213;&#24535;&#33841;&quot;&gt;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d686803e1971dbc308638aa3967c532a</data>
+    </node>
+    <node id="&#8220;&#12298;&#26497;&#38480;&#25361;&#25112;4&#12299;&#8221;">
+      <data key="d0">&#30005;&#35270;&#21095;</data>
+      <data key="d1">TV show "The Challenge 4" is a popular Chinese reality competition program that features celebrity contestants living in a remote location and completing various challenges. The show has gained significant popularity among viewers, with each season bringing new dynamics and storylines.</data>
+      <data key="d2">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </node>
+    <node id="&#40644;&#28196;">
+      <data key="d0">&#28436;&#21592;</data>
+      <data key="d1">Actor Huang Bo, known for his versatile performances in both films and television series, has been a prominent figure in the Chinese entertainment industry since the 1990s. He is recognized for roles that range from comedic to dramatic, making him one of China's most beloved actors.</data>
+      <data key="d2">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </node>
+    <node id="&#23385;&#32418;&#38647;">
+      <data key="d0">&#28436;&#21592;</data>
+      <data key="d1">Actor Sun Honglei, also known as "Brother Red," has been a leading figure in the Chinese entertainment industry since the 2000s. Known for his intense and powerful acting style, he is famous for roles in both dramas and comedies.</data>
+      <data key="d2">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </node>
+    <node id="&#40644;&#30922;">
+      <data key="d0">&#28436;&#21592;</data>
+      <data key="d1">Actor Huang Le, also known as "Brother Lei," has been a prominent figure in Chinese television since the 1980s. He is well-known for his comedic roles and has also directed several successful films and TV series.</data>
+      <data key="d2">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </node>
+    <node id="&#32599;&#24535;&#31077;">
+      <data key="d0">&#27468;&#25163;</data>
+      <data key="d1">Singer Luo Zhixiang, known as Jay Chou in the international market, is a multi-talented artist who has achieved significant success both in China and Taiwan. He is recognized for his unique style of music that blends traditional Chinese elements with modern pop.</data>
+      <data key="d2">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </node>
+    <node id="&#29579;&#36805;">
+      <data key="d0">&#28436;&#21592;</data>
+      <data key="d1">Actor Wang Xun, known for his humorous and energetic performances, has been a popular figure in the Chinese entertainment industry since the 1990s. He is recognized for roles in both comedy and drama series.</data>
+      <data key="d2">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </node>
+    <node id="&#24352;&#33402;&#20852;">
+      <data key="d0">&#28436;&#21592;</data>
+      <data key="d1">Actor Zhang Yixing, also known as "Little Z," is a member of the K-pop boy group EXO and has gained significant popularity in China through his performances in various TV dramas and variety shows.Zhang Yixing, also known as "Little Z," is a member of the K-pop boy group EXO and has gained significant popularity in China through his performances in various TV dramas and variety shows. He is recognized for his unique style that blends traditional Chinese elements with modern pop music.</data>
+      <data key="d2">92cdb673e1105c01aa1e9824ff3ed846</data>
+      <data key="d3">&#28436;&#21592;</data>
+    </node>
+    <node id="&#12298;&#26497;&#38480;&#25361;&#25112;4&#12299;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </node>
+    <node id="&#21271;&#20140;&#24066;&#26032;&#19996;&#26041;&#23398;&#26657;">
+      <data key="d0">&#20844;&#21496;</data>
+      <data key="d1">Beijing XDF School was founded by Yu Minhong in November 1993, serving as the principal at its inception. It has since grown into a leading educational institution known for its English language training programs and test preparation courses.</data>
+      <data key="d2">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </node>
+    <node id="&#20446;&#25935;&#27946;">
+      <data key="d0">&#21382;&#21490;&#20154;&#29289;</data>
+      <data key="d1">Yu Minhong is a renowned entrepreneur and educator who founded Beijing XDF School in 1993, marking the beginning of his significant contributions to the Chinese education sector. He has since become an influential figure in both business and academia.</data>
+      <data key="d2">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </node>
+    <node id="&#33503;&#20041;&#20840;">
+      <data key="d0">&#21382;&#21490;&#20154;&#29289;</data>
+      <data key="d1">Gou Yiquan serves as the general advisor for both the Socpies County Folk Culture Research Association and the Guanyu Cultural Research Association. His expertise in local cultural studies contributes to the preservation and promotion of traditional Chinese culture.</data>
+      <data key="d2">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </node>
+    <node id="&#24494;&#24494;&#19968;&#31505;&#24456;&#20542;&#22478;">
+      <data key="d0" />
+      <data key="d1">"Micro Smile Makes One&#20542;&#22478;" is a popular Chinese TV series that tells the story of two characters who fall in love while playing online games. The drama gained immense popularity for its unique storyline and strong performances by its leads.</data>
+      <data key="d2">b87d71f8d0ccbd5bae426910f3f4c374</data>
+      <data key="d3">&#30005;&#35270;&#21095;</data>
+    </node>
+    <node id="&#12298;&#29664;&#20809;&#23453;&#27668;&#20043;&#24605;&#23792;&#12299;">
+      <data key="d0">&#30005;&#35270;&#21095;</data>
+      <data key="d1">"Jade Light and Beauty Peak" is a novel serialized on Jiansheng Literature City, authored by a character known as Double-Faced Person. The story revolves around various characters and their lives in a fictional setting.</data>
+      <data key="d2">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </node>
+    <node id="&#26472;&#23567;&#27498;">
+      <data key="d0">&#27468;&#25163;</data>
+      <data key="d1">Yang Xiaowai, born in 1996, is an author of the novel "Jade Light and Beauty Peak" on Jiansheng Literature City. The character's background and creation of this work suggest a creative connection between them.</data>
+      <data key="d2">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </node>
+    <node id="&#23454;&#39564;&#23567;&#23398;&#26657;&#38271;&#26131;&#21069;&#36827;">
+      <data key="d0">&#21382;&#21490;&#20154;&#29289;</data>
+      <data key="d1">"Yi Qianjin, the principal of an experimental primary school, participated in the initiation ceremony and delivered a speech at it. His role suggests he is a historical figure within his community or institution."</data>
+      <data key="d2">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </node>
+    <node id="&#24066;&#25945;&#32946;&#23616;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </node>
+    <node id="&#24066;&#26816;&#23519;&#38498;&#21103;&#26816;&#23519;&#38271;&#33891;&#21402;&#25996;">
+      <data key="d0">&#21382;&#21490;&#20154;&#29289;</data>
+      <data key="d1">"Dong Houbin, deputy procurator of the city procuratorate, participated in the initiation ceremony and delivered a speech at it. His role suggests he is a historical figure within his community or institution."</data>
+      <data key="d2">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </node>
+    <node id="&#24066;&#25945;&#32946;&#23616;&#21103;&#23616;&#38271;&#35768;&#20808;&#21191;">
+      <data key="d0" />
+      <data key="d1">"Xu Xianyong, deputy director of education bureau, participated in the initiation ceremony and delivered a speech at it. His role suggests he is a historical figure within his community or institution."</data>
+      <data key="d2">b87d71f8d0ccbd5bae426910f3f4c374</data>
+      <data key="d3">&#21382;&#21490;&#20154;&#29289;</data>
+    </node>
+    <node id="&#24066;&#22919;&#32852;">
+      <data key="d0">&#20844;&#21496;</data>
+      <data key="d1">"The city women's federation is one of the organizations that participated in the initiation ceremony. It suggests a formal relationship with other governmental and non-governmental organizations."</data>
+      <data key="d2">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </node>
+    <node id="&#22242;&#24066;&#22996;">
+      <data key="d0">&#20844;&#21496;</data>
+      <data key="d1">"The city youth league committee is one of the organizations that participated in the initiation ceremony. It suggests a formal relationship with other governmental and non-governmental organizations."</data>
+      <data key="d2">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </node>
+    <node id="&#20013;&#20849;&#21512;&#27743;&#30465;&#22996;&#21103;&#20070;&#35760;&#20860;&#27665;&#36816;&#37096;&#37096;&#38271;&#36213;&#24535;&#33841;">
+      <data key="d0">&#21382;&#21490;&#20154;&#29289;</data>
+      <data key="d1">"Zhao Zixuan was a vice secretary of the CPC Hekou provincial committee and concurrently served as the minister for mass movement. Her role suggests she is a historical figure within her community or institution."</data>
+      <data key="d2">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </node>
+    <node id="&#38472;&#20271;&#26449;">
+      <data key="d0" />
+      <data key="d1">"Chen Bocun was a leader within the CPC Hekou provincial committee and concurrently served as the minister for mass movement. His role suggests he is a historical figure within his community or institution."</data>
+      <data key="d2">b87d71f8d0ccbd5bae426910f3f4c374</data>
+      <data key="d3">&#21382;&#21490;&#20154;&#29289;</data>
+    </node>
+    <node id="JIANSHENG LITERATURE CITY">
+      <data key="d0">&#20844;&#21496;</data>
+      <data key="d1">"Jiansheng Literature City is a platform for authors to publish their works. It suggests a business relationship with other literary platforms."</data>
+      <data key="d2">b87d71f8d0ccbd5bae426910f3f4c374</data>
+      <data key="d3">&#26472;&#23567;&#27498;</data>
+    </node>
+    <node id="&#20013;&#20849;&#21512;&#27743;&#30465;&#22996;">
+      <data key="d0">&#20844;&#21496;</data>
+      <data key="d1">"Chen Bocun is a leader within the CPC Hekou provincial committee. His role suggests he has a professional connection or works in this institution.""Zhao Zixuan was a vice secretary of the CPC Hekou provincial committee. Her role suggests she is a historical figure within her community or institution.""Zhao Zixuan is a leader within the CPC Hekou provincial committee. Her role suggests she has a professional connection or works in this institution.""The city women's federation is a governmental organization. It suggests a formal relationship with other governmental organizations.""Dong Houbin is a representative from the city procuratorate. His participation in the initiation ceremony and his role suggest he may have connections with other governmental organizations.""The CPC Hekou provincial committee is a governmental organization. It suggests a formal relationship with other governmental organizations.""Yi Qianjin is a representative from an experimental primary school. His participation in the initiation ceremony and his role suggest he may have connections with other governmental organizations.""The city youth league committee is a governmental organization. It suggests a formal relationship with other governmental organizations."</data>
+      <data key="d2">b87d71f8d0ccbd5bae426910f3f4c374</data>
+      <data key="d3">&#38472;&#20271;&#26449;</data>
+    </node>
+    <node id="&lt;&quot;&#24494;&#24494;&#19968;&#31505;&#24456;&#20542;&#22478;&quot;&gt;">
+      <data key="d0">&lt;&#30005;&#35270;&#21095;&gt;</data>
+      <data key="d1">&lt;"&#24494;&#23567;&#35828;&#35762;&#36848;&#20102;&#20027;&#35282;&#32918;&#22856;&#21644;&#36125;&#24494;&#24494;&#22312;&#32593;&#32476;&#28216;&#25103;&#20013;&#30456;&#36935;&#24182;&#30456;&#29233;&#30340;&#25925;&#20107;&#12290;&#37073;&#29245;&#22312;&#21095;&#20013;&#39280;&#28436;&#20102;&#22899;&#20027;&#35282;&#36125;&#24494;&#24494;&#12290;"&gt;</data>
+      <data key="d2">5f5f9faf2867cbaa1ae267b8374742fb</data>
+    </node>
+    <node id="&lt;&quot;&#26472;&#23567;&#27498;&quot;&gt;">
+      <data key="d0">&lt;&#27468;&#25163;&gt;</data>
+      <data key="d1">&lt;"&#26472;&#23567;&#27498;&#26159;&#19968;&#20301;&#31614;&#32422;&#20316;&#32773;&#65292;&#20195;&#34920;&#20316;&#21253;&#25324;&#12298;&#26368;&#21518;&#30427;&#24320;&#30340;&#33660;&#34364;&#33457;&#12299;&#12289;&#12298;&#29611;&#29808;&#26377;&#21050;&#20063;&#24456;&#29980;&#12299;&#21644;&#12298;&#33804;&#22934;&#30340;&#21270;&#32536;&#29983;&#28079;&#12299;&#31561;&#20316;&#21697;&#12290;"&gt;</data>
+      <data key="d2">5f5f9faf2867cbaa1ae267b8374742fb</data>
+    </node>
+    <node id="&lt;&quot;&#24352;&#34013;&#24515;&quot;&gt;">
+      <data key="d0">&lt;&#28436;&#21592;&gt;</data>
+      <data key="d1">"\u5F20\u84DD\u5FC3" is a performer who has made appearances in theatrical productions, showcasing their talents through performances.</data>
+      <data key="d2">5f5f9faf2867cbaa1ae267b8374742fb,d383e2a9b1a8bf87db3298b3e2f722e9</data>
+    </node>
+    <node id="&lt;&quot;&#25105;&#24130;&#22992;&quot;&gt;">
+      <data key="d0">&lt;&#28436;&#21592;&gt;</data>
+      <data key="d1">&lt;"I Power Sister is an actress known for her high emotional intelligence and intelligence, which I admire greatly."&gt;</data>
+      <data key="d2">d383e2a9b1a8bf87db3298b3e2f722e9</data>
+    </node>
+    <node id="&lt;&quot;&#27784;&#27888;&quot;&gt;">
+      <data key="d0">&lt;&#28436;&#21592;&gt;</data>
+      <data key="d1">&lt;"Shen Tai is an actor who starred in the modern emotional drama 'Lian Le Ai Le' as the second male lead, Xio Ch&#233;n."&gt;</data>
+      <data key="d2">d383e2a9b1a8bf87db3298b3e2f722e9</data>
+    </node>
+    <node id="&lt;&quot;&#33831;&#26216;&quot;&gt;">
+      <data key="d0" />
+      <data key="d1">&lt;"Xiao Chen is a character played by Shen Tai in the drama 'Lian Le Ai Le'."&gt;</data>
+      <data key="d2">d383e2a9b1a8bf87db3298b3e2f722e9</data>
+      <data key="d3">&lt;&#21382;&#21490;&#20154;&#29289;&gt;</data>
+    </node>
+    <node id="&lt;&quot;&#26460;&#33509;&#28330;&quot;&gt;">
+      <data key="d0" />
+      <data key="d1">&lt;"Du Ruoxi is an actress known for her roles in various dramas."&gt;</data>
+      <data key="d2">d383e2a9b1a8bf87db3298b3e2f722e9</data>
+      <data key="d3">&lt;&#28436;&#21592;&gt;</data>
+    </node>
+    <node id="&lt;&quot;&#20005;&#23485;&quot;&gt;">
+      <data key="d0">&lt;&#28436;&#21592;&gt;</data>
+      <data key="d1">&lt;"Yan Kuan is an actor known for his roles in various dramas."&gt;</data>
+      <data key="d2">d383e2a9b1a8bf87db3298b3e2f722e9</data>
+    </node>
+    <edge source="&lt;&quot;&#37034;&#23569;&#20853;&#29579;&quot;&gt;" target="&lt;&quot;&#20912;&#28779;&#26410;&#22830;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"&#20912;&#28779;&#26410;&#22830;" wrote the novel "&#37034;&#23569;&#20853;&#29579;".&gt;</data>
+      <data key="d6">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </edge>
+    <edge source="&lt;&quot;GV-971&quot;&gt;" target="&lt;&quot;&#20013;&#22269;&#28023;&#27915;&#22823;&#23398;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"China Ocean University was involved in the development of GV-971."&gt;</data>
+      <data key="d6">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </edge>
+    <edge source="&lt;&quot;GV-971&quot;&gt;" target="&lt;&quot;&#20013;&#22269;&#31185;&#23398;&#38498;&#19978;&#28023;&#33647;&#29289;&#30740;&#31350;&#25152;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"Shanghai Institute of Materia Medica under CAS played a role in the research and development of GV-971."&gt;</data>
+      <data key="d6">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </edge>
+    <edge source="&lt;&quot;GV-971&quot;&gt;" target="&lt;&quot;&#19978;&#28023;&#32511;&#35895;&#21046;&#33647;&#26377;&#38480;&#20844;&#21496;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"Green Valley Pharmaceutical Co., Ltd. was involved in the production or commercialization of GV-971."&gt;</data>
+      <data key="d6">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </edge>
+    <edge source="&lt;&quot;&#21556;&#23431;&#26862;&quot;&gt;" target="&lt;&quot;&#36771;&#25163;&#31070;&#25506;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"Director Wu Yusan directed the movie 'The Killer', which features a scene in an autopsy room that reminded me of the movie '&#36771;&#25163;&#31070;&#25506;' (Fierce Detective)."&gt;</data>
+      <data key="d6">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </edge>
+    <edge source="&lt;&quot;&#26970;&#30041;&#39321;&quot;&gt;" target="&lt;&quot;&#24352;&#26234;&#23591;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"Zhang Zhiyao portrayed the character Chu Lvxiang in the TV series. This relationship is strongly related as it defines his career highlight."&gt;</data>
+      <data key="d6">fedc4e406c65e2c903b6d8b23659c7cc</data>
+    </edge>
+    <edge source="&lt;&quot;&#21476;&#40857;&#23567;&#35828;&#20154;&#29289;&#26970;&#30041;&#39321;&quot;&gt;" target="&lt;&quot;&#24352;&#26234;&#23591;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"In 2011, actor Zhang Zhiyao played the role of Chu Liuxiang in the TV series 'New Chu Liuxiang Story', which was a popular youth campus drama."&gt;</data>
+      <data key="d6">33a26d3ec4ea073ea810db39b0bbae40</data>
+    </edge>
+    <edge source="&lt;&quot;&#26080;&#30031;&#30340;&#32422;&#32752;&quot;&gt;" target="&lt;&quot;&#33778;&#21033;&#26222;&#20108;&#19990;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"John the Fearless is the son of Philip II, making their relationship familial."&gt;</data>
+      <data key="d6">fedc4e406c65e2c903b6d8b23659c7cc</data>
+    </edge>
+    <edge source="&lt;&quot;&#26080;&#30031;&#30340;&#32422;&#32752;&quot;&gt;" target="&lt;&quot;&#36149;&#38451;&#37329;&#40857;&#25151;&#22320;&#20135;&#24320;&#21457;&#26377;&#38480;&#36131;&#20219;&#20844;&#21496;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"There is no clear relationship between John the Fearless and Guilin Jinlong Real Estate Development Co., Ltd."&gt;</data>
+      <data key="d6">fedc4e406c65e2c903b6d8b23659c7cc</data>
+    </edge>
+    <edge source="&#29702;&#20116;&#19990;" target="&#32422;&#32752;">
+      <data key="d4">1.0</data>
+      <data key="d5">&#29702;&#20116;&#19990;&#22842;&#21462;&#25668;&#25919;&#26435;&#24182;&#19982;&#20854;&#30473;&#26469;&#30524;&#21435;</data>
+      <data key="d6">4fbbc513536d4c28f503445ddba053c4</data>
+    </edge>
+    <edge source="&#29579;&#26690;&#33603;" target="&#26753;&#24605;&#31036;">
+      <data key="d4">1.0</data>
+      <data key="d5">&#29579;&#26690;&#33603;&#24525;&#30171;&#23558;&#26753;&#24605;&#31036;&#36865;&#33267;&#32654;&#22269;&#23398;&#20064;</data>
+      <data key="d6">4fbbc513536d4c28f503445ddba053c4</data>
+    </edge>
+    <edge source="&#23431;&#25991;&#23077;&#33521;" target="&#20048;&#24179;&#20844;&#20027;&#26472;&#20029;&#21326;">
+      <data key="d4">1.0</data>
+      <data key="d5">&#23431;&#25991;&#23077;&#33521;&#30340;&#27597;&#20146;&#26159;&#20048;&#24179;&#20844;&#20027;&#26472;&#20029;&#21326;</data>
+      <data key="d6">4fbbc513536d4c28f503445ddba053c4</data>
+    </edge>
+    <edge source="&#33521;&#36798;" target="&#12298;&#20013;&#22269;&#21916;&#21095;&#29579;&#12299;">
+      <data key="d4">1.0</data>
+      <data key="d5">&#33521;&#36798;&#26377;&#26395;&#32852;&#25163;&#12298;&#20013;&#22269;&#21916;&#21095;&#29579;&#12299;&#36873;&#25300;&#26032;&#19968;&#20195;&#31505;&#26143;&#65292;&#34920;&#26126;&#20004;&#32773;&#20043;&#38388;&#26377;&#21512;&#20316;&#20851;&#31995;&#12290;</data>
+      <data key="d6">ae289c646257b5ff347096798e3e2e79</data>
+    </edge>
+    <edge source="&#22885;&#37324;&#22885;&#23572;&#183;&#20445;&#32599;" target="&#12298;&#27515;&#20129;&#24187;&#35273;}">
+      <data key="d4">1.0</data>
+      <data key="d5">&#22885;&#37324;&#22885;&#23572;&#183;&#20445;&#32599;&#26159;&#12298;&#27515;&#20129;&#24187;&#35273;&#12299;&#30340;&#23548;&#28436;&#65292;&#20004;&#32773;&#20043;&#38388;&#26377;&#21019;&#20316;&#20851;&#31995;&#12290;</data>
+      <data key="d6">ae289c646257b5ff347096798e3e2e79</data>
+    </edge>
+    <edge source="&#38472;&#32500;&#28085;" target="&#28436;&#21592;">
+      <data key="d4">1.0</data>
+      <data key="d5">&#38472;&#32500;&#28085;&#26159;&#19968;&#21517;&#28436;&#21592;&#65292;&#38582;&#23646;&#20110;&#20013;&#22269;&#20154;&#27665;&#35299;&#25918;&#20891;&#31354;&#20891;&#25919;&#27835;&#37096;&#30005;&#35270;&#33402;&#26415;&#20013;&#24515;&#12290;</data>
+      <data key="d6">bc1d4f1d340fc779e3a9fe2c615e43a8</data>
+    </edge>
+    <edge source="&#25166;&#35199;&#39039;&#29664;" target="&#27468;&#25163;">
+      <data key="d4">1.0</data>
+      <data key="d5">&#25166;&#35199;&#39039;&#29664;&#26159;&#27468;&#25163;&#23447;&#24248;&#21331;&#29595;&#30340;&#20799;&#23376;&#65292;&#24182;&#19988;&#20182;&#33258;&#24049;&#20063;&#26159;&#19968;&#20301;&#27468;&#25163;&#12290;</data>
+      <data key="d6">bc1d4f1d340fc779e3a9fe2c615e43a8</data>
+    </edge>
+    <edge source="&#28436;&#21592;" target="&#35282;&#33394;">
+      <data key="d4">1.0</data>
+      <data key="d5">&#40857;&#32426;&#25991;</data>
+      <data key="d6">45025f44f4cbef0d6116287f26a69562</data>
+    </edge>
+    <edge source="&#36158;&#19968;&#24179;" target="&#33891;&#26195;&#29141;">
+      <data key="d4">1.0</data>
+      <data key="d5">Married couple who appeared in the TV drama "Lia"</data>
+      <data key="d6">f26620ad8ffae513481da4de469309e0</data>
+    </edge>
+    <edge source="&#26420;&#20449;&#24800;" target="&#23828;&#27888;&#20426;">
+      <data key="d4">2.0</data>
+      <data key="d5">The entities "\u6734\u4fe1\u60e0" and "\u5d14\u6cf0\u4fca" are both actors/singers from South Korea. According to reported media, they have been in a romantic relationship since 2017, dating for over a year.</data>
+      <data key="d6">6dc0a3ff01d0686a59e373aa9004c26c,f26620ad8ffae513481da4de469309e0</data>
+    </edge>
+    <edge source="&#38470;&#20113;&#30340;&#24618;&#20154;&#24072;&#20613;" target="&#20061;&#22825;&#34394;&#26080;&#30028;">
+      <data key="d4">1.0</data>
+      <data key="d5">The mysterious historical figure was one of three people who disappeared from this fictional space realm after reaching a high level of cultivation.</data>
+      <data key="d6">6dc0a3ff01d0686a59e373aa9004c26c</data>
+    </edge>
+    <edge source="&#38470;&#20113;&#30340;&#24618;&#20154;&#24072;&#20613;" target="&#32536;&#28781;&#8212;&#8212;&#21363;&#38470;&#20113;&#30340;&#24618;&#20154;&#24072;&#20613;">
+      <data key="d4">1.0</data>
+      <data key="d5">This is a clarification of the same entity with an alternative name.</data>
+      <data key="d6">6dc0a3ff01d0686a59e373aa9004c26c</data>
+    </edge>
+    <edge source="&#12298;&#24494;&#24494;&#19968;&#31505;&#24456;&#20542;&#22478;&#12299;" target="&#37073;&#29245;">
+      <data key="d4">1.0</data>
+      <data key="d5">&#37073;&#29245;&#21644;&#30007;&#31070;&#26472;&#27915;&#25645;&#26723;&#20986;&#28436;&#20102;&#36825;&#37096;&#30005;&#35270;&#21095;&#12290;</data>
+      <data key="d6">cb159d6c4d745e991eb05135ac0ec10f</data>
+    </edge>
+    <edge source="&#12298;&#24494;&#24494;&#19968;&#31505;&#24456;&#20542;&#22478;&#12299;" target="&#26472;&#27915;">
+      <data key="d4">1.0</data>
+      <data key="d5">&#37073;&#29245;&#21644;&#30007;&#31070;&#26472;&#27915;&#25645;&#26723;&#20986;&#28436;&#20102;&#36825;&#37096;&#30005;&#35270;&#21095;&#12290;</data>
+      <data key="d6">cb159d6c4d745e991eb05135ac0ec10f</data>
+    </edge>
+    <edge source="&#37073;&#29245;" target="&#24494;&#24494;&#19968;&#31505;&#24456;&#20542;&#22478;">
+      <data key="d4">1.0</data>
+      <data key="d5">As the main female lead in the drama, Zheng Shuang's character went through a significant transformation, which was central to the plot. This relationship highlights their professional collaboration and mutual success in this project.</data>
+      <data key="d6">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </edge>
+    <edge source="&#26472;&#27915;" target="&#24494;&#24494;&#19968;&#31505;&#24456;&#20542;&#22478;">
+      <data key="d4">1.0</data>
+      <data key="d5">As the male lead, Yang Yang's character played a pivotal role in the development of the plot and the relationship with Zheng Shuang's character. This relationship underscores their professional connection and mutual contribution to the success of the series.</data>
+      <data key="d6">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </edge>
+    <edge source="&#20811;&#20029;&#32519;&#23068;&#38598;&#22242;" target="&#33891;&#20107;&#38271;&#38472;&#30887;&#21326;&#22899;&#22763;">
+      <data key="d4">1.0</data>
+      <data key="d5">Ms. Chen Bihua is the chairman of Qitian Group.</data>
+      <data key="d6">1acd3cda57665042306665e0efe27b3f</data>
+    </edge>
+    <edge source="&#24352;&#29595;&#33673;" target="&#26446;&#24544;&#29723;(&#26446;&#23567;&#40857;&#20043;&#20804;)">
+      <data key="d4">1.0</data>
+      <data key="d5">Zhang Mal&#236; dated Li Zhongchen, who is the elder brother of martial arts legend Bruce Lee, for four years and eight months before marriage.</data>
+      <data key="d6">1acd3cda57665042306665e0efe27b3f</data>
+    </edge>
+    <edge source="&#29454;&#40560;&#20061;&#21495;" target="&#32654;&#22269;&#22826;&#31354;&#25506;&#32034;&#25216;&#26415;&#20844;&#21496;&#21019;&#22987;&#20154;&#20234;&#38534;&#183;&#39532;&#26031;&#20811;">
+      <data key="d4">1.0</data>
+      <data key="d5">Elon Musk, founder of SpaceX, was involved with the Falcon 9 rocket's soft landing failure on the same day he posted a launch image on Twitter.</data>
+      <data key="d6">1acd3cda57665042306665e0efe27b3f</data>
+    </edge>
+    <edge source="&lt;&quot;&#29454;&#40560;&#20061;&#21495;&quot;&gt;" target="&lt;&quot;&#29454; FALCON 9&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"The rocket is named 'Falcon 9' and belongs to SpaceX."&gt;</data>
+      <data key="d6">b54195ddcb82d0dd9c9c83c3d3b87a0b</data>
+    </edge>
+    <edge source="&lt;&quot;&#29454;&#40560;&#20061;&#21495;&quot;&gt;" target="&lt;&quot;SPACEX&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"The rocket 'Falcon 9' is developed by SpaceX."&gt;</data>
+      <data key="d6">b54195ddcb82d0dd9c9c83c3d3b87a0b</data>
+    </edge>
+    <edge source="&lt;&quot;&#29454;&#40560;&#20061;&#21495;&quot;&gt;" target="&lt;&quot;&#21346;&#29081;&#20140;&#32534;&#21095;&#12289;&#37329;&#22862;&#27888;&#23548;&#28436;&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"The relationship is not directly related to the rocket or SpaceX. The entities are mentioned in different contexts."&gt;</data>
+      <data key="d6">b54195ddcb82d0dd9c9c83c3d3b87a0b</data>
+    </edge>
+    <edge source="&lt;&quot;SPACEX&quot;" target="&lt;&quot;&#20234;&#38534;&#183;&#39532;&#26031;&#20811;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"Elon Musk is the founder of SpaceX."&gt;</data>
+      <data key="d6">b54195ddcb82d0dd9c9c83c3d3b87a0b</data>
+    </edge>
+    <edge source="&lt;&quot;&#21346;&#29081;&#20140;&#32534;&#21095;&#12289;&#37329;&#22862;&#27888;&#23548;&#28436;&quot;" target="&lt;&quot;&#12298;&#37027;&#24180;&#20908;&#22825;&#39118;&#22312;&#21561;&#12299;&#12289;&#12298;&#27809;&#20851;&#31995;&#65292;&#26159;&#29233;&#24773;&#21834;&#12299;&#12289;&#12298;DEAR MY FRIENDS&#12299;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"The dramas were created by the mentioned writers."&gt;</data>
+      <data key="d6">b54195ddcb82d0dd9c9c83c3d3b87a0b</data>
+    </edge>
+    <edge source="&#30005;&#35270;&#21095;" target="&#32534;&#21095;">
+      <data key="d4">1.0</data>
+      <data key="d5">&#21346;&#29081;&#20140;</data>
+      <data key="d6">45025f44f4cbef0d6116287f26a69562</data>
+    </edge>
+    <edge source="&#21382;&#21490;&#20154;&#29289;" target="&#20799;&#23376;">
+      <data key="d4">1.0</data>
+      <data key="d5">&#26446;&#38534;&#22522;</data>
+      <data key="d6">45025f44f4cbef0d6116287f26a69562</data>
+    </edge>
+    <edge source="&#33322;&#22825;&#25216;&#26415;" target="&#25551;&#36848;">
+      <data key="d4">1.0</data>
+      <data key="d5">&#26080;&#20855;&#20307;&#30456;&#20851;&#23454;&#20307;</data>
+      <data key="d6">45025f44f4cbef0d6116287f26a69562</data>
+    </edge>
+    <edge source="&lt;&quot;&#12298;&#23490;&#23518;&#31354;&#24237;&#26149;&#27442;&#26202;}&quot;&gt;" target="&lt;&quot;&#27969;&#28491;&#32043;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"Fei Woshisi has publicly criticized Liu Lianzi's works, including 'Zhen Zhen's Execution' and 'Ruyi's Revenge', for alleged plagiarism."&gt;</data>
+      <data key="d6">046bb658f43e4551399559cc9af37e17</data>
+    </edge>
+    <edge source="&lt;&quot;&#39033;&#32701;&quot;&gt;" target="&lt;&quot;&#30772;&#37340;&#27785;&#33311;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"Xiang Yu's strategy of 'Breaking the cooking pots and sinking the boats' is an idiom derived from his military tactics during battles, which does not directly relate to any form of aerospace technology. However, it symbolizes determination and commitment in historical contexts."&gt;</data>
+      <data key="d6">046bb658f43e4551399559cc9af37e17</data>
+    </edge>
+    <edge source="&lt;&quot;&#39033;&#32701;&quot;&gt;" target="&lt;&quot;&#40511;&#38376;&#23476;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"Hongan Feast was a significant event involving Xiang Yu, where he hosted Liu Bang at his camp, leading to a tense situation that foreshadowed future conflicts between them."&gt;</data>
+      <data key="d6">046bb658f43e4551399559cc9af37e17</data>
+    </edge>
+    <edge source="&lt;&quot;&#24352;&#22269;&#33635;&quot;&gt;" target="&lt;&quot;FOREVER&#26032;&#26354;+&#31934;&#36873;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"&#24352;&#22269;&#33635;" is the artist of "Forever&#26032;&#26354;+&#31934;&#36873;", indicating a direct relationship.&gt;</data>
+      <data key="d6">d0c82e92a8299cf6e93690f05801b225</data>
+    </edge>
+    <edge source="&lt;&quot;&#24352;&#22269;&#33635;&quot;&gt;" target="&lt;&quot;&#12298;&#26032;&#21916;&#21095;&#20043;&#29579;&#12299;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;Although there's no direct mention of "&#24352;&#22269;&#33635;" in relation to "&#12298;&#26032;&#21916;&#21095;&#20043;&#29579;&#12299;", both are part of the broader entertainment industry, so a weak relationship can be inferred.&gt;</data>
+      <data key="d6">d0c82e92a8299cf6e93690f05801b225</data>
+    </edge>
+    <edge source="&lt;&quot;&#38472;&#20271;&#26449;&quot;&gt;" target="&lt;&quot;&#36213;&#24535;&#33841;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;They are a married couple.&gt;</data>
+      <data key="d6">d686803e1971dbc308638aa3967c532a</data>
+    </edge>
+    <edge source="&lt;&quot;&#36170;&#24215;&#32769;&#37202;&#32929;&#20221;&#26377;&#38480;&#20844;&#21496;&#33891;&#20107;&#38271;&#21333;&#26862;&#26519;&#20808;&#29983;&quot;&gt;" target="&lt;&quot;&#27827;&#21335;&#36170;&#24215;&#21830;&#19994;&#26377;&#38480;&#20844;&#21496;&#38144;&#21806;&#21103;&#24635;&#30417;&#24352;&#25991;&#26143;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;They both work for the same company, Shadian Liquor Co., Ltd.&gt;</data>
+      <data key="d6">d686803e1971dbc308638aa3967c532a</data>
+    </edge>
+    <edge source="&#40644;&#28196;" target="&#12298;&#26497;&#38480;&#25361;&#25112;4&#12299;">
+      <data key="d4">1.0</data>
+      <data key="d5">As one of the original cast members, Huang Bo is expected to return for the fourth season of "The Challenge," bringing his experience and charisma to the show. This relationship is strong due to their long-standing collaboration in previous seasons.</data>
+      <data key="d6">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </edge>
+    <edge source="&#23385;&#32418;&#38647;" target="&#12298;&#26497;&#38480;&#25361;&#25112;4&#12299;">
+      <data key="d4">1.0</data>
+      <data key="d5">As a key member of the original cast, Sun Honglei's return for "The Challenge 4" is anticipated, contributing his unique acting style and popularity. The relationship strength is high due to their established roles in the show.</data>
+      <data key="d6">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </edge>
+    <edge source="&#40644;&#30922;" target="&#12298;&#26497;&#38480;&#25361;&#25112;4&#12299;">
+      <data key="d4">1.0</data>
+      <data key="d5">As a founding member of the cast, Huang Lei's participation in "The Challenge 4" is expected to bring his comedic talent and experience. The relationship strength is strong due to their long-term collaboration.</data>
+      <data key="d6">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </edge>
+    <edge source="&#32599;&#24535;&#31077;" target="&#12298;&#26497;&#38480;&#25361;&#25112;4&#12299;">
+      <data key="d4">1.0</data>
+      <data key="d5">As a new addition to the cast, Luo Zhixiang's participation in "The Challenge 4" is anticipated to bring his unique style and popularity. The relationship strength is moderate due to their recent collaboration.</data>
+      <data key="d6">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </edge>
+    <edge source="&#29579;&#36805;" target="&#12298;&#26497;&#38480;&#25361;&#25112;4&#12299;">
+      <data key="d4">1.0</data>
+      <data key="d5">As a regular member of the cast, Wang Xun's return for "The Challenge 4" is expected to bring his humor and energy to the show. The relationship strength is strong due to their long-term collaboration.</data>
+      <data key="d6">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </edge>
+    <edge source="&#24352;&#33402;&#20852;" target="&#12298;&#26497;&#38480;&#25361;&#25112;4&#12299;">
+      <data key="d4">1.0</data>
+      <data key="d5">As a new addition to the cast, Zhang Yixing's participation in "The Challenge 4" is anticipated to bring his popularity and unique style. The relationship strength is moderate due to their recent collaboration.</data>
+      <data key="d6">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </edge>
+    <edge source="&#24352;&#33402;&#20852;" target="&#21271;&#20140;&#24066;&#26032;&#19996;&#26041;&#23398;&#26657;">
+      <data key="d4">1.0</data>
+      <data key="d5">While not directly related to the school, Zhang Yixing's participation in "The Challenge 4" could potentially bring positive publicity and support to Beijing XDF School through his popularity. The relationship strength is moderate due to their recent collaboration.</data>
+      <data key="d6">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </edge>
+    <edge source="&#21271;&#20140;&#24066;&#26032;&#19996;&#26041;&#23398;&#26657;" target="&#20446;&#25935;&#27946;">
+      <data key="d4">1.0</data>
+      <data key="d5">As the founder of Beijing XDF School, Yu Minhong's leadership and vision have shaped the institution into a prominent educational brand. The relationship strength is very strong due to his direct involvement and founding role.</data>
+      <data key="d6">92cdb673e1105c01aa1e9824ff3ed846</data>
+    </edge>
+    <edge source="&#12298;&#29664;&#20809;&#23453;&#27668;&#20043;&#24605;&#23792;&#12299;" target="&#26472;&#23567;&#27498;">
+      <data key="d4">1.0</data>
+      <data key="d5">As the author, Yang Xiaowai created "Jade Light and Beauty Peak," which is a novel on Jiansheng Literature City. This relationship indicates their professional collaboration in the literary field.</data>
+      <data key="d6">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </edge>
+    <edge source="&#12298;&#29664;&#20809;&#23453;&#27668;&#20043;&#24605;&#23792;&#12299;" target="JIANSHENG LITERATURE CITY">
+      <data key="d4">2.0</data>
+      <data key="d5">As the publishing platform, Jiansheng Literature City facilitated the release of "Jade Light and Beauty Peak." This relationship indicates their professional collaboration in the literary field.</data>
+      <data key="d6">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </edge>
+    <edge source="&#23454;&#39564;&#23567;&#23398;&#26657;&#38271;&#26131;&#21069;&#36827;" target="&#24066;&#25945;&#32946;&#23616;">
+      <data key="d4">1.0</data>
+      <data key="d5">As a representative from the education bureau, Yi Qianjin's participation in the initiation ceremony indicates an official relationship between him and the education bureau.</data>
+      <data key="d6">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </edge>
+    <edge source="&#23454;&#39564;&#23567;&#23398;&#26657;&#38271;&#26131;&#21069;&#36827;" target="&#24066;&#25945;&#32946;&#23616;&#21103;&#23616;&#38271;&#35768;&#20808;&#21191;">
+      <data key="d4">1.0</data>
+      <data key="d5">Both are participants in the same event, suggesting they may have professional connections or work in similar institutions.</data>
+      <data key="d6">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </edge>
+    <edge source="&#24066;&#25945;&#32946;&#23616;" target="&#24066;&#22919;&#32852;">
+      <data key="d4">1.0</data>
+      <data key="d5">Both are participants in the same event, suggesting they may have professional connections or work in similar institutions.</data>
+      <data key="d6">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </edge>
+    <edge source="&#24066;&#25945;&#32946;&#23616;" target="&#22242;&#24066;&#22996;">
+      <data key="d4">1.0</data>
+      <data key="d5">Both are participants in the same event, suggesting they may have professional connections or work in similar institutions.</data>
+      <data key="d6">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </edge>
+    <edge source="&#24066;&#26816;&#23519;&#38498;&#21103;&#26816;&#23519;&#38271;&#33891;&#21402;&#25996;" target="&#24066;&#25945;&#32946;&#23616;&#21103;&#23616;&#38271;&#35768;&#20808;&#21191;">
+      <data key="d4">1.0</data>
+      <data key="d5">Both are participants in the same event, suggesting they may have professional connections or work in similar institutions.</data>
+      <data key="d6">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </edge>
+    <edge source="&#24066;&#26816;&#23519;&#38498;&#21103;&#26816;&#23519;&#38271;&#33891;&#21402;&#25996;" target="&#20013;&#20849;&#21512;&#27743;&#30465;&#22996;">
+      <data key="d4">4.0</data>
+      <data key="d5">Both are participants in the same event, suggesting they may have professional connections or work in similar institutions.</data>
+      <data key="d6">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </edge>
+    <edge source="&#24066;&#25945;&#32946;&#23616;&#21103;&#23616;&#38271;&#35768;&#20808;&#21191;" target="&#20013;&#20849;&#21512;&#27743;&#30465;&#22996;">
+      <data key="d4">20.0</data>
+      <data key="d5">Both are participants in the same event, suggesting they may have professional connections or work in similar institutions.</data>
+      <data key="d6">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </edge>
+    <edge source="&#20013;&#20849;&#21512;&#27743;&#30465;&#22996;&#21103;&#20070;&#35760;&#20860;&#27665;&#36816;&#37096;&#37096;&#38271;&#36213;&#24535;&#33841;" target="&#38472;&#20271;&#26449;">
+      <data key="d4">2.0</data>
+      <data key="d5">Both are mentioned in the same context, suggesting they may have worked together or had some form of professional relationship.</data>
+      <data key="d6">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </edge>
+    <edge source="&#38472;&#20271;&#26449;" target="&#20013;&#20849;&#21512;&#27743;&#30465;&#22996;">
+      <data key="d4">2.0</data>
+      <data key="d5">As a leader within the CPC Hekou provincial committee, Chen Bocun's role suggests he has a professional connection or works in this institution.</data>
+      <data key="d6">b87d71f8d0ccbd5bae426910f3f4c374</data>
+    </edge>
+    <edge source="&lt;&quot;&#24352;&#34013;&#24515;&quot;&gt;" target="&lt;&quot;&#25105;&#24130;&#22992;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"Both are actresses who have gained admiration from the audience."&gt;</data>
+      <data key="d6">d383e2a9b1a8bf87db3298b3e2f722e9</data>
+    </edge>
+    <edge source="&lt;&quot;&#27784;&#27888;&quot;&gt;" target="&lt;&quot;&#33831;&#26216;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"SCT plays the character of Xiao Chen in the drama."&gt;</data>
+      <data key="d6">d383e2a9b1a8bf87db3298b3e2f722e9</data>
+    </edge>
+    <edge source="&lt;&quot;&#27784;&#27888;&quot;&gt;" target="&lt;&quot;&#26460;&#33509;&#28330;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"Both are actors who starred together in the drama 'Lian Le Ai Le'."&gt;</data>
+      <data key="d6">d383e2a9b1a8bf87db3298b3e2f722e9</data>
+    </edge>
+    <edge source="&lt;&quot;&#27784;&#27888;&quot;&gt;" target="&lt;&quot;&#20005;&#23485;&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;"Both are actors who have appeared in the same drama 'Lian Le Ai Le'."&gt;</data>
+      <data key="d6">d383e2a9b1a8bf87db3298b3e2f722e9</data>
+    </edge>
+  </graph>
+</graphml>

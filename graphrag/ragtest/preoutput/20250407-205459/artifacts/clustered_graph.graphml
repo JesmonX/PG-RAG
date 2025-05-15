@@ -1,0 +1,166 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;&#21693;&#21897;&#28814;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b463690eafea1ac3ae6eecb1cfaa2b4f</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#29579;&#20116;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b463690eafea1ac3ae6eecb1cfaa2b4f</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">1</data>
+      <data key="d7">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;&#32954;&#32467;&#26680;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2253c615ea0675cc0c5865f1eab3af21</data>
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+      <data key="d7">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#24352;&#38634;&#20255;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2253c615ea0675cc0c5865f1eab3af21</data>
+      <data key="d5">1</data>
+      <data key="d6">3</data>
+      <data key="d7">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;&#38686;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+      <data key="d5">1</data>
+      <data key="d6">4</data>
+      <data key="d7">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+      <data key="d5">1</data>
+      <data key="d6">5</data>
+      <data key="d7">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#26472;&#20029;&#32724;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+      <data key="d5">1</data>
+      <data key="d6">6</data>
+      <data key="d7">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+      <data key="d5">1</data>
+      <data key="d6">7</data>
+      <data key="d7">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#24352;&#22269;&#35946;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+      <data key="d5">1</data>
+      <data key="d6">8</data>
+      <data key="d7">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+      <data key="d5">1</data>
+      <data key="d6">9</data>
+      <data key="d7">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;&#24739;&#32773;&#26519;&#22823;&#38686;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+      <data key="d5">1</data>
+      <data key="d6">10</data>
+      <data key="d7">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45aec631f6cface43747f548280e1559</data>
+      <data key="d5">1</data>
+      <data key="d6">11</data>
+      <data key="d7">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <edge source="&quot;&#21693;&#21897;&#28814;&quot;" target="&quot;&#24739;&#32773;&#29579;&#20116;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The diagnosis of pharyngitis is given to patient Wang Wu."</data>
+      <data key="d10">b463690eafea1ac3ae6eecb1cfaa2b4f</data>
+      <data key="d11">96aad7cb4b7d40e9b7e13b94a67af206</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;&#32954;&#32467;&#26680;&quot;" target="&quot;&#24739;&#32773;&#24352;&#38634;&#20255;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The diagnosis of tuberculosis is given to patient Zhang Xuewei."</data>
+      <data key="d10">2253c615ea0675cc0c5865f1eab3af21</data>
+      <data key="d11">c9632a35146940c2a86167c7726d35e9</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;&#38686;&quot;" target="&quot;&#27969;&#34892;&#24615;&#24863;&#20882;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The diagnosis of influenza is given to patient Xia."</data>
+      <data key="d10">45aec631f6cface43747f548280e1559</data>
+      <data key="d11">9646481f66ce4fd2b08c2eddda42fc82</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;&#24739;&#32773;&#26472;&#20029;&#32724;&quot;" target="&quot;&#21693;&#21897;&#30171;&#20276;&#21457;&#28909;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Patient Yang Lixiang experiences symptoms of sore throat and fever."</data>
+      <data key="d10">45aec631f6cface43747f548280e1559</data>
+      <data key="d11">d91a266f766b4737a06b0fda588ba40b</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;&#24739;&#32773;&#24352;&#22269;&#35946;&quot;" target="&quot;&#21683;&#22013;&#25345;&#32493;&#36229;&#36807;&#19968;&#21608;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Patient Zhang Guohaohao experiences symptoms of persistent cough for more than one week."</data>
+      <data key="d10">45aec631f6cface43747f548280e1559</data>
+      <data key="d11">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;&#24739;&#32773;&#26519;&#22823;&#38686;&quot;" target="&quot;&#21628;&#21560;&#22256;&#38590;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Patient Lin Daxia experiences symptoms of difficulty breathing."</data>
+      <data key="d10">45aec631f6cface43747f548280e1559</data>
+      <data key="d11">254770028d7a4fa9877da4ba0ad5ad21</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>
