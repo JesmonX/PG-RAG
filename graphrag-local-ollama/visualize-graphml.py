@@ -2,7 +2,7 @@ import networkx as nx
 import plotly.graph_objects as go
 import numpy as np
 
-fp = '/amax/home/yanzheng/graphrag/ragtest/output/20250407-211749-disease2/artifacts/clustered_graph.graphml'
+fp = 'path/to/your/graph.graphml'  
 # Load the GraphML file
 graph = nx.read_graphml(fp)
 

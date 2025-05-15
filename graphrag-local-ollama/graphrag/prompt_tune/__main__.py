@@ -13,8 +13,8 @@ from graphrag.prompt_tune.loader import MIN_CHUNK_SIZE
 from .cli import fine_tune
 import tiktoken
 #qwen2.5:7b #deepseek-chat # mistral
-# model = /amax/home/yanzheng/graphrag/ragtest/settings.yaml中的llm:model
-with open('/amax/home/yanzheng/graphrag/ragtest/settings.yaml', 'r', encoding='utf-8') as f:
+# model = /ragtest/settings.yaml中的llm:model
+with open('../../../ragtest/settings.yaml', 'r', encoding='utf-8') as f:
     result = yaml.load(f.read(), Loader=yaml.FullLoader)
 
 model = result['llm']['model']

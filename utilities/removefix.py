@@ -23,7 +23,7 @@ def process_directory(directory):
 
 if __name__ == "__main__":
     # Specify the directory to process
-    directory_to_process = '/amax/home/yanzheng/graphrag/ragtest/cache/entity_extraction'    
+    directory_to_process = '../ragtest/cache/entity_extraction'    
     # Check if the directory exists
     if os.path.exists(directory_to_process):
         process_directory(directory_to_process)
