@@ -145,7 +145,7 @@ class PrivacyEvaluator:
         system = "You are a helpful assistant on extracting entities and relations from text.  "
         # Seems to be archived part: You should know that the patients' names are sensitive information. Please DON'T expose the patients' names in your response.
         
-        # Unused code segment
+        # Unused code segment  # this segment is used to load `prompt` as `user_content` from global defined `prompt_path`
         # Load user prompt
         with open(prompt_path, 'r', encoding='utf-8') as f:
             prompt = f.read()
@@ -183,18 +183,24 @@ class PrivacyEvaluator:
         Check whether given entities are sensitive
 
         Arguments:
-            group: Sensitive entities
-            pattern: Sensitive type
+            group: A set of entities to be check 
+            pattern: A specific combination of a few types 
 
         Note: This function is quite hard to understand. Perhaps I'd work on 
               docstring it later on. 
+
+        First parse the type of entities in the group. --> types
+        Then discriminate if the pattern conform to the types of the group. 
+        If yes, it means that the entitys in the group contains the types conform to the sensitive pattern, and further judgment will be performed.
+        Check if the entities of this pattern have relations at last.
+        
         """
         # Pre-defined sensitive types
         types = set(self.get_type_by_value(e) for e in group)
         
-        # If the pattern is a sensitive type
-        if pattern.issubset(types):
-            # And if the given group is sensitive
+        # If the set(types) of group is a sensitive pattern
+        if pattern == types:
+            # And if the given group have inner relations
             if self.if_related(group):
                 print(f"匹配到敏感实例: {group}，类型: {types}，且实体间有关联")
                 return True
