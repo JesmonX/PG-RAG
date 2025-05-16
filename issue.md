@@ -1,0 +1,3 @@
+- `privacy.py`
+    - Unused code segment in function `get_graph_from_text`
+    - Hard to understand function `is_sensitive_instance`
